@@ -1,0 +1,3 @@
+mgs00.bin
+mgs00.lt2
+scenerio.gcx

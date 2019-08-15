@@ -1,0 +1,3 @@
+// cdrom0:\ABC\VOX.DAT consists of a single MTAF stream.
+// Any attempt to extract the stream will simply result in duplication of the .dat file.
+0x00000000 // unknown filename
