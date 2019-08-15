@@ -1,0 +1,10 @@
+0001d464|secretary
+00045793|meryl
+00124a10|naomi
+002b343f|mei_ling
+0035d30d|campbell
+003d49e6|wolf
+00721b33|otacon
+0075e28e|nastasha
+00b7680d|master_miller
+00b7f564|solid_snake
