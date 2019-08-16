@@ -1,0 +1,10 @@
+_zar
+suspsave.prx
+// -------------------------------------------------- _zar
+cache.qar
+data.cnf
+localfont.fcx
+scenerio.gcx
+suspsave.rlc
+// -------------------------------------------------- cache.qar
+save_bg.txp

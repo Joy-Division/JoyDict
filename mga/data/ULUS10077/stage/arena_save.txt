@@ -1,0 +1,35 @@
+_zar
+arena_save.prx
+// -------------------------------------------------- _zar
+arena_save.rlc
+cache.dar
+cache.qar
+data.cnf
+scenerio.gcx
+// -------------------------------------------------- cache.dar
+crncl_pack.mdp
+icon0b.row
+icon0c.row
+lay_cdget.la2
+lay_codecicon.la2
+lay_demotalk3d.la2
+lay_headline3d.la2
+lay_msgwin.la2
+lay_result.la2
+mga2_icon.png
+mga2_icon_2.png
+mgs1_pack.mdp
+mgs2_pack.mdp
+mgs3_pack.mdp
+pic1.row
+rtn_rtn.mdp
+// -------------------------------------------------- cache.qar
+item_tex.txp
+lay_cdget_0.txp
+lay_codecicon_0.txp
+lay_demotalk3d_0.txp
+lay_headline3d_0.txp
+lay_msgwin_0.txp
+lay_result_0.txp
+lay_result_1.txp
+save_bg.txp

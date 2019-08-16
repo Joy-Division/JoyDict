@@ -1,0 +1,36 @@
+_zar
+e002st00_1.psq
+title.prx
+// -------------------------------------------------- _zar
+cache.dar
+cache.qar
+data.cnf
+scenerio.gcx
+title.rlc
+// -------------------------------------------------- cache.dar
+icon0b.row
+icon0c.row
+lay_codecicon.la2
+lay_deckeditor.la2
+lay_demotalk3d.la2
+lay_headline3d.la2
+lay_opt_prm.la2
+lay_opt_stg.la2
+lay_option.la2
+lay_title.la2
+mga2_icon.png
+mga2_icon_2.png
+pic1.row
+// -------------------------------------------------- cache.qar
+lay_codecicon_0.txp
+lay_deckeditor_0.txp
+lay_demotalk3d_0.txp
+lay_headline3d_0.txp
+lay_opt_prm_0.txp
+lay_opt_stg_0.txp
+lay_option_0.txp
+lay_title_0.txp
+lay_title_tm_0.txp
+logo.txp
+save_bg.txp
+tobidacid_tex.txp

@@ -1,0 +1,31 @@
+_zar
+e002st00_1.psq
+title.prx
+// -------------------------------------------------- _zar
+cache.dar
+cache.qar
+data.cnf
+localfont.fcx
+scenerio.gcx
+title.rlc
+// -------------------------------------------------- cache.dar
+lay_codec.la2
+lay_demotalk.la2
+lay_option.la2
+lay_title.la2
+maru_eff.la2
+mission_comp.la2
+mission_st_chg.la2
+// -------------------------------------------------- cache.qar
+lay_codec_0.txp
+lay_demotalk_0.txp
+lay_demotalk_1.txp
+lay_option_0.txp
+lay_title_0.txp
+lay_title_1.txp
+lay_title_2.txp
+logo.txp
+maru_eff_0.txp
+mission_comp_0.txp
+mission_st_chg_0.txp
+title_bg.txp

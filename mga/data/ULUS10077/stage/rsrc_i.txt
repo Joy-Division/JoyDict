@@ -1,0 +1,7 @@
+_zar
+rsrc_i.prx
+// -------------------------------------------------- _zar
+data.cnf
+res_rsrc.fcx
+rsrc_i.rlc
+scenerio.gcx

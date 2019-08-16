@@ -1,0 +1,18 @@
+_zar
+suspsave.prx
+// -------------------------------------------------- _zar
+cache.dar
+cache.qar
+data.cnf
+scenerio.gcx
+suspsave.rlc
+// -------------------------------------------------- cache.dar
+icon0b.row
+icon0c.row
+lay_demotalk3d.la2
+mga2_icon.png
+mga2_icon_2.png
+pic1.row
+// -------------------------------------------------- cache.qar
+lay_demotalk3d_0.txp
+save_bg.txp

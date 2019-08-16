@@ -1,0 +1,39 @@
+_zar
+st0502tr.prx
+// -------------------------------------------------- _zar
+cache.dar
+cache.qar
+data.cnf
+scenerio.gcx
+st0502tr.rlc
+// -------------------------------------------------- cache.dar
+crncl_pack.mdp
+k_tyoudankabe_01.mdp
+lay_cdget.la2
+lay_codecicon.la2
+lay_demotalk3d.la2
+lay_headline3d.la2
+lay_result.la2
+mgs1_pack.mdp
+mgs2_pack.mdp
+mgs3_pack.mdp
+rtn_rtn.mdp
+st0502.mdp
+st0502.mgm
+st0502_UVlight.mdp
+st0502_UVvision.mdp
+st0502_ceiling.mdp
+st0502_e.lt2
+st0502_light.mdp
+y_door_04.mdp
+// -------------------------------------------------- cache.qar
+item_tex.txp
+k_tyoudankabe_01.txp
+lay_cdget_0.txp
+lay_codecicon_0.txp
+lay_demotalk3d_0.txp
+lay_headline3d_0.txp
+lay_result_0.txp
+lay_result_1.txp
+st0502.txp
+y_door_04.txp

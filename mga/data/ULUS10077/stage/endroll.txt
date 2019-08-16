@@ -1,0 +1,30 @@
+_zar
+endroll.prx
+// -------------------------------------------------- _zar
+cache.dar
+cache.qar
+data.cnf
+endroll.rlc
+scenerio.gcx
+// -------------------------------------------------- cache.dar
+crncl_pack.mdp
+lay_cdget.la2
+lay_codecicon.la2
+lay_demotalk3d.la2
+lay_headline3d.la2
+lay_result.la2
+mgs1_pack.mdp
+mgs2_pack.mdp
+mgs3_pack.mdp
+rtn_rtn.mdp
+// -------------------------------------------------- cache.qar
+demo_kamishibai.txp
+demo_texture_pack.txp
+endroll_kamisibai.txp
+item_tex.txp
+lay_cdget_0.txp
+lay_codecicon_0.txp
+lay_demotalk3d_0.txp
+lay_headline3d_0.txp
+lay_result_0.txp
+lay_result_1.txp
