@@ -16,10 +16,10 @@ ID       | Extension(s) | Shared w/ MGS3? | Notes
 ``0x08`` | ``mtar``     | Yes             |
 ``0x0d`` | ``mdc``      | Conflict        | MGS3 ``0x0d`` is ``mdl``, ``mdb``, & ``mdc``
 ``0x0e`` | ``mdb``      | Conflict        |
-``0x14`` |              | No              | MGS3 ``0x14`` is undefined
-``0x16`` |              | No              | MGS3 ``0x16`` is undefined
+``0x14`` | ?            | No              | MGS3 ``0x14`` is undefined
+``0x16`` | ?            | No              | MGS3 ``0x16`` is undefined
 ``0x1d`` | ``cvd``      | Conflict        | MGS3 ``cvd`` is ``0x10``
-``0x20`` |              | No              | MGS3 ``0x20`` is undefined
+``0x20`` | ?            | No              | MGS3 ``0x20`` is undefined
 ``0x22`` | ``rcm``      | Conflict        | MGS3 ``rcm`` is ``0x6c``
 
 Debug prints found in the binary suggest that the HZ2 and HZT formats from the Zone of the Enders series are utilized. **These have not yet been paired with their IDs.**
