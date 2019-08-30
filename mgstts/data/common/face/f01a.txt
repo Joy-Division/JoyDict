@@ -1,0 +1,9 @@
+campbell.tri
+master_miller.tri
+mei_ling.tri
+meryl.tri
+naomi.tri
+nastasha.tri
+otacon.tri
+secretary.tri
+solid_snake.tri

@@ -1,0 +1,2 @@
+campbell.tri
+solid_snake.tri

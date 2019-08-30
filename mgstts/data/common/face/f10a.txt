@@ -1,0 +1,3 @@
+campbell.tri
+master_miller.tri
+solid_snake.tri
