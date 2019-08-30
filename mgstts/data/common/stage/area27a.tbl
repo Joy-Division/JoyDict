@@ -8,8 +8,8 @@
 000d7e1e.0c|
 000d7e1e.12|
 00180720.06|scenerio.gcx
-00220aa6.0a|
-00220aa7.0a|
+00220aa6.0a|hev_grd_blink1.kmx
+00220aa7.0a|hev_grd_blink2.kmx
 00252aba.13|
 00266f8f.0a|
 00266f90.0a|
@@ -85,13 +85,13 @@
 00b91050.0a|hev_grd_sling.kmx
 00bc536a.0a|
 00bd7cce.0a|
-00bdc25f.0a|
+00bdc25f.0a|awa_model2.kmx
 00beeb2d.13|
 00c934a4.0a|
 00d61834.0a|
 00e89e43.0a|
 00e89ed1.0a|
-00ed3115.0a|
+00ed3115.0a|scr_waterline01.kmx
 00f06b6b.0c|
 00f06b6b.12|
 00f12e68.0a|shl_acr.kmx

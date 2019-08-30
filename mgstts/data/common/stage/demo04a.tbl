@@ -19,8 +19,8 @@
 0029c2cc.0a|
 00350ebd.13|
 00382235.13|menu.tri
-003fed55.0a|
-003fed56.0a|
+003fed55.0a|in_door_blink_1.kmx
+003fed56.0a|in_door_blink_2.kmx
 00573de0.13|transcache.tri
 005b4973.13|
 005d09d7.13|
@@ -47,8 +47,8 @@
 0081600b.0a|area04a.kmx
 0081600b.0b|area04a.l
 0081600b.13|area04a.tri
-008e41fe.0a|
-008e41fe.13|
+008e41fe.0a|gbs_kanagu.kmx
+008e41fe.13|gbs_kanagu.tri
 008e6fa2.0a|
 00913890.0a|
 00913891.0a|
@@ -80,7 +80,7 @@
 00b91050.0a|hev_grd_sling.kmx
 00b91050.13|hev_grd_sling.tri
 00bb9cba.0a|
-00bdc25f.0a|
+00bdc25f.0a|awa_model2.kmx
 00beeb2d.13|
 00c6dd03.0a|
 00c6ddc3.0a|
@@ -88,8 +88,8 @@
 00ceb372.13|sna_def_sno_dcl_a.tri
 00ceb373.0a|sna_def_sno_dcl_b.kmx
 00ceb373.13|sna_def_sno_dcl_b.tri
-00d1dfac.0a|
-00d1dfac.13|
+00d1dfac.0a|gbs_sling.kmx
+00d1dfac.13|gbs_sling.tri
 00d46b94.0a|
 00d46b94.13|
 00d4b517.0a|
@@ -97,4 +97,4 @@
 00df9ac8.0a|
 00e89e43.0a|
 00e89ed1.0a|
-00ed3115.0a|
+00ed3115.0a|scr_waterline01.kmx

@@ -34,11 +34,11 @@
 0067d151.0a|
 0068e986.0a|
 006ab337.0a|
-00705aab.0a|
-00705aac.0a|
+00705aab.0a|wlf_def_blink_1.kmx
+00705aac.0a|wlf_def_blink_2.kmx
 00715d80.13|2D_tex.tri
-007a5add.0a|
-007a5ade.0a|
+007a5add.0a|wlf_pup_blink_1.kmx
+007a5ade.0a|wlf_pup_blink_2.kmx
 00806c4f.0a|
 00806c4f.13|
 0081640b.07|area14a.hzx
@@ -60,8 +60,8 @@
 00b37ec5.0a|
 00b6d56b.0a|
 00bd7cce.0a|
-00bdc25f.02|
-00bdc25f.0a|
+00bdc25f.02|awa_model2.c
+00bdc25f.0a|awa_model2.kmx
 00c55670.0c|
 00c55670.12|
 00cc73a9.13|
@@ -72,7 +72,7 @@
 00d8d37e.0a|
 00e89e43.0a|
 00e89ed1.0a|
-00ed3115.0a|
+00ed3115.0a|scr_waterline01.kmx
 00efa25d.0a|
 00f04a49.0a|
 00f04a4a.0a|

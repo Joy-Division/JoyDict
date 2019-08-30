@@ -29,8 +29,8 @@
 001c5f69.0a|
 001c5f6a.0a|
 001cf3f9.0a|
-00220aa6.0a|
-00220aa7.0a|
+00220aa6.0a|hev_grd_blink1.kmx
+00220aa7.0a|hev_grd_blink2.kmx
 0023240a.0a|
 002339f1.0c|locker.mar
 002339f1.12|locker.sar
@@ -87,8 +87,8 @@
 003dd4b9.0a|
 003dfcd1.0a|
 003e99cf.0a|
-003fed55.0a|
-003fed56.0a|
+003fed55.0a|in_door_blink_1.kmx
+003fed56.0a|in_door_blink_2.kmx
 0045baf5.0a|
 004668ee.0a|
 004da20c.0a|
@@ -165,7 +165,7 @@
 00bb9cba.0a|
 00bc536a.0a|
 00bd7cce.0a|
-00bdc25f.0a|
+00bdc25f.0a|awa_model2.kmx
 00c0267e.0a|
 00c7a39c.13|
 00ca7cd0.0a|
@@ -186,7 +186,7 @@
 00e924ab.0a|
 00e924ac.0a|
 00eb0f44.0a|
-00ed3115.0a|
+00ed3115.0a|scr_waterline01.kmx
 00f12e68.0a|shl_acr.kmx
 00f459bf.0c|
 00f459bf.12|

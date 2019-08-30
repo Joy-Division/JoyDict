@@ -19,8 +19,8 @@
 001e1862.0a|
 001fb776.0a|out_cold_sling.kmx
 001fb776.13|out_cold_sling.tri
-00220aa6.0a|
-00220aa7.0a|
+00220aa6.0a|hev_grd_blink1.kmx
+00220aa7.0a|hev_grd_blink2.kmx
 0023e574.0a|
 0023e574.13|
 00252aba.13|
@@ -31,8 +31,8 @@
 002f1211.0a|scm_sub1.kmx
 002f1212.0a|scm_sub2.kmx
 00382235.13|menu.tri
-003fed55.0a|
-003fed56.0a|
+003fed55.0a|in_door_blink_1.kmx
+003fed56.0a|in_door_blink_2.kmx
 0047d2cb.0a|
 0047d2cc.0a|
 0047d2cd.0a|
@@ -62,8 +62,8 @@
 008163cb.0b|area12a.l
 008163cb.13|area12a.tri
 008163cd.0a|area12c.kmx
-008e41fe.0a|
-008e41fe.13|
+008e41fe.0a|gbs_kanagu.kmx
+008e41fe.13|gbs_kanagu.tri
 008e6fa2.0a|
 009139b1.0a|
 009139b1.13|
@@ -95,11 +95,11 @@
 00b91050.0a|hev_grd_sling.kmx
 00bb9cba.0a|
 00bc536a.0a|
-00bdc25f.0a|
+00bdc25f.0a|awa_model2.kmx
 00c132cc.0a|
 00cf6d74.0a|
-00d1dfac.0a|
-00d1dfac.13|
+00d1dfac.0a|gbs_sling.kmx
+00d1dfac.13|gbs_sling.tri
 00d23ed7.13|
 00d6c29a.0a|
 00de88b6.0a|
@@ -112,6 +112,6 @@
 00e50e7d.0a|
 00e89e43.0a|
 00e89ed1.0a|
-00ed3115.0a|
+00ed3115.0a|scr_waterline01.kmx
 00ef6d74.0a|
 00ff6d74.0a|

@@ -8,8 +8,8 @@
 00146d1b.0a|
 00146d1b.13|
 00180720.06|scenerio.gcx
-00220aa6.0a|
-00220aa7.0a|
+00220aa6.0a|hev_grd_blink1.kmx
+00220aa7.0a|hev_grd_blink2.kmx
 0023240a.0a|
 002339f1.0c|locker.mar
 002339f1.12|locker.sar
@@ -66,8 +66,8 @@
 003d86e5.0a|
 003dd4b9.0a|
 003dfcd1.0a|
-003fed55.0a|
-003fed56.0a|
+003fed55.0a|in_door_blink_1.kmx
+003fed56.0a|in_door_blink_2.kmx
 004da20c.0a|
 00544f58.0a|
 00573de0.13|transcache.tri
@@ -158,7 +158,7 @@
 00bb9cba.0a|
 00bc536a.0a|
 00bd7cce.0a|
-00bdc25f.0a|
+00bdc25f.0a|awa_model2.kmx
 00beeb2d.13|
 00c0267e.0a|
 00c6dd03.0a|
@@ -172,8 +172,8 @@
 00e89ed1.0a|
 00e9ba72.0a|
 00eac2fd.0a|
-00ed3115.02|
-00ed3115.0a|
+00ed3115.02|scr_waterline01.c
+00ed3115.0a|scr_waterline01.kmx
 00f12e68.0a|shl_acr.kmx
 00f2e538.13|
 00f459bf.0c|
