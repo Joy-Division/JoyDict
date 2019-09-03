@@ -1,0 +1,45 @@
+_zar
+n22.prx
+// -------------------------------------------------- _zar
+cache.dar
+cache.qar
+data.cnf
+minifont.fcx
+n22.geom
+n22.rlc
+scenerio.gcx
+// -------------------------------------------------- cache.dar
+bgm090_acid2_venus.bgp
+dbgbox_raiton_shd.mdp
+kerotan.mdp
+lay_jinji.la2
+lay_n22map.la2
+mgs3s_blue_goal1.mdp
+mgs3s_blue_goal2.mdp
+mgs3s_blue_goal_floor.mdp
+mgs3s_red_goal1.mdp
+mgs3s_red_goal2.mdp
+mgs3s_red_goal_floor.mdp
+mpo_n22.lt2
+mpo_n22_a_sky_d.mdp
+mpo_n22_a_sky_d.mdpb
+mpo_n22_b_sun.mdp
+mpo_n22_b_sun.mdpb
+mpo_n22_set.mdp
+mpo_n22_set.mdpb
+mpo_n22_sky_d.lt2
+// -------------------------------------------------- cache.qar
+cachetrans.txp
+dbgbox_raiton_shd.txp
+kerotan.txp
+lay_jinji_0.txp
+lay_n22map_0.txp
+mgs3s_blue_goal1.txp
+mgs3s_blue_goal2.txp
+mgs3s_blue_goal_floor.txp
+mgs3s_red_goal1.txp
+mgs3s_red_goal2.txp
+mgs3s_red_goal_floor.txp
+mpo_n22_a_sky_d.txp
+mpo_n22_b_sun.txp
+mpo_n22_set.txp

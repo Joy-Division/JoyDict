@@ -1,0 +1,42 @@
+_zar
+n24.prx
+// -------------------------------------------------- _zar
+cache.dar
+cache.qar
+data.cnf
+minifont.fcx
+n24.geom
+n24.rlc
+scenerio.gcx
+// -------------------------------------------------- cache.dar
+bgm094_mgo10.bgp
+dbgbox_raiton_shd.mdp
+kerotan.mdp
+lay_jinji.la2
+lay_n24map.la2
+mgs3s_blue_goal1.mdp
+mgs3s_blue_goal2.mdp
+mgs3s_blue_goal_floor.mdp
+mgs3s_red_goal1.mdp
+mgs3s_red_goal2.mdp
+mgs3s_red_goal_floor.mdp
+mpo_n24.lt2
+mpo_n24.mdp
+mpo_n24.mdpb
+mpo_n24_a_sky_d.mdp
+mpo_n24_a_sky_d.mdpb
+mpo_n24_sky_d.lt2
+// -------------------------------------------------- cache.qar
+cachetrans.txp
+dbgbox_raiton_shd.txp
+kerotan.txp
+lay_jinji_0.txp
+lay_n24map_0.txp
+mgs3s_blue_goal1.txp
+mgs3s_blue_goal2.txp
+mgs3s_blue_goal_floor.txp
+mgs3s_red_goal1.txp
+mgs3s_red_goal2.txp
+mgs3s_red_goal_floor.txp
+mpo_n24.txp
+mpo_n24_a_sky_d.txp

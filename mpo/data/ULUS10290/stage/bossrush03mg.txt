@@ -1,0 +1,44 @@
+_zar
+bossrush03mg.prx
+// -------------------------------------------------- _zar
+bossrush03mg.rlc
+cache.dar
+cache.qar
+data.cnf
+scenerio.gcx
+st10boss.geom
+st10boss.zon
+// -------------------------------------------------- cache.dar
+bgm036_boss_mt.bgp
+lay_st10map.la2
+locker.mtar
+locker.mtsq
+metalgear.mtar
+metalgear.mtsq
+metalgear_MPO.eft
+metalgear_MPO.mdp
+metalgear_missile.eft
+metalgear_missile.mdp
+mo_st01_door_01.mdp
+mo_st10_a.lt2
+mo_st10_door_02.mdp
+mo_st10_door_02.mdpb
+mo_st10_kojo_naka.mdp
+mo_st10_kojo_naka.mdpb
+mo_st_contena_brk_01.mdp
+mo_st_contena_brk_01.mdpb
+nt_fall_snake.mtar
+nt_fall_snake.mtsq
+null_skeleton.mdp
+segrp_69_boss_urusula.sep
+segrp_74_metalgear.sep
+// -------------------------------------------------- cache.qar
+cachetrans.txp
+lay_st10map_0.txp
+metalgear_MPO_bc.txp
+metalgear_missile.txp
+mo_st01_door_01.txp
+mo_st10_door_02.txp
+mo_st10_kojo_naka.txp
+mo_st_contena_brk_01.txp
+null_skeleton.txp

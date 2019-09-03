@@ -1,0 +1,7 @@
+_zar
+gsclimenu.prx
+// -------------------------------------------------- _zar
+data.cnf
+gsclimenu.rlc
+minifont.fcx
+scenerio.gcx

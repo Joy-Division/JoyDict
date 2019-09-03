@@ -1,0 +1,6 @@
+_zar
+gsclimenu.prx
+// -------------------------------------------------- _zar
+data.cnf
+gsclimenu.rlc
+scenerio.gcx

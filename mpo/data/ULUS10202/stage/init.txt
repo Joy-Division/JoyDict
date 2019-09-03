@@ -1,0 +1,15 @@
+_zar
+init.prx
+// -------------------------------------------------- _zar
+cache.dar
+cache.qar
+data.cnf
+init.rlc
+scenerio.gcx
+// -------------------------------------------------- cache.dar
+keepfont.row
+keepfont_mini.row
+// -------------------------------------------------- cache.qar
+db_font.txp
+fontprint.txp
+menu.txp

@@ -1,0 +1,16 @@
+_zar
+r_main02.prx
+// -------------------------------------------------- _zar
+data.cnf
+minifont.fcx
+r_main02.rlc
+resident.dar
+resident.qar
+scenerio.gcx
+// -------------------------------------------------- resident.dar
+keepfont.row
+keepfont_mini.row
+// -------------------------------------------------- resident.qar
+db_font.txp
+fontprint.txp
+menu.txp
