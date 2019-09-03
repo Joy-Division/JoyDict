@@ -1,7 +1,7 @@
 
 # Metal Gear AC!D & AC!D<sup>2</sup>
 
-Metal Gear AC!D and its sequel Metal Gear AC!D<sup>2</sup> comprise the first generation of the MGS engine for PlayStation Portable. Metal Gear AC!D was forked from the codebase of MGS3 during the game's development.
+Metal Gear AC!D and its sequel Metal Gear AC!D<sup>2</sup> comprise the first iteration of the MGS engine for PlayStation Portable. Metal Gear AC!D was forked from the codebase of MGS3 during the game's development.
 
 ## Archive Files
 
@@ -11,7 +11,7 @@ Within each stage subdirectory is a zlib-compressed ``dar`` archive named ``_zar
 
 ### Filename Extensions
 
-The AC!D games inherit the extension ID system of MGS3.
+The AC!D games inherited the extension ID system of MGS3.
 
 **These have not yet been paired with their IDs.**
 
