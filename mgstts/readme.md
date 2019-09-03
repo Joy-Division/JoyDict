@@ -3,15 +3,19 @@
 
 Metal Gear Solid: The Twin Snakes is a GameCube port of Metal Gear Solid 2's codebase, modified to serve as a remake of Metal Gear Solid.
 
-## Filename Extensions (Archive)
+## Archive Files
+
+Two digests, calculated with the function ``GV_StrCode`` (24-bit), are stored in place of filenames. One is a 24-bit hash of the original filename sans its extension. The other is an 8-bit hash of the first character of the filename extension.
+
+**Note:** These are most often stored as two 32-bit integers.
+
+### Filename Extensions
 
 The Twin Snakes handles extension IDs in the same manner as MGS2.
 
 Only the first character of the extension is hashed. ``0x61`` (the value of ``a`` in ASCII encoding) is then subtracted from the hash. The final result should always be no more than 8 bits wide.
 
-This method ensures that any given extensions beginning with the same character will collide.
-
-**Note:** In most cases, only one file extension is used per lowercase alphabetic character. These have been mapped to their corresponding IDs in the table below.
+**Note:** This method ensures that any given extensions beginning with the same character will collide.
 
 ID       | Extension(s) | Notes
 -------- | ------------ | -----
@@ -62,9 +66,11 @@ null.kmx
 dummy000.kmx
 ```
 
-# Filename Extensions (Stream)
+## Stream Files
 
 **The filenames of streams within the ``*.dat`` files have been completely discarded, making them unrecoverable without extra information.**
+
+### Filename Extensions
 
 File          | Extension(s) | Notes
 ------------- | ------------ | -----
