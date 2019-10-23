@@ -48,11 +48,11 @@ int GV_StrCode( const char *string )
 {
 	unsigned char c;
 	unsigned char *p = (unsigned char *)string;
-	unsigned int id, mask = 0x00FFFFFF;
+	unsigned int id = 0, mask = 0x00FFFFFF;
 	
-	for ( id = 0 ; c = *p ; p++ )
+	while ( c = *p++ )
 	{
-		id = (( id >> 19 ) | ( id << 5 ));
+		id = (( id << 5 ) | ( id >> 19 ));
 		id += c;
 		id &= mask;
 	}
