@@ -17,7 +17,7 @@ unsigned short GV_StrCode( char *string )
 	unsigned char *p = (unsigned char *)string;
 	unsigned short id;
 	
-	while ( c = *p++ )
+	while (( c = *p++ ))
 	{
 		id = (( id >> 11 ) | ( id << 5 ));
 		id += c;
@@ -50,7 +50,7 @@ int GV_StrCode( const char *string )
 	unsigned char *p = (unsigned char *)string;
 	unsigned int id = 0, mask = 0x00FFFFFF;
 	
-	while ( c = *p++ )
+	while (( c = *p++ ))
 	{
 		id = (( id << 5 ) | ( id >> 19 ));
 		id += c;
@@ -65,11 +65,11 @@ int GV_StrCode( const char *string )
 - Passing an empty string will return one.
 - Passing a single-char string will return the value of the char.
 - Mutations of strings differing in only the last character will result in the lowest byte of the hash mirroring that difference.
-- Mutations of strings differing by a few characters often result in only slight variations between hex values.
+- Mutations of strings differing by one or several characters often result in only small differences between returned values.
 
 ### Warning
 
-- Given that the digest is only 24 bits wide, this algorithm is somewhat prone to collisions. Check for collisions after precalculating a set of hashes intended for use at runtime. (e.g. stage data files)
+- Given that the digest is only 24 bits wide, this algorithm is rather prone to collisions. Check for collisions after precalculating a set of hashes intended for use at runtime. (e.g. stage data files)
 
 ## FS_StrCode
 
@@ -85,9 +85,9 @@ unsigned int FS_StrCode( char *str )
 	signed   int n  = 0;
 	unsigned int id = 0;
 	
-	while ( c = *str++ )
+	while (( c = *str++ ))
 	{
-		id += (( id << ( c & 0xF )) | (( id >> 3 ) + ( c << ( n & 0xF )) + c ));
+		id += ((id << (c & 0x0F)) | ((id >> 3) + (c << (n & 0x0F)) + c));
 		n++;
 	}
 	return id;
