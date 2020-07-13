@@ -5,7 +5,7 @@
 0001dd4c.o|tgl.o
 00180720.g|scenerio.gcx
 00247720.f|
-00350ebd.t|
+00350ebd.t|scop_tex.tri
 00383c45.r|keepfont.r
 0038e1ec.k|null.kmx
 0038e1ec.t|null.tri
@@ -14,8 +14,8 @@
 00974f6b.o|
 00a53576.k|
 00a53576.t|
-00a7ce65.t|
-00a7ce71.t|
+00a7ce65.t|nglpic.tri
+00a7ce71.t|tglpic.tri
 00aaf6cb.k|
 00aec423.k|sna_scu_r_fin.kmx
 00b57fce.k|

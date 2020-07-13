@@ -17,7 +17,7 @@
 00271c74.t|
 0029c2cb.k|
 0029c2cc.k|
-00350ebd.t|
+00350ebd.t|scop_tex.tri
 00382235.t|menu.tri
 003fed55.k|in_door_blink_1.kmx
 003fed56.k|in_door_blink_2.kmx
@@ -64,8 +64,8 @@
 00a05187.k|
 00a05188.k|
 00a49dee.t|
-00a7ce65.t|
-00a7ce71.t|
+00a7ce65.t|nglpic.tri
+00a7ce71.t|tglpic.tri
 00ae5bb9.k|svc_plant.kmx
 00b12cde.k|
 00b12cde.t|

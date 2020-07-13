@@ -234,7 +234,7 @@
 000e9a1d.k|
 000e9a1d.t|
 000ea0d0.t|
-000f0ec4.t|
+000f0ec4.t|boss_rush2.tri
 000f406d.k|
 000f6d75.k|
 000f8b5f.c|
@@ -740,7 +740,7 @@
 0034951f.k|
 00349b50.t|comdlcache.tri
 0034e12b.k|
-00350ebd.t|
+00350ebd.t|scop_tex.tri
 003577e7.k|
 003591cf.k|hako.kmx
 003591cf.t|hako.tri
@@ -1210,7 +1210,7 @@
 0067c2cc.k|
 0067d151.k|rtn_label.kmx
 0067d151.t|rtn_label.tri
-0067dde6.t|
+0067dde6.t|dcmTex.tri
 0067e68f.k|
 00680bbc.k|scm_sp.kmx
 006813c1.k|
@@ -1769,7 +1769,7 @@
 00844d2e.k|
 00845c91.k|
 00845c91.t|
-008491a6.t|
+008491a6.t|code_tex.tri
 0084c30d.t|
 0084fe39.k|
 0084fe3a.k|
@@ -1891,7 +1891,7 @@
 009260dc.k|
 009260dd.k|
 0092792a.k|
-00927bc4.t|
+00927bc4.t|default.tri
 00929830.k|
 00929830.t|
 0092c28c.k|
@@ -1996,7 +1996,7 @@
 00a1607a.t|stg_msl.tri
 00a178b0.k|stg_sub.kmx
 00a178b0.t|stg_sub.tri
-00a17ac6.t|
+00a17ac6.t|stg_tex.tri
 00a203ec.k|
 00a203ec.t|
 00a203ed.k|
@@ -2040,8 +2040,8 @@
 00a7c97b.k|
 00a7c97c.k|
 00a7cc79.t|
-00a7ce65.t|
-00a7ce71.t|
+00a7ce65.t|nglpic.tri
+00a7ce71.t|tglpic.tri
 00a87bf8.k|w11a2_shatter.kmx
 00a87bf8.t|w11a2_shatter.tri
 00a96518.o|gover.o
@@ -2383,7 +2383,7 @@
 00d28837.k|
 00d28838.k|
 00d28839.k|
-00d2adaf.t|
+00d2adaf.t|stg_altTex.tri
 00d2c358.t|
 00d2d315.o|
 00d2efa1.k|
@@ -2532,7 +2532,7 @@
 00e10411.k|
 00e133a2.k|
 00e13899.t|
-00e15f8b.t|
+00e15f8b.t|nk_tri.tri
 00e346c1.k|
 00e37ebf.k|
 00e46b7e.k|

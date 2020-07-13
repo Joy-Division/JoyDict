@@ -79,7 +79,7 @@
 00317216.k|scp_rai.kmx
 003311ec.o|call.o
 003311ec.t|call.tri
-00350ebd.t|
+00350ebd.t|scop_tex.tri
 00383c45.r|keepfont.r
 00413aa8.t|sna_def.tri
 004632af.k|
@@ -104,7 +104,7 @@
 0062d09e.k|box2_ibox_sh.kmx
 00634a6c.o|scope.o
 00660b97.k|
-0067dde6.t|
+0067dde6.t|dcmTex.tri
 00680bbc.k|scm_sp.kmx
 00682d54.k|gasmask.kmx
 006891cc.m|snake.mar
@@ -124,7 +124,7 @@
 0079e9cd.k|
 007a35cb.k|cbx_a_futa4_mt.kmx
 00814616.k|
-008491a6.t|
+008491a6.t|code_tex.tri
 00862bdd.k|
 0086c330.k|dogtag_ibox_sh.kmx
 00899c71.t|menuicon.tri
@@ -149,9 +149,9 @@
 00a12fa2.o|stg_alt.o
 00a1607a.k|stg_msl.kmx
 00a178b0.k|stg_sub.kmx
-00a17ac6.t|
-00a7ce65.t|
-00a7ce71.t|
+00a17ac6.t|stg_tex.tri
+00a7ce65.t|nglpic.tri
+00a7ce71.t|tglpic.tri
 00a96518.o|gover.o
 00a96518.t|gover.tri
 00b13aa8.t|
@@ -165,11 +165,11 @@
 00ca9385.t|
 00cba219.t|
 00d1dfac.k|gbs_sling.kmx
-00d2adaf.t|
+00d2adaf.t|stg_altTex.tri
 00d88cdd.k|
 00d8953f.k|
 00df1cd0.k|cgr_frg1_cm.kmx
-00e15f8b.t|
+00e15f8b.t|nk_tri.tri
 00f44c6f.v|
 00f7a622.k|snake_def.kmx
 00f7c158.t|
