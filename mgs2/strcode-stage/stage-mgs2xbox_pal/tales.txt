@@ -1,0 +1,8 @@
+jpnw_news.xti
+moses1.xti
+save_load.o2d
+save_load.xti
+scenerio.gcx
+snake_tales_bg.xti
+tales_title.xti
+vr_book.o2d

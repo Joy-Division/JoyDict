@@ -1,0 +1,3 @@
+ending_eng.row
+mgs2logo.xti
+scenerio.gcx
