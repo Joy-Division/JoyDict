@@ -1,0 +1,13 @@
+densouTex.xti
+densou_log.o2d
+densou_log.xti
+densou_main.o2d
+densou_title.o2d
+densou_title.xti
+papet.o2d
+papetTex1.xti
+papetTex2.xti
+papetTex3.xti
+papetTex4.xti
+photo_font.xti
+photo_term.rtx

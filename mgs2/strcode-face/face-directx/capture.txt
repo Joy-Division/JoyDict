@@ -1,0 +1,2 @@
+photo_save.o2d
+photo_save.xti
