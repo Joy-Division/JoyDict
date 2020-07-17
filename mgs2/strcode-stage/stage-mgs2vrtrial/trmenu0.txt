@@ -1,0 +1,11 @@
+adjust_tex.tri
+color.o2d
+color.tri
+default.tri
+node_menu.o2d
+node_menu.tri
+save_load.o2d
+save_load.tri
+scenerio.gcx
+scrn.o2d
+trmenu0.bin

@@ -1,0 +1,6 @@
+clear_code.o2d
+clear_code.tri
+save_load.o2d
+save_load.tri
+scenerio.gcx
+trmenu1.bin

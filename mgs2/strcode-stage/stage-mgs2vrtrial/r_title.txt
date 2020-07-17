@@ -1,0 +1,3 @@
+keepfont.row
+r_title.bin
+scenerio.gcx
