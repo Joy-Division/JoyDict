@@ -1,0 +1,16 @@
+clear_code.o2d
+clear_code.tri
+ending_st_e.row
+ending_st_sp_e.row
+save_load.o2d
+save_load.tri
+scenerio.gcx
+snake_tales.tri
+snake_tales_select.o2d
+sselect.bin
+sub_sticon.ric
+titlea_st_e.row
+titleb_st_e.row
+titlec_st_e.row
+titled_st_e.row
+titlee_st_e.row
