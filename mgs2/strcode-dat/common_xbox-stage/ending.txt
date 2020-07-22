@@ -1,0 +1,8 @@
+animal.xti
+clear_code.o2d
+clear_code.xti
+code_mane.xti
+code_name.o2d
+save_load.o2d
+save_load.xti
+scenerio.gcx

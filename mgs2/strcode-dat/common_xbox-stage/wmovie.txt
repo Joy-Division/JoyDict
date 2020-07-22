@@ -1,0 +1,4 @@
+ending_eng.row
+ending_pal.row
+mgs2logo.xti
+scenerio.gcx
