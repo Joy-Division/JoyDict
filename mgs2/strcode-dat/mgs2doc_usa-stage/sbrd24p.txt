@@ -1,0 +1,2 @@
+sbrd24p.bin
+scenerio.gcx

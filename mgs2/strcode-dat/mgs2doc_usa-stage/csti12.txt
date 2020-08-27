@@ -1,0 +1,2 @@
+csti12.bin
+scenerio.gcx

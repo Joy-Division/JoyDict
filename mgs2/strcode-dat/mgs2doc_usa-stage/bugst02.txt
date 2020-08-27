@@ -1,0 +1,2 @@
+bugst02.bin
+scenerio.gcx

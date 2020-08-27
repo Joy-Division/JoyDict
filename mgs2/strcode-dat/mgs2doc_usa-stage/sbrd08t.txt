@@ -1,0 +1,2 @@
+sbrd08t.bin
+scenerio.gcx
