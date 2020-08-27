@@ -1,0 +1,2 @@
+itm_g12.bin
+scenerio.gcx

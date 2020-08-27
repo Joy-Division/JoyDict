@@ -1,0 +1,2 @@
+itm_g08.bin
+scenerio.gcx

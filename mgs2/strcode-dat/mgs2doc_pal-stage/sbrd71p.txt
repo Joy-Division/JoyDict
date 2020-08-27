@@ -1,0 +1,2 @@
+sbrd71p.bin
+scenerio.gcx

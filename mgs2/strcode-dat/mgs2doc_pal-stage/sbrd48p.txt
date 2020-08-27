@@ -1,0 +1,2 @@
+sbrd48p.bin
+scenerio.gcx

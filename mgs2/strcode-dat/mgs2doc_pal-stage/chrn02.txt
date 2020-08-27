@@ -1,0 +1,2 @@
+chrn02.bin
+scenerio.gcx

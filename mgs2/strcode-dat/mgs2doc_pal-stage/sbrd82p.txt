@@ -1,0 +1,2 @@
+sbrd82p.bin
+scenerio.gcx

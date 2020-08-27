@@ -1,0 +1,2 @@
+sbrd30p.bin
+scenerio.gcx
