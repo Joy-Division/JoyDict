@@ -1,0 +1,2 @@
+itm_b04.bin
+scenerio.gcx
