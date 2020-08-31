@@ -1,0 +1,4 @@
+ending_kr.row
+mgs2logo.tri
+scenerio.gcx
+wmovie.bin
