@@ -1,0 +1,4 @@
+ending_pal.row
+mgs2logo.tri
+scenerio.gcx
+wmovie.bin
