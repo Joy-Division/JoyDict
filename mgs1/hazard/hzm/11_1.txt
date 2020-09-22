@@ -1,0 +1,13 @@
+11a_d4b
+door_look
+go_s11i
+r_door
+r_dpass
+step_e0
+step_e1
+step_n0
+step_n1
+step_s0
+step_s1
+step_w0
+step_w1

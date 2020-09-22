@@ -1,0 +1,16 @@
+angle1
+angle2
+hasira_1
+hasira_2
+lift01
+lift02
+lift03
+lift04
+lift_gang2
+mdl_left_hr
+mdl_left_hr2
+mdl_right_hr
+r_lift1
+r_lift2
+shinrei_18
+teppan

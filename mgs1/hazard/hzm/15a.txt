@@ -1,0 +1,17 @@
+agl_0
+agl_1
+agl_2
+agl_3
+agl_4
+agl_5
+door_1
+door_2
+shinrei_12
+to_s14e
+to_s15b
+val_0
+val_1
+val_2
+val_3
+val_4
+val_5

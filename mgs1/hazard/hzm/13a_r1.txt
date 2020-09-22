@@ -1,0 +1,6 @@
+angle1
+angle2
+angle3
+room_gate1
+room_gate2
+r_base

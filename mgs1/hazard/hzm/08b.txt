@@ -1,0 +1,12 @@
+angle00
+angle01
+angle01W
+angle02
+angle02E
+angle02W
+angle03
+door
+mv_s08c
+otacon
+shinrei_1
+shinrei_17

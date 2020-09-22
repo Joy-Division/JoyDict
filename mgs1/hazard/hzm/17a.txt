@@ -1,0 +1,5 @@
+cam_trp00
+door_boo
+r_base
+r_door
+shinrei00

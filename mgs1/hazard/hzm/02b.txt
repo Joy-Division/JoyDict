@@ -1,0 +1,13 @@
+2frrm_on
+act_00
+ductdemo_00
+duct_00
+hidden
+main_on
+next2
+nozoki00
+nozoki01
+nozoki02
+r_call
+sd_gotton
+shinrei00

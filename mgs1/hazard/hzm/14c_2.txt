@@ -1,0 +1,13 @@
+camera_center
+camera_elev
+camera_left
+camera_right
+camera_top
+cam_ele_lr
+cam_left_fix
+cam_right_fix
+door_exit
+gate_to_15a
+lift01
+lift02
+shinrei_34

@@ -1,0 +1,9 @@
+CAMSET00
+CAMSET01
+CAM_ASSIST00
+fade_out
+game1
+MOVE_19b
+move_jeep
+move_jeep2
+room_s18a
