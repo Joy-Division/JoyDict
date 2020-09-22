@@ -1,0 +1,7 @@
+cachetrans.tri
+get_new_items.la2
+get_new_items_0.tri
+memcard.la2
+memcard_0.tri
+scenerio.gcx
+select.bin

@@ -1,0 +1,6 @@
+cache.var
+cachetrans.tri
+disc3menu.bin
+scenerio.gcx
+tgs2005_logos.la2
+tgs2005_logos_0.tri

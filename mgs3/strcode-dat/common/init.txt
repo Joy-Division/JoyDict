@@ -1,0 +1,4 @@
+init.bin
+keepfont.raw
+menu.tri
+scenerio.gcx

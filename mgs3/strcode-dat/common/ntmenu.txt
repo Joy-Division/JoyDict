@@ -1,0 +1,4 @@
+cache.var
+cachetrans.tri
+ntmenu.bin
+scenerio.gcx

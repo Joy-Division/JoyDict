@@ -1,0 +1,3 @@
+keepfont.raw
+r_menu_2.bin
+scenerio.gcx
