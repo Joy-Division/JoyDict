@@ -1,0 +1,7 @@
+preope.bin
+preope.hzm
+preope.kmd
+preope.lit
+scenerio.gcx
+se000013.efx
+wv000011.wvx
