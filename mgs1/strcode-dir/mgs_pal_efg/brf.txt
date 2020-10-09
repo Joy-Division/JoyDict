@@ -1,0 +1,8 @@
+brf.bin
+brf.hzm
+brf.kmd
+brf.lit
+scenerio.gcx
+se000020.efx
+sg00003f.mdx
+wv000004.wvx
