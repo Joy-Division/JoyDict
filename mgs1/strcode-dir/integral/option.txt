@@ -1,0 +1,5 @@
+option.bin
+option.hzm
+option.kmd
+option.lit
+scenerio.gcx
