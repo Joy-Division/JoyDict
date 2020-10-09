@@ -1,0 +1,5 @@
+movie.bin
+open.hzm
+open.kmd
+open.lit
+scenerio.gcx
