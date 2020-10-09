@@ -1,0 +1,8 @@
+open.hzm
+open.kmd
+open.lit
+scenerio.gcx
+se000046.efx
+sg00003d.mdx
+vrtitle.bin
+wv000046.wvx
