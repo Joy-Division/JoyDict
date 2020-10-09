@@ -1,0 +1,5 @@
+optiona.bin
+optiona.hzm
+optiona.kmd
+optiona.lit
+scenerio.gcx
