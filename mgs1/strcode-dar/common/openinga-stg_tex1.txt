@@ -1,0 +1,17 @@
+cp_hakei_hlf.pcx
+cp_iner_smsk.pcx
+ohaio_wtr1hlf.pcx
+op_newrock1.pcx
+op_newrock2.pcx
+op_newrock3.pcx
+op_newrock4.pcx
+open_rock1.pcx
+open_rock1_2.pcx
+open_rock2.pcx
+open_rock2_2.pcx
+open_rock3_2.pcx
+open_rock4_2.pcx
+open_rock6add.pcx
+ship_up.pcx
+subroom_bord2add.pcx
+subroom_cons_bigmap.pcx

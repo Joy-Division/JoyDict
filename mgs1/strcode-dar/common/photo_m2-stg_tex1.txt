@@ -1,0 +1,6 @@
+mei_face_2.pcx
+mei_hair_fro1msk.pcx
+mei_hair_fro2msu.pcx
+mei_neck_side.pcx
+mei_suit_back1.pcx
+mei_suit_fro2.pcx

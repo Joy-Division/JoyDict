@@ -1,0 +1,16 @@
+m20_newbg1.pcx
+m20_newbg2.pcx
+m20_newclif_upcoverd1.pcx
+m20_road_t.pcx
+m20_road_t2.pcx
+m20_rootnew1.pcx
+m20_rootnew2.pcx
+m20_sea_left.pcx
+m20_sea_rite.pcx
+m20_snow_crash1.pcx
+m20_snow_crash3.pcx
+m20_snow_crush4.pcx
+m20_wall_exit3.pcx
+m20_wall_side.pcx
+m20_walltest.pcx
+m20_walltest3.pcx
