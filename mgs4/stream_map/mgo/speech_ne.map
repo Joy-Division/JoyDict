@@ -1,0 +1,4 @@
+0x00000000 onlinevox_vram.spc
+0x0060d000 onlinevox_som_hdd.spc
+0x02364800 onlinevox_sof_hdd.spc
+0x047fc000 onlinevox_unq_hdd.spc
