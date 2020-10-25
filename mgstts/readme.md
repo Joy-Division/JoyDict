@@ -1,4 +1,3 @@
-
 # Metal Gear Solid: The Twin Snakes
 
 Metal Gear Solid: The Twin Snakes is a GameCube port of Metal Gear Solid 2's codebase, modified to serve as a remake of Metal Gear Solid.
@@ -65,16 +64,3 @@ motion.mar
 null.kmx
 dummy000.kmx
 ```
-
-## Stream Files
-
-**The filenames of streams within the ``*.dat`` files have been completely discarded, making them unrecoverable without extra information.**
-
-### Filename Extensions
-
-File          | Extension(s) | Notes
-------------- | ------------ | -----
-``codec.dat`` | (unknown)    |
-``demo.dat``  | (unknown)    |
-``movie.dat`` | (unknown)    |
-``vox.dat``   | (unknown)    |

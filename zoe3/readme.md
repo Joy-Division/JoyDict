@@ -1,4 +1,3 @@
-
 # Guy Savage (Zone of the Enders 3)
 
 Guys Savage is a rejected concept for a third Zone of the Enders title (also known as "Anubis 2"). It was later repurposed as a secret minigame for Metal Gear Solid 3: Snake Eater. The engine seems to have utilized code from both MGS3 and ZOE2.
@@ -28,17 +27,9 @@ ID       | Extension(s) | Shared w/ MGS3? | Notes
 ``0x20`` | ?            | No              | MGS3 ``0x20`` is undefined
 ``0x22`` | ``rcm``      | Conflict        | MGS3 ``rcm`` is ``0x6c``
 
-Debug prints found in the binary suggest that the HZ2 and HZT formats from the Zone of the Enders series are utilized. **These have not yet been paired with their IDs.**
+Debug prints found in the binary suggest that the HZ2 and HZT formats from the Zone of the Enders series are utilized.
+
+**These have not yet been paired with their IDs.**
 
 - ``hz2``
 - ``hzt``
-
-## Stream Files
-
-**The filenames of streams within the ``*.dat`` files have been completely discarded, making them unrecoverable without extra information.**
-
-### Filename Extensions
-
-File        | Extension(s) | Notes
------------ | ------------ | -----
-``vox.dat`` | (unknown)    | MTAF-format stream

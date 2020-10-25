@@ -1,4 +1,3 @@
-
 # Metal Gear AC!D & AC!D<sup>2</sup>
 
 Metal Gear AC!D and its sequel Metal Gear AC!D<sup>2</sup> comprise the first iteration of the MGS engine for PlayStation Portable. Metal Gear AC!D was forked from the codebase of MGS3 during the game's development.
