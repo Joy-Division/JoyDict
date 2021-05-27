@@ -2,9 +2,9 @@
 
 Anubis: Zone of the Enders -- titled Zone of the Enders: The 2nd Runner outside of Japan -- is the sequel to Zone of the Enders. While the codebase is primarily built upon ZOE's, it also incorproated the file archive and stream formats of MGS2.
 
-## Archive Files
+## Archive Data
 
-Two 32-bit digests, calculated with the function ``FS_StrCode``, are stored in place of filenames. One is a hash of the original filename, and the other is a hash of only the original filename's extension.
+Two 32-bit digests calculated with ``FS_StrCode()``, are stored in place of filenames. One is a hash of the original filename, and the other is a hash of only the original filename's extension.
 
 ```
 Filename  : 0xef8e8758
