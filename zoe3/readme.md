@@ -1,16 +1,14 @@
-# Guy Savage (Zone of the Enders 3)
+# Guy Savage
 
-Guys Savage is a rejected concept for a third Zone of the Enders title (also known as "Anubis 2"). It was later repurposed as a secret minigame for Metal Gear Solid 3: Snake Eater. The engine seems to have utilized code from both MGS3 and ZOE2.
+Guys Savage is a rejected concept for ZOE3 (a.k.a. Anubis 2). It was repurposed as a secret minigame in Metal Gear Solid 3: Snake Eater. The engine seems to have utilized code from both MGS3 and ZOE2.
 
-## Archive Files
+## Archive Data
 
-Two digests, calculated with the function ``GV_StrCode`` (24-bit), are stored in place of filenames. One is a 24-bit hash of the original filename sans its extension. The other is an 8-bit hash of the first character of the filename extension.
-
-**Note:** These are most often stored as two 32-bit integers.
+A 24-bit hash of the filename (sans extension) is calulcated with ``GV_StrCode()``, accompanied by an 8-bit extension ID.
 
 ### Filename Extensions
 
-Guy Savage inherited the extension ID system of MGS3, though some modifications have been made to the table.
+Guy Savage inherited the extension ID system of MGS3, though the mapping has been changed somewhat.
 
 ID       | Extension(s) | Shared w/ MGS3? | Notes
 -------- | ------------ | --------------- | -----
@@ -19,17 +17,12 @@ ID       | Extension(s) | Shared w/ MGS3? | Notes
 ``0x03`` | ``tri``      | Yes             |
 ``0x06`` | ``lt2``      | Yes             |
 ``0x08`` | ``mtar``     | Yes             |
-``0x0d`` | ``mdc``      | Conflict        | MGS3 ``0x0d`` is ``mdl``, ``mdb``, & ``mdc``
-``0x0e`` | ``mdb``      | Conflict        |
-``0x14`` | ``row``      | No              | MGS3 ``0x14`` is undefined
-``0x16`` | ?            | No              | MGS3 ``0x16`` is undefined
-``0x1d`` | ``cvd``      | Conflict        | MGS3 ``cvd`` is ``0x10``
-``0x20`` | ?            | No              | MGS3 ``0x20`` is undefined
-``0x22`` | ``rcm``      | Conflict        | MGS3 ``rcm`` is ``0x6c``
+``0x0D`` | ``mdc``      | Conflict        | MGS3 ``0x0d`` == ``mdl`` / ``mdb`` / ``mdc``
+``0x0E`` | ``mdb``      | Conflict        | See above.
+``0x14`` | ``row``      | No              |
+``0x16`` | (UNKNOWN)    | No              |
+``0x1D`` | ``cvd``      | Conflict        | MGS3 ``cvd`` == ``0x10``
+``0x20`` | (UNKNOWN)    | No              |
+``0x22`` | ``rcm``      | Conflict        | MGS3 ``rcm`` == ``0x6C``
 
-Debug prints found in the binary suggest that the HZ2 and HZT formats from the Zone of the Enders series are utilized.
-
-**These have not yet been paired with their IDs.**
-
-- ``hz2``
-- ``hzt``
+**Note:** Debug strings found in the binary suggest that the HZ2 & HZT formats from ZOE/ZOE2 are utilized.

@@ -1,5 +1,0 @@
-//
-// cdrom0:\ABC\VOX.DAT consists of a single MTAF stream,
-// and therefore makes up 100% of file's contents.
-//
-0x00000000 // Unknown Filename
