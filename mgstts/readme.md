@@ -4,13 +4,13 @@ Metal Gear Solid: The Twin Snakes is a GameCube port of Metal Gear Solid 2's cod
 
 ## Archive Data
 
-In place of filename strings, files are identified with a 32-bit value consisting of a 24-bit hash of the filename (sans extension), calculated using ``GV_StrCode()``, and an 8-bit ID representing the extension.
+In place of filename strings, files are identified with 32-bit values consisting of a 24-bit hash of the filename (sans extension), calculated using ``GV_StrCode()``, and an 8-bit ID representing the extension.
 
 ### Filename Extensions
 
 The Twin Snakes handles extension IDs in the same manner as MGS2.
 
-Only the first character of the extension is hashed. ``0x61`` (ASCII '``a``') is then subtracted from the hash. The final result should always be no more than 8 bits wide.
+Only the first character of the extension is hashed. ``0x61`` (ASCII '``a``') is then subtracted from the hash. The final result can safely be clamped to 8-bits.
 
 ID       | Extension(s) | Notes
 -------- | ------------ | -----

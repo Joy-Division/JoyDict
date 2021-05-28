@@ -4,11 +4,11 @@ Metal Gear Solid 2: Sons of Liberty is the sequel to Metal Gear Solid.
 
 ## Archive Data
 
-In place of filename strings, files are identified with a 32-bit value consisting of a 24-bit hash of the filename (sans extension), calculated using ``GV_StrCode()``, and an 8-bit ID representing the extension.
+In place of filename strings, files are identified with 32-bit values consisting of a 24-bit hash of the filename (sans extension), calculated using ``GV_StrCode()``, and an 8-bit ID representing the extension.
 
 ### Filename Extensions
 
-Only the first character of the extension is hashed; this results in an ID which is simply the value of the ASCII character passed to the function. The result should always be no more than 8 bits wide.
+Only the first character of the extension is hashed. ``0x61`` (ASCII '``a``') is then subtracted from the hash. The final result can safely be clamped to 8-bits.
 
 **Note:** This method ensures that any given extensions beginning with the same character will collide.
 
