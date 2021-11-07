@@ -1,0 +1,11 @@
+animal.tri
+clear_code.o2d
+clear_code.tri
+code_mane.tri
+code_name.o2d
+ending.bin
+plticon.ric
+save_load.o2d
+save_load.tri
+scenerio.gcx
+tnkicon.ric

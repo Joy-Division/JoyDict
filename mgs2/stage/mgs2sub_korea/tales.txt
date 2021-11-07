@@ -1,0 +1,10 @@
+jpnw_news.tri
+moses1.tri
+save_load.o2d
+save_load.tri
+scenerio.gcx
+snake_tales_bg.tri
+sub_sticon.ric
+tales.bin
+tales_title.tri
+vr_book.o2d

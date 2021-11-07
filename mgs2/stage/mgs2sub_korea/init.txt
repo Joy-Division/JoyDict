@@ -1,0 +1,3 @@
+init.bin
+menu.tri
+scenerio.gcx
