@@ -1,0 +1,119 @@
+0x00000000 n001_01                      // n001_01.mta
+0x005d9000 n002_01                      // n002_01.mta
+0x00bb2000 n003_01                      // n003_01.mta
+0x0118b000 n011_01                      // n011_01.mta
+0x015ee000 n012_01                      // n012_01.mta
+0x01eb2800 n013_01                      // n013_01.mta
+0x02777000 n021_01                      // n021.mta
+0x02d52800 n022_01                      // n022.mta
+0x0335d000 n023_01                      // n023.mta
+0x03938800 n024_01                      // n024_01.mta
+0x03f14000 n031_01                      // n031_01.mta
+0x044ed000 n032_01                      // n032_01.mta
+0x04ac6000 n033_01                      // n033_01.mta
+0x0509f000 act_set2_2v2_1               // act_set2_2v2_1.mta
+0x05b6e800 act_set2_2v2_2               // act_set2_2v2_2.mta
+0x060d6800 act_set3a_1                  // act_set3a_1.mta
+0x06db2000 act_set3a_2                  // act_set3a_2.mta
+0x07420000 act_set4a_1                  // act_set4a_1.mta
+0x07f09000 act_set4a_2                  // act_set4a_2.mta
+0x0847e000 ol_bgm_lobby_01              // ol_bgm_lobby_01.mta
+0x09109000 ol_bgm_sneak_01              // ol_bgm_sneak_01.mta
+0x095af800 ol_bgm_kiken_01              // ol_bgm_kiken_01.mta
+0x09e89800 ol_bgm_debrief_win           // ol_bgm_debrief_win.mta
+0x0a021800 ol_bgm_debrief_lose          // ol_bgm_debrief_lose.mta
+0x0a32c800 r_mg1_bgm02_kiken            // r_mg1_bgm02_kiken.mta
+0x0a510800 r_mg1_bgm03_main             // r_mg1_bgm03_main.mta
+0x0a9f3000 r_mg2_bgm09_sneak_g          // r_mg2_bgm09_sneak_g.mta
+0x0acc5000 r_mg2_bgm11_kiken            // r_mg2_bgm11_kiken.mta
+0x0b00c000 mgs1_bgm01_s02sneak          // mgs1_bgm01_s02sneak.mta
+0x0b541800 mgs1_bgm02_action            // mgs1_bgm02_action.mta
+0x0b9dc000 mgs1ar_bgm01_s02sneak        // mgs1ar_bgm01_s02sneak.mta
+0x0bf13000 mgs1ar_bgm02_action          // mgs1ar_bgm02_action.mta
+0x0c3af800 mgs2_bgm01_tanker_sneak8     // mgs2_bgm01_tanker_sneak8.mta
+0x0cb67000 mgs2_bgm02_tanker_kiken      // mgs2_bgm02_tanker_kiken.mta
+0x0d145000 mgs2_bgm04_plant_sneak1      // mgs2_bgm04_plant_sneak1.mta
+0x0d742800 mgs2_bgm05_plant_kiken       // mgs2_bgm05_plant_kiken.mta
+0x0e0db800 r_boss_ocelot_a              // boss_ocelot_a.mta
+0x0f153800 boss_pain                    // boss_pain.mta
+0x0f679000 r_boss_fear                  // boss_fear.mta
+0x1090a000 boss_fury                    // boss_fury.mta
+0x1151e000 boss_coronel                 // boss_coronel.mta
+0x119e4800 boss_sorrow                  // boss_sorrow.mta
+0x1203f000 r_event_sidecar1             // event_sidecar1.mta
+0x1258a800 r_boss_chago_a               // boss_chago_a.mta
+0x12b25800 event_sidecar2               // event_sidecar2.mta
+0x130b8000 boss_theboss_online          // boss_theboss_online.mta
+0x13e8b800 title_bgm                    // title_bgm.mta
+0x1418d000 boss_ocelot_a                // boss_ocelot_a.mta
+0x15205000 boss_fear                    // boss_fear.mta
+0x16496000 boss_theend                  // boss_theend.mta
+0x171c0000 boss_colonel_nointro         // boss_colonel_nointro.mta
+0x17622800 event_sidecar1               // event_sidecar1.mta
+0x17b6e000 boss_chago_a                 // boss_chago_a.mta
+0x18109000 boss_theboss_suv             // boss_theboss_suv.mta
+0x19d73000 mg1_bgm00_playerout
+0x19da4000 mg1_bgm01_continue
+0x19dda800 mg1_bgm02_kiken
+0x19fbe800 mg1_bgm03_main
+0x1a4a1000 mg1_bgm04_underground
+0x1a627800 mg1_bgm05_boss
+0x1a718800 mg1_bgm06_opening
+0x1a796000 mg1_bgm07_metalgear
+0x1a838000 mg1_bgm08_escape
+0x1a9d9000 mg1_bgm09_ending
+0x1abc3800 mg2_bgm00_playerout
+0x1ac05000 mg2_bgm01_gameover
+0x1ac74800 mg2_bgm02_level3
+0x1af5f000 mg2_bgm03_level2
+0x1b0d5000 mg2_bgm04_main01
+0x1b4ff000 mg2_bgm05_main02
+0x1b7bb000 mg2_bgm06_main03
+0x1b8e1000 mg2_bgm07_main04
+0x1bb50800 mg2_bgm08_main05
+0x1be98000 mg2_bgm09_main06
+0x1c384800 mg2_bgm10_main07
+0x1c5b5000 mg2_bgm11_main08
+0x1c8fd000 mg2_bgm12_main09
+0x1cad0800 mg2_bgm13_main10
+0x1ccb1000 mg2_bgm14_talk1
+0x1cecd800 mg2_bgm15_talk2
+0x1d2f7800 mg2_bgm16_talk3
+0x1d6b7000 mg2_bgm17_talk4
+0x1db22000 mg2_bgm18_bosstalk1
+0x1dc1a800 mg2_bgm19_bosstalk2
+0x1ddca800 mg2_bgm20_boss1
+0x1df15800 mg2_bgm21_boss2
+0x1e0ad800 mg2_bgm22_boss3
+0x1e223800 mg2_bgm23_boss4
+0x1e422800 mg2_bgm24_zltheme1
+0x1e4dc800 mg2_bgm25_zltheme2
+0x1e598800 mg2_bgm26_chase
+0x1e607800 mg2_bgm27_exhaust
+0x1e74c800 mg2_bgm28_startdemo
+0x1e7bc000 mg2_bgm29_startmusen
+0x1e932800 mg2_bgm30_natashadeath
+0x1ec02800 mg2_bgm31_spiralstair
+0x1ee97000 mg2_bgm32_hangglider
+0x1f109000 mg2_bgm33_finalbase
+0x1f24a000 mg2_bgm34_escape
+0x1f43f000 mg2_bgm35_opening1
+0x1fdeb800 mg2_bgm36_opening2
+0x202ea800 mg2_bgm37_ending1
+0x20560800 mg2_bgm38_ending2
+0x20a37800 mg2_bgm39_ending3
+0x20ee6800 mg2_bgm40_secret1
+0x21029800 mg2_bgm41_secret2
+0x211db000 mg2_intro00_bosscontact1
+0x21200800 mg2_intro08_natasha1
+0x21297000 mg2_intro10_metalgear
+0x212cf800 mg2_se64_propelle
+0x214bb000 jungle02                     // jungle02.mta
+0x21a96800 mountain03                   // mountain03.mta
+0x223a5800 indoor101                    // indoor101.mta
+0x22cb4800 jungle01                     // jungle01.mta
+0x2357c800 deserted01                   // deserted01.mta
+0x23e44800 monkey_gets                  // monkey_gets.mta
+0x242f2000 indoor01n                    // indoor01n.mta
+0x24bba000 factory05                    // factory05.mta
+0x254c9000 boss_theboss_monkey          // boss_theboss_monkey.mta
