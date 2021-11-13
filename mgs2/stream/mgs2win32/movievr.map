@@ -1,16 +1,16 @@
-0x00000000 vr_bomb_r
-0x00000800 vr_bomb_s
-0x00001000 vr_el_r
-0x00001800 vr_el_s
-0x00002000 vr_fpv_r
-0x00002800 vr_fpv_s
-0x00003000 vr_ho_r
-0x00003800 vr_ho_s
-0x00004000 vr_photo_r
-0x00004800 vr_photo_s
-0x00005000 vr_sn_r
-0x00005800 vr_sn_s
-0x00006000 vr_va_r
-0x00006800 vr_va_s
-0x00007000 vr_wp_r
-0x00007800 vr_wp_s
+0x00000000 vr_bomb_r    // vr_bomb_r.pac
+0x00000800 vr_bomb_s    // vr_bomb_s.pac
+0x00001000 vr_el_r      // vr_el_r.pac
+0x00001800 vr_el_s      // vr_el_s.pac
+0x00002000 vr_fpv_r     // vr_fpv_r.pac
+0x00002800 vr_fpv_s     // vr_fpv_s.pac
+0x00003000 vr_ho_r      // vr_ho_r.pac
+0x00003800 vr_ho_s      // vr_ho_s.pac
+0x00004000 vr_photo_r   // vr_photo_r.pac
+0x00004800 vr_photo_s   // vr_photo_s.pac
+0x00005000 vr_sn_r      // vr_sn_r.pac
+0x00005800 vr_sn_s      // vr_sn_s.pac
+0x00006000 vr_va_r      // vr_va_r.pac
+0x00006800 vr_va_s      // vr_va_s.pac
+0x00007000 vr_wp_r      // vr_wp_r.pac
+0x00007800 vr_wp_s      // vr_wp_s.pac
