@@ -7,13 +7,13 @@ fog3.o2d
 grd.o2d
 log.o2d
 log.tri
-nodeDown.tri
 node_bg.tri
 node_frame.o2d
 node_menu.o2d
 node_menu.tri
 node_name.o2d
 node_name.tri
+nodeDown.tri
 ny_map.o2d
 ny_map_bg.o2d
 plant_map.o2d

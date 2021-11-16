@@ -1,9 +1,9 @@
-densouTex.tri
 densou_log.o2d
 densou_log.tri
 densou_main.o2d
 densou_title.o2d
 densou_title.tri
+densouTex.tri
 papet.o2d
 papetTex1.tri
 papetTex2.tri
