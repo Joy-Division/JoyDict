@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 clear_code.o2d
 clear_code.tri
 controls.tri

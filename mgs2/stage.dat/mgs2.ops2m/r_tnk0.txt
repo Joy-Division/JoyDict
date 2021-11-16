@@ -25,12 +25,12 @@ code_tex.tri
 codec.o2d
 comdlresident.tri
 dcm.o2d
-dcmTex.tri
 dcm_rai.kms
 dcm_shat.o2d
+dcmTex.tri
 fms_emb.kms
-foot_shadow2_cm.kms
 foot_shadow_cm.kms
+foot_shadow2_cm.kms
 gbs_knif.kms
 gbs_mag.kms
 glasses.tri
