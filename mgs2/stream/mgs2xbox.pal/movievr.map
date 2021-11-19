@@ -1,0 +1,16 @@
+0x00000000 vr_bomb_r
+0x00048000 vr_bomb_s
+0x000a0000 vr_el_r
+0x001d0000 vr_el_s
+0x0029a800 vr_fpv_r
+0x0038e000 vr_fpv_s
+0x00491800 vr_ho_r
+0x00527000 vr_ho_s
+0x005bb800 vr_photo_r
+0x0062e800 vr_photo_s
+0x00738800 vr_sn_r
+0x007be800 vr_sn_s
+0x00851800 vr_va_r
+0x008b6800 vr_va_s
+0x00930000 vr_wp_r
+0x00a0b000 vr_wp_s
