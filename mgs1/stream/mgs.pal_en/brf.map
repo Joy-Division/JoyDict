@@ -1,0 +1,170 @@
+0x00000000
+0x00025800
+0x00059000
+0x0006f800
+0x0008f000
+0x000b0800
+0x000ce800
+0x000fc000
+0x00129800
+0x00140000
+0x0014a000
+0x00186000
+0x001b1800
+0x001bf800
+0x00202000
+0x0020c000
+0x00248000
+0x0028d800
+0x00294800
+0x002c8000
+0x00305000
+0x0032f000
+0x0036b000
+0x003a1800
+0x003cf000
+0x003e0000
+0x0041a000
+0x0041b800 bind_at_l.pcx
+0x0041e000 bind_at_r.pcx
+0x00421000 canbel_l.pcx
+0x00422800 canbel_r.pcx
+0x00425000 cell_l.pcx
+0x00427800 cell_r.pcx
+0x00428000 crow_l.pcx
+0x0042a800 crow_r.pcx
+0x0042d000 darpa_l.pcx
+0x00430000 darpa_r.pcx
+0x00430800 dead_at_l.pcx
+0x00433000 dead_at_r.pcx
+0x00435800 elevator_l.pcx
+0x00438000 elevator_r.pcx
+0x0043a000 grayfox_l.pcx
+0x0043c000 grayfox_r.pcx
+0x0043f000 hind_crash_l.pcx
+0x00441800 hind_crash_r.pcx
+0x00444000 hind_encount_l.pcx
+0x00446800 hind_encount_r.pcx
+0x00449800 liq_oce_l.pcx
+0x0044c000 liq_oce_r.pcx
+0x0044f800 liquid_l.pcx
+0x00451800 liquid_r.pcx
+0x00454000 meril_l.pcx
+0x00456800 meril_r.pcx
+0x00458800 meril_pal_l.pcx
+0x0045a800 meril_pal_r.pcx
+0x0045d800 meril_shoot_l.pcx
+0x00460000 meril_shoot_r.pcx
+0x00462800 metal_move_l.pcx
+0x00465800 metal_move_r.pcx
+0x00468800 metal_side_l.pcx
+0x0046c000 metal_side_r.pcx
+0x0046f800 mine_l.pcx
+0x00472800 mine_r.pcx
+0x00475000 morgue_l.pcx
+0x00477800 morgue_r.pcx
+0x0047a000 naomi_l.pcx
+0x0047d000 naomi_r.pcx
+0x0047f800 nikita_l.pcx
+0x00481800 nikita_r.pcx
+0x00484800 nin_blade_l.pcx
+0x00486800 nin_blade_r.pcx
+0x00489800 nin_l.pcx
+0x0048c800 nin_r.pcx
+0x0048d800 octopus_l.pcx
+0x0048f800 octopus_r.pcx
+0x00491000 otacon_l.pcx
+0x00493800 otacon_r.pcx
+0x00495000 pal_key_l.pcx
+0x00497000 pal_key_r.pcx
+0x00498800 psycho_l.pcx
+0x0049b800 psycho_r.pcx
+0x0049e800 raven_l.pcx
+0x004a1000 raven_r.pcx
+0x004a3800 revo_l.pcx
+0x004a5800 revo_r.pcx
+0x004a8800 rope_l.pcx
+0x004ab000 rope_r.pcx
+0x004ac000 snake_l.pcx
+0x004ae000 snake_r.pcx
+0x004b0000 snake_shot_l.pcx
+0x004b3000 snake_shot_r.pcx
+0x004b4800 snake_side_l.pcx
+0x004b7000 snake_side_r.pcx
+0x004b8000 snake_stare_l.pcx
+0x004b9800 snake_stare_r.pcx
+0x004bc800 sne_liq_l.pcx
+0x004bf000 sne_liq_r.pcx
+0x004c1800 sne_up_l.pcx
+0x004c4800 sne_up_r.pcx
+0x004c7800 sneaking_l.pcx
+0x004ca800 sneaking_r.pcx
+0x004cd000 spiral_l.pcx
+0x004d0000 spiral_r.pcx
+0x004d4000 submit_l.pcx
+0x004d7800 submit_r.pcx
+0x004da000 torture_l.pcx
+0x004dc000 torture_r.pcx
+0x004de800 wolf_dead_l.pcx
+0x004e1800 wolf_dead_r.pcx
+0x004e4000 wolf_snipe_l.pcx
+0x004e7000 wolf_snipe_r.pcx
+0x004ea000 parking_l.pcx
+0x004ec800 parking_r.pcx
+0x004ef000 darpa_dead_l.pcx
+0x004f1000 darpa_dead_r.pcx
+0x004f4000 nani_l.pcx
+0x004f6800 nani_r.pcx
+0x004f8800 yoko2_l.pcx
+0x004fb800 yoko2_r.pcx
+0x004fc000 m1_l.pcx
+0x004ff000 m1_r.pcx
+0x00501000 ketsu_l.pcx
+0x00502000 ketsu_r.pcx
+0x00504800 dog_l.pcx
+0x00507800 dog_r.pcx
+0x00509800 psg_l.pcx
+0x0050d000 psg_r.pcx
+0x0050f000
+0x00512000
+0x00513800
+0x00515800
+0x00518000
+0x0051a000
+0x0051b800
+0x0051d800
+0x00521000
+0x00523800
+0x00527000
+0x00529800
+0x0052c000
+0x0052f000
+0x00531000
+0x00533000
+0x00534800
+0x00536800
+0x00539000
+0x0053d000
+0x0053f800
+0x00541000
+0x00543800
+0x00545800
+0x00547800
+0x00549000
+0x0054b000
+0x0054d000
+0x0054f000
+0x00550800
+0x00553000
+0x00554800
+0x00557000
+0x00559800
+0x0055c000
+0x0055f000
+0x00561800
+0x00564000
+0x00567000
+0x0056a000
+0x0056e800
+0x00570800
+0x00572000
