@@ -4,9 +4,9 @@
 0001db23.k|svc.kmx
 0012ff3a.k|rifle_amo_ibox.kmx
 00180720.g|scenerio.gcx
-0023e574.c|
-0023e574.k|
-0023e574.t|
+0023e574.c|in_door.cv2
+0023e574.k|in_door.kmx
+0023e574.t|in_door.tri
 00252aba.t|
 00268bdd.k|svc_brk1.kmx
 00287e63.k|
@@ -36,9 +36,9 @@
 00715d80.t|2D_tex.tri
 00719c79.t|
 00786232.t|
-007f8d0a.k|
+007f8d0a.k|svc_plant_brk1.kmx
 0081646b.h|area17a.hzx
-0081646b.l|area17a.l
+0081646b.l|area17a.lt2
 0081646b.m|area17a.mar
 0081646b.s|area17a.sar
 0081646b.t|area17a.tri
@@ -46,7 +46,7 @@
 008e6fa2.k|scr_kihou01.kmx
 008edfb5.k|hose_cone.kmx
 008edfb5.t|hose_cone.tri
-009438a2.c|hose_new2.c
+009438a2.c|hose_new2.cv2
 009438a2.k|hose_new2.kmx
 009438a2.t|hose_new2.tri
 00981a62.k|
@@ -60,9 +60,9 @@
 00b3a2c7.k|w01d_flour_B.kmx
 00b3a2c7.t|w01d_flour_B.tri
 00b6d56b.k|brk_scr07_full.kmx
-00bb9cba.k|
+00bb9cba.k|in_door_sh.kmx
 00bd7cce.k|ration_ibox.kmx
-00bdc25f.c|awa_model2.c
+00bdc25f.c|awa_model2.cv2
 00bdc25f.k|awa_model2.kmx
 00beeb2d.t|sv_camera.tri
 00c0267e.k|grenade_ibox_sh.kmx

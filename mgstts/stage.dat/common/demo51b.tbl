@@ -13,7 +13,7 @@
 002aa248.k|
 002aa24a.k|
 002aa24b.k|
-003311ec.o|call.o
+003311ec.o|call.o2d
 003311ec.t|call.tri
 00382235.t|menu.tri
 00493363.k|
@@ -28,7 +28,7 @@
 00558460.t|
 00569133.t|
 00573de0.t|transcache.tri
-00691d09.o|codec.o
+00691d09.o|codec.o2d
 00815fab.h|area01a.hzx
 008173ac.k|area51b.kmx
 008491a6.t|code_tex.tri

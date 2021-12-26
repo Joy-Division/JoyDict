@@ -19,7 +19,7 @@
 002aa246.k|
 002aa247.k|
 002aa248.k|
-003311ec.o|call.o
+003311ec.o|call.o2d
 003311ec.t|call.tri
 0036a110.t|
 00382235.t|menu.tri
@@ -35,7 +35,7 @@
 005e05f4.t|
 00612c70.k|fms_amo.kmx
 00613c63.k|fms_emb.kmx
-00691d09.o|codec.o
+00691d09.o|codec.o2d
 00712b64.k|
 0074df2c.k|
 0079e9cd.k|

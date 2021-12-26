@@ -8,7 +8,7 @@
 001cf3f9.k|rifle_ibox_sh.kmx
 0023240a.k|
 00252aba.t|
-0026f3e2.o|boss_telop.o
+0026f3e2.o|boss_telop.o2d
 0026f3e2.t|boss_telop.tri
 002945f8.k|
 00313aa9.k|
@@ -45,7 +45,7 @@
 00806c4f.t|
 0081642b.h|area15a.hzx
 0081642b.k|area15a.kmx
-0081642b.l|area15a.l
+0081642b.l|area15a.lt2
 0081642b.m|area15a.mar
 0081642b.s|area15a.sar
 0081642b.t|area15a.tri
@@ -53,7 +53,7 @@
 008b6257.k|
 008e6fa2.k|scr_kihou01.kmx
 008f97ea.t|
-00907874.o|boss_rush.o
+00907874.o|boss_rush.o2d
 00907874.t|boss_rush.tri
 009260db.k|
 009260dc.k|
@@ -78,12 +78,12 @@
 00d3cd65.t|
 00d9bcb7.t|
 00e51850.t|
-00e51856.o|boss_pause.o
+00e51856.o|boss_pause.o2d
 00e89e43.k|psg_lenz_bd.kmx
 00e89ed1.k|psg_lenz_fr.kmx
 00ed3115.k|scr_waterline01.kmx
 00efa25d.k|dzp2_label.kmx
-00f13930.c|mrl_def.c
+00f13930.c|mrl_def.cv2
 00f4985c.c|
 00f4985c.k|
 00f4985c.t|

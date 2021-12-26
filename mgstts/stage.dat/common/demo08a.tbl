@@ -17,8 +17,8 @@
 002137ba.t|
 00268b6e.k|
 00268b6f.k|
-0026e012.c|
-0026e012.k|
+0026e012.c|out_cold.cv2
+0026e012.k|out_cold.kmx
 002b1b01.k|
 002b1b01.t|
 002badd3.t|
@@ -39,7 +39,7 @@
 007d8ca1.k|
 0081608b.h|area08a.hzx
 0081608b.k|area08a.kmx
-0081608b.l|area08a.l
+0081608b.l|area08a.lt2
 0081608b.t|area08a.tri
 0088ab8f.t|
 008e6fa2.k|scr_kihou01.kmx

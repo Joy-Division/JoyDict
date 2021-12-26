@@ -3,8 +3,8 @@
 000a3136.k|
 000a313a.k|
 00180720.g|scenerio.gcx
-0023e574.k|
-0023e574.t|
+0023e574.k|in_door.kmx
+0023e574.t|in_door.tri
 00382235.t|menu.tri
 003fed55.k|in_door_blink_1.kmx
 003fed56.k|in_door_blink_2.kmx
@@ -26,7 +26,7 @@
 00735dc6.k|
 00735dc7.k|
 00798b3a.k|
-0081678b.l|area20a.l
+0081678b.l|area20a.lt2
 008167cb.h|area22a.hzx
 008167cb.k|area22a.kmx
 008167cb.t|area22a.tri
@@ -53,9 +53,9 @@
 00af0e87.t|in_gus_blue_blink_2.tri
 00b12cde.k|
 00b12cde.t|
-00bb9cba.k|
+00bb9cba.k|in_door_sh.kmx
 00c1adf8.k|
 00d1dfac.k|gbs_sling.kmx
 00d1dfac.t|gbs_sling.tri
-00f7935d.k|
-00f7935d.t|
+00f7935d.k|in_gus_sh.kmx
+00f7935d.t|in_gus_sh.tri

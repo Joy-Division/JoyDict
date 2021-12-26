@@ -3,7 +3,7 @@
 00265239.k|sna_bdn1.kmx
 0026523a.k|sna_bdn2.kmx
 0029a6bb.k|
-003311ec.o|call.o
+003311ec.o|call.o2d
 003311ec.t|call.tri
 0035a87a.k|
 0035a87a.t|
@@ -13,7 +13,7 @@
 00413aa8.t|sna_def.tri
 00413bb1.k|
 00541ee9.k|rba_def_mh_mt.kmx
-00691d09.o|codec.o
+00691d09.o|codec.o2d
 008491a6.t|code_tex.tri
 00c132cc.k|
 00c132cc.t|

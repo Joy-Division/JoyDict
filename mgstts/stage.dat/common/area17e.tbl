@@ -20,7 +20,7 @@
 003e0539.k|stg_amo_label.kmx
 0041768a.k|
 00417c0a.k|
-004516e3.t|
+004516e3.t|in_gus_blue.tri
 00463c10.k|
 004cb2e7.k|
 004ce2cb.k|
@@ -51,7 +51,7 @@
 00786242.t|
 0081646f.h|area17e.hzx
 0081646f.k|area17e.kmx
-0081646f.l|area17e.l
+0081646f.l|area17e.lt2
 0081646f.m|area17e.mar
 0081646f.s|area17e.sar
 0081646f.t|area17e.tri
@@ -69,7 +69,7 @@
 00b130de.k|
 00b6d56b.k|brk_scr07_full.kmx
 00bd7cce.k|ration_ibox.kmx
-00bdc25f.c|awa_model2.c
+00bdc25f.c|awa_model2.cv2
 00bdc25f.k|awa_model2.kmx
 00c0267e.k|grenade_ibox_sh.kmx
 00cc73a9.t|
@@ -77,7 +77,7 @@
 00ceb373.k|sna_def_sno_dcl_b.kmx
 00e89e43.k|psg_lenz_bd.kmx
 00e89ed1.k|psg_lenz_fr.kmx
-00eb0f44.k|
+00eb0f44.k|launcher_amo_ibox.kmx
 00ed3115.k|scr_waterline01.kmx
 00ee31b1.k|
 00f7df88.m|

@@ -56,7 +56,7 @@
 0014182a.k|
 00180720.g|scenerio.gcx
 00252aba.t|
-0026f3e2.o|boss_telop.o
+0026f3e2.o|boss_telop.o2d
 0026f3e2.t|boss_telop.tri
 002a59ed.k|
 002bfdda.c|
@@ -80,7 +80,7 @@
 0050bd04.k|
 00573de0.t|transcache.tri
 005b4973.t|
-005b9a91.k|
+005b9a91.k|fms_label.kmx
 00646487.k|medicine_ibox_sh.kmx
 0064789e.k|ibox_weapon_fms.kmx
 0067d151.k|rtn_label.kmx
@@ -100,10 +100,10 @@
 0076ade2.k|
 00797ba8.t|
 00806c4f.k|
-00812bfb.k|
+00812bfb.k|dse_amo.kmx
 008163eb.h|area13a.hzx
 008163eb.k|area13a.kmx
-008163eb.l|area13a.l
+008163eb.l|area13a.lt2
 008163eb.m|area13a.mar
 008163eb.s|area13a.sar
 008163eb.t|area13a.tri
@@ -112,7 +112,7 @@
 0087cfb9.s|
 008e6fa2.k|scr_kihou01.kmx
 008f1504.k|
-00907874.o|boss_rush.o
+00907874.o|boss_rush.o2d
 00907874.t|boss_rush.tri
 0094a1a4.t|
 0099ac85.t|
@@ -132,12 +132,12 @@
 00c55670.m|
 00c55670.s|
 00e51850.t|
-00e51856.o|boss_pause.o
+00e51856.o|boss_pause.o2d
 00e89e43.k|psg_lenz_bd.kmx
 00e89ed1.k|psg_lenz_fr.kmx
 00ea4afd.t|
 00ed3115.k|scr_waterline01.kmx
-00f13930.c|mrl_def.c
+00f13930.c|mrl_def.cv2
 00fafa2b.k|
 00fafa2c.k|
 00fafa2d.k|

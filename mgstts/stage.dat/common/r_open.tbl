@@ -1,8 +1,8 @@
 00000d4d.o|
 00013798.k|
 00013798.t|
-0001c54c.o|ngl.o
-0001dd4c.o|tgl.o
+0001c54c.o|ngl.o2d
+0001dd4c.o|tgl.o2d
 00180720.g|scenerio.gcx
 00247720.f|
 00350ebd.t|scop_tex.tri
@@ -10,7 +10,7 @@
 0038e1ec.k|null.kmx
 0038e1ec.t|null.tri
 004ec423.k|sna_scu_l_fin.kmx
-00634a6c.o|scope.o
+00634a6c.o|scope.o2d
 00974f6b.o|
 00a53576.k|
 00a53576.t|

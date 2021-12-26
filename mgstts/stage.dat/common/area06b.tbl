@@ -8,7 +8,7 @@
 00201fd0.k|
 00252aba.t|
 0026f2c6.t|rev_coat.tri
-0026f3e2.o|boss_telop.o
+0026f3e2.o|boss_telop.o2d
 0026f3e2.t|boss_telop.tri
 0026f426.m|
 0026f426.s|
@@ -43,14 +43,14 @@
 00797ba8.t|
 0081604c.h|area06b.hzx
 0081604c.k|area06b.kmx
-0081604c.l|area06b.l
+0081604c.l|area06b.lt2
 0081604c.m|area06b.mar
 0081604c.s|area06b.sar
 0081604c.t|area06b.tri
 0081604c.v|area06b.var
 0085b716.k|
 008e6fa2.k|scr_kihou01.kmx
-00907874.o|boss_rush.o
+00907874.o|boss_rush.o2d
 00907874.t|boss_rush.tri
 00913a57.m|
 00913a57.s|
@@ -81,7 +81,7 @@
 00dd1e37.k|
 00dd1e38.k|
 00e51850.t|
-00e51856.o|boss_pause.o
+00e51856.o|boss_pause.o2d
 00e51b69.k|
 00e51b6a.k|
 00e51b6b.k|

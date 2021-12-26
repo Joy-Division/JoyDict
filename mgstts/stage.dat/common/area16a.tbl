@@ -6,9 +6,9 @@
 001bbca3.k|
 002339f1.m|locker.mar
 002339f1.s|locker.sar
-0023e574.c|
-0023e574.k|
-0023e574.t|
+0023e574.c|in_door.cv2
+0023e574.k|in_door.kmx
+0023e574.t|in_door.tri
 00252aba.t|
 0026c3bc.t|
 0029275e.k|
@@ -48,7 +48,7 @@
 007861b2.t|
 0081644b.h|area16a.hzx
 0081644b.k|area16a.kmx
-0081644b.l|area16a.l
+0081644b.l|area16a.lt2
 0081644b.m|area16a.mar
 0081644b.s|area16a.sar
 0081644b.t|area16a.tri

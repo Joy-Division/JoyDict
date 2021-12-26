@@ -2,7 +2,7 @@
 00019ec5.k|dse.kmx
 0001a8cd.k|gcm.kmx
 0001cec7.k|psg.kmx
-0001cec7.o|psg.o
+0001cec7.o|psg.o2d
 0001d8cd.k|scm.kmx
 000a2cd7.k|
 000a96cb.k|
@@ -41,13 +41,13 @@
 00761a1e.k|
 0081642b.h|area15a.hzx
 0081642b.k|area15a.kmx
-0081642b.l|area15a.l
+0081642b.l|area15a.lt2
 0081642b.t|area15a.tri
 008b6257.k|
 008e41fe.k|gbs_kanagu.kmx
 008e6fa2.k|scr_kihou01.kmx
-00914575.k|
-00914575.t|
+00914575.k|hev_grd.kmx
+00914575.t|hev_grd.tri
 009260db.k|
 009260dc.k|
 009260dd.k|

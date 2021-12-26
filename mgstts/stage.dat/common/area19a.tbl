@@ -8,7 +8,7 @@
 0021dd93.k|
 002362b6.k|
 00252aba.t|
-0026f3e2.o|boss_telop.o
+0026f3e2.o|boss_telop.o2d
 0026f3e2.t|boss_telop.tri
 002d838e.k|
 00342a45.k|
@@ -47,14 +47,14 @@
 00797ba8.t|
 008164ab.h|area19a.hzx
 008164ab.k|area19a.kmx
-008164ab.l|area19a.l
+008164ab.l|area19a.lt2
 008164ab.m|area19a.mar
 008164ab.s|area19a.sar
 008164ab.t|area19a.tri
 008164ab.v|area19a.var
 008e6fa2.k|scr_kihou01.kmx
 008f26ba.t|
-00907874.o|boss_rush.o
+00907874.o|boss_rush.o2d
 00907874.t|boss_rush.tri
 00a4004f.k|launcher_amo_ibox_sh.kmx
 00a76fc8.k|
@@ -65,7 +65,7 @@
 00b37ec5.k|medicine_ibox.kmx
 00b6d56b.k|brk_scr07_full.kmx
 00bd7cce.k|ration_ibox.kmx
-00bdc25f.c|awa_model2.c
+00bdc25f.c|awa_model2.cv2
 00bdc25f.k|awa_model2.kmx
 00c96d3d.k|
 00cc73a9.t|
@@ -79,8 +79,8 @@
 00d28839.k|
 00e46b7e.k|
 00e51850.t|
-00e51856.o|boss_pause.o
+00e51856.o|boss_pause.o2d
 00e89e43.k|psg_lenz_bd.kmx
 00e89ed1.k|psg_lenz_fr.kmx
-00eb0f44.k|
+00eb0f44.k|launcher_amo_ibox.kmx
 00ed3115.k|scr_waterline01.kmx

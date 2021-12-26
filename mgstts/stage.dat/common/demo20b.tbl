@@ -1,5 +1,5 @@
 0001a613.k|fms.kmx
-0001cec7.o|psg.o
+0001cec7.o|psg.o2d
 0001d9d9.t|sky.tri
 000a9e38.k|out_cold_sh.kmx
 000e9a1d.k|
@@ -14,7 +14,7 @@
 00252aba.t|
 00253b8a.k|cbx_a_mt.kmx
 0025bb8a.k|cbx_b_mt.kmx
-0026e012.k|
+0026e012.k|out_cold.kmx
 00313aa9.t|
 00382235.t|menu.tri
 004f5aec.t|
@@ -45,7 +45,7 @@
 00738e2c.k|
 0081678b.h|area20a.hzx
 0081678b.k|area20a.kmx
-0081678b.l|area20a.l
+0081678b.l|area20a.lt2
 0081678b.t|area20a.tri
 008e41fe.k|gbs_kanagu.kmx
 008e6fa2.k|scr_kihou01.kmx

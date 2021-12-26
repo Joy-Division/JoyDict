@@ -2,9 +2,9 @@
 0001a613.t|fms.tri
 0001da73.k|sps.kmx
 0001db23.k|svc.kmx
-00112bec.c|
-00112bec.k|
-00112bec.t|
+00112bec.c|in_gus.cv2
+00112bec.k|in_gus.kmx
+00112bec.t|in_gus.tri
 0011bceb.k|
 00180720.g|scenerio.gcx
 001fb776.k|out_cold_sling.kmx
@@ -20,7 +20,7 @@
 0038d6e6.k|
 003bfa3f.k|
 0042d71d.k|
-004516e3.t|
+004516e3.t|in_gus_blue.tri
 00488582.k|
 00488582.t|
 004ec842.k|rub_shell_amo.kmx
@@ -35,7 +35,7 @@
 00764518.k|
 008160ab.h|area09a.hzx
 008160ab.k|area09a.kmx
-008160ab.l|area09a.l
+008160ab.l|area09a.lt2
 008160ab.t|area09a.tri
 00845c91.k|
 008e41fe.k|gbs_kanagu.kmx
@@ -63,6 +63,6 @@
 00d1dfac.k|gbs_sling.kmx
 00d1dfac.t|gbs_sling.tri
 00f6552d.k|
-00f7935d.k|
-00f7935d.t|
+00f7935d.k|in_gus_sh.kmx
+00f7935d.t|in_gus_sh.tri
 00f86223.t|

@@ -35,7 +35,7 @@
 00814616.k|
 0081602b.h|area05a.hzx
 0081602b.k|area05a.kmx
-0081602b.l|area05a.l
+0081602b.l|area05a.lt2
 0081602b.t|area05a.tri
 008e6fa2.k|scr_kihou01.kmx
 008edfb5.k|hose_cone.kmx
@@ -43,14 +43,14 @@
 00913890.k|elv_dr1.kmx
 00913891.k|elv_dr2.kmx
 00924099.t|
-009438a2.c|hose_new2.c
+009438a2.c|hose_new2.cv2
 009438a2.k|hose_new2.kmx
 009438a2.t|hose_new2.tri
 009612a4.k|
 00993e80.k|
 00993e80.t|
 00b6d56b.k|brk_scr07_full.kmx
-00bdc25f.c|awa_model2.c
+00bdc25f.c|awa_model2.cv2
 00bdc25f.k|awa_model2.kmx
 00c132cc.k|
 00c92d99.k|

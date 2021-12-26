@@ -8,9 +8,9 @@
 00180720.g|scenerio.gcx
 0018c50c.k|
 002362b6.k|
-0023e574.c|
-0023e574.k|
-0023e574.t|
+0023e574.c|in_door.cv2
+0023e574.k|in_door.kmx
+0023e574.t|in_door.tri
 00252aba.t|
 00271c74.t|
 002c297b.k|sougan.kmx
@@ -42,7 +42,7 @@
 007862b6.t|
 0081648c.h|area18b.hzx
 0081648c.k|area18b.kmx
-0081648c.l|area18b.l
+0081648c.l|area18b.lt2
 0081648c.m|area18b.mar
 0081648c.s|area18b.sar
 0081648c.t|area18b.tri
@@ -56,7 +56,7 @@
 00b12cde.k|
 00b130de.k|
 00b6d56b.k|brk_scr07_full.kmx
-00bb9cba.k|
+00bb9cba.k|in_door_sh.kmx
 00bd7cce.k|ration_ibox.kmx
 00bdc25f.k|awa_model2.kmx
 00e89e43.k|psg_lenz_bd.kmx

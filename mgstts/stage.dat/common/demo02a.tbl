@@ -19,8 +19,8 @@
 00263b8a.k|cbx_c_mt.kmx
 00263b8a.t|cbx_c_mt.tri
 00268bdd.k|svc_brk1.kmx
-0026e012.c|
-0026e012.k|
+0026e012.c|out_cold.cv2
+0026e012.k|out_cold.kmx
 0027d282.k|
 00288ded.k|
 00288ded.t|
@@ -49,7 +49,7 @@
 005e05f4.k|
 00612c70.k|fms_amo.kmx
 00612c70.t|fms_amo.tri
-00634a6c.o|scope.o
+00634a6c.o|scope.o2d
 0064ce19.k|
 0064ce19.t|
 00701cbe.k|sna_scu_air_hose.kmx
@@ -58,11 +58,11 @@
 0074882e.k|
 0074882e.t|
 0075e424.k|
-007f8d0a.k|
-007f8d0a.t|
+007f8d0a.k|svc_plant_brk1.kmx
+007f8d0a.t|svc_plant_brk1.tri
 00815fcb.h|area02a.hzx
 00815fcb.k|area02a.kmx
-00815fcb.l|area02a.l
+00815fcb.l|area02a.lt2
 00815fcb.t|area02a.tri
 008e41fe.k|gbs_kanagu.kmx
 008e41fe.t|gbs_kanagu.tri
@@ -85,7 +85,7 @@
 00b130dd.t|
 00b1748d.k|cbx_sub.kmx
 00b1748d.t|cbx_sub.tri
-00bdc25f.c|awa_model2.c
+00bdc25f.c|awa_model2.cv2
 00bdc25f.k|awa_model2.kmx
 00be0a0c.k|out_cold_blink_01.kmx
 00be0a0c.t|out_cold_blink_01.tri

@@ -20,9 +20,9 @@
 00226354.k|
 00226354.t|
 00229e53.k|
-0023e574.c|
-0023e574.k|
-0023e574.t|
+0023e574.c|in_door.cv2
+0023e574.k|in_door.kmx
+0023e574.t|in_door.tri
 00252aba.t|
 00266f8f.k|shl_bld1.kmx
 00266f90.k|shl_bld2.kmx
@@ -51,7 +51,7 @@
 002887ef.k|shl_frg1.kmx
 002b658f.k|shl_lit1.kmx
 002b6590.k|shl_lit2.kmx
-002eedfb.c|sna_skl3.c
+002eedfb.c|sna_skl3.cv2
 00376d7d.k|grenade_ibox.kmx
 00382235.t|menu.tri
 00386c37.t|
@@ -96,7 +96,7 @@
 0079e507.k|
 0081680b.h|area24a.hzx
 0081680b.k|area24a.kmx
-0081680b.l|area24a.l
+0081680b.l|area24a.lt2
 0081680b.m|area24a.mar
 0081680b.s|area24a.sar
 0081680b.t|area24a.tri
@@ -105,9 +105,9 @@
 008e6fa2.k|scr_kihou01.kmx
 00906c32.m|
 00906c32.s|
-00914575.c|
-00914575.k|
-00914575.t|
+00914575.c|hev_grd.cv2
+00914575.k|hev_grd.kmx
+00914575.t|hev_grd.tri
 009260db.k|
 009260dc.k|
 009260dd.k|
@@ -127,7 +127,7 @@
 00b622d0.t|
 00b6d56b.k|brk_scr07_full.kmx
 00b91050.k|hev_grd_sling.kmx
-00bb9cba.k|
+00bb9cba.k|in_door_sh.kmx
 00bc536a.k|
 00bd7cce.k|ration_ibox.kmx
 00bdc25f.k|awa_model2.kmx
@@ -142,7 +142,7 @@
 00e89e43.k|psg_lenz_bd.kmx
 00e89ed1.k|psg_lenz_fr.kmx
 00e96b98.k|
-00eb0f44.k|
+00eb0f44.k|launcher_amo_ibox.kmx
 00ed3115.k|scr_waterline01.kmx
 00f12e68.k|shl_acr.kmx
 00f38941.k|

@@ -1,4 +1,4 @@
-0001cec7.o|psg.o
+0001cec7.o|psg.o2d
 0001d9d9.t|sky.tri
 000bccec.k|
 0014ee91.k|
@@ -40,10 +40,10 @@
 00705aab.k|wlf_def_blink_1.kmx
 0081678b.h|area20a.hzx
 0081678b.k|area20a.kmx
-0081678b.l|area20a.l
+0081678b.l|area20a.lt2
 0081678b.t|area20a.tri
 008e6fa2.k|scr_kihou01.kmx
-00913ba4.k|
+00913ba4.k|wlf_def.kmx
 009204a6.k|
 00993e80.k|
 00993e80.t|

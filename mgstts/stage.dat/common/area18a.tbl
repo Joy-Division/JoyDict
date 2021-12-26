@@ -33,7 +33,7 @@
 00739c79.t|
 007862b2.t|
 0081648b.h|area18a.hzx
-0081648b.l|area18a.l
+0081648b.l|area18a.lt2
 0081648b.m|area18a.mar
 0081648b.s|area18a.sar
 0081648b.t|area18a.tri
@@ -54,7 +54,7 @@
 00b3a2c7.t|w01d_flour_B.tri
 00b6d56b.k|brk_scr07_full.kmx
 00bd7cce.k|ration_ibox.kmx
-00bdc25f.c|awa_model2.c
+00bdc25f.c|awa_model2.cv2
 00bdc25f.k|awa_model2.kmx
 00c0267e.k|grenade_ibox_sh.kmx
 00c08142.k|
@@ -95,7 +95,7 @@
 00e89e43.k|psg_lenz_bd.kmx
 00e89ed1.k|psg_lenz_fr.kmx
 00e97498.k|
-00eb0f44.k|
+00eb0f44.k|launcher_amo_ibox.kmx
 00ed3115.k|scr_waterline01.kmx
 00efa25d.k|dzp2_label.kmx
 00ff36b2.k|

@@ -21,8 +21,8 @@
 001fb776.t|out_cold_sling.tri
 00220aa6.k|hev_grd_blink1.kmx
 00220aa7.k|hev_grd_blink2.kmx
-0023e574.k|
-0023e574.t|
+0023e574.k|in_door.kmx
+0023e574.t|in_door.tri
 00252aba.t|
 00274d59.t|
 002887ef.k|shl_frg1.kmx
@@ -59,7 +59,7 @@
 00814616.k|
 008163cb.h|area12a.hzx
 008163cb.k|area12a.kmx
-008163cb.l|area12a.l
+008163cb.l|area12a.lt2
 008163cb.t|area12a.tri
 008163cd.k|area12c.kmx
 008e41fe.k|gbs_kanagu.kmx
@@ -67,8 +67,8 @@
 008e6fa2.k|scr_kihou01.kmx
 009139b1.k|
 009139b1.t|
-00914575.k|
-00914575.t|
+00914575.k|hev_grd.kmx
+00914575.t|hev_grd.tri
 00924099.t|
 0098451b.k|
 00993e80.k|
@@ -93,7 +93,7 @@
 00b62268.t|mrl_dis_sling.tri
 00b6d56b.k|brk_scr07_full.kmx
 00b91050.k|hev_grd_sling.kmx
-00bb9cba.k|
+00bb9cba.k|in_door_sh.kmx
 00bc536a.k|
 00bdc25f.k|awa_model2.kmx
 00c132cc.k|

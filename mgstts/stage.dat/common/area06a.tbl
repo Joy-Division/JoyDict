@@ -39,9 +39,9 @@
 00237752.k|
 00237753.k|
 00237755.k|
-0023e574.c|
-0023e574.k|
-0023e574.t|
+0023e574.c|in_door.cv2
+0023e574.k|in_door.kmx
+0023e574.t|in_door.tri
 00252aba.t|
 00266f8f.k|shl_bld1.kmx
 00266f90.k|shl_bld2.kmx
@@ -100,7 +100,7 @@
 00586251.k|cfr_label.kmx
 00586a51.k|cgr_label.kmx
 005b4973.t|
-005b9a91.k|
+005b9a91.k|fms_label.kmx
 005cbf11.k|gre_label.kmx
 0060ea51.k|m92_label.kmx
 00610ff5.k|in_door_sling.kmx
@@ -124,10 +124,10 @@
 0074acdc.k|
 0075acdc.k|
 007851b2.t|
-007ee425.k|
+007ee425.k|magazine_label.kmx
 0081604b.h|area06a.hzx
 0081604b.k|area06a.kmx
-0081604b.l|area06a.l
+0081604b.l|area06a.lt2
 0081604b.m|area06a.mar
 0081604b.s|area06a.sar
 0081604b.t|area06a.tri
@@ -141,9 +141,9 @@
 008e6fa2.k|scr_kihou01.kmx
 00913890.k|elv_dr1.kmx
 00913891.k|elv_dr2.kmx
-00914575.c|
-00914575.k|
-00914575.t|
+00914575.c|hev_grd.cv2
+00914575.k|hev_grd.kmx
+00914575.t|hev_grd.tri
 009d4021.k|handgun_amo_ibox_sh.kmx
 009e9447.k|rifle_amo_ibox_sh.kmx
 009f8077.k|
@@ -162,7 +162,7 @@
 00b91050.k|hev_grd_sling.kmx
 00bb6522.k|w17a_trap_dr1.kmx
 00bb6523.k|w17a_trap_dr2.kmx
-00bb9cba.k|
+00bb9cba.k|in_door_sh.kmx
 00bc536a.k|
 00bd7cce.k|ration_ibox.kmx
 00bdc25f.k|awa_model2.kmx
@@ -185,7 +185,7 @@
 00e924aa.k|
 00e924ab.k|
 00e924ac.k|
-00eb0f44.k|
+00eb0f44.k|launcher_amo_ibox.kmx
 00ed3115.k|scr_waterline01.kmx
 00f12e68.k|shl_acr.kmx
 00f459bf.m|sna_locker.mar

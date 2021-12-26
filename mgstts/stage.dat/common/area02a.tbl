@@ -36,9 +36,9 @@
 00269492.k|shl_bul4.kmx
 00269493.k|shl_bul5.kmx
 00269494.k|shl_bul6.kmx
-0026e012.c|
-0026e012.k|
-0026e012.t|
+0026e012.c|out_cold.cv2
+0026e012.k|out_cold.kmx
+0026e012.t|out_cold.tri
 0026e02f.k|shl_chi1.kmx
 0026e030.k|shl_chi2.kmx
 0026e031.k|shl_chi3.kmx
@@ -94,10 +94,10 @@
 007019b6.t|
 00715d80.t|2D_tex.tri
 00784fb2.t|
-007f8d0a.k|
+007f8d0a.k|svc_plant_brk1.kmx
 00815fcb.h|area02a.hzx
 00815fcb.k|area02a.kmx
-00815fcb.l|area02a.l
+00815fcb.l|area02a.lt2
 00815fcb.m|area02a.mar
 00815fcb.s|area02a.sar
 00815fcb.t|area02a.tri
@@ -122,7 +122,7 @@
 00b622d0.t|
 00b6d56b.k|brk_scr07_full.kmx
 00bd7cce.k|ration_ibox.kmx
-00bdc25f.c|awa_model2.c
+00bdc25f.c|awa_model2.cv2
 00bdc25f.k|awa_model2.kmx
 00be0a0c.k|out_cold_blink_01.kmx
 00be0a0d.k|out_cold_blink_02.kmx
@@ -135,9 +135,9 @@
 00cc73a9.t|
 00ceb372.k|sna_def_sno_dcl_a.kmx
 00ceb373.k|sna_def_sno_dcl_b.kmx
-00dc0276.c|
-00dc0276.k|
-00dc0276.t|
+00dc0276.c|out_cold2.cv2
+00dc0276.k|out_cold2.kmx
+00dc0276.t|out_cold2.tri
 00e89e43.k|psg_lenz_bd.kmx
 00e89ed1.k|psg_lenz_fr.kmx
 00ed3115.k|scr_waterline01.kmx
