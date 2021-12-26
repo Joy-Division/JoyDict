@@ -1,8 +1,8 @@
 00003664.2b|ef_bak_bakuha04_hy.cpef
 0000c972.2b|ef_wtr_gun_outsplash01_iy.cpef
-0001389b.03|
+0001389b.03|kgm_def.txn
 0001389b.0d|kgm_def.mdn
-0001389b.22|
+0001389b.22|kgm_def.rdv
 00017c77.2b|ef_hit_gsol_man_iy.cpef
 00020eda.5f|
 0003c98f.0d|kgm_item_hat.mdn
@@ -77,9 +77,9 @@
 002e4a94.0d|tane_asr_fire.mdn
 002fc303.03|gred_bul_cm.txn
 002fc303.0d|gred_bul_cm.mdn
-002fd488.03|
+002fd488.03|s03a_dust_a0.txn
 002fd488.0d|s03a_dust_a0.mdn
-002fd4a8.03|
+002fd4a8.03|s03a_dust_b0.txn
 002fd4a8.0d|s03a_dust_b0.mdn
 002fe8b6.03|pop_up_0.txn
 00308866.2b|ef_smk_jump_flfog_iy.cpef
@@ -362,7 +362,7 @@
 00d5649b.19|
 00d5d1bb.2b|ef_bak_mortar.cpef
 00d658d4.11|cwr_spe_mis.cnp
-00d764ae.03|
+00d764ae.03|vz83_sug_amo.txn
 00d764ae.0d|vz83_sug_amo.mdn
 00d9a7f6.2b|ef_mzf_M82_shock.cpef
 00db3b1f.03|p90s_bul_cm.txn

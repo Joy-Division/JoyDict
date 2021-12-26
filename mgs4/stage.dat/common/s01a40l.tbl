@@ -23,7 +23,7 @@
 000750b6.08|
 000750b6.09|
 00077aeb.03|solideye_main_0.txn
-00086b9e.65|
+00086b9e.65|sd_s01a40l.vlm
 0008e3d0.0d|
 0008f7cd.0d|
 0009114b.0d|
@@ -82,7 +82,7 @@
 0012f137.0d|s01a_scan_a0_sk.mdn
 0012f137.18|s01a_scan_a0_sk.phs
 00137137.0d|s01a_scan_a1_sk.mdn
-00137137.18|
+00137137.18|s01a_scan_a1_sk.phs
 00141b54.08|enecqc.mtar
 00141b54.09|enecqc.mtsq
 00141d5e.08|enedam.mtar
@@ -212,7 +212,7 @@
 003cce76.2b|ef_mzf_M4.cpef
 003d642e.0d|s02a_glass_clone_cl.mdn
 003d7604.5f|area_load_fade.la2
-003d93be.0d|
+003d93be.0d|denb_hag_def_hig.mdn
 003da7bb.0d|denb_hag_def_mid.mdn
 003dc139.0d|denb_hag_def_sub.mdn
 003dc139.11|denb_hag_def_sub.cnp
@@ -229,7 +229,7 @@
 004176fc.0d|s01_sky.mdn
 0041ad75.2b|ef_mzf_Vulcan_smoke.cpef
 0041b84f.0d|
-0042a441.0d|
+0042a441.0d|p90s_sug_def_hig.mdn
 0042b83e.0d|p90s_sug_def_mid.mdn
 0042d1bc.0d|p90s_sug_def_sub.mdn
 0042d1bc.11|p90s_sug_def_sub.cnp
@@ -633,7 +633,7 @@
 00e0cee2.2b|ef_mzf_geckgun.cpef
 00e0d18d.2b|ef_mzf_javelin_smoke.cpef
 00e1a168.0d|shot_shell_cm.mdn
-00e2a821.0d|
+00e2a821.0d|p90s_sug_sup_hig.mdn
 00e2bc1e.0d|p90s_sug_sup_mid.mdn
 00e2d59c.0d|p90s_sug_sup_sub.mdn
 00e2d59c.11|p90s_sug_sup_sub.cnp
@@ -651,7 +651,7 @@
 00e7d85a.0d|
 00e7f1d8.0d|
 00e7f1d8.11|
-00e9945d.0d|
+00e9945d.0d|xm32_grl_def_hig.mdn
 00e9a85a.0d|xm32_grl_def_mid.mdn
 00e9c1d8.0d|xm32_grl_def_sub.mdn
 00e9c1d8.11|xm32_grl_def_sub.cnp

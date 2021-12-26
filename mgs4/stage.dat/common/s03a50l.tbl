@@ -129,7 +129,7 @@
 005d3dd5.2b|ef_mzf_javelin_launch.cpef
 0061375f.03|fis_def.txn
 0061375f.0d|fis_def.mdn
-006176fc.03|
+006176fc.03|s03_sky.txn
 006176fc.0d|s03_sky.mdn
 0061778f.0c|s03a50l.geom
 0061778f.65|s03a50l.vlm
@@ -298,7 +298,7 @@
 00cd420d.2b|ef_wtr_s03_foot01_iy.cpef
 00cdc20d.2b|ef_wtr_s03_foot02_iy.cpef
 00cdd65f.0d|
-00cdd67f.03|
+00cdd67f.03|s03a_lamp_b0.txn
 00cdd67f.0d|s03a_lamp_b0.mdn
 00cdd71f.0d|
 00cdd73f.0d|
@@ -317,7 +317,7 @@
 00d2540a.0d|light_kvan_car.mdn
 00d5d1bb.2b|ef_bak_mortar.cpef
 00d658d4.11|cwr_spe_mis.cnp
-00d764ae.03|
+00d764ae.03|vz83_sug_amo.txn
 00d764ae.0d|vz83_sug_amo.mdn
 00d9a7f6.2b|ef_mzf_M82_shock.cpef
 00db3b1f.03|p90s_bul_cm.txn

@@ -19,7 +19,7 @@
 0006e194.11|oprt_hag_def_sub.cnp
 0007324e.03|main_gunsight_0.txn
 00077aeb.03|solideye_main_0.txn
-0008679e.65|
+0008679e.65|sd_s01a30l.vlm
 000a328b.2b|ef_bos_scr_hit02_mw.cpef
 000a8396.03|ibox_item_small.txn
 000a8396.0d|ibox_item_small.mdn
@@ -151,7 +151,7 @@
 0037097e.2b|ef_bak_tow_exp_iy.cpef
 00386203.11|drst_apc_def.cnp
 0039541c.5f|solideye_scope.la2
-00395efd.03|
+00395efd.03|m14e_snr_amo.txn
 00395efd.0d|m14e_snr_amo.mdn
 0039f003.2b|ef_mzf_M870.cpef
 003b7418.03|
@@ -587,8 +587,8 @@
 00e65e54.03|scar_asr_amo.txn
 00e65e54.0d|scar_asr_amo.mdn
 00e78d5c.2b|ef_mzf_MP5SD_smoke.cpef
-00e9945d.03|
-00e9945d.0d|
+00e9945d.03|xm32_grl_def_hig.txn
+00e9945d.0d|xm32_grl_def_hig.mdn
 00e9a85a.0d|xm32_grl_def_mid.mdn
 00e9c1d8.0d|xm32_grl_def_sub.mdn
 00e9c1d8.11|xm32_grl_def_sub.cnp

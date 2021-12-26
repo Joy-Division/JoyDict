@@ -65,7 +65,7 @@
 0027d515.08|ene_face.mtar
 0027d515.09|ene_face.mtsq
 0028431b.03|common.txn
-00286b9e.65|
+00286b9e.65|sd_s03a40l.vlm
 0029484b.2b|
 00294951.0d|ef_fir_sliderL.mdn
 00294957.0d|ef_fir_sliderR.mdn
@@ -88,10 +88,10 @@
 002fc303.0d|gred_bul_cm.mdn
 002fe8b6.03|pop_up_0.txn
 00308866.2b|ef_smk_jump_flfog_iy.cpef
-00313717.0d|
-00313717.22|
-00315868.0d|
-00315b95.0d|
+00313717.0d|eep_def.mdn
+00313717.22|eep_def.rdv
+00315868.0d|eep_low.mdn
+00315b95.0d|eep_mid.mdn
 00334152.22|cmgr.rdv
 003424db.2b|ef_gr_sand.cpef
 0037097e.2b|ef_bak_tow_exp_iy.cpef
@@ -108,7 +108,7 @@
 004157c2.08|
 004157c2.09|
 0041ad75.2b|ef_mzf_Vulcan_smoke.cpef
-0042a441.0d|
+0042a441.0d|p90s_sug_def_hig.mdn
 0042b83e.0d|p90s_sug_def_mid.mdn
 0042d1bc.0d|p90s_sug_def_sub.mdn
 0042d1bc.11|p90s_sug_def_sub.cnp
@@ -119,7 +119,7 @@
 0046c7ba.2b|ef_smk_cmgr_jump_big_iy.cpef
 0046f1ae.2b|ef_mzf_water_small.cpef
 0047cf83.2b|ef_mzf_gp30.cpef
-00485901.0d|
+00485901.0d|s03a_tree_e0.mdn
 0049e882.08|weapon2.mtar
 0049e882.09|weapon2.mtsq
 004da185.2b|ef_mzf_scar.cpef
@@ -242,7 +242,7 @@
 008d69bd.11|stri_bik_def.cnp
 008d69bd.22|stri_bik_def.rdv
 008e863d.03|resurt_0.txn
-008ea481.0d|
+008ea481.0d|vz83_sug_def_hig.mdn
 008eb87e.0d|vz83_sug_def_mid.mdn
 008ed1fc.0d|vz83_sug_def_sub.mdn
 008ed1fc.11|vz83_sug_def_sub.cnp
@@ -388,7 +388,7 @@
 00e1a168.0d|shot_shell_cm.mdn
 00e265f3.0d|kvan_car_def.mdn
 00e265f3.11|kvan_car_def.cnp
-00e2a821.0d|
+00e2a821.0d|p90s_sug_sup_hig.mdn
 00e2bc1e.0d|p90s_sug_sup_mid.mdn
 00e2d59c.0d|p90s_sug_sup_sub.mdn
 00e2d59c.11|p90s_sug_sup_sub.cnp

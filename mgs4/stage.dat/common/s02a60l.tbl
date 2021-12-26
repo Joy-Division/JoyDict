@@ -53,7 +53,7 @@
 001760aa.0d|p90s_sug_amo.mdn
 0017788e.0d|p90s_sug_gls.mdn
 00180720.02|scenerio.gcx
-0018739e.65|
+0018739e.65|sd_s02a60l.vlm
 0018adc1.28|
 001909c1.28|
 00190dc1.28|
@@ -85,7 +85,7 @@
 0027d515.09|ene_face.mtsq
 0028431b.03|common.txn
 00285881.0d|s02a_tree_a0.mdn
-002858a1.0d|
+002858a1.0d|s02a_tree_b0.mdn
 002858c1.0d|s02a_tree_c0.mdn
 002858c2.0d|s02a_tree_c1.mdn
 002858e1.0d|s02a_tree_d0.mdn
@@ -107,8 +107,8 @@
 00313a8f.0d|sap_def.mdn
 00313a8f.11|sap_def.cnp
 00313a8f.22|sap_def.rdv
-00315be0.0d|
-00315f0d.0d|
+00315be0.0d|sap_low.mdn
+00315f0d.0d|sap_mid.mdn
 00334152.22|cmgr.rdv
 003424db.2b|ef_gr_sand.cpef
 00356a3b.0d|
@@ -125,7 +125,7 @@
 003d7604.5f|area_load_fade.la2
 003e6492.5f|solideye_basemap_mini.la2
 0041ad75.2b|ef_mzf_Vulcan_smoke.cpef
-0042a441.0d|
+0042a441.0d|p90s_sug_def_hig.mdn
 0042b83e.0d|p90s_sug_def_mid.mdn
 0042d1bc.0d|p90s_sug_def_sub.mdn
 0042d1bc.11|p90s_sug_def_sub.cnp
@@ -569,7 +569,7 @@
 00e0cee2.2b|ef_mzf_geckgun.cpef
 00e0d18d.2b|ef_mzf_javelin_smoke.cpef
 00e1a168.0d|shot_shell_cm.mdn
-00e2a821.0d|
+00e2a821.0d|p90s_sug_sup_hig.mdn
 00e2bc1e.0d|p90s_sug_sup_mid.mdn
 00e2d59c.0d|p90s_sug_sup_sub.mdn
 00e2d59c.11|p90s_sug_sup_sub.cnp
@@ -583,7 +583,7 @@
 00e577ea.0d|mp7a_sug_gls.mdn
 00e65e54.0d|scar_asr_amo.mdn
 00e78d5c.2b|ef_mzf_MP5SD_smoke.cpef
-00e9945d.0d|
+00e9945d.0d|xm32_grl_def_hig.mdn
 00e9a85a.0d|xm32_grl_def_mid.mdn
 00e9c1d8.0d|xm32_grl_def_sub.mdn
 00e9c1d8.11|xm32_grl_def_sub.cnp

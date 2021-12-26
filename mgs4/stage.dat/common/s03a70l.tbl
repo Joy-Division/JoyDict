@@ -76,7 +76,7 @@
 002747f4.03|brghtadjst_0.txn
 0027ba2f.08|
 0027ba2f.09|
-0028779e.65|
+0028779e.65|sd_s03a70l.vlm
 00294951.03|ef_fir_sliderL.txn
 00294951.0d|ef_fir_sliderL.mdn
 00294957.0d|ef_fir_sliderR.mdn
@@ -427,9 +427,9 @@
 00dc0e57.2b|ef_wtr_gero_splash_iy.cpef
 00dddedb.03|solideye_envg_0.txn
 00de6517.5f|tags_itembox.la2
-00df3404.03|
-00df3404.0d|
-00df4801.0d|
+00df3404.03|mgll_grl_def_hig.txn
+00df3404.0d|mgll_grl_def_hig.mdn
+00df4801.0d|mgll_grl_def_mid.mdn
 00df617f.0d|mgll_grl_def_sub.mdn
 00df617f.11|mgll_grl_def_sub.cnp
 00dfc7a3.03|loading_LVN_0.txn

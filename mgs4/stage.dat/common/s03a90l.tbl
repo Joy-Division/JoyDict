@@ -29,7 +29,7 @@
 00155dd4.2b|ef_mzf_Ejectionsmoke_s1.cpef
 0015a674.2b|ef_wtr_water03_hy.cpef
 00162674.2b|ef_wtr_water04_hy.cpef
-001760aa.03|
+001760aa.03|p90s_sug_amo.txn
 001760aa.0d|p90s_sug_amo.mdn
 001790bf.03|
 001790bf.0d|
@@ -124,7 +124,7 @@
 00602e51.0d|
 0061375f.03|fis_def.txn
 0061375f.0d|fis_def.mdn
-006176fc.03|
+006176fc.03|s03_sky.txn
 006176fc.0d|s03_sky.mdn
 00618784.06|s03a90a.lt3
 0061878f.0c|s03a90l.geom

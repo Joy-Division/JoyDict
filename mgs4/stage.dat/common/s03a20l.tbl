@@ -44,7 +44,7 @@
 00155dd4.2b|ef_mzf_Ejectionsmoke_s1.cpef
 0015a674.2b|ef_wtr_water03_hy.cpef
 00162674.2b|ef_wtr_water04_hy.cpef
-0016d5e0.0d|
+0016d5e0.0d|s03a_garb_g0.mdn
 00180720.02|scenerio.gcx
 001997e2.5f|chibrowser_mesh.la2
 0019d037.2b|ef_wtr_gun_splash04_l_iy.cpef
@@ -72,7 +72,7 @@
 0027d515.08|ene_face.mtar
 0027d515.09|ene_face.mtsq
 0028431b.03|common.txn
-0028639e.65|
+0028639e.65|sd_s03a20l.vlm
 00291b5e.0d|
 00291b5f.0d|
 00291b60.0d|
@@ -101,11 +101,11 @@
 002fd4a8.0d|s03a_dust_b0.mdn
 002fe8b6.03|pop_up_0.txn
 00308866.2b|ef_smk_jump_flfog_iy.cpef
-00313717.0d|
-00313717.11|
-00313717.22|
-00315868.0d|
-00315b95.0d|
+00313717.0d|eep_def.mdn
+00313717.11|eep_def.cnp
+00313717.22|eep_def.rdv
+00315868.0d|eep_low.mdn
+00315b95.0d|eep_mid.mdn
 00334152.22|cmgr.rdv
 003424db.2b|ef_gr_sand.cpef
 00343b45.2b|ef_mzf_AK12.cpef
@@ -136,10 +136,10 @@
 004c5482.0d|s03a_drum_a0.mdn
 004da185.2b|ef_mzf_scar.cpef
 004fbed3.03|solideye_weakpoint_0.txn
-004fd433.0d|
+004fd433.0d|s03a_bket_c0.mdn
 004fd473.0d|s03a_bket_e0.mdn
-004fd4d3.0d|
-004fd4f3.0d|
+004fd4d3.0d|s03a_bket_h0.mdn
+004fd4f3.0d|s03a_bket_h1.mdn
 004ff5f9.03|irs_game_over_0.txn
 00507cf5.03|solideye_scope_0.txn
 00531836.5d|somatou_kari_01.jpg
@@ -255,7 +255,7 @@
 008cd8e3.0d|s03a_ssin_f0.mdn
 008cd903.0d|s03a_ssin_g0.mdn
 008cd923.0d|s03a_ssin_h0.mdn
-008cd943.0d|
+008cd943.0d|s03a_ssin_i0.mdn
 008cd9a3.0d|s03a_ssin_l0.mdn
 008d3588.2b|ef_hit_railgun_hitdef_iy.cpef
 008d4f1b.2b|ef_mzf_handgun.cpef

@@ -86,7 +86,7 @@
 00155dd4.2b|ef_mzf_Ejectionsmoke_s1.cpef
 0015a674.2b|ef_wtr_water03_hy.cpef
 00162674.2b|ef_wtr_water04_hy.cpef
-001760aa.03|
+001760aa.03|p90s_sug_amo.txn
 001760aa.0d|p90s_sug_amo.mdn
 0017788e.0d|p90s_sug_gls.mdn
 00180720.02|scenerio.gcx
@@ -197,8 +197,8 @@
 003d642e.03|s02a_glass_clone_cl.txn
 003d642e.0d|s02a_glass_clone_cl.mdn
 003d7604.5f|area_load_fade.la2
-003d93be.03|
-003d93be.0d|
+003d93be.03|denb_hag_def_hig.txn
+003d93be.0d|denb_hag_def_hig.mdn
 003da7bb.0d|denb_hag_def_mid.mdn
 003dc139.0d|denb_hag_def_sub.mdn
 003dc139.11|denb_hag_def_sub.cnp
@@ -207,8 +207,8 @@
 00413043.08|
 00413043.09|
 0041ad75.2b|ef_mzf_Vulcan_smoke.cpef
-0042a441.03|
-0042a441.0d|
+0042a441.03|p90s_sug_def_hig.txn
+0042a441.0d|p90s_sug_def_hig.mdn
 0042b772.03|
 0042b772.0d|
 0042b83e.0d|p90s_sug_def_mid.mdn
@@ -226,7 +226,7 @@
 0046c7ba.2b|ef_smk_cmgr_jump_big_iy.cpef
 0046f1ae.2b|ef_mzf_water_small.cpef
 0047cf83.2b|ef_mzf_gp30.cpef
-0048639e.65|
+0048639e.65|sd_s05a20l.vlm
 004882b4.03|rose_petal_high_cm.txn
 004882b4.0d|rose_petal_high_cm.mdn
 0049e882.08|weapon2.mtar
@@ -276,7 +276,7 @@
 005b4b46.0d|xm25_bul_cm.mdn
 005c2b5c.2b|ef_mzf_gp30_smoke.cpef
 005d3dd5.2b|ef_mzf_javelin_launch.cpef
-005e9818.03|
+005e9818.03|m18a_put_def_mid.txn
 005e9818.0d|m18a_put_def_mid.mdn
 005eb196.0d|m18a_put_def_sub.mdn
 005f6844.03|
@@ -565,7 +565,7 @@
 00b6c1db.5f|solideye_main.la2
 00b7501d.2b|ef_mzf_gsol_l_iy.cpef
 00b75a68.03|ipod_page_0.txn
-00b760f7.03|
+00b760f7.03|xm8c_asr_amo.txn
 00b760f7.0d|xm8c_asr_amo.mdn
 00b78f3e.2b|ef_bbl_mouth01_iy.cpef
 00b7d01d.2b|ef_mzf_gsol_m_iy.cpef
@@ -586,7 +586,7 @@
 00c46091.03|
 00c46091.0d|
 00c4cecc.0d|fragment_gravel_m_cm.mdn
-00c55b8c.03|
+00c55b8c.03|dsr1_snr_amo.txn
 00c55b8c.0d|dsr1_snr_amo.mdn
 00c5a072.03|fragment_paper1.txn
 00c5a072.0d|fragment_paper1.mdn
@@ -664,7 +664,7 @@
 00e0d18d.2b|ef_mzf_javelin_smoke.cpef
 00e1a168.03|shot_shell_cm.txn
 00e1a168.0d|shot_shell_cm.mdn
-00e2a821.0d|
+00e2a821.0d|p90s_sug_sup_hig.mdn
 00e2bc1e.0d|p90s_sug_sup_mid.mdn
 00e2cf21.5f|
 00e2d59c.0d|p90s_sug_sup_sub.mdn

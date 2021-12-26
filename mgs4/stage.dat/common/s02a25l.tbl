@@ -21,10 +21,10 @@
 0006e194.11|oprt_hag_def_sub.cnp
 00077aeb.03|solideye_main_0.txn
 0008f2d7.03|solideye_call_0.txn
-00095d76.03|
+00095d76.03|m60e_mag_amo.txn
 00095d76.0d|m60e_mag_amo.mdn
 00095d76.11|m60e_mag_amo.cnp
-00096273.03|
+00096273.03|m60e_mag_bul.txn
 00096273.0d|m60e_mag_bul.mdn
 0009a354.03|n002a_clone_weed_parts_cm.txn
 0009a354.0d|n002a_clone_weed_parts_cm.mdn
@@ -54,8 +54,8 @@
 000fb1b2.11|
 0011032e.0d|rifl_bul_cm.mdn
 00148375.19|
-0014b468.03|
-0014b468.0d|
+0014b468.03|svdd_snr_def_hig.txn
+0014b468.0d|svdd_snr_def_hig.mdn
 0014c865.0d|svdd_snr_def_mid.mdn
 0014e1e3.0d|svdd_snr_def_sub.mdn
 0014e1e3.11|svdd_snr_def_sub.cnp
@@ -94,7 +94,7 @@
 00285881.0d|s02a_tree_a0.mdn
 002858c1.0d|s02a_tree_c0.mdn
 002858c2.0d|s02a_tree_c1.mdn
-002858e1.03|
+002858e1.03|s02a_tree_d0.txn
 002858e1.0d|s02a_tree_d0.mdn
 002858e2.0d|s02a_tree_d1.mdn
 002858e3.0d|s02a_tree_d2.mdn
@@ -109,7 +109,7 @@
 002b2d43.2b|ef_bos_scr_spirit01_mw.cpef
 002b4ed8.5f|
 002bad43.2b|ef_bos_scr_spirit02_mw.cpef
-002c5486.03|
+002c5486.03|s02a_drum_a4.txn
 002c5486.0d|s02a_drum_a4.mdn
 002e4a94.03|tane_asr_fire.txn
 002e4a94.0d|tane_asr_fire.mdn
@@ -131,7 +131,7 @@
 00386203.03|drst_apc_def.txn
 00386203.0d|drst_apc_def.mdn
 00386203.11|drst_apc_def.cnp
-00386317.03|
+00386317.03|svdd_snr_amo.txn
 00386317.0d|svdd_snr_amo.mdn
 0038c4c3.03|
 0038c4c3.0d|
@@ -139,7 +139,7 @@
 0039317e.0d|
 0039317e.22|
 0039541c.5f|solideye_scope.la2
-00395efd.03|
+00395efd.03|m14e_snr_amo.txn
 00395efd.0d|m14e_snr_amo.mdn
 0039f003.2b|ef_mzf_M870.cpef
 003b6cbd.03|
@@ -227,7 +227,7 @@
 006bbb74.0d|
 006c246e.03|
 006c246e.0d|
-006cc4a0.03|
+006cc4a0.03|hemt_tru_od.txn
 006cc4a0.0d|hemt_tru_od.mdn
 006d7c7c.03|pistl_bul_bul_cm.txn
 006d7c7c.0d|pistl_bul_bul_cm.mdn
@@ -315,11 +315,11 @@
 009e043e.0d|
 009f42b0.5f|loading_MGS4.la2
 009f7981.21|cache_nodld.dlz
-009fc8ad.03|
+009fc8ad.03|s02a_skyE.txn
 009fc8ad.0d|s02a_skyE.mdn
 00a1d83b.03|
 00a1d83b.0d|
-00a20077.03|
+00a20077.03|s02a_gras_a0_cm.txn
 00a20077.0d|s02a_gras_a0_cm.mdn
 00a28077.0d|s02a_gras_a1_cm.mdn
 00a34462.03|
@@ -329,7 +329,7 @@
 00a50346.2b|ef_dst_clif01_iy.cpef
 00a62824.0d|
 00a69f54.2b|ef_dst_down02_mw.cpef
-00a75794.03|
+00a75794.03|g3a3_asr_amo.txn
 00a75794.0d|g3a3_asr_amo.mdn
 00a89d60.2b|ef_dst_foot02_mw.cpef
 00a90a6e.2b|ef_snw_foot01_iy.cpef
@@ -436,7 +436,7 @@
 00d09c0c.2b|ef_mzf_stin_Blaunch.cpef
 00d0abdd.2b|ef_mzf_scar_smoke.cpef
 00d1474b.2b|ef_wtr_s03_dcan_roll01_iy.cpef
-00d20078.03|
+00d20078.03|s02a_gras_t0_cm.txn
 00d20078.0d|s02a_gras_t0_cm.mdn
 00d3b301.03|
 00d3b301.0d|
@@ -479,8 +479,8 @@
 00e65e54.0d|scar_asr_amo.mdn
 00e69ec5.2b|ef_bos_overheat_iy.cpef
 00e78d5c.2b|ef_mzf_MP5SD_smoke.cpef
-00e9945d.03|
-00e9945d.0d|
+00e9945d.03|xm32_grl_def_hig.txn
+00e9945d.0d|xm32_grl_def_hig.mdn
 00e9a85a.0d|xm32_grl_def_mid.mdn
 00e9c1d8.0d|xm32_grl_def_sub.mdn
 00e9c1d8.11|xm32_grl_def_sub.cnp

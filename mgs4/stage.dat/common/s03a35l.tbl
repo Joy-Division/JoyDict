@@ -14,7 +14,7 @@
 000ab28b.2b|ef_bos_scr_hit03_mw.cpef
 000b9c7c.5f|solideye_phase.la2
 000cd933.0d|s03a_wkan_a0.mdn
-000cd953.0d|
+000cd953.0d|s03a_wkan_b0.mdn
 000cd973.0d|s03a_wkan_c0.mdn
 000cd993.0d|s03a_wkan_d0.mdn
 000cd9b3.0d|s03a_wkan_e0.mdn
@@ -26,7 +26,7 @@
 000cda73.0d|s03a_wkan_k0.mdn
 000cda93.0d|s03a_wkan_l0.mdn
 000cdab3.0d|s03a_wkan_m0.mdn
-000cdad3.0d|
+000cdad3.0d|s03a_wkan_n0.mdn
 000cdaf3.0d|s03a_wkan_o0.mdn
 000d12d5.03|solideye_batt_0.txn
 000d5f0a.0d|
@@ -55,7 +55,7 @@
 0015a674.2b|ef_wtr_water03_hy.cpef
 00162674.2b|ef_wtr_water04_hy.cpef
 0016c0e4.0d|Bflare_stry_car.mdn
-0016d5e0.0d|
+0016d5e0.0d|s03a_garb_g0.mdn
 0017251d.2b|ef_smk_ge_kick_stry_iy.cpef
 00180720.02|scenerio.gcx
 001997e2.5f|chibrowser_mesh.la2
@@ -89,7 +89,7 @@
 0027d515.08|ene_face.mtar
 0027d515.09|ene_face.mtsq
 0028431b.03|common.txn
-0028683e.65|
+0028683e.65|sd_s03a35l.vlm
 0029484b.2b|
 0029652d.08|sna_hide.mtar
 0029652d.09|sna_hide.mtsq
@@ -112,10 +112,10 @@
 002fd4a8.0d|s03a_dust_b0.mdn
 002fe8b6.03|pop_up_0.txn
 00308866.2b|ef_smk_jump_flfog_iy.cpef
-00313717.0d|
-00313717.22|
-00315868.0d|
-00315b95.0d|
+00313717.0d|eep_def.mdn
+00313717.22|eep_def.rdv
+00315868.0d|eep_low.mdn
+00315b95.0d|eep_mid.mdn
 00334152.22|cmgr.rdv
 003424db.2b|ef_gr_sand.cpef
 0037097e.2b|ef_bak_tow_exp_iy.cpef
@@ -154,9 +154,9 @@
 0047d60a.0d|
 0047d60a.11|
 00485881.0d|s03a_tree_a0.mdn
-004858a1.0d|
+004858a1.0d|s03a_tree_b0.mdn
 004858c1.0d|s03a_tree_c0.mdn
-004858e1.0d|
+004858e1.0d|s03a_tree_d0.mdn
 0049e882.08|weapon2.mtar
 0049e882.09|weapon2.mtsq
 004aa1c9.0d|
@@ -166,10 +166,10 @@
 004da185.2b|ef_mzf_scar.cpef
 004ed6c5.0d|
 004fbed3.03|solideye_weakpoint_0.txn
-004fd433.0d|
+004fd433.0d|s03a_bket_c0.mdn
 004fd473.0d|s03a_bket_e0.mdn
-004fd4d3.0d|
-004fd4f3.0d|
+004fd4d3.0d|s03a_bket_h0.mdn
+004fd4f3.0d|s03a_bket_h1.mdn
 004ff5f9.03|irs_game_over_0.txn
 00507cf5.03|solideye_scope_0.txn
 0051a3f7.0d|
@@ -300,7 +300,7 @@
 008cd8e3.0d|s03a_ssin_f0.mdn
 008cd903.0d|s03a_ssin_g0.mdn
 008cd923.0d|s03a_ssin_h0.mdn
-008cd943.0d|
+008cd943.0d|s03a_ssin_i0.mdn
 008cd9a3.0d|s03a_ssin_l0.mdn
 008d3588.2b|ef_hit_railgun_hitdef_iy.cpef
 008d4f1b.2b|ef_mzf_handgun.cpef
@@ -308,7 +308,7 @@
 008d69bd.11|stri_bik_def.cnp
 008d69bd.22|stri_bik_def.rdv
 008e863d.03|resurt_0.txn
-008ea481.0d|
+008ea481.0d|vz83_sug_def_hig.mdn
 008eb87e.0d|vz83_sug_def_mid.mdn
 008ed1fc.0d|vz83_sug_def_sub.mdn
 008ed1fc.11|vz83_sug_def_sub.cnp
@@ -439,7 +439,7 @@
 00cdd67f.0d|s03a_lamp_b0.mdn
 00cdd69f.0d|
 00cdd6a0.0d|
-00cdd6bf.0d|
+00cdd6bf.0d|s03a_lamp_d0.mdn
 00cdd6df.0d|s03a_lamp_e0.mdn
 00cdd6e0.0d|
 00cdd6ff.0d|

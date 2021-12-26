@@ -54,7 +54,7 @@
 001e0a02.2b|ef_gr_snw_sml_yh.cpef
 001e4326.03|pist_bul_cm.txn
 001e4326.0d|pist_bul_cm.mdn
-002036e8.03|
+002036e8.03|chapter_act4_0.txn
 00207d88.5f|irs_game_over_trim.la2
 0023e5a8.06|MGS4_Preview.lt3
 002434c4.03|
@@ -90,7 +90,7 @@
 0037097e.2b|ef_bak_tow_exp_iy.cpef
 0037290b.08|kgek.mtar
 0037290b.09|kgek.mtsq
-00385f9e.65|
+00385f9e.65|sd_s04a10l.vlm
 0039541c.5f|solideye_scope.la2
 0039f003.2b|ef_mzf_M870.cpef
 003a7429.2b|
@@ -98,8 +98,8 @@
 003cb88d.2b|ef_mzf_railgun_shock_big.cpef
 003cc00c.2b|ef_mzf_railgun_shock_def.cpef
 003d7604.5f|area_load_fade.la2
-003d93be.03|
-003d93be.0d|
+003d93be.03|denb_hag_def_hig.txn
+003d93be.0d|denb_hag_def_hig.mdn
 003da6b0.0d|
 003da7bb.0d|denb_hag_def_mid.mdn
 003dc139.0d|denb_hag_def_sub.mdn

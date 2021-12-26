@@ -116,10 +116,10 @@
 004d6a45.2b|ef_mzf_rugr.cpef
 004ed6c6.03|
 004ed6c6.0d|
-004fd434.03|
-004fd434.0d|
-004fd454.03|
-004fd454.0d|
+004fd434.03|s03a_bket_c1.txn
+004fd434.0d|s03a_bket_c1.mdn
+004fd454.03|s03a_bket_d1.txn
+004fd454.0d|s03a_bket_d1.mdn
 00507cf5.03|solideye_scope_0.txn
 0053f5d6.2b|ef_dst_gek_gun_conc_01_yh.cpef
 005475d6.2b|ef_dst_gek_gun_conc_02_yh.cpef
@@ -217,9 +217,9 @@
 008aef26.2b|ef_gr_cnc_a.cpef
 008b639e.5f|resurt.la2
 008c728c.5f|area_load.la2
-008cd8a4.03|
-008cd8a4.0d|
-008cd964.0d|
+008cd8a4.03|s03a_ssin_d1.txn
+008cd8a4.0d|s03a_ssin_d1.mdn
+008cd964.0d|s03a_ssin_j1.mdn
 008d2ff0.2b|ef_mis_rexmissile_sub_iy.cpef
 008d3588.2b|ef_hit_railgun_hitdef_iy.cpef
 008d4f1b.2b|ef_mzf_handgun.cpef
@@ -375,7 +375,7 @@
 00d6123e.0d|
 00d658d4.11|cwr_spe_mis.cnp
 00d6655b.2b|
-00d753e7.03|
+00d753e7.03|s03a_benc_a0.txn
 00d753e7.0d|s03a_benc_a0.mdn
 00d9a7f6.2b|ef_mzf_M82_shock.cpef
 00db3b1f.03|p90s_bul_cm.txn
@@ -434,7 +434,7 @@
 00f054bd.2b|ef_mzf_water_def.cpef
 00f154f6.03|
 00f154f6.0d|
-00f1d461.03|
+00f1d461.03|s03a_dbox_a0.txn
 00f1d461.0d|s03a_dbox_a0.mdn
 00f1d8b7.03|solideye_itmcell_0.txn
 00f29d3e.2b|ef_mzf_Rocket_shock_iy.cpef
