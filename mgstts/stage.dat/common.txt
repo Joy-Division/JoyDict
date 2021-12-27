@@ -486,6 +486,7 @@ hev_grd.kmx
 hev_grd.tri
 hev_grd_blink1.kmx
 hev_grd_blink2.kmx
+hev_grd_sh.kmx
 hev_grd_sling.kmx
 hev_grd_sling.tri
 hose_cone.kmx
@@ -568,7 +569,9 @@ mrl.sar
 mrl_def.cv2
 mrl_def.kmx
 mrl_def.tri
+mrl_def_sh.kmx
 mrl_dis.tri
+mrl_dis_sh.kmx
 mrl_dis_sling.kmx
 mrl_dis_sling.tri
 mrl_dmo.kmx
