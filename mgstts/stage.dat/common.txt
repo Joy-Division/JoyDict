@@ -410,6 +410,8 @@ detector_ibox.kmx
 detector_ibox_sh.kmx
 digital_camera_label.kmx
 digital_camera_sh.kmx
+dog.mar
+dog.sar
 dogtag_gps.kmx
 dogtag_gps.tri
 dogtag_ibox.kmx
@@ -626,7 +628,11 @@ psg_label.kmx
 psg_label.tri
 psg_lenz_bd.kmx
 psg_lenz_fr.kmx
+psy.mar
+psy.sar
 rad.kmx
+rat.mar
+rat.sar
 ration_ibox.kmx
 ration_ibox.tri
 ration_ibox_sh.kmx
@@ -732,6 +738,12 @@ snake.mar
 snake.sar
 snake.var
 snake_def.kmx
+snake_gas.mar
+snake_gas.sar
+snake_gas.var
+snake_rpl.mar
+snake_rpl.sar
+snake_rpl.var
 snh_def_mh_mt.kmx
 sougan.kmx
 sougan.tri
