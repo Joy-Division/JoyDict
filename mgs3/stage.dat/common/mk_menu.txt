@@ -19,6 +19,7 @@ frg_wood2_cm.rcm
 frg_wood3_cm.rcm
 get_new_items.la2
 get_new_items_0.tri
+get_new_items_pal.la2
 get_new_items_pal_0.tri
 ibox_cage_body.eft
 ibox_cage_body.mdl
