@@ -1,0 +1,5 @@
+cachetrans.txn
+get_new_items.la2
+get_new_items_0.txn
+memcard.la2
+memcard_0.txn
