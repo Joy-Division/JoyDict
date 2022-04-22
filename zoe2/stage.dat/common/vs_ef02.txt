@@ -1,0 +1,17 @@
+boss_rush.o2d
+ef02.hz2
+ef02.hzt
+ef02.lit
+ef02.mdz
+ef02.tex
+fc01_grab_pole.mdz
+fc01_grab_pole.tex
+local.fnt
+mission_result.o2d
+mission_result.tex
+mission_result_e.o2d
+sky_bg.tex
+step1.mdz
+step5.mdz
+vs_ef02.bin
+vs_ef02.scx

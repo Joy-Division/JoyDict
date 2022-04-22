@@ -1,0 +1,15 @@
+aaa_all_star_sp02.mdz
+aaa_all_star_sp02.tex
+local.fnt
+mission_result.o2d
+mission_result.tex
+mission_result_e.o2d
+normal_comb.tex
+sky_bg.tex
+sp02.eft
+sp02.hz2
+sp02.lit
+sp02.mdz
+sp02.tex
+vs_sp02.bin
+vs_sp02.scx

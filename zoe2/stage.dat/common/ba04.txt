@@ -1,0 +1,15 @@
+ba04.bin
+ba04.eft
+ba04.hz2
+ba04.lit
+ba04.mdz
+ba04.scx
+ba04.tex
+ibox_mission.mdz
+ibox_mission.tex
+local.fnt
+map_ds.o2d
+map_ds_00.o2d
+map_nodata.o2d
+s044a1.row
+s047a1.row

@@ -1,0 +1,13 @@
+ex01.eft
+ex01.hz2
+ex01.lit
+ex01.mdz
+ex01.tex
+local.fnt
+mission_result.o2d
+mission_result.tex
+mission_result_e.o2d
+plopera.mdz
+vs_ex01.bin
+vs_ex01.ene
+vs_ex01.scx

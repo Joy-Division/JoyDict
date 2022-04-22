@@ -1,0 +1,12 @@
+ex04.bin
+ex04.eft
+ex04.hz2
+ex04.lit
+ex04.mdz
+ex04.scx
+ex04.tex
+local.fnt
+mission_result.o2d
+mission_result.tex
+mission_result_e.o2d
+normal_comb.tex

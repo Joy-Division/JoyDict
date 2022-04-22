@@ -1,0 +1,4 @@
+demoslct.bin
+demoslct.scx
+local.fnt
+taper.o2d

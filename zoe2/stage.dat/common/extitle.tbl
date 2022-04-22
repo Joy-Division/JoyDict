@@ -1,7 +1,7 @@
-1b4d4910.fnt|
-3552e488.o2d|
+1b4d4910.fnt|local.fnt
+3552e488.o2d|mission_menu.o2d
 3a1dda8b.tex|
-3c00673d.o2d|
-48db2ac0.bin|
-5e001f3c.o2d|
-c53c4c00.scx|
+3c00673d.o2d|mission_menu_e.o2d
+48db2ac0.bin|extitle.bin
+5e001f3c.o2d|missions_main.o2d
+c53c4c00.scx|extitle.scx

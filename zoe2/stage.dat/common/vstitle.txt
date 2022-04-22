@@ -1,0 +1,6 @@
+local.fnt
+vs_menu.o2d
+vs_menu_e.o2d
+vs_menu_pal.o2d
+vstitle.bin
+vstitle.scx

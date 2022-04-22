@@ -1,0 +1,10 @@
+boss_rush.o2d
+inseki_s01_cm.mdz
+jeh_brk.cvz
+local.fnt
+mission_result.o2d
+mission_result.tex
+mission_result_e.o2d
+normal_comb.tex
+vs_cs01.bin
+vs_cs01.scx

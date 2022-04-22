@@ -1,0 +1,6 @@
+extitle.bin
+extitle.scx
+local.fnt
+mission_menu.o2d
+mission_menu_e.o2d
+missions_main.o2d

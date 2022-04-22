@@ -1,0 +1,3 @@
+local.fnt
+select.bin
+select.scx

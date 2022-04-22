@@ -1,0 +1,14 @@
+aa_marsobj1.mdz
+aa_marsobj1.tex
+aaa_star.mdz
+aaa_star.tex
+am02.eft
+am02.hzt
+am02.lit
+am02.mdz
+am02.tex
+local.fnt
+result.bin
+result.scx
+sky_bg.tex
+total_result.o2d

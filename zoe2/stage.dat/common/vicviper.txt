@@ -1,0 +1,14 @@
+cls.tex
+cls_def.mdz
+cls_missile.mdz
+cls_missile.tex
+cls_option.mdz
+cls_option.tex
+cls_viv.mdz
+local.fnt
+vicviper.bin
+vicviper.scx
+viv_air_def.mtl
+viv_air_def.mts
+viv_def.mtl
+viv_def.mts

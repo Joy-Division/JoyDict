@@ -1,0 +1,6 @@
+ed01.bin
+ed01.scx
+local.fnt
+njef_brk_end.mdz
+njef_def_end.mdz
+normal_comb.tex
