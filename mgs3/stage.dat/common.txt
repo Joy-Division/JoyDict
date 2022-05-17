@@ -3930,6 +3930,8 @@ srr_nb_8.mdl
 srr_nb_9.mdl
 srr_nb_colon.mdl
 srr_nb_none.mdl
+sru_def.mdl
+sru_def.tri
 stname_s001a_alp_ovl.img
 stname_s001a_f_alp_ovl.img
 stname_s001a_g_alp_ovl.img

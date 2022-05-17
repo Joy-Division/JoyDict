@@ -58,4 +58,5 @@ sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdl
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdl
+sru_def.mdl
 underwater_explosion_cm.rcm
