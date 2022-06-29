@@ -73,6 +73,9 @@ a42a.hzx
 a42a_dummy.kmy
 a43a.hzx
 a43a.xti
+a43a_dummy.kmy
+a44a.hzx
+a44a.xti
 a44a_dummy.kmy
 a45a.hzx
 a45a.xti
@@ -1916,6 +1919,7 @@ rai_a42a.sar
 rai_a42a.var
 rai_a43a.mar
 rai_a43a.sar
+rai_a44a.sar
 rai_a45a.mar
 rai_a45a.sar
 rai_a46a.mar
@@ -2086,6 +2090,12 @@ rai_w01d.sar
 rai_w01d.var
 rai_w01e.sar
 rai_w03b.sar
+rai_w04.mar
+rai_w04.sar
+rai_w04.var
+rai_w04c.mar
+rai_w04c.sar
+rai_w04c.var
 rai_w11a.mar
 rai_w11a.sar
 rai_w11a.var
@@ -2718,6 +2728,7 @@ sna_a42a.sar
 sna_a42a.var
 sna_a43a.mar
 sna_a43a.sar
+sna_a44a.sar
 sna_a45a.mar
 sna_a45a.sar
 sna_a46a.mar
