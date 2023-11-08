@@ -5609,7 +5609,9 @@ open_rock1_2.pcx
 open_rock12add.pcx
 open_rock2.pcx
 open_rock2_2.pcx
+open_rock3.pcx
 open_rock3_2.pcx
+open_rock4.pcx
 open_rock4_2.pcx
 open_rock41.pcx
 open_rock6add.pcx
