@@ -1,0 +1,12 @@
+cache.dlz
+cache.vfp
+cache_d.dlz
+cache_nodld.dlz
+demo_pause.la2
+demo_pause_0.txn
+effect.txn
+loading_MNT.la2
+loading_MNT_0.txn
+resurt.la2
+resurt_0.txn
+scenerio.gcx
