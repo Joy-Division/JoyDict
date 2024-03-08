@@ -1106,7 +1106,7 @@
 003258ad.03|c3bm.tri
 003258ad.0d|c3bm.mdl
 003258ad.11|c3bm.eft
-003262e8.6e|
+003262e8.6e|auth.raw
 00326be9.69|stname_s101a_f_alp_ovl.img
 003279a3.03|ciga_cigar.tri
 003279a3.0d|ciga_cigar.mdl
@@ -1451,7 +1451,7 @@
 0039918e.09|pain.mtsq
 003992a1.03|para.tri
 003992a1.0d|para.mdl
-003992d3.6e|
+003992d3.6e|pass.raw
 0039c9e3.69|stname_s052b_alp_ovl.img
 0039e05a.0d|s005a_tsuribashi_mh.mdl
 003a15cd.03|gave_grip_dmo.tri

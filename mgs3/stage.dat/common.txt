@@ -86,6 +86,7 @@ art_direction_by_cam.raw
 ast_def_dmo.mdl
 ast_item_tray_dmo.mdl
 audio_radio.mdl
+auth.raw
 baketu_suimen.mdl
 baketu_suimen.tri
 bari.mdl
@@ -1728,6 +1729,7 @@ par_ghost.mdl
 para.mdl
 para.tri
 para_cargo_dmo.mdl
+pass.raw
 pato_amo_demo.mdl
 pato_demo.mdl
 pato_high.eft

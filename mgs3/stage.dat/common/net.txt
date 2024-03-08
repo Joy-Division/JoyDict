@@ -1,3 +1,4 @@
+auth.raw
 cmdwn_select.la2
 cmdwn_select_0.tri
 dnas_check.la2

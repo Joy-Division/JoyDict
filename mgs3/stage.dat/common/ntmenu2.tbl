@@ -32,7 +32,7 @@
 002aac24.0d|grid_shd_weapon_c.mdl
 002bfd02.03|
 003043e2.03|phase_ita_0.tri
-003262e8.6e|
+003262e8.6e|auth.raw
 003511cf.03|
 003511cf.0d|
 003592cc.5f|phase.la2
@@ -41,7 +41,7 @@
 0037aa03.6c|underwater_explosion_cm.rcm
 00381141.03|maga.tri
 00381141.0d|maga.mdl
-003992d3.6e|
+003992d3.6e|pass.raw
 003ec511.03|cachetrans.tri
 003fc911.03|grid_shd_magazine.tri
 003fc911.0d|grid_shd_magazine.mdl

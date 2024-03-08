@@ -1,3 +1,4 @@
+auth.raw
 bull_itha_cm.rcm
 bull_long_cm.rcm
 bull_shot_cm.rcm
@@ -88,6 +89,7 @@ maga.tri
 maga_page.mdl
 maga_page.tri
 ntmenu2.bin
+pass.raw
 phase.la2
 phase_0.tri
 phase_fre.la2
