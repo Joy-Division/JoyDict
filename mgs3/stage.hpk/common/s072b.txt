@@ -29,6 +29,10 @@ enedam.mtar
 enedam.mtsq
 enedrag.mtar
 enedrag.mtsq
+enehind.mtar
+enehind.mtsq
+enehind_pl.mtar
+enehind_pl.mtsq
 enemy.mtar
 enemy.mtsq
 fether_rpv_def.mdn
@@ -49,6 +53,8 @@ grid_shd_magazine.mdn
 grid_shd_medicine.mdn
 grid_shd_weapon_a.mdn
 grid_shd_weapon_c.mdn
+hebi_def.mtar
+hebi_def.mtsq
 hind_brk_body_dmo.mdn
 hind_brk_front_dmo.mdn
 hind_brk_lwing_dmo.mdn

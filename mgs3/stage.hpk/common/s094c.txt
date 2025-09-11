@@ -110,6 +110,8 @@ maka_low.eft
 maka_low.mdn
 mazt.mdn
 null_skeleton.mdn
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdn
 rgd5_splinter_cm.mdn

@@ -60,6 +60,8 @@ grid_shd_magazine.mdn
 grid_shd_medicine.mdn
 grid_shd_weapon_a.mdn
 grid_shd_weapon_b.mdn
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdn
 ibox_cage_body.eft
 ibox_food_body.eft

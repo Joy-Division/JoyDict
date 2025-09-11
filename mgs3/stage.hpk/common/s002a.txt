@@ -19,6 +19,8 @@ frg_wood2_cm.mdn
 frg_wood3_cm.mdn
 grid_shd_medicine.mdn
 grid_shd_medicine.txn
+hebi_def.mtar
+hebi_def.mtsq
 hireharisou1.mdn
 ibox_cage_body.eft
 ibox_food_body.eft
@@ -27,6 +29,8 @@ ibox_medicine_b_body.txn
 ibox_midicine_body.mdn
 msa_def.cvd
 msa_def.mdn
+musasabi.mtar
+musasabi.mtsq
 mushroom_G.mdn
 niga_hakka.mdn
 oobako.mdn

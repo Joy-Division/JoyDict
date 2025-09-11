@@ -47,6 +47,8 @@ grid_shd_weapon_a.mdn
 grid_shd_weapon_a.txn
 grid_shd_weapon_b.mdn
 grid_shd_weapon_b.txn
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdn
 ibox_amo_a_body.txn
 ibox_cage_body.eft
@@ -100,6 +102,8 @@ litt.txn
 litt_arrow.eft
 litt_arrow.mdn
 litt_arrow_cm.mdn
+littlejoe.mtar
+littlejoe.mtsq
 locker.mtar
 locker.mtsq
 lps_def.cvd
@@ -175,6 +179,8 @@ will.mdn
 will.txn
 will_arrow.eft
 will_arrow.mdn
+williamtell.mtar
+williamtell.mtsq
 Yabloko_Moloko.mdn
 yad_def.cvd
 yad_def.mdn

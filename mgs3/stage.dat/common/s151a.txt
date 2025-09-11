@@ -53,6 +53,8 @@ grid_shd_food.mdl
 grid_shd_medicine.mdl
 grid_shd_uniform.mdl
 grid_shd_weapon_a.mdl
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdl
 ibox_cage_body.eft
 ibox_food_body.eft
@@ -73,6 +75,8 @@ label_grd_gad.mdl
 label_grd_smk.mdl
 locker.mtar
 locker.mtsq
+mak.mtar
+mak.mtsq
 mak_def.cvd
 mak_def.mdl
 mak_item_mane.mdl
@@ -83,6 +87,8 @@ maka_low.eft
 maka_low.mdl
 msa_def.cvd
 msa_def.mdl
+musasabi.mtar
+musasabi.mtsq
 mushroom_D.mdl
 mushroom_G.mdl
 null_skeleton.mdl

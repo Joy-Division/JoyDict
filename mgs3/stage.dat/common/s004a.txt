@@ -57,6 +57,8 @@ grid_shd_food.mdl
 grid_shd_magazine.mdl
 grid_shd_medicine.mdl
 grid_shd_weapon_a.mdl
+hebi_def.mtar
+hebi_def.mtsq
 ibox_cage_body.eft
 ibox_food_body.eft
 ibox_magazine_body.mdl

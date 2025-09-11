@@ -28,6 +28,10 @@ enedam.mtar
 enedam.mtsq
 enedrag.mtar
 enedrag.mtsq
+enehind.mtar
+enehind.mtsq
+enehind_pl.mtar
+enehind_pl.mtsq
 enemy.mtar
 enemy.mtsq
 fly_def_cm.mdn

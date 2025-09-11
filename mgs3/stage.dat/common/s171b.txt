@@ -8,6 +8,8 @@ dshk.mdl
 dshk_break.mdl
 duel_pause.la2
 duel_pause_0.tri
+eva_sidecar.mtar
+eva_sidecar.mtsq
 eve_bounding_bike.mdl
 eve_def.cvd
 eve_def.mdl

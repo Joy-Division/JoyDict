@@ -29,6 +29,10 @@ enedam.mtar
 enedam.mtsq
 enedrag.mtar
 enedrag.mtsq
+enehind.mtar
+enehind.mtsq
+enehind_pl.mtar
+enehind_pl.mtsq
 enemy.mtar
 enemy.mtsq
 fether_rpv_def.mdn
@@ -103,6 +107,8 @@ maka_amo_low.mdn
 maka_low.eft
 maka_low.mdn
 null_skeleton.mdn
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdn
 rgd5_splinter_cm.mdn

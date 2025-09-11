@@ -25,8 +25,8 @@
 002292b4.0d|oobako.mdl
 002339f1.08|locker.mtar
 002339f1.09|locker.mtsq
-00271acf.08|
-00271acf.09|
+00271acf.08|eva_drag.mtar
+00271acf.09|eva_drag.mtsq
 0027cbb6.0d|Golova.mdl
 0027d70d.0a|eva_face.mtfa
 002aac22.03|grid_shd_weapon_a.tri
@@ -68,8 +68,8 @@
 003fc911.03|grid_shd_magazine.tri
 003fc911.0d|grid_shd_magazine.mdl
 003ffc69.69|stname_s192a_s_alp_ovl.img
-004134b5.08|
-004134b5.09|
+004134b5.08|eva_cqc.mtar
+004134b5.09|eva_cqc.mtsq
 00413626.08|ama_def.mtar
 00413626.09|ama_def.mtsq
 00413626.0d|ama_def.mdl
@@ -81,8 +81,8 @@
 004140a9.08|
 004140a9.09|
 004144f6.11|ibox_cage_body.eft
-0041603e.08|
-0041603e.09|
+0041603e.08|eva_nml.mtar
+0041603e.09|eva_nml.mtsq
 00416be9.69|stname_s201a_s_alp_ovl.img
 0044b6f4.11|ibox_food_body.eft
 0044bf73.0d|maka_low.mdl
@@ -171,8 +171,8 @@
 00c139b4.0d|sky_d_7.mdl
 00c33c9c.08|
 00c33c9c.09|
-00c47710.08|
-00c47710.09|
+00c47710.08|hebi_def.mtar
+00c47710.09|hebi_def.mtsq
 00c8ce3f.0d|eve_naked_dmo.mdl
 00c9d117.03|label_amo_1911.tri
 00c9d117.0d|label_amo_1911.mdl

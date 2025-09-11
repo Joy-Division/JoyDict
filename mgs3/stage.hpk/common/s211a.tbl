@@ -38,8 +38,8 @@
 0078d852.0e|eve_item_hair.mdn
 0078d852.11|eve_item_hair.eft
 0078d852.14|eve_item_hair.txn
-00806add.08|
-00806add.09|
+00806add.08|oce_211.mtar
+00806add.09|oce_211.mtsq
 00813738.0e|eve_def.mdn
 00813738.10|eve_def.cvd
 00813738.14|eve_def.txn
@@ -57,8 +57,8 @@
 00b44a0b.0e|grid_shd_medicine.mdn
 00b44a0b.14|grid_shd_medicine.txn
 00b46968.0e|fly_def_cm.mdn
-00b5bfcd.08|
-00b5bfcd.09|
+00b5bfcd.08|s211a_eve.mtar
+00b5bfcd.09|s211a_eve.mtsq
 00b6aefe.0e|ibox_weapon_handgun_body.mdn
 00b6aefe.14|ibox_weapon_handgun_body.txn
 00c139b4.06|sky_d_7.lt2

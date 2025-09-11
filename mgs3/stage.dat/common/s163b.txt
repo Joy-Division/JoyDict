@@ -9,6 +9,10 @@ ene_item_holst_rider.tri
 ene_rider.cvd
 ene_rider.mdl
 ene_rider.tri
+enesidecar.mtar
+enesidecar.mtsq
+eva_sidecar.mtar
+eva_sidecar.mtsq
 eve_bounding_bike.mdl
 eve_bounding_bike.tri
 eve_def.cvd

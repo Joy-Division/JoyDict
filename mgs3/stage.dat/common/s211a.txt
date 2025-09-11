@@ -32,6 +32,8 @@ ibox_weapon_handgun_body.mdl
 ibox_weapon_handgun_body.tri
 label_weapon_saa.mdl
 label_weapon_saa.tri
+oce_211.mtar
+oce_211.mtsq
 oce_def_facehi.mdl
 oce_def_facehi.tri
 oce_item_bere_def.mdl
@@ -53,6 +55,8 @@ s211a.geom
 s211a.mdl
 s211a.nav
 s211a.tri
+s211a_eve.mtar
+s211a_eve.mtsq
 s211b_cockpit.lt2
 s211b_env_d.lt2
 s211b_repeat_01.mdl

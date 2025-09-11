@@ -39,6 +39,8 @@ grid_shd_medicine.mdl
 grid_shd_uniform.mdl
 grid_shd_weapon_a.mdl
 grid_shd_weapon_a.tri
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdl
 ibox_cage_body.eft
 ibox_food_body.eft
@@ -57,6 +59,8 @@ label_grd_stn.mdl
 label_grd_stn.tri
 locker.mtar
 locker.mtsq
+mak.mtar
+mak.mtsq
 mak_def.cvd
 mak_def.mdl
 mak_item_mane.mdl

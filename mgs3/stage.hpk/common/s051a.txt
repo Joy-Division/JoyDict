@@ -26,6 +26,8 @@ grid_shd_magazine.mdn
 grid_shd_medicine.mdn
 grid_shd_uniform.mdn
 grid_shd_uniform.txn
+hebi_def.mtar
+hebi_def.mtsq
 ibox_cage_body.eft
 ibox_food_body.eft
 ibox_magazine_body.mdn
@@ -44,6 +46,8 @@ lps_def.mtsq
 msa_def.cvd
 msa_def.mdn
 msa_def.txn
+musasabi.mtar
+musasabi.mtsq
 mushroom_D.mdn
 pca_def.cvd
 pca_def.mdn

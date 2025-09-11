@@ -59,6 +59,8 @@ grid_shd_weapon_a.mdl
 grid_shd_weapon_b.mdl
 hatch.mtar
 hatch.mtsq
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdl
 ibox_battery_body.mdl
 ibox_battery_body.tri
@@ -112,6 +114,8 @@ phase_ita.la2
 phase_ita_0.tri
 phase_spa.la2
 phase_spa_0.tri
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdl
 rgd5_splinter_cm.rcm

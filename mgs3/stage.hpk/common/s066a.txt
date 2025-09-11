@@ -23,6 +23,8 @@ otn_def.cvd
 otn_def.mdn
 otn_def.mtar
 otn_def.mtsq
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdn
 rgd5_splinter_cm.mdn

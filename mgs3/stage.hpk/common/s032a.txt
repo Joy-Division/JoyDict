@@ -36,6 +36,8 @@ grid_shd_weapon_a.mdn
 grid_shd_weapon_a.txn
 grid_shd_weapon_b.mdn
 grid_shd_weapon_b.txn
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdn
 ibox_amo_a_body.txn
 ibox_cage_body.eft

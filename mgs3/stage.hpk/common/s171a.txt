@@ -12,6 +12,10 @@ ene_item_holst_rider.eft
 ene_item_holst_rider.mdn
 ene_rider.cvd
 ene_rider.mdn
+enesidecar.mtar
+enesidecar.mtsq
+eve_171.mtar
+eve_171.mtsq
 eve_bounding_def.mdn
 eve_def.cvd
 eve_def.mdn

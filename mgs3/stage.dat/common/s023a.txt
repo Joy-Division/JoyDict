@@ -35,6 +35,8 @@ gage_ocelot_0.tri
 grid_shd_amo_a.mdl
 grid_shd_medicine.mdl
 grid_shd_weapon_a.mdl
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdl
 ibox_cage_body.eft
 ibox_food_body.eft
@@ -65,6 +67,8 @@ m63a_amo_low.eft
 m63a_amo_low.mdl
 m63a_low.eft
 m63a_low.mdl
+mak.mtar
+mak.mtsq
 mak_def.cvd
 mak_def.mdl
 mak_item_mane.mdl
@@ -73,6 +77,10 @@ null_skeleton.mdl
 oce_def_facehi.cvd
 oce_def_facehi.mdl
 oce_item_bere_def.mdl
+oce_lynx.mtar
+oce_lynx.mtsq
+ocelot23a.mtar
+ocelot23a.mtsq
 phase_fre.la2
 phase_fre_0.tri
 phase_ger.la2

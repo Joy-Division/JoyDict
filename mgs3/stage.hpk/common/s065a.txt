@@ -56,6 +56,8 @@ lps_def.cvd
 lps_def.mdn
 lps_def.mtar
 lps_def.mtsq
+mak.mtar
+mak.mtsq
 mak_def.cvd
 mak_def.mdn
 mak_item_mane.mdn

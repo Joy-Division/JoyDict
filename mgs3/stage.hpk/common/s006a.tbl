@@ -52,8 +52,8 @@
 004d6704.0e|drumcan_exp_01.mdn
 0051c858.0e|ene_item_water_def.mdn
 0051c858.11|ene_item_water_def.eft
-00525c48.08|
-00525c48.09|
+00525c48.08|rat_a.mtar
+00525c48.09|rat_a.mtsq
 005461f8.0e|akmr_low.mdn
 005461f8.11|akmr_low.eft
 0055a9c3.0e|frg_deadleaf1_cm.mdn
@@ -128,8 +128,8 @@
 00c161af.0e|sky_n_2.mdn
 00c1bd07.0e|label_item_bat.mdn
 00c1f3a9.0e|s006a_fence1.mdn
-00c47710.08|
-00c47710.09|
+00c47710.08|hebi_def.mtar
+00c47710.09|hebi_def.mtsq
 00c9d117.0e|label_amo_1911.mdn
 00d09d30.0e|ibox_battery_body.mdn
 00d48b93.0e|scop_ene_low.mdn

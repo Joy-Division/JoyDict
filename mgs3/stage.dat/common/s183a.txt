@@ -31,6 +31,10 @@ enedrag.mtar
 enedrag.mtsq
 enemy.mtar
 enemy.mtsq
+enesidecar.mtar
+enesidecar.mtsq
+eva_sidecar.mtar
+eva_sidecar.mtsq
 eve_bounding_bike.mdl
 eve_def.cvd
 eve_def.mdl

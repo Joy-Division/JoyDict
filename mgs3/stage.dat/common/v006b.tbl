@@ -57,8 +57,8 @@
 0048c728.0c|s006a.geom
 0048c728.0f|s006a.nav
 004d6704.0d|drumcan_exp_01.mdl
-00525c48.08|
-00525c48.09|
+00525c48.08|rat_a.mtar
+00525c48.09|rat_a.mtsq
 005461f8.0d|akmr_low.mdl
 005461f8.11|akmr_low.eft
 00546266.0d|amdr_low.mdl
@@ -127,8 +127,8 @@
 00c139ad.06|sky_d_0.lt2
 00c139ad.0d|sky_d_0.mdl
 00c1f3a9.0d|s006a_fence1.mdl
-00c47710.08|
-00c47710.09|
+00c47710.08|hebi_def.mtar
+00c47710.09|hebi_def.mtsq
 00c6c8bd.0d|ene_item_amdmagpouch_spe.mdl
 00c6c8bd.11|ene_item_amdmagpouch_spe.eft
 00c9d117.0d|label_amo_1911.mdl

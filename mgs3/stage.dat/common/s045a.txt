@@ -59,6 +59,8 @@ grid_shd_item.tri
 grid_shd_magazine.mdl
 grid_shd_medicine.mdl
 grid_shd_weapon_a.mdl
+hebi_def.mtar
+hebi_def.mtsq
 hireharisou1.mdl
 ibox_amo_a_body.mdl
 ibox_battery_body.mdl

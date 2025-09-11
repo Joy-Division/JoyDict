@@ -31,6 +31,8 @@ grid_shd_item.mdn
 grid_shd_item.txn
 grid_shd_medicine.mdn
 grid_shd_medicine.txn
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdn
 ibox_amo_a_body.txn
 ibox_cage_body.eft
@@ -58,6 +60,8 @@ otn_def.mdn
 otn_def.mtar
 otn_def.mtsq
 otn_def.txn
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdn
 rat_def.txn

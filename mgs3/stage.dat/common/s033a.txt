@@ -42,6 +42,8 @@ grid_shd_item.mdl
 grid_shd_item.tri
 grid_shd_medicine.mdl
 grid_shd_medicine.tri
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdl
 ibox_amo_a_body.tri
 ibox_cage_body.eft
@@ -77,6 +79,8 @@ phase_ita.la2
 phase_ita_0.tri
 phase_spa.la2
 phase_spa_0.tri
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdl
 rat_def.tri

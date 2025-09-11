@@ -8,6 +8,8 @@ boat_01.mdn
 cachetrans.txn
 drumcan_01.mdn
 end_def.cvd
+end_wh_body.mtar
+end_wh_body.mtsq
 end_wheel.mdn
 ene_def.cvd
 ene_def.eft
@@ -36,7 +38,11 @@ enedrag.mtar
 enedrag.mtsq
 enemy.mtar
 enemy.mtsq
+enewheel.mtar
+enewheel.mtsq
 fly_def_cm.mdn
+fp_enemy.mtar
+fp_enemy.mtsq
 frg_chaff_01_cm.mdn
 frg_chaff_02_cm.mdn
 frg_chaff_03_cm.mdn

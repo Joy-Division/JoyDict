@@ -64,6 +64,8 @@ grid_shd_medicine.mdn
 grid_shd_medicine.txn
 grid_shd_weapon_a.mdn
 grid_shd_weapon_a.txn
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdn
 ibox_cage_body.eft
 ibox_food_body.eft
@@ -123,6 +125,8 @@ pca_def.cvd
 pca_def.mdn
 pca_def.mtar
 pca_def.mtsq
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdn
 rgd5_splinter_cm.mdn

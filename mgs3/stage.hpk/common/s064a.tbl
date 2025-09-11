@@ -1,7 +1,7 @@
 0001a224.08|end.mtar
 0001a224.09|end.mtsq
-0001c08b.08|
-0001c08b.09|
+0001c08b.08|mak.mtar
+0001c08b.09|mak.mtsq
 0005f59f.0e|msnn_amo_anes_low.mdn
 0005f59f.11|msnn_amo_anes_low.eft
 000c5b40.0e|ring_m63_cm.mdn
@@ -114,8 +114,8 @@
 00bf0888.0e|
 00c139b0.06|sky_d_3.lt2
 00c139b0.0e|sky_d_3.mdn
-00c47710.08|
-00c47710.09|
+00c47710.08|hebi_def.mtar
+00c47710.09|hebi_def.mtsq
 00c9d117.0e|label_amo_1911.mdn
 00ccee21.14|gage_end_0.txn
 00d8a0c1.5f|anaesthesia.la2

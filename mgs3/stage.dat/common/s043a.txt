@@ -19,6 +19,8 @@ cache.var
 cachetrans.tri
 drumcan_01.mdl
 end_def.cvd
+end_wh_body.mtar
+end_wh_body.mtsq
 end_wheel.mdl
 ene_def.cvd
 ene_def.eft
@@ -47,7 +49,11 @@ enedrag.mtar
 enedrag.mtsq
 enemy.mtar
 enemy.mtsq
+enewheel.mtar
+enewheel.mtsq
 fly_def_cm.rcm
+fp_enemy.mtar
+fp_enemy.mtsq
 frg_chaff_01_cm.rcm
 frg_chaff_02_cm.rcm
 frg_chaff_03_cm.rcm

@@ -119,6 +119,8 @@ maka_low.mdn
 maka_low.txn
 null_skeleton.mdn
 null_skeleton.txn
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdn
 rgd5_splinter_cm.mdn

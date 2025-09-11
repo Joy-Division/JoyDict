@@ -7,6 +7,8 @@ dshk.mdn
 dshk_break.mdn
 duel_pause.la2
 duel_pause_0.txn
+eva_sidecar.mtar
+eva_sidecar.mtsq
 eve_bounding_bike.mdn
 eve_def.cvd
 eve_def.mdn

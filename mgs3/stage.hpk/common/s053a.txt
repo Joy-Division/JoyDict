@@ -97,6 +97,8 @@ oobako.mdn
 plant1.mdn
 plant1_mirror.mdn
 pot.mdn
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdn
 researcher.mtar

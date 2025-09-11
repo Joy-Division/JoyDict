@@ -63,8 +63,8 @@
 0048c729.0f|s006b.nav
 0048c729.12|s006b.zon
 004d6704.0e|drumcan_exp_01.mdn
-00525c48.08|
-00525c48.09|
+00525c48.08|rat_a.mtar
+00525c48.09|rat_a.mtsq
 00546266.0e|amdr_low.mdn
 00546266.11|amdr_low.eft
 0055a9c3.0e|frg_deadleaf1_cm.mdn
@@ -135,8 +135,8 @@
 00c1bd07.0e|label_item_bat.mdn
 00c1f3a9.0e|s006a_fence1.mdn
 00c28332.14|timer_pal_0.txn
-00c47710.08|
-00c47710.09|
+00c47710.08|hebi_def.mtar
+00c47710.09|hebi_def.mtsq
 00c6c8bd.0e|ene_item_amdmagpouch_spe.mdn
 00c6c8bd.11|ene_item_amdmagpouch_spe.eft
 00c8b09d.5f|timer_pal.la2

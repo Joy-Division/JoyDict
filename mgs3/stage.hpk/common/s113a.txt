@@ -41,6 +41,8 @@ label_amo_saa.txn
 locker.mtar
 locker.mtsq
 null_skeleton.mdn
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdn
 rat_def.txn

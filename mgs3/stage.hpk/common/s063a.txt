@@ -36,6 +36,8 @@ grid_shd_medicine.mdn
 grid_shd_uniform.mdn
 grid_shd_weapon_a.mdn
 grid_shd_weapon_b.mdn
+hebi_def.mtar
+hebi_def.mtsq
 hireharisou1.mdn
 ibox_amo_a_body.mdn
 ibox_cage_body.eft

@@ -76,6 +76,8 @@ locker.mtsq
 mushroom_E.mdn
 mushroom_E.txn
 null_skeleton.mdn
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdn
 rgd5_splinter_cm.mdn

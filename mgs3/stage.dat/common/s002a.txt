@@ -20,6 +20,8 @@ frg_wood2_cm.rcm
 frg_wood3_cm.rcm
 grid_shd_medicine.mdl
 grid_shd_medicine.tri
+hebi_def.mtar
+hebi_def.mtsq
 hireharisou1.mdl
 ibox_cage_body.eft
 ibox_food_body.eft
@@ -28,6 +30,8 @@ ibox_medicine_b_body.tri
 ibox_midicine_body.mdl
 msa_def.cvd
 msa_def.mdl
+musasabi.mtar
+musasabi.mtsq
 mushroom_G.mdl
 niga_hakka.mdl
 oobako.mdl

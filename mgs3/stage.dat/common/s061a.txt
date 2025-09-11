@@ -65,6 +65,8 @@ grid_shd_medicine.mdl
 grid_shd_medicine.tri
 grid_shd_weapon_a.mdl
 grid_shd_weapon_a.tri
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdl
 ibox_cage_body.eft
 ibox_food_body.eft
@@ -132,6 +134,8 @@ phase_ita.la2
 phase_ita_0.tri
 phase_spa.la2
 phase_spa_0.tri
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdl
 rgd5_splinter_cm.rcm

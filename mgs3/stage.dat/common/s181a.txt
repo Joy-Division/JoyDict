@@ -39,6 +39,10 @@ enedrag.mtar
 enedrag.mtsq
 enemy.mtar
 enemy.mtsq
+enesidecar.mtar
+enesidecar.mtsq
+eva_sidecar.mtar
+eva_sidecar.mtsq
 eve_bounding_bike.mdl
 eve_def.cvd
 eve_def.mdl
@@ -47,6 +51,8 @@ eve_item_hair_bike.eft
 eve_item_hair_bike.mdl
 eve_item_holster.eft
 fly_def_cm.rcm
+fp_enemy.mtar
+fp_enemy.mtsq
 frg_chaff_01_cm.rcm
 frg_chaff_02_cm.rcm
 frg_chaff_03_cm.rcm

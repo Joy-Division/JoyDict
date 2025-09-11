@@ -111,6 +111,8 @@ phase_spa_0.tri
 plant1.mdl
 plant1_mirror.mdl
 pot.mdl
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdl
 researcher.mtar

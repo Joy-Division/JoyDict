@@ -55,6 +55,8 @@ mushroom_E.mdn
 mushroom_E.txn
 null_skeleton.mdn
 null_skeleton.txn
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdn
 rat_def.txn

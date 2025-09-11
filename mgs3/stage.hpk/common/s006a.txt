@@ -57,6 +57,8 @@ grid_shd_weapon_a.mdn
 grid_shd_weapon_b.mdn
 hatch.mtar
 hatch.mtsq
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdn
 ibox_battery_body.mdn
 ibox_cage_body.eft
@@ -89,6 +91,8 @@ maka_amo_low.mdn
 maka_low.eft
 maka_low.mdn
 null_skeleton.mdn
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdn
 rgd5_splinter_cm.mdn

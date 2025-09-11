@@ -33,6 +33,8 @@ frg_wood3_cm.mdn
 grid_shd_amo_a.mdn
 grid_shd_medicine.mdn
 grid_shd_medicine.txn
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdn
 ibox_cage_body.eft
 ibox_food_body.eft

@@ -17,8 +17,12 @@ ene_item_beltlink_fph.mdn
 ene_item_efbelt_fph.eft
 ene_item_efhook_fph.eft
 ene_item_hook_fph.mdn
+enehind_pl.mtar
+enehind_pl.mtsq
 feather_pca_def.mdn
 fly_def_cm.mdn
+fp_enemy.mtar
+fp_enemy.mtsq
 frg_chaff_01_cm.mdn
 frg_chaff_02_cm.mdn
 frg_chaff_03_cm.mdn

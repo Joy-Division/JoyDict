@@ -30,6 +30,10 @@ enedam.mtar
 enedam.mtsq
 enedrag.mtar
 enedrag.mtsq
+enehind.mtar
+enehind.mtsq
+enehind_pl.mtar
+enehind_pl.mtsq
 enemy.mtar
 enemy.mtsq
 fether_rpv_def.rcm
@@ -121,6 +125,8 @@ phase_ita.la2
 phase_ita_0.tri
 phase_spa.la2
 phase_spa_0.tri
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdl
 rgd5_splinter_cm.rcm

@@ -53,6 +53,8 @@ grid_shd_amo_a.mdn
 grid_shd_medicine.mdn
 grid_shd_weapon_a.mdn
 grid_shd_weapon_b.mdn
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdn
 ibox_cage_body.eft
 ibox_food_body.eft
@@ -79,6 +81,8 @@ null_skeleton.mdn
 oce_def_facehi.cvd
 oce_def_facehi.mdn
 ose_corps_face.mtfa
+rat_a.mtar
+rat_a.mtsq
 rat_def.cvd
 rat_def.mdn
 rgd5_splinter_cm.mdn

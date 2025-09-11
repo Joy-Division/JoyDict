@@ -80,8 +80,8 @@
 0083eea9.09|enedrag.mtsq
 0083fe00.0d|s181a_distantview1.mdl
 00847435.5f|gage_eva.la2
-00855e37.08|
-00855e37.09|
+00855e37.08|enesidecar.mtar
+00855e37.09|enesidecar.mtsq
 00857240.6c|rgd5_splinter_cm.rcm
 0085ac49.08|
 0085ac49.09|
@@ -98,12 +98,12 @@
 0088a21f.09|enemy.mtsq
 0089ff10.0d|rpg7_rocket_low.mdl
 0089ff10.11|rpg7_rocket_low.eft
-008beedd.08|
-008beedd.09|
+008beedd.08|fp_enemy.mtar
+008beedd.09|fp_enemy.mtsq
 009461f3.0d|akkf_low.mdl
 009461f3.11|akkf_low.eft
-00982fcd.08|
-00982fcd.09|
+00982fcd.08|eva_sidecar.mtar
+00982fcd.09|eva_sidecar.mtsq
 00983004.08|
 00983004.09|
 0099176f.0d|ene_item_beltlink_fph.mdl

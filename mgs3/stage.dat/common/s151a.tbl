@@ -1,5 +1,5 @@
-0001c08b.08|
-0001c08b.09|
+0001c08b.08|mak.mtar
+0001c08b.09|mak.mtsq
 0004cf4c.0d|amuru_kudzu.mdl
 00052bfa.0d|but_def_blue.mdl
 000907e2.03|phase_ger_0.tri
@@ -77,8 +77,8 @@
 00495a88.01|s151a.bin
 00495a88.0c|s151a.geom
 00495a88.0f|s151a.nav
-004e96d5.08|
-004e96d5.09|
+004e96d5.08|musasabi.mtar
+004e96d5.09|musasabi.mtsq
 005136b0.0d|crb_def.mdl
 005136b0.10|crb_def.cvd
 005139cf.08|par_def.mtar
@@ -141,8 +141,8 @@
 00bcb7aa.6c|frg_leaf1_cm.rcm
 00bd37aa.6c|frg_leaf2_cm.rcm
 00be8724.0d|ibox_amo_a_body.mdl
-00c47710.08|
-00c47710.09|
+00c47710.08|hebi_def.mtar
+00c47710.09|hebi_def.mtsq
 00c6c8bd.0d|ene_item_amdmagpouch_spe.mdl
 00c6c8bd.11|ene_item_amdmagpouch_spe.eft
 00c9d117.0d|label_amo_1911.mdl

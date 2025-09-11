@@ -27,6 +27,8 @@ frg_wood3_cm.mdn
 grid_shd_medicine.mdn
 grid_shd_medicine.txn
 grid_shd_weapon_a.mdn
+hebi_def.mtar
+hebi_def.mtsq
 hireharisou1.mdn
 ibox_cage_body.eft
 ibox_food_body.eft
@@ -43,6 +45,8 @@ lps_def.cvd
 lps_def.mdn
 lps_def.mtar
 lps_def.mtsq
+mak.mtar
+mak.mtsq
 mak_def.cvd
 mak_def.mdn
 mak_item_mane.mdn
@@ -51,6 +55,8 @@ mak_item_wear.mdn
 mak_item_wear.txn
 msa_def.cvd
 msa_def.mdn
+musasabi.mtar
+musasabi.mtsq
 niga_hakka.mdn
 oobako.mdn
 pca_def.cvd

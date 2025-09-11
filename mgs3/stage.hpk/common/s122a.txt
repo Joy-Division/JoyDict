@@ -43,6 +43,8 @@ locker.mtsq
 m120_010_p010_002_pai__tr.mdn
 null_skeleton.mdn
 oce_def.mdn
+oce_vsthu.mtar
+oce_vsthu.mtsq
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s121a_d.lt2

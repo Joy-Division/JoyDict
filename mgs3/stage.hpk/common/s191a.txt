@@ -6,7 +6,13 @@ ama_def.txn
 amana_petal01_cm.mdn
 cachetrans.txn
 e00_shida01_cm.mdn
+eva_cqc.mtar
+eva_cqc.mtsq
+eva_drag.mtar
+eva_drag.mtsq
 eva_face.mtfa
+eva_nml.mtar
+eva_nml.mtsq
 eve_bounding_def.mdn
 eve_damage.cvd
 eve_damage.mdn
@@ -43,6 +49,8 @@ grid_shd_medicine.mdn
 grid_shd_medicine.txn
 grid_shd_weapon_a.mdn
 grid_shd_weapon_a.txn
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdn
 ibox_amo_a_body.txn
 ibox_cage_body.eft

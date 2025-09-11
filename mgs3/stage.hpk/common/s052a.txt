@@ -54,6 +54,8 @@ grid_shd_item.txn
 grid_shd_magazine.mdn
 grid_shd_medicine.mdn
 grid_shd_weapon_a.mdn
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdn
 ibox_battery_body.mdn
 ibox_battery_body.txn

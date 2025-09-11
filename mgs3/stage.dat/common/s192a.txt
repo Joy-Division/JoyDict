@@ -34,7 +34,13 @@ enedrag.mtar
 enedrag.mtsq
 enemy.mtar
 enemy.mtsq
+eva_cqc.mtar
+eva_cqc.mtsq
+eva_drag.mtar
+eva_drag.mtsq
 eva_face.mtfa
+eva_nml.mtar
+eva_nml.mtsq
 eve_bounding_def.mdl
 eve_damage.cvd
 eve_damage.mdl
@@ -71,6 +77,8 @@ grid_shd_magazine.tri
 grid_shd_medicine.mdl
 grid_shd_weapon_a.mdl
 grid_shd_weapon_a.tri
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdl
 ibox_amo_a_body.tri
 ibox_cage_body.eft

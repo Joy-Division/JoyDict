@@ -17,6 +17,8 @@ ene_item_efhook_fph.eft
 ene_item_hook_fph.mdl
 feather_pca_def.rcm
 fly_def_cm.rcm
+fp_enemy.mtar
+fp_enemy.mtsq
 frg_chaff_01_cm.rcm
 frg_chaff_02_cm.rcm
 frg_chaff_03_cm.rcm

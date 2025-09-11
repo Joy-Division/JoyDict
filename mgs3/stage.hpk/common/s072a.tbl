@@ -113,8 +113,8 @@
 0089ff10.11|rpg7_rocket_low.eft
 008aad67.06|s072a_d.lt2
 008aad68.06|s072a_e.lt2
-008beedd.08|
-008beedd.09|
+008beedd.08|fp_enemy.mtar
+008beedd.09|fp_enemy.mtsq
 008df4e8.0e|s072a_door_brk1.mdn
 008df4e8.11|s072a_door_brk1.eft
 008df4e9.0e|s072a_door_brk2.mdn
@@ -166,8 +166,8 @@
 00c13db0.0e|sky_e_3.mdn
 00c1bd07.0e|label_item_bat.mdn
 00c1bd07.14|label_item_bat.txn
-00c47710.08|
-00c47710.09|
+00c47710.08|hebi_def.mtar
+00c47710.09|hebi_def.mtsq
 00c9d117.0e|label_amo_1911.mdn
 00d09d30.0e|ibox_battery_body.mdn
 00d09d30.14|ibox_battery_body.txn

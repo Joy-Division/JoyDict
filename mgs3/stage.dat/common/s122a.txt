@@ -44,6 +44,8 @@ locker.mtsq
 m120_010_p010_002_pai__tr.mdl
 null_skeleton.mdl
 oce_def.mdl
+oce_vsthu.mtar
+oce_vsthu.mtsq
 phase_fre.la2
 phase_fre_0.tri
 phase_ger.la2

@@ -55,6 +55,8 @@ grid_shd_weapon_a.mdl
 grid_shd_weapon_a.tri
 grid_shd_weapon_b.mdl
 grid_shd_weapon_b.tri
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdl
 ibox_amo_a_body.tri
 ibox_cage_body.eft
@@ -104,6 +106,8 @@ litt.tri
 litt_arrow.eft
 litt_arrow.mdl
 litt_arrow_cm.rcm
+littlejoe.mtar
+littlejoe.mtsq
 locker.mtar
 locker.mtsq
 lps_def.cvd
@@ -206,6 +210,8 @@ will.mdl
 will.tri
 will_arrow.eft
 will_arrow.mdl
+williamtell.mtar
+williamtell.mtsq
 Yabloko_Moloko.mdl
 yad_def.cvd
 yad_def.mdl

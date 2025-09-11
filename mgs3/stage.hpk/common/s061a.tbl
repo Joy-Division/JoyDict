@@ -72,8 +72,8 @@
 004cdeaa.0e|s005a_tsuribashi_rope_1m_sh.mdn
 0051c858.0e|ene_item_water_def.mdn
 0051c858.11|ene_item_water_def.eft
-00525c48.08|
-00525c48.09|
+00525c48.08|rat_a.mtar
+00525c48.09|rat_a.mtsq
 005461f8.0e|akmr_low.mdn
 005461f8.11|akmr_low.eft
 0055a9c3.0e|frg_deadleaf1_cm.mdn
@@ -160,8 +160,8 @@
 00bf0888.0e|
 00c139b0.06|sky_d_3.lt2
 00c139b0.0e|sky_d_3.mdn
-00c47710.08|
-00c47710.09|
+00c47710.08|hebi_def.mtar
+00c47710.09|hebi_def.mtsq
 00c5b7c1.0e|trap_pitfall_stone00.mdn
 00c5b7c2.0e|trap_pitfall_stone01.mdn
 00c9d117.0e|label_amo_1911.mdn

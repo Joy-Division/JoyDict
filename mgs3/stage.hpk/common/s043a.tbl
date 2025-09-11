@@ -52,8 +52,8 @@
 0048d6c8.0e|s043a.mdn
 0048d6c8.0f|s043a.nav
 0048d6c8.12|s043a.zon
-0049e131.08|
-0049e131.09|
+0049e131.08|end_wh_body.mtar
+0049e131.09|end_wh_body.mtsq
 004b00a5.11|ene_item_efbelt_fph.eft
 004b9b95.0e|boat_01.mdn
 0051c858.0e|ene_item_water_def.mdn
@@ -105,8 +105,8 @@
 00875fad.0e|label_grd_stn.mdn
 0088a21f.08|enemy.mtar
 0088a21f.09|enemy.mtsq
-008beedd.08|
-008beedd.09|
+008beedd.08|fp_enemy.mtar
+008beedd.09|fp_enemy.mtsq
 0092b508.0e|ibox_magazine_body.mdn
 009461f3.0e|akkf_low.mdn
 009461f3.11|akkf_low.eft
@@ -120,8 +120,8 @@
 00a7b7f9.14|
 00a7b7fa.14|
 00a7b7fb.14|
-00a8e55d.08|
-00a8e55d.09|
+00a8e55d.08|enewheel.mtar
+00a8e55d.09|enewheel.mtsq
 00b0c5f9.0e|sna_bounding_def_dmo.mdn
 00b158b0.0e|fsh_lod.mdn
 00b15bf0.0e|fsh_mid.mdn

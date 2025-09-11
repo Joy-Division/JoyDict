@@ -42,6 +42,8 @@ enedrag.mtsq
 enemy.mtar
 enemy.mtsq
 fly_def_cm.mdn
+fp_enemy.mtar
+fp_enemy.mtsq
 frg_chaff_01_cm.mdn
 frg_chaff_02_cm.mdn
 frg_chaff_03_cm.mdn

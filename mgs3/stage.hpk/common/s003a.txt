@@ -31,6 +31,8 @@ gav_def.mtar
 gav_def.mtsq
 Golova.mdn
 grid_shd_medicine.mdn
+hebi_def.mtar
+hebi_def.mtsq
 ibox_cage_body.eft
 ibox_food_body.eft
 ibox_medicine_b_body.mdn

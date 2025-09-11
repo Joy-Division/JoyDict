@@ -1,5 +1,5 @@
-0001c08b.08|
-0001c08b.09|
+0001c08b.08|mak.mtar
+0001c08b.09|mak.mtsq
 00028fca.14|gage_ocelot_0.txn
 000c5b40.0e|ring_m63_cm.mdn
 000fce05.0e|oce_def_facehi.mdn
@@ -19,8 +19,8 @@
 0028510a.11|amd_amo_low.eft
 002aa697.5f|duel_pause.la2
 002aac22.0e|grid_shd_weapon_a.mdn
-002b83c8.08|
-002b83c8.09|
+002b83c8.08|oce_lynx.mtar
+002b83c8.09|oce_lynx.mtsq
 002bcce4.0e|bee_nest.mdn
 002bfd02.14|
 00348ce9.69|stname_s023a_j_alp_ovl.img
@@ -78,8 +78,8 @@
 009a68ba.14|duel_pause_0.txn
 009c449c.08|
 009c449c.09|
-009d00e0.08|
-009d00e0.09|
+009d00e0.08|ocelot23a.mtar
+009d00e0.09|ocelot23a.mtsq
 009d1246.0e|frg_wood1_cm.mdn
 009d9246.0e|frg_wood2_cm.mdn
 009e1246.0e|frg_wood3_cm.mdn
@@ -98,8 +98,8 @@
 00be8724.0e|ibox_amo_a_body.mdn
 00c139ae.06|sky_d_1.lt2
 00c139ae.0e|sky_d_1.mdn
-00c47710.08|
-00c47710.09|
+00c47710.08|hebi_def.mtar
+00c47710.09|hebi_def.mtsq
 00c6c8bd.0e|ene_item_amdmagpouch_spe.mdn
 00c6c8bd.11|ene_item_amdmagpouch_spe.eft
 00c9d117.0e|label_amo_1911.mdn

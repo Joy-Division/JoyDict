@@ -48,6 +48,8 @@ enemy.mtar
 enemy.mtsq
 fether_rpv_def.rcm
 fly_def_cm.rcm
+fp_enemy.mtar
+fp_enemy.mtsq
 frg_chaff_01_cm.rcm
 frg_chaff_02_cm.rcm
 frg_chaff_03_cm.rcm
@@ -66,6 +68,8 @@ grid_shd_magazine.mdl
 grid_shd_medicine.mdl
 grid_shd_weapon_a.mdl
 grid_shd_weapon_c.mdl
+hebi_def.mtar
+hebi_def.mtsq
 ibox_amo_a_body.mdl
 ibox_amo_b_body.mdl
 ibox_battery_body.mdl
