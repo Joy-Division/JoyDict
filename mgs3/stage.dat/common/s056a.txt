@@ -166,6 +166,8 @@ s056a_TV.mdl
 s056a_walllightB.mdl
 s056a_windowA.mdl
 scenerio.gcx
+scientist.mtar
+scientist.mtsq
 scop_ene_low.eft
 scop_ene_low.mdl
 shld_low.eft

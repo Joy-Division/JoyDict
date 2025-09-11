@@ -113,6 +113,8 @@ ural.mdl
 ural_radiation_ef.mdl
 ural_radiation_ef.tri
 ural_spoke_fade.mdl
+vol_shago.mtar
+vol_shago.mtsq
 zu23.eft
 zu23.la2
 zu23.mdl

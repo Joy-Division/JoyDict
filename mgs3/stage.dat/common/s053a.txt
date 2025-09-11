@@ -180,6 +180,8 @@ s053a_wor_def.mdl
 s062a_window_brk_prt_0.rcm
 s062a_window_brk_prt_1.rcm
 scenerio.gcx
+scientist.mtar
+scientist.mtsq
 scop_ene_low.eft
 scop_ene_low.mdl
 sky_d_4.lt2

@@ -77,6 +77,8 @@ sna_hair_weight_vr_dmo.txn
 stname_s122a_alp_ovl.img
 stname_s122a_j_alp_ovl.img
 thu_bounding_def_dmo.mdn
+thu_cqc.mtar
+thu_cqc.mtsq
 thu_def.cvd
 thu_def.mdn
 thunder.mtar

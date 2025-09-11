@@ -3169,8 +3169,8 @@
 00813738.10|eve_def.cvd
 0081375f.03|bee_dmo.tri
 0081375f.0d|bee_dmo.mdl
-0081385a.08|
-0081385a.09|
+0081385a.08|thu_cqc.mtar
+0081385a.09|thu_cqc.mtsq
 0081397d.0d|s003a_parts1.mdl
 00813992.0d|oce_def.mdl
 00813ab1.03|sru_def.tri
@@ -3563,8 +3563,8 @@
 0091762b.6e|a_gamed_by_cam.raw
 0091a6f7.03|v007a_river_edge1.tri
 0091a6f7.0d|v007a_river_edge1.mdl
-0091e5e5.08|
-0091e5e5.09|
+0091e5e5.08|scientist.mtar
+0091e5e5.09|scientist.mtsq
 0091f385.0d|cme_item_camera_a.mdl
 0091f386.0d|cme_item_camera_b.mdl
 0091f86f.0d|s053a_grp4_duct.mdl
@@ -3663,8 +3663,8 @@
 0096e7ab.03|sna_item_halo_para_belt_dmo.tri
 0096e7ab.0d|sna_item_halo_para_belt_dmo.mdl
 0096e7ab.11|sna_item_halo_para_belt_dmo.eft
-00970012.08|
-00970012.09|
+00970012.08|s101a_scientist.mtar
+00970012.09|s101a_scientist.mtsq
 009700f3.03|n033a_car01.tri
 009700f3.0d|n033a_car01.mdl
 009700f4.03|n033a_car02.tri
@@ -3910,8 +3910,8 @@
 009ec873.0d|cme_def_b_dmo.mdl
 009ec88f.0d|s072a_d_071a_distantview2_1.mdl
 009ecc7f.0d|s072a_c_071a_distantview3_1.mdl
-009ed456.08|
-009ed456.09|
+009ed456.08|maintenance.mtar
+009ed456.09|maintenance.mtsq
 009ef2d1.0d|s056a_compdesk.mdl
 009ef778.6e|written_by_cam.raw
 009f29a5.0d|vvaw_glass_dmo.mdl
@@ -4976,8 +4976,8 @@
 00d57ef5.03|
 00d5d0f5.0d|s041a2_reflect.mdl
 00d5def0.69|icon_wep_sdv_alp_ovl.img
-00d63ed0.08|
-00d63ed0.09|
+00d63ed0.08|sor_ene_gst.mtar
+00d63ed0.09|sor_ene_gst.mtsq
 00d63ed1.69|
 00d64b3a.03|s161a_p2_crane.tri
 00d64b3a.0d|s161a_p2_crane.mdl
@@ -5117,8 +5117,8 @@
 00deecf0.03|n033a_kanban.tri
 00deecf0.0d|n033a_kanban.mdl
 00df1d30.6c|s006a_window_frg1_cm.rcm
-00df2514.08|
-00df2514.09|
+00df2514.08|vol_shago.mtar
+00df2514.09|vol_shago.mtsq
 00df2a84.03|s053a_window1.tri
 00df2a84.0d|s053a_window1.mdl
 00df2a9f.0d|s053a_windowL.mdl

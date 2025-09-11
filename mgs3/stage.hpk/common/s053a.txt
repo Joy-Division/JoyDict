@@ -142,6 +142,8 @@ s053a_wor_def.cvd
 s053a_wor_def.mdn
 s062a_window_brk_prt_0.mdn
 s062a_window_brk_prt_1.mdn
+scientist.mtar
+scientist.mtsq
 scop_ene_low.eft
 scop_ene_low.mdn
 sky_d_4.lt2

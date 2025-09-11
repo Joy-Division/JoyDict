@@ -100,6 +100,8 @@ underwater_explosion_cm.mdn
 ural.eft
 ural.mdn
 ural_radiation_ef.mdn
+vol_shago.mtar
+vol_shago.mtsq
 zu23.eft
 zu23.la2
 zu23.mdn

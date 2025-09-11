@@ -1232,6 +1232,8 @@ maga.eft
 maga.mdn
 maga_page.cvd
 maga_page.mdn
+maintenance.mtar
+maintenance.mtsq
 mak.mtar
 mak.mtsq
 mak_def.cvd
@@ -2273,6 +2275,8 @@ s101a_realshadow_2.mdn
 s101a_realshadow_2.txn
 s101a_ROOF_d.mdn
 s101a_ROOF_n.mdn
+s101a_scientist.mtar
+s101a_scientist.mtsq
 s101a_toilet_door.mdn
 s101a_toilet_door.txn
 s101a_WINDOW.mdn
@@ -2732,6 +2736,8 @@ saaa_pin_dmo.mdn
 saaa_sto_dmo.mdn
 saaa_sto_dmo.txn
 sceva.mtfa
+scientist.mtar
+scientist.mtsq
 scop.eft
 scop.mdn
 scop_demo.mdn
@@ -3065,6 +3071,8 @@ sor_bounding_def_dmo.txn
 sor_cov_park_dmo.mdn
 sor_def_bc.mdn
 sor_def_dmo.mdn
+sor_ene_gst.mtar
+sor_ene_gst.mtsq
 sor_park_bc_dmo.mdn
 sor_park_bc_dmo.txn
 sor_park_dmo.mdn
@@ -3272,6 +3280,8 @@ thu_coat_dmo.mdn
 thu_coat_dmo.txn
 thu_coat_squat_dmo.mdn
 thu_coat_squat_dmo.txn
+thu_cqc.mtar
+thu_cqc.mtsq
 thu_def.cvd
 thu_def.mdn
 thu_def_after_dmo.mdn
@@ -3449,6 +3459,8 @@ vip_def.cvd
 vip_def.mdn
 vip_def.txn
 vip_def_dmo.mdn
+vol_shago.mtar
+vol_shago.mtsq
 vs000a_p0_a_sky_d_1.mdn
 vs000a_p0_a_sky_d_2.mdn
 vs000a_p0_a_sky_n_1.mdn

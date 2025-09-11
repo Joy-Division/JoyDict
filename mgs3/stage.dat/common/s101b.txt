@@ -195,6 +195,8 @@ s101a_office_desk.mdl
 s101a_pipeA.mdl
 s101a_ROOF_d.mdl
 s101a_ROOF_n.mdl
+s101a_scientist.mtar
+s101a_scientist.mtsq
 s101a_shelf_office.mdl
 s101a_sofa.mdl
 s101a_table.mdl

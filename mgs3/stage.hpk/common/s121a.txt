@@ -87,6 +87,8 @@ label_sp_mk22.txn
 label_weapon_hand.mdn
 locker.mtar
 locker.mtsq
+maintenance.mtar
+maintenance.mtsq
 maka_amo_low.eft
 maka_amo_low.mdn
 maka_low.eft

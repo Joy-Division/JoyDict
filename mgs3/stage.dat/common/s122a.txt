@@ -92,6 +92,8 @@ stname_s122a_i_alp_ovl.img
 stname_s122a_j_alp_ovl.img
 stname_s122a_s_alp_ovl.img
 thu_bounding_def_dmo.mdl
+thu_cqc.mtar
+thu_cqc.mtsq
 thu_def.cvd
 thu_def.mdl
 thunder.mtar

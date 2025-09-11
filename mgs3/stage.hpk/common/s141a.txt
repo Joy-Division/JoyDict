@@ -49,6 +49,8 @@ sna_hair_weight_vr_dmo.mdn
 sna_swim.mtar
 sna_swim.mtsq
 sor_def_bc.mdn
+sor_ene_gst.mtar
+sor_ene_gst.mtsq
 sor_skl_soul.mdn
 sorrow.mtar
 sorrow.mtsq

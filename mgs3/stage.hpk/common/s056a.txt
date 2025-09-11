@@ -132,6 +132,8 @@ s056a_slit_lightD.mdn
 s056a_slit_walllightA.mdn
 s056a_TV.mdn
 s056a_walllightB.mdn
+scientist.mtar
+scientist.mtsq
 scop_ene_low.eft
 scop_ene_low.mdn
 shld_low.eft

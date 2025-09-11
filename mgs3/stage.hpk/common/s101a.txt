@@ -151,6 +151,8 @@ s101a_locker_doorA.txn
 s101a_MR.mdn
 s101a_n.lt2
 s101a_ROOF_n.mdn
+s101a_scientist.mtar
+s101a_scientist.mtsq
 s101a_toilet_door.mdn
 s101a_WINDOW.mdn
 s101a_wor_def.cvd
