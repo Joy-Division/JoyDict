@@ -12,11 +12,6 @@ cyc_def.mdz
 cyc_mid.mdz
 cycrops.mtl
 cycrops.mts
-ds_container.mdz
-ds_dffield.mdz
-ds_grab_bord.mdz
-ds_grab_bord.tex
-ds_r_container.mdz
 ds01.eft
 ds01.ene
 ds01.hz2
@@ -31,6 +26,11 @@ ds01g.scx
 ds02.hz2
 ds02.mdz
 ds02.tex
+ds_container.mdz
+ds_dffield.mdz
+ds_grab_bord.mdz
+ds_grab_bord.tex
+ds_r_container.mdz
 fc01_grab_pole.mdz
 fc01_grab_pole.tex
 local.fnt

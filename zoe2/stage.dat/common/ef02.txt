@@ -3,7 +3,6 @@ ardjet.mts
 cell_blue.flw
 cell_red.flw
 cell_yellow.flw
-ef_DSTEP.mdz
 ef02.bin
 ef02.hz2
 ef02.hzt
@@ -11,6 +10,7 @@ ef02.lit
 ef02.mdz
 ef02.scx
 ef02.tex
+ef_DSTEP.mdz
 fc01_grab_pole.mdz
 fc01_grab_pole.tex
 ftm_cock_marka_cm.mdz

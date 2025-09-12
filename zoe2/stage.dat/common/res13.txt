@@ -37,9 +37,9 @@ msd_def.mdz
 msd_red.flw
 msd_yellow.flw
 normal_window.o2d
-res_permeat_comb.tex
 res13.bin
 res13.scx
+res_permeat_comb.tex
 saihyo_pause.o2d
 subweapon.o2d
 timer.o2d

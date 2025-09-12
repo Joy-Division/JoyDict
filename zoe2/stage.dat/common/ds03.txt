@@ -5,9 +5,6 @@ aaa_star_ba01.tex
 board1.mdz
 circlea.mdz
 circleb.mdz
-ds_grab_bord.mdz
-ds_grab_bord.tex
-ds_pod.mdz
 ds01_gate.mdz
 ds03.bin
 ds03.ene
@@ -17,6 +14,9 @@ ds03.mdz
 ds03.scx
 ds03.tex
 ds03.trz
+ds_grab_bord.mdz
+ds_grab_bord.tex
+ds_pod.mdz
 dsshoot.mdz
 ftm_cock_marka_cm.mdz
 ftm_cock_marka_cm.tex

@@ -3,10 +3,6 @@ circlea.mdz
 circleb.mdz
 container1.mdz
 container1.tex
-ds_container.mdz
-ds_grab_bord.mdz
-ds_grab_bord.tex
-ds_r_container.mdz
 ds01.bin
 ds01.eft
 ds01.ene
@@ -22,6 +18,10 @@ ds01_unit.mdz
 ds02.hz2
 ds02.mdz
 ds02.tex
+ds_container.mdz
+ds_grab_bord.mdz
+ds_grab_bord.tex
+ds_r_container.mdz
 fantoma_res.mtl
 fantoma_res.mts
 fc01_grab_pole.mdz

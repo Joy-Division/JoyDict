@@ -1,3 +1,6 @@
+TEKKOTU01.mdz
+TEKKOTU02.mdz
+TOWER.mdz
 cel_def.mdz
 cel_def.tex
 cel_eff3.cvz
@@ -63,9 +66,6 @@ spd_def.mdz
 spd_mid.mdz
 spider.mtl
 spider.mts
-TEKKOTU01.mdz
-TEKKOTU02.mdz
-TOWER.mdz
 tripoleL.mdz
 tripoleL.tex
 tripoleR.mdz

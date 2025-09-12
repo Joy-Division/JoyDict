@@ -8,7 +8,6 @@ cld_red.flw
 cld_yellow.flw
 clud.mtl
 clud.mts
-ef_door.mdz
 ef01.bin
 ef01.ene
 ef01.hz2
@@ -18,6 +17,7 @@ ef01.mdz
 ef01.scx
 ef01.tex
 ef01.trz
+ef_door.mdz
 fc01_grab_pole.mdz
 fc01_grab_pole.tex
 local.fnt

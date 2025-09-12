@@ -10,10 +10,6 @@ cyc_def.mdz
 cyc_mid.mdz
 cycrops.mtl
 cycrops.mts
-ds_container.mdz
-ds_grab_bord.mdz
-ds_grab_bord.tex
-ds_r_container.mdz
 ds01.eft
 ds01.hz2
 ds01.hzt
@@ -28,6 +24,10 @@ ds02.mdz
 ds02.scx
 ds02.tex
 ds02.trz
+ds_container.mdz
+ds_grab_bord.mdz
+ds_grab_bord.tex
+ds_r_container.mdz
 fantoma_res.mtl
 fantoma_res.mts
 fc01_grab_pole.mdz

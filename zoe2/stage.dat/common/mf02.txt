@@ -20,10 +20,10 @@ mf02.mdz
 mf02.scx
 mf02.tex
 mf02.trz
+mf02_G.mdz
 mf02_exit.cvz
 mf02_exit.mdz
 mf02_exit.tex
-mf02_G.mdz
 mf02_glab_board.cvz
 mf02_glab_board.mdz
 mf02_glab_board.tex

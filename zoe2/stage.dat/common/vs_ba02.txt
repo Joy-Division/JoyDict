@@ -1,5 +1,3 @@
-ba_grab_pole1.mdz
-ba_grab_pole1.tex
 ba02.eft
 ba02.ene
 ba02.hz2
@@ -10,6 +8,8 @@ ba02.tex
 ba02.trz
 ba02pole.mtl
 ba02pole.mts
+ba_grab_pole1.mdz
+ba_grab_pole1.tex
 boss_rush.o2d
 crane1.mdz
 hangar1.mdz

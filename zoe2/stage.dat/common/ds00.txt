@@ -12,9 +12,6 @@ cyc_def.mdz
 cyc_mid.mdz
 cycrops.mtl
 cycrops.mts
-ds_container.mdz
-ds_grab_bord.mdz
-ds_grab_bord.tex
 ds00.bin
 ds00.eft
 ds00.ene
@@ -29,6 +26,9 @@ ds01_unit.mdz
 ds02.hz2
 ds02.mdz
 ds02.tex
+ds_container.mdz
+ds_grab_bord.mdz
+ds_grab_bord.tex
 engpack.mdz
 engpack.tex
 fc01_grab_pole.mdz

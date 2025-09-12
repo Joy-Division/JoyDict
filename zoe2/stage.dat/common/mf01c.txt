@@ -1,3 +1,6 @@
+TEKKOTU01.mdz
+TEKKOTU02.mdz
+TOWER.mdz
 bat_def.mdz
 bat_def.tex
 cel_def.mdz
@@ -110,6 +113,3 @@ nrt_red.flw
 nrt_yellow.flw
 permeat_comb.tex
 sca_def.mdz
-TEKKOTU01.mdz
-TEKKOTU02.mdz
-TOWER.mdz

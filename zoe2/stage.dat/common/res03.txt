@@ -42,9 +42,9 @@ msd_def.mdz
 msd_def.tex
 msd_red.flw
 msd_yellow.flw
-res_permeat_comb.tex
 res03.bin
 res03.scx
+res_permeat_comb.tex
 subweapon.o2d
 trial_controller.o2d
 trial_controller_e.o2d

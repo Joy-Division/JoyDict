@@ -14,8 +14,6 @@ apillar6.mdz
 apillar7.mdz
 apillar8.mdz
 apillar9.mdz
-ba_grab_pole1.mdz
-ba_grab_pole1.tex
 ba01.bin
 ba01.eft
 ba01.ene
@@ -30,6 +28,8 @@ ba01_02.ene
 ba01_04.ene
 ba01_06.ene
 ba01_08.ene
+ba_grab_pole1.mdz
+ba_grab_pole1.tex
 bacont1.mdz
 bacont2.mdz
 bat_def.mdz
