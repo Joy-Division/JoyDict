@@ -45,8 +45,8 @@ kokesi_c.kmd
 kokesi_s.kmd
 kt_b.kmd
 kt_n.kmd
-ling_all.kmd
 ling6bar.kmd
+ling_all.kmd
 liq_head.kmd
 lopryhei.kmd
 lovrhei.kmd
@@ -107,8 +107,8 @@ mei_rhr.azm
 mei_rhr.kmd
 mei_tail.kmd
 mei_tail2.kmd
-mel_wlf.kmd
 mel10ad.oar
+mel_wlf.kmd
 movie.bin
 na000.mt3
 na001.mt3
@@ -414,8 +414,8 @@ th_hand.kmd
 tl_hand.kmd
 u_light.kmd
 ufo.kmd
-ufo_2.kmd
 ufo2.kmd
+ufo_2.kmd
 va_cfr.hzm
 va_cfr.kmd
 va_clm.hzm

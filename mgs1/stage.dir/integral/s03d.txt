@@ -24,10 +24,10 @@ enemy.oar
 evt_d1.kmd
 in_light.kmd
 ippanhei.kmd
+joh03ad.oar
 joh_low.kmd
 joh_obj.kmd
 joh_sdw.kmd
-joh03ad.oar
 low_lit.kmd
 lowhei.kmd
 mel_03a.oar

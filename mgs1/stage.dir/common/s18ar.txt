@@ -8,8 +8,8 @@
 b_switch.kmd
 bomb.kmd
 liquid.kmd
-lqd_18a.oar
 lqd18ad.oar
+lqd_18a.oar
 null.hzm
 null.kmd
 null.lit

@@ -12,6 +12,11 @@ scenerio.gcx
 se000012.efx
 sg00003b.mdx
 sne_vr.oar
+vr02.bin
+vr02demo.con
+vr02n.hzm
+vr02s.hzm
+vr02t.hzm
 vr_02n.kmd
 vr_02n.lit
 vr_02s.kmd
@@ -19,10 +24,5 @@ vr_02s.lit
 vr_02t.kmd
 vr_02t.lit
 vr_cone.kmd
-vr02.bin
-vr02demo.con
-vr02n.hzm
-vr02s.hzm
-vr02t.hzm
 wv000012.wvx
 wv000020.wvx

@@ -8,8 +8,8 @@ add_fox2.kmd
 add_mid.kmd
 code.azm
 desk_obj.kmd
-ling_all.kmd
 ling6bar.kmd
+ling_all.kmd
 na000.mt3
 na001.mt3
 na002.mt3

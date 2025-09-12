@@ -24,8 +24,8 @@ pat_lamp.kmd
 pat_spt1.kmd
 pat_spt2.kmd
 pat_spt3.kmd
-s_camera.kmd
 s06a.bin
+s_camera.kmd
 scenerio.gcx
 se000006.efx
 sg00001a.mdx

@@ -41,8 +41,8 @@ mouse.kmd
 null.hzm
 null.kmd
 null.lit
-s_camera.kmd
 s02a.bin
+s_camera.kmd
 scenerio.gcx
 se000002.efx
 sg000012.mdx

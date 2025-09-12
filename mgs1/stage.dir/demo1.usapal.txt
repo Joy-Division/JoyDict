@@ -83,9 +83,9 @@ pat_spt1.kmd
 pat_spt2.kmd
 pat_spt3.kmd
 read.pcc
-s_camera.kmd
 s00aa.bin
 s01a.bin
+s_camera.kmd
 scenerio.gcx
 se000000.efx
 se000001.efx

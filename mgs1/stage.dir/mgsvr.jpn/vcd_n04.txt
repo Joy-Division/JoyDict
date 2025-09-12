@@ -21,8 +21,8 @@ sg000043.mdx
 sne_vr.oar
 u_light.kmd
 ufo.kmd
-ufo_2.kmd
 ufo2.kmd
+ufo_2.kmd
 vc_n04.hzm
 vc_n04.kmd
 vcd_n04.bin

@@ -118,7 +118,6 @@
 03a_o1b.kmd
 03a_o2.kmd
 03a_r1.kmd
-1_key_gg.kmd
 16a.hzm
 16a.kmd
 16a.lit
@@ -126,6 +125,7 @@
 16a_d1.kmd
 16a_o1.kmd
 16a_o2.kmd
+1_key_gg.kmd
 2_fin.kmd
 2_fin_w.kmd
 2_ggl_v2.kmd
@@ -181,20 +181,20 @@ hindsold.kmd
 hindwind.kmd
 in_light.kmd
 ippanhei.kmd
+joh03ad.oar
 joh_low.kmd
 joh_obj.kmd
 joh_sdw.kmd
-joh03ad.oar
 lopryhei.kmd
 low_lit.kmd
 lowhei.kmd
 lqd_cort.kmd
-mel_03a.oar
-mel_hei.kmd
-mel_nude.kmd
 mel03ad.oar
 mel03ad2.oar
 mel03ad3.oar
+mel_03a.oar
+mel_hei.kmd
+mel_nude.kmd
 melhei03.oar
 meryl.kmd
 mouse.kmd
@@ -221,7 +221,6 @@ pat_spt2.kmd
 pat_spt3.kmd
 psy_cort.kmd
 read.pcc
-s_camera.kmd
 s00a.bin
 s0102a1.con
 s01a.bin
@@ -233,6 +232,7 @@ s02e.bin
 s03a.bin
 s03d.bin
 s16a.bin
+s_camera.kmd
 scenerio.gcx
 se000000.efx
 se000001.efx

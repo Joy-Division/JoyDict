@@ -7,8 +7,8 @@ add_fox.kmd
 add_mid.kmd
 code.azm
 desk_obj.kmd
-ling_all.kmd
 ling6bar.kmd
+ling_all.kmd
 nao_eye1.azm
 nao_eye1.kmd
 nao_face.kmd
