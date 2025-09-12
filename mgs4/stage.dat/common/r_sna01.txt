@@ -69,12 +69,6 @@ jave_mis_amo.cnp
 jave_mis_amo.mdn
 jave_mis_amo.txn
 jave_mis_def_hig.phs
-jp_loadtime_dot_01_alp_nomip.img
-jp_loadtime_dot_02_alp_nomip.img
-jp_loadtime_dot_03_alp_nomip.img
-jp_loadtime_dot_04_alp_nomip.img
-jp_loadtime_dot_05_alp_nomip.img
-jp_loadtime_dot_06_alp_nomip.img
 jp_loadtime_dotG_01_alp_nomip.img
 jp_loadtime_dotG_02_alp_nomip.img
 jp_loadtime_dotG_03_alp_nomip.img
@@ -87,6 +81,12 @@ jp_loadtime_dotK_03_alp_nomip.img
 jp_loadtime_dotK_04_alp_nomip.img
 jp_loadtime_dotK_05_alp_nomip.img
 jp_loadtime_dotK_06_alp_nomip.img
+jp_loadtime_dot_01_alp_nomip.img
+jp_loadtime_dot_02_alp_nomip.img
+jp_loadtime_dot_03_alp_nomip.img
+jp_loadtime_dot_04_alp_nomip.img
+jp_loadtime_dot_05_alp_nomip.img
+jp_loadtime_dot_06_alp_nomip.img
 laser.txn
 lasr_equ_joi_hig.mdn
 lasr_equ_joi_mid.mdn
