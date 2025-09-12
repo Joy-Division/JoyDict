@@ -48,8 +48,9 @@ mk22_high.mdn
 pai_bridge_dmo.mdn
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
-s005a_d.lt2
+s005a1.geom
 s005a_P0.mdn
+s005a_d.lt2
 s005a_realshadow_hashi.mdn
 s005a_river.mdl
 s005a_river.mdn
@@ -57,7 +58,6 @@ s005a_riversplash.cvd
 s005a_riversplash.mdl
 s005a_riversplash.mdn
 s005a_tsuribashi_mh.mdn
-s005a1.geom
 sky_d_0.lt2
 sky_d_0.mdn
 sna_bounding_def_dmo.mdn

@@ -1,3 +1,5 @@
+Golova.mdn
+Siberian_Ink_Cap.mdn
 ama_def.cvd
 ama_def.mdn
 ama_def.mtar
@@ -35,7 +37,6 @@ gav_def.cvd
 gav_def.mdn
 gav_def.mtar
 gav_def.mtsq
-Golova.mdn
 grid_shd_amo_a.mdn
 grid_shd_medicine.mdn
 grid_shd_weapon_a.mdn
@@ -67,13 +68,12 @@ rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s003a.geom
 s003a.nav
-s003a_swamp.mdl
-s003a_swamp.mdn
 s003a0.mdn
 s003a1.mdn
 s003a1_pond1.mdn
 s003a2.mdn
-Siberian_Ink_Cap.mdn
+s003a_swamp.mdl
+s003a_swamp.mdn
 sky_d_0.lt2
 sky_d_0.mdn
 sna_bounding_def_dmo.mdn

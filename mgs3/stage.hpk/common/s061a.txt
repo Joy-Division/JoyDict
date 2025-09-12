@@ -1,3 +1,4 @@
+Vine_Melon.mdn
 akkf_low.eft
 akkf_low.mdn
 akmr_amo_low.eft
@@ -134,10 +135,10 @@ ring_m63_cm.mdn
 s005a_tsuribashi_rope_1m_sh.mdn
 s061a.geom
 s061a.nav
+s061a0.mdn
 s061a_d.lt2
 s061a_snake.mtar
 s061a_snake.mtsq
-s061a0.mdn
 scop_ene_low.eft
 scop_ene_low.mdn
 sky_d_3.lt2
@@ -179,7 +180,6 @@ tsu_def.mtar
 tsu_def.mtsq
 tsu_def.txn
 underwater_explosion_cm.mdn
-Vine_Melon.mdn
 vz61_amo_low.eft
 vz61_amo_low.mdn
 vz61_low.eft

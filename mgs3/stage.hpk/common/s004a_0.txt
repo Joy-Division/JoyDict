@@ -1,3 +1,9 @@
+Golova.mdn
+Golova.txn
+Siberian_Ink_Cap.mdn
+Siberian_Ink_Cap.txn
+Yabloko_Moloko.mdn
+Yabloko_Moloko.txn
 ads_bounding_hair_dmo.mdn
 ads_bounding_hair_dmo.txn
 ads_bounding_rope_dmo.mdn
@@ -86,8 +92,6 @@ gave_slide_dmo.mdn
 gave_slide_dmo.txn
 gave_spring_dmo.mdn
 gave_spring_dmo.txn
-Golova.mdn
-Golova.txn
 ibox_cage_body.eft
 ibox_food_body.eft
 m16a_high.eft
@@ -100,6 +104,8 @@ pato_high.mdn
 pato_high.txn
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
+s004a0.geom
+s004a0.mdn
 s004a_brk_0.mdn
 s004a_d.lt2
 s004a_def_0.mdn
@@ -108,8 +114,6 @@ s004a_n_def.lt2
 s004a_parts1.mdn
 s004a_realshadow_0.mdn
 s004a_realshadow_0.txn
-s004a0.geom
-s004a0.mdn
 saaa_dmo.eft
 saaa_high.eft
 scr_suiteki1.cvd
@@ -118,8 +122,6 @@ scr_suiteki1.txn
 scr_waterline01.cvd
 scr_waterline01.mdn
 scr_waterline01.txn
-Siberian_Ink_Cap.mdn
-Siberian_Ink_Cap.txn
 sky_d_1.lt2
 sky_d_1.mdn
 sky_d_1.txn
@@ -145,5 +147,3 @@ sor_park_bc_dmo.mdn
 sor_park_bc_dmo.txn
 underwater_explosion_cm.mdn
 vz61_high.eft
-Yabloko_Moloko.mdn
-Yabloko_Moloko.txn

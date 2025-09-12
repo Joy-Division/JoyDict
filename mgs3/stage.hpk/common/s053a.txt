@@ -1,3 +1,15 @@
+E01.mdn
+E01.txn
+E01_paper.mdn
+E01_paper.txn
+J01.mdn
+J01.txn
+J01_paper.mdn
+J01_paper.txn
+U01.mdn
+U01.txn
+U01_paper.mdn
+U01_paper.txn
 akkf_low.eft
 akkf_low.mdn
 akmr_amo_low.eft
@@ -6,10 +18,6 @@ akmr_low.eft
 akmr_low.mdn
 amuru_kudzu.mdn
 cachetrans.txn
-E01.mdn
-E01.txn
-E01_paper.mdn
-E01_paper.txn
 efp_s053a_window_glass.eft
 ene_ind.cvd
 ene_ind.mdn
@@ -60,10 +68,6 @@ itha_amo_low.eft
 itha_amo_low.mdn
 itha_low.eft
 itha_low.mdn
-J01.mdn
-J01.txn
-J01_paper.mdn
-J01_paper.txn
 label_amo_1911.mdn
 label_amo_akm.mdn
 label_amo_cig.mdn
@@ -108,6 +112,7 @@ ring_m63_cm.mdn
 s053a.geom
 s053a.mdn
 s053a.nav
+s053a_MR_floor.mdn
 s053a_alarm.mdn
 s053a_black.mdn
 s053a_d.lt2
@@ -124,7 +129,6 @@ s053a_load_d.mdn
 s053a_load_n.mdn
 s053a_local_sky.mdn
 s053a_locker_door.mdn
-s053a_MR_floor.mdn
 s053a_n.lt2
 s053a_outside.mdn
 s053a_road_new.mdn
@@ -136,10 +140,10 @@ s053a_toilet_door.mdn
 s053a_walllightA.mdn
 s053a_walllightB_d.mdn
 s053a_walllightB_n.mdn
+s053a_window1.mdn
 s053a_window_frg1_cm.mdn
 s053a_window_frg2_cm.mdn
 s053a_window_glass.cvd
-s053a_window1.mdn
 s053a_wor_def.cvd
 s053a_wor_def.mdn
 s062a_window_brk_prt_0.mdn
@@ -171,8 +175,4 @@ stname_s055a_alp_ovl.img
 stname_s055a_j_alp_ovl.img
 stname_s056a_alp_ovl.img
 stname_s056a_j_alp_ovl.img
-U01.mdn
-U01.txn
-U01_paper.mdn
-U01_paper.txn
 underwater_explosion_cm.mdn

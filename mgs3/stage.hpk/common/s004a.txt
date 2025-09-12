@@ -1,3 +1,6 @@
+Golova.mdn
+Siberian_Ink_Cap.mdn
+Yabloko_Moloko.mdn
 akkf_low.eft
 akkf_low.mdn
 akmr_amo_low.eft
@@ -49,7 +52,6 @@ frg_soil3_cm.mdn
 frg_wood1_cm.mdn
 frg_wood2_cm.mdn
 frg_wood3_cm.mdn
-Golova.mdn
 gps_def.cvd
 gps_def.mdn
 grid_shd_food.mdn
@@ -91,20 +93,19 @@ rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s004a.geom
 s004a.nav
+s004a0.mdn
 s004a_brk_0.mdn
 s004a_d.lt2
 s004a_def_0.mdn
 s004a_n_brk.lt2
 s004a_n_def.lt2
 s004a_parts1.mdn
-s004a0.mdn
 scop_ene_low.eft
 scop_ene_low.mdn
 sdl_def.cvd
 sdl_def.mdn
 sdl_def.mtar
 sdl_def.mtsq
-Siberian_Ink_Cap.mdn
 sky_d_1.lt2
 sky_d_1.mdn
 sky_n_2.lt2
@@ -135,4 +136,3 @@ vz61_amo_low.eft
 vz61_amo_low.mdn
 vz61_low.eft
 vz61_low.mdn
-Yabloko_Moloko.mdn

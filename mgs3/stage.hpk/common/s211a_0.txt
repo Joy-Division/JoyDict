@@ -41,13 +41,13 @@ ibox_cage_body.eft
 ibox_food_body.eft
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
+s201a0.mdn
+s201a1.mdn
 s201a_d.lt2
 s201a_env.mdn
 s201a_p0_hiki.mdn
 s201a_p0_water3.mdl
 s201a_p0_water3.mdn
-s201a0.mdn
-s201a1.mdn
 s211a0.geom
 s211b_cockpit.lt2
 sky_d_7.mdn
@@ -68,6 +68,7 @@ sna_suit_hair_dmo.mdn
 stname_s031a_alp_ovl.img
 stname_s031a_j_alp_ovl.img
 underwater_explosion_cm.mdn
+vva14_cock_handle_demo.mdn
 vva_cockpit.mdn
 vva_door_l.mdn
 vva_handle_l.mdn
@@ -98,7 +99,6 @@ vva_mater_v.mdn
 vva_nozzle.mdn
 vva_nozzle.txn
 vva_warning_lamp.mdn
-vva14_cock_handle_demo.mdn
 vvaw_demo.mdn
 vvaw_door_outside_l.mdn
 vvaw_glass_dom.mdn

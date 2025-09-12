@@ -1,3 +1,6 @@
+Russian_False_Mango.mdn
+Siberian_Ink_Cap.mdn
+Yabloko_Moloko.mdn
 ama_def.mtar
 ama_def.mtsq
 amana_petal01_cm.mdn
@@ -55,7 +58,6 @@ pca_def.mtar
 pca_def.mtsq
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
-Russian_False_Mango.mdn
 s005a_tsuribashi_rope_1m_sh.mdn
 s044a_light_1.mdn
 s051a.geom
@@ -67,7 +69,6 @@ s051a_snake.mtar
 s051a_snake.mtsq
 s051a_swamp.mdl
 s051a_swamp.mdn
-Siberian_Ink_Cap.mdn
 sky_d_4.mdn
 sky_d_4a.lt2
 sky_n_2_moon.mdn
@@ -126,7 +127,6 @@ wor_suspend.cvd
 wor_suspend.mdn
 wor_suspend.mtar
 wor_suspend.mtsq
-Yabloko_Moloko.mdn
 yad_def.cvd
 yad_def.mdn
 yad_def.txn

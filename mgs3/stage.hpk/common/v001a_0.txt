@@ -42,12 +42,12 @@ para.txn
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s001a.geom
+s001a0.mdn
 s001a_enkei1.mdn
 s001a_enkei1_m.lt2
 s001a_m.lt2
 s001a_realshadow_0.mdn
 s001a_realshadow_0.txn
-s001a0.mdn
 sky_d_0.lt2
 sky_d_0.mdn
 sky_d_0.txn

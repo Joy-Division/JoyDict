@@ -24,12 +24,12 @@ red_def.txn
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s001a.geom
+s001a0.mdn
+s001a0.txn
 s001a_enkei1.mdn
 s001a_enkei1.txn
 s001a_enkei1_m.lt2
 s001a_m.lt2
-s001a0.mdn
-s001a0.txn
 sdl_def.mdn
 sdl_def.mtar
 sdl_def.mtsq

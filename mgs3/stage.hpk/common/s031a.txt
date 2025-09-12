@@ -100,6 +100,10 @@ s031a_ground1.mdn
 s031a_ground1.txn
 s031a_h_born1.mdn
 s031a_h_born1.txn
+s031a_water01.mdl
+s031a_water01.mdn
+s031a_water02.mdn
+s031a_water02.txn
 s031a_water_drop1.cvd
 s031a_water_drop1.mdl
 s031a_water_drop1.mdn
@@ -108,10 +112,6 @@ s031a_water_splash1.cvd
 s031a_water_splash1.mdl
 s031a_water_splash1.mdn
 s031a_water_splash1.txn
-s031a_water01.mdl
-s031a_water01.mdn
-s031a_water02.mdn
-s031a_water02.txn
 scr_suiteki1.cvd
 scr_suiteki1.mdn
 scr_suiteki1.txn

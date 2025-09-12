@@ -76,10 +76,10 @@ musr_high.eft
 pato_high.eft
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
+s162a0.geom
 s162a_p0.mdn
 s162a_p1.mdn
 s162a_p2.mdn
-s162a0.geom
 s162ap0_realshadow_01.mdn
 s163a_01.lt2
 saaa_dmo.eft

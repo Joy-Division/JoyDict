@@ -84,6 +84,7 @@ rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s074a_door.mdn
 s075a.mdn
+s075a0.geom
 s075a_e.lt2
 s075a_e_sky.lt2
 s075a_g_drumcan.mdn
@@ -91,7 +92,6 @@ s075a_gg_p0.mdn
 s075a_gg_realshadow_01.mdn
 s075a_realshadow_02.mdn
 s075a_s162a.mdn
-s075a0.geom
 scop_demo.mdn
 sky_e_3.mdn
 slig.mdn

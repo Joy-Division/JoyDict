@@ -1,3 +1,5 @@
+Siberian_Ink_Cap.mdn
+Yabloko_Moloko.mdn
 amana_petal01_cm.mdn
 anaesthesia.la2
 cachetrans.txn
@@ -84,12 +86,11 @@ s063a_enkei1_d.lt2
 s065a.geom
 s065a.nav
 s065a.zon
+s065a0.mdn
 s065a_d.lt2
 s065a_ivy_close.mdn
 s065a_ivy_open.mdn
-s065a0.mdn
 shida02_cm.mdn
-Siberian_Ink_Cap.mdn
 sky_d_3.lt2
 sky_d_3.mdn
 sky_d_3_rain.lt2
@@ -111,4 +112,3 @@ tsu_def.mdn
 tsu_def.mtar
 tsu_def.mtsq
 underwater_explosion_cm.mdn
-Yabloko_Moloko.mdn

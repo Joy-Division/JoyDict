@@ -38,13 +38,13 @@ oce_def_bike_dmo.van
 pallette_cha1.raw
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
+s163a0.geom
 s163a_01.mdn
 s163a_02.lt2
 s163a_02.mdn
 s163a_03.mdn
 s163a_04.mdn
 s163a_realshadow_01.mdn
-s163a0.geom
 shag_cock_light.lt2
 shag_dmo.mdn
 shag_jet_dmo.mdn

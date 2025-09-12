@@ -77,6 +77,7 @@ oce_item_knife_def.txn
 pato_high.eft
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
+s161a1.geom
 s161a_p1.mdn
 s161a_p1_car_sdw.mdn
 s161a_p1_gate.mdn
@@ -85,7 +86,6 @@ s161a_p1_passage.mdn
 s161a_p1_passage.txn
 s161a_p1_realshadow_01.mdn
 s161a_p1_realshadow_01.txn
-s161a1.geom
 saaa_dmo.eft
 saaa_dmo.mdn
 saaa_dmo.txn

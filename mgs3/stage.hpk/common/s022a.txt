@@ -161,9 +161,9 @@ s022a_armory.mdn
 s022a_correspo.mdn
 s022a_d.lt2
 s022a_d_inside.lt2
+s022a_doorA.mdn
 s022a_door_pieceA_cm.mdn
 s022a_door_pieceB_cm.mdn
-s022a_doorA.mdn
 s022a_fancewire_0.mdn
 s022a_fancewire_1.mdn
 s022a_fancewire_2.mdn

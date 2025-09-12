@@ -45,8 +45,8 @@ ring_m63_cm.mdn
 s211_1_b_distantview1.mdn
 s211_1_c_cloud1.mdn
 s211_1_g_ground1.mdn
-s211a_1_d.lt2
 s211a1.geom
+s211a_1_d.lt2
 s211b_cockpit.lt2
 saaa_high.mdn
 sky_d_7.mdn
@@ -67,6 +67,7 @@ sna_rpg_fire.txn
 sna_suit_hair_dmo.eft
 sna_suit_hair_dmo.mdn
 underwater_explosion_cm.mdn
+vva14_cock_handle_demo.mdn
 vva_cockpit.mdn
 vva_cockpit_realshadow.mdn
 vva_door_l.mdn
@@ -97,7 +98,6 @@ vva_mater_t.mdn
 vva_mater_u.mdn
 vva_mater_v.mdn
 vva_nozzle.mdn
-vva14_cock_handle_demo.mdn
 vvaw_demo.mdn
 vvaw_door_outside_l.mdn
 vvaw_door_outside_r.mdn

@@ -1,3 +1,5 @@
+Siberian_Ink_Cap.mdn
+Yabloko_Moloko.mdn
 akmr_amo_high.mdn
 akmr_high.mdn
 amana_petal01_cm.mdn
@@ -45,6 +47,7 @@ mk22_high.mdn
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s005a.geom
+s005a0.mdn
 s005a_d.lt2
 s005a_river.mdl
 s005a_river.mdn
@@ -52,10 +55,8 @@ s005a_riversplash.cvd
 s005a_riversplash.mdl
 s005a_riversplash.mdn
 s005a_tsuribashi_mh.mdn
-s005a0.mdn
 scop_demo.mdn
 shag_black_dmo.mdn
-Siberian_Ink_Cap.mdn
 sky_d_0.lt2
 sky_d_0.mdn
 sna_bounding_def_dmo.mdn
@@ -76,4 +77,3 @@ sok_item_himo.mdn
 underwater_explosion_cm.mdn
 v005a_realshadow_1.mdn
 v005a_realshadow_1.txn
-Yabloko_Moloko.mdn

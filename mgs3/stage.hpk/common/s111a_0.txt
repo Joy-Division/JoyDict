@@ -54,6 +54,8 @@ ring_m63_cm.mdn
 s111a.geom
 s111a.lt2
 s111a.mdn
+s111a_MR.mdn
+s111a_MR.txn
 s111a_alarm.mdn
 s111a_d.lt2
 s111a_door_left.mdn
@@ -63,8 +65,6 @@ s111a_floor.txn
 s111a_gg_d.lt2
 s111a_gg_n.lt2
 s111a_kage_dummy.mdn
-s111a_MR.mdn
-s111a_MR.txn
 s111a_room_door_left.mdn
 s111a_room_door_right.mdn
 s111a_s091a_p.mdn

@@ -34,6 +34,7 @@ null_skeleton.mdn
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s121a.mdn
+s121a0.geom
 s121a_alarm.mdn
 s121a_d.lt2
 s121a_door.mdn
@@ -41,7 +42,6 @@ s121a_door_locked.mdn
 s121a_floor.mdn
 s121a_fueltank.mdn
 s121a_window.mdn
-s121a0.geom
 s122a.mdn
 shag_stoj.mdn
 sna_bounding_def_dmo.mdn

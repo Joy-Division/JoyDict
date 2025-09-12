@@ -99,6 +99,7 @@ rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s006a.geom
 s006a.nav
+s006a0.mdn
 s006a_bed1.mdn
 s006a_d.lt2
 s006a_door.mdn
@@ -115,7 +116,6 @@ s006a_window_frame.mdn
 s006a_window_frg1_cm.mdn
 s006a_window_frg2_cm.mdn
 s006a_window_glass.cvd
-s006a0.mdn
 s062a_window_brk_prt_0.mdn
 s062a_window_brk_prt_1.mdn
 scop_ene_low.eft

@@ -38,6 +38,10 @@ red_def.mtsq
 red_def.txn
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
+s201a0.mdn
+s201a0.txn
+s201a1.mdn
+s201a1.txn
 s201a_d.lt2
 s201a_env.mdn
 s201a_env.txn
@@ -49,10 +53,6 @@ s201a_mass_tree3.txn
 s201a_mass_tree4.mdn
 s201a_mass_tree4.txn
 s201a_water.mdn
-s201a0.mdn
-s201a0.txn
-s201a1.mdn
-s201a1.txn
 s201b.geom
 sdl_def.mdn
 sdl_def.mtar

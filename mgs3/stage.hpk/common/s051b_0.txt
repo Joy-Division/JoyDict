@@ -1,3 +1,9 @@
+Russian_False_Mango.mdn
+Russian_False_Mango.txn
+Siberian_Ink_Cap.mdn
+Siberian_Ink_Cap.txn
+Yabloko_Moloko.mdn
+Yabloko_Moloko.txn
 amana_petal01_cm.mdn
 bk_concL_cm.mdn
 bk_concM_cm.mdn
@@ -55,13 +61,12 @@ mushroom_D.mdn
 mushroom_D.txn
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
-Russian_False_Mango.mdn
-Russian_False_Mango.txn
 s005a_tsuribashi_rope_1m_sh.mdn
 s005a_tsuribashi_rope_1m_sh.txn
 s051a.mdn
 s051a.nav
 s051a.txn
+s051a0.geom
 s051a_d.lt2
 s051a_demo_obj.mdn
 s051a_demo_obj.txn
@@ -73,9 +78,6 @@ s051a_realshadow_0.txn
 s051a_swamp.mdl
 s051a_swamp.mdn
 s051a_swamp.txn
-s051a0.geom
-Siberian_Ink_Cap.mdn
-Siberian_Ink_Cap.txn
 sky_d_4.mdn
 sky_d_4.txn
 sky_d_4a.lt2
@@ -136,5 +138,3 @@ will_arrow_high.mdn
 will_arrow_high.txn
 will_high.mdn
 will_high.txn
-Yabloko_Moloko.mdn
-Yabloko_Moloko.txn

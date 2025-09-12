@@ -68,6 +68,8 @@ pato_high.eft
 pato_high.mdn
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
+s201a0.mdn
+s201a1.mdn
 s201a_d.lt2
 s201a_env.mdn
 s201a_env_d.lt2
@@ -81,8 +83,6 @@ s201a_realshadow_0.mdn
 s201a_realshadow_0.txn
 s201a_water.mdl
 s201a_water.mdn
-s201a0.mdn
-s201a1.mdn
 s201b.geom
 saaa_dmo.eft
 saaa_high.eft

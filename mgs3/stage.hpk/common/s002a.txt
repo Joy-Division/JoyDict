@@ -1,3 +1,6 @@
+Russian_Oyster_Mushroom.mdn
+Siberian_Ink_Cap.mdn
+Yabloko_Moloko.mdn
 amana_petal01_cm.mdn
 amuru_kudzu.mdn
 but_def_blue.mdn
@@ -40,13 +43,11 @@ otn_def.mtar
 otn_def.mtsq
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
-Russian_Oyster_Mushroom.mdn
 s002a.geom
 s002a.nav
 s002a_0.mdn
 s002a_komorebi.mdn
 s002a_n.lt2
-Siberian_Ink_Cap.mdn
 sky_n_2.lt2
 sky_n_2.mdn
 sky_n_2_moon.mdn
@@ -66,4 +67,3 @@ stname_s004a_j_alp_ovl.img
 underwater_explosion_cm.mdn
 vip_def.cvd
 vip_def.mdn
-Yabloko_Moloko.mdn

@@ -42,6 +42,7 @@ ibox_cage_body.eft
 ibox_food_body.eft
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
+s164a0.geom
 s164a_01.lt2
 s164a_01.mdn
 s164a_01.txn
@@ -51,7 +52,6 @@ s164a_03.mdn
 s164a_03.txn
 s164a_realshadow_01.mdn
 s164a_realshadow_01.txn
-s164a0.geom
 shag_cock_light.lt2
 shag_cockpit_dmo.mdn
 shag_cockpit_dmo.txn

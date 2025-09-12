@@ -46,6 +46,7 @@ pato_high.eft
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s121a.mdn
+s121a0.geom
 s121a_alarm.mdn
 s121a_d.lt2
 s121a_door.mdn
@@ -56,7 +57,6 @@ s121a_realshadow_1.mdn
 s121a_realshadow_4.mdn
 s121a_steel_flame.mdn
 s121a_window.mdn
-s121a0.geom
 s122a.mdn
 s122a_rail.mdn
 saaa_dmo.eft

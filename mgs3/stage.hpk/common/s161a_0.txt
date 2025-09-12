@@ -54,6 +54,7 @@ m63a_high.txn
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s121a_fueltank.mdn
+s161a0.geom
 s161a_p0.mdn
 s161a_p0_brkwall.mdn
 s161a_p0_ent.mdn
@@ -68,7 +69,6 @@ s161a_p0_s121a.mdn
 s161a_p0_wall.mdn
 s161a_p0_wall1.mdn
 s161a_p0_wall2.mdn
-s161a0.geom
 shag_cock_light.lt2
 shag_cockpit_dmo.mdn
 shag_dmo.mdn

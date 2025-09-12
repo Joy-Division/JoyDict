@@ -41,9 +41,9 @@ s063a_enkei1.mdn
 s063a_enkei1_d.lt2
 s063a_realshadow_0.mdn
 s064a.geom
+s064a0.mdn
 s064a_d.lt2
 s064a_realshadow_0.mdn
-s064a0.mdn
 s065a_realshadow_0.mdn
 sdl_def.mdn
 sdl_def.mtar

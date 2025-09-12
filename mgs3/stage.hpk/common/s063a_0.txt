@@ -44,13 +44,13 @@ red_def.mtsq
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s063a.geom
+s063a0.mdn
 s063a_armory.mdn
 s063a_d.lt2
 s063a_door.mdn
 s063a_enkei1.mdn
 s063a_enkei1_d.lt2
 s063a_realshadow_0.mdn
-s063a0.mdn
 s064a_realshadow_0.mdn
 s065a_realshadow_0.mdn
 sdl_def.mdn

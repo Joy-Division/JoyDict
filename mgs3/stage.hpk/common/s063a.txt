@@ -1,3 +1,6 @@
+Golova.mdn
+Russian_Oyster_Mushroom.mdn
+Siberian_Ink_Cap.mdn
 amana_petal01_cm.mdn
 anaesthesia.la2
 cachetrans.txn
@@ -28,7 +31,6 @@ frg_wood2_cm.mdn
 frg_wood3_cm.mdn
 gage_end.la2
 gage_end_0.txn
-Golova.mdn
 gps_def.cvd
 gps_def.mdn
 grid_shd_amo_a.mdn
@@ -82,10 +84,10 @@ pca_def.mtar
 pca_def.mtsq
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
-Russian_Oyster_Mushroom.mdn
 s063a.geom
 s063a.nav
 s063a.zon
+s063a0.mdn
 s063a_armory.mdn
 s063a_d.lt2
 s063a_door.mdn
@@ -93,9 +95,7 @@ s063a_enkei1.mdn
 s063a_enkei1_d.lt2
 s063a_for_duel.mdn
 s063a_for_duel.txn
-s063a0.mdn
 shida02_cm.mdn
-Siberian_Ink_Cap.mdn
 sky_d_3.lt2
 sky_d_3.mdn
 sky_d_3_rain.lt2

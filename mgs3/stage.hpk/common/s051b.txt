@@ -1,3 +1,6 @@
+Russian_False_Mango.mdn
+Siberian_Ink_Cap.mdn
+Yabloko_Moloko.mdn
 ama_def.mtar
 ama_def.mtsq
 amana_petal01_cm.mdn
@@ -126,7 +129,6 @@ red_def.mtsq
 red_def.txn
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
-Russian_False_Mango.mdn
 s005a_tsuribashi_rope_1m_sh.mdn
 s044a_light_1.mdn
 s051a.geom
@@ -142,7 +144,6 @@ sdl_def.mdn
 sdl_def.mtar
 sdl_def.mtsq
 sdl_def.txn
-Siberian_Ink_Cap.mdn
 sky_d_4.mdn
 sky_d_4a.lt2
 sky_n_2_moon.mdn
@@ -185,7 +186,6 @@ will_arrow.eft
 will_arrow.mdn
 williamtell.mtar
 williamtell.mtsq
-Yabloko_Moloko.mdn
 yad_def.cvd
 yad_def.mdn
 yad_def.txn

@@ -48,6 +48,7 @@ rpg7_high.mdn
 rpg7_high.txn
 rpg7_rocket_high.mdn
 rpg7_rocket_high.txn
+s161a2.geom
 s161a_p2.mdn
 s161a_p2.txn
 s161a_p2_crane.mdn
@@ -71,7 +72,6 @@ s161a_p2_outside.mdn
 s161a_p2_outside.txn
 s161a_realshadow_0.mdn
 s161a_realshadow_0.txn
-s161a2.geom
 saaa_dmo.mdn
 saaa_dmo.txn
 saaa_sto_dmo.mdn

@@ -1,3 +1,6 @@
+Golova.mdn
+Siberian_Ink_Cap.mdn
+Yabloko_Moloko.mdn
 akkf_low.eft
 akkf_low.mdn
 akmr_amo_low.eft
@@ -53,7 +56,6 @@ frg_soil3_cm.mdn
 frg_wood1_cm.mdn
 frg_wood2_cm.mdn
 frg_wood3_cm.mdn
-Golova.mdn
 grid_shd_amo_a.mdn
 grid_shd_item.mdn
 grid_shd_magazine.mdn
@@ -107,7 +109,6 @@ sdl_def.cvd
 sdl_def.mdn
 sdl_def.mtar
 sdl_def.mtsq
-Siberian_Ink_Cap.mdn
 sky_d_0.lt2
 sky_d_0.mdn
 sna_bounding_def_dmo.mdn
@@ -124,8 +125,7 @@ stname_s005a_j_alp_ovl.img
 underwater_explosion_cm.mdn
 v004a.geom
 v004a.nav
-v004a_d.lt2
 v004a0.mdn
+v004a_d.lt2
 vip_def.cvd
 vip_def.mdn
-Yabloko_Moloko.mdn

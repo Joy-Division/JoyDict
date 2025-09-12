@@ -60,8 +60,8 @@ s075a.nav
 s171a.geom
 s171a.mdn
 s171a_bridge.mdn
-s171a_bridge_parts.mdn
 s171a_bridge_Pendulum.mdn
+s171a_bridge_parts.mdn
 s171a_d.lt2
 s171a_f.mdn
 s171a_mt.mdn

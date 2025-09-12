@@ -105,6 +105,8 @@ rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s201a.geom
 s201a.nav
+s201a0.mdn
+s201a1.mdn
 s201a_d.lt2
 s201a_env.mdn
 s201a_env_d.lt2
@@ -112,8 +114,6 @@ s201a_kakiwari1.mdn
 s201a_water.mdn
 s201a_wig.mdn
 s201a_wig_glass.mdn
-s201a0.mdn
-s201a1.mdn
 sir_def.cvd
 sir_def.mdn
 sky_d_7.lt2

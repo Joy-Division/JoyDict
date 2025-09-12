@@ -44,6 +44,10 @@ oce_item_knife_def.mdn
 pato_high.eft
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
+s201a0.mdn
+s201a0.txn
+s201a1.mdn
+s201a1.txn
 s201a_d.lt2
 s201a_dead_tree1.mdn
 s201a_dead_tree1.txn
@@ -62,10 +66,6 @@ s201a_p0_water3.mdl
 s201a_p0_water4.mdn
 s201a_thin_tree1.mdn
 s201a_thin_tree1.txn
-s201a0.mdn
-s201a0.txn
-s201a1.mdn
-s201a1.txn
 s211a3.geom
 s211b_cockpit.lt2
 saaa_dmo.eft
@@ -97,6 +97,7 @@ sna_suit_hair_dmo.mdn
 underwater_explosion_cm.mdn
 vtol.eft
 vtol.mdn
+vva14_cock_handle_demo.mdn
 vva_cockpit.mdn
 vva_cockpit_realshadow.mdn
 vva_door_l.mdn
@@ -128,7 +129,6 @@ vva_mater_u.mdn
 vva_mater_v.mdn
 vva_nozzle.mdn
 vva_warning_lamp.mdn
-vva14_cock_handle_demo.mdn
 vvaw_break_enjin.mdn
 vvaw_demo.mdn
 vvaw_door_outside_l.mdn

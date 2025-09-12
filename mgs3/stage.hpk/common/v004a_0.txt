@@ -1,3 +1,9 @@
+Golova.mdn
+Golova.txn
+Siberian_Ink_Cap.mdn
+Siberian_Ink_Cap.txn
+Yabloko_Moloko.mdn
+Yabloko_Moloko.txn
 akmr_amo_high.mdn
 akmr_high.mdn
 amana_petal01_cm.mdn
@@ -33,16 +39,12 @@ frg_soil3_cm.mdn
 frg_wood1_cm.mdn
 frg_wood2_cm.mdn
 frg_wood3_cm.mdn
-Golova.mdn
-Golova.txn
 ibox_cage_body.eft
 ibox_food_body.eft
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 scop_high.mdn
 scop_high.txn
-Siberian_Ink_Cap.mdn
-Siberian_Ink_Cap.txn
 sky_d_0.lt2
 sky_d_0.mdn
 sna_bounding_def_dmo.mdn
@@ -60,7 +62,5 @@ sna_suit_hair_dmo.eft
 sna_suit_hair_dmo.mdn
 underwater_explosion_cm.mdn
 v004a.geom
-v004a_d.lt2
 v004a0.mdn
-Yabloko_Moloko.mdn
-Yabloko_Moloko.txn
+v004a_d.lt2

@@ -69,6 +69,8 @@ pato_demo.mdn
 radi_mig_boss_demo.mdn
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
+s201a0.mdn
+s201a1.mdn
 s201a_d.lt2
 s201a_env.mdn
 s201a_env_d.lt2
@@ -80,8 +82,6 @@ s201a_p0_bed.txn
 s201a_realshadow_0.mdn
 s201a_water.mdl
 s201a_water.mdn
-s201a0.mdn
-s201a1.mdn
 s201b.geom
 sky_d_7.lt2
 sky_d_7.mdn

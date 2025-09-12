@@ -1,3 +1,6 @@
+Golova.mdn
+Russian_Oyster_Mushroom.mdn
+Siberian_Ink_Cap.mdn
 akkf_low.eft
 akkf_low.mdn
 amana_petal01_cm.mdn
@@ -37,7 +40,6 @@ frg_soil3_cm.mdn
 frg_wood1_cm.mdn
 frg_wood2_cm.mdn
 frg_wood3_cm.mdn
-Golova.mdn
 grid_shd_amo_a.mdn
 grid_shd_food.mdn
 grid_shd_medicine.mdn
@@ -89,20 +91,18 @@ par_def.mtar
 par_def.mtsq
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
-Russian_Oyster_Mushroom.mdn
 s063a.nav
 s063a.zon
+s063a0.mdn
 s063a_armory.mdn
 s063a_d.lt2
 s063a_door.mdn
 s063a_enkei1.mdn
 s063a_enkei1_d.lt2
-s063a0.mdn
 s063b.geom
 scop_ene_low.eft
 scop_ene_low.mdn
 shida02_cm.mdn
-Siberian_Ink_Cap.mdn
 sky_d_3.lt2
 sky_d_3.mdn
 sky_d_3_rain.lt2

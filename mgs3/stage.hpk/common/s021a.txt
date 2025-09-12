@@ -92,6 +92,7 @@ ring_m63_cm.mdn
 s005a_tsuribashi_rope_1m_sh.mdn
 s021a.geom
 s021a.nav
+s021a0.mdn
 s021a_d.lt2
 s021a_fence_GRP0.mdn
 s021a_fence_GRP1.mdn
@@ -104,7 +105,6 @@ s021a_swamp1.mdl
 s021a_swamp1.mdn
 s021a_swamp2.mdl
 s021a_swamp2.mdn
-s021a0.mdn
 scop_ene_low.eft
 scop_ene_low.mdn
 sky_d_1.lt2

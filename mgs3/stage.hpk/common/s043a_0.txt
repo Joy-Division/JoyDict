@@ -79,6 +79,7 @@ pato_high.eft
 rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s043a.mdn
+s043a0.geom
 s043a_door.mdn
 s043a_light_1.mdn
 s043a_light_2.mdn
@@ -86,7 +87,6 @@ s043a_n.lt2
 s043a_realshadow_01.mdn
 s043a_s044a.mdn
 s043a_under.mdn
-s043a0.geom
 saaa_body_dmo.mdn
 saaa_cyl_dmo.mdn
 saaa_dmo.eft
