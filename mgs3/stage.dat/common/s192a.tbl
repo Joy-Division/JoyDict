@@ -155,8 +155,8 @@
 00ad04fb.06|sky_d_6_rain.lt2
 00b0c5f9.0d|sna_bounding_def_dmo.mdl
 00b2841d.6c|e00_shida01_cm.rcm
-00b34406.08|
-00b34406.09|
+00b34406.08|sna_evaescape.mtar
+00b34406.09|sna_evaescape.mtsq
 00b44a0b.0d|grid_shd_medicine.mdl
 00b46968.6c|fly_def_cm.rcm
 00b526e4.0d|ene_jyuwaki.mdl
@@ -169,8 +169,8 @@
 00c139b3.0d|sky_d_6.mdl
 00c139b4.06|sky_d_7.lt2
 00c139b4.0d|sky_d_7.mdl
-00c33c9c.08|
-00c33c9c.09|
+00c33c9c.08|s192a_snake.mtar
+00c33c9c.09|s192a_snake.mtsq
 00c47710.08|hebi_def.mtar
 00c47710.09|hebi_def.mtsq
 00c8ce3f.0d|eve_naked_dmo.mdl

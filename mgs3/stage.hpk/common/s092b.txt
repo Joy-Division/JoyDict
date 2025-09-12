@@ -91,6 +91,8 @@ s092a.mdn
 s092a.nav
 s092a_armory.mdn
 s092a_armory_door.mdn
+s092a_snake.mtar
+s092a_snake.mtsq
 scop_ene_low.eft
 scop_ene_low.mdn
 shld_low.eft

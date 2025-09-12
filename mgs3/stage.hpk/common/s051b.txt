@@ -134,6 +134,8 @@ s051a.mdn
 s051a.nav
 s051a_d.lt2
 s051a_n.lt2
+s051a_snake.mtar
+s051a_snake.mtsq
 s051a_swamp.mdl
 s051a_swamp.mdn
 sdl_def.mdn
@@ -154,6 +156,8 @@ sna_hair_weight_dmo.txn
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdn
 sna_hair_weight_vr_dmo.txn
+sna_ropetrap.mtar
+sna_ropetrap.mtsq
 sna_swim.mtar
 sna_swim.mtsq
 stname_s051a_alp_ovl.img

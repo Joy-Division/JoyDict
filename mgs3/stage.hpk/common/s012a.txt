@@ -88,6 +88,8 @@ s012a.nav
 s012a_d.lt2
 s012a_enkei.mdn
 s012a_enkei.txn
+s012a_snake.mtar
+s012a_snake.mtsq
 s012a_water.mdn
 s012a0.mdn
 scr_suiteki1.cvd

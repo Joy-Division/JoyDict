@@ -84,6 +84,8 @@ s201a_dead_tree3.mdl
 s201a_dead_tree4.mdl
 s201a_env.mdl
 s201a_env_d.lt2
+s201a_event.mtar
+s201a_event.mtsq
 s201a_kakiwari1.mdl
 s201a_mass_tree1.mdl
 s201a_mass_tree3.mdl

@@ -47,6 +47,9 @@ s066a_floor.mdl
 s066a_light01.mdl
 s066a_s065a.mdl
 s066a_s71a.mdl
+s066a_snake.mtar
+s066a_snake.mtsq
+s066a_snake.var
 scenerio.gcx
 sna_bounding_def_dmo.mdl
 sna_hair_weight_dmo.eft

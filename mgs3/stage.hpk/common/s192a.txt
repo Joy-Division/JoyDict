@@ -153,6 +153,8 @@ s192a.mdn
 s192a.nav
 s192a_d.lt2
 s192a_load.rpd
+s192a_snake.mtar
+s192a_snake.mtsq
 s192a_water_drop.cvd
 s192a_water_drop.mdl
 s192a_water_drop.mdn
@@ -172,6 +174,8 @@ sky_d_6_rain.lt2
 sky_d_7.lt2
 sky_d_7.mdn
 sna_bounding_def_dmo.mdn
+sna_evaescape.mtar
+sna_evaescape.mtsq
 sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdn
 sna_hair_weight_vr_dmo.eft

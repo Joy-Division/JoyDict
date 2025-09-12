@@ -89,6 +89,8 @@ s023a.zon
 s023a_d.lt2
 s023a_sky_grade.lt2
 s023a_sky_grade.mdn
+s023a_snake.mtar
+s023a_snake.mtsq
 saaa_low.eft
 saaa_low.mdn
 sky_d_1.lt2

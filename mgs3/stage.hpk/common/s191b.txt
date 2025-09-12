@@ -149,6 +149,8 @@ s191a.mdn
 s191a.nav
 s191a_d.lt2
 s191a_log_bridge.mdn
+s191a_snake.mtar
+s191a_snake.mtsq
 s191a_water1.mdn
 s191a_water2.mdn
 s191a_wood_pieceL_cm.mdn
@@ -165,6 +167,8 @@ sky_d_6_rain.lt2
 sky_d_7.lt2
 sky_d_7.mdn
 sna_bounding_def_dmo.mdn
+sna_evaescape.mtar
+sna_evaescape.mtsq
 sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdn
 sna_hair_weight_dmo.txn

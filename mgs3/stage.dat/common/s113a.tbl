@@ -81,9 +81,9 @@
 00b46968.6c|fly_def_cm.rcm
 00b71be9.0d|s113a_sewer.mdl
 00b71be9.10|s113a_sewer.cvd
-00bb449c.08|
-00bb449c.09|
-00bb449c.68|
+00bb449c.08|s113a_snake.mtar
+00bb449c.09|s113a_snake.mtsq
+00bb449c.68|s113a_snake.var
 00be8724.03|ibox_amo_a_body.tri
 00be8724.0d|ibox_amo_a_body.mdl
 00c9d117.03|label_amo_1911.tri

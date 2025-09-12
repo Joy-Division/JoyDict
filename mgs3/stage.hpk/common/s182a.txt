@@ -93,6 +93,8 @@ sna_hair_weight_dmo.txn
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdn
 sna_hair_weight_vr_dmo.txn
+sna_sidecar.mtar
+sna_sidecar.mtsq
 stname_s182a_alp_ovl.img
 stname_s182a_j_alp_ovl.img
 stname_s183a_alp_ovl.img

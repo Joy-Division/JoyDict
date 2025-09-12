@@ -129,6 +129,9 @@ scop_ene_low.eft
 scop_ene_low.mdl
 sky_d_1.lt2
 sky_d_1.mdl
+sna_barbedwire.mtar
+sna_barbedwire.mtsq
+sna_barbedwire.var
 sna_bounding_def_dmo.mdl
 sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdl

@@ -126,6 +126,8 @@ s012a_lake_tree9.mdl
 s012a_mass_tree1.mdl
 s012a_mass_tree3.mdl
 s012a_parts1.mdl
+s012a_snake.mtar
+s012a_snake.mtsq
 s012a_water.mdl
 s012a_wire_tree1.mdl
 s012a0.mdl

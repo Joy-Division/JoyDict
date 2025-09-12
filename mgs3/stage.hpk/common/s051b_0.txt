@@ -104,6 +104,8 @@ sna_hair_weight_vr_dmo.txn
 sna_item_arrow_fear_dmo.eft
 sna_item_arrow_fear_dmo.mdn
 sna_item_arrow_fear_dmo.txn
+sna_ropetrap.mtar
+sna_ropetrap.mtsq
 sna_suit_hair_dmo.eft
 sna_suit_hair_dmo.mdn
 trap_hookrope_2m_sh.mdn

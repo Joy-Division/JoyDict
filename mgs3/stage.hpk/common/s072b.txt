@@ -169,6 +169,8 @@ sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdn
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdn
+sna_machinegun.mtar
+sna_machinegun.mtsq
 stname_s071a_alp_ovl.img
 stname_s071a_j_alp_ovl.img
 stname_s072a_alp_ovl.img

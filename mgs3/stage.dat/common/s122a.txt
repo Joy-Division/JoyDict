@@ -85,6 +85,8 @@ sna_hair_weight_dmo.tri
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdl
 sna_hair_weight_vr_dmo.tri
+sna_major.mtar
+sna_major.mtsq
 stname_s122a_alp_ovl.img
 stname_s122a_f_alp_ovl.img
 stname_s122a_g_alp_ovl.img

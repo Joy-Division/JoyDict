@@ -1,6 +1,6 @@
 00026562.0e|hind_brk_tail_dmo.mdn
-00056ff2.08|
-00056ff2.09|
+00056ff2.08|sna_machinegun.mtar
+00056ff2.09|sna_machinegun.mtsq
 000c5b40.0e|ring_m63_cm.mdn
 000e27c3.0e|grid_shd_food.mdn
 00141b54.08|enecqc.mtar
@@ -136,8 +136,8 @@
 009d1246.0e|frg_wood1_cm.mdn
 009d9246.0e|frg_wood2_cm.mdn
 009e1246.0e|frg_wood3_cm.mdn
-00a1449c.08|
-00a1449c.09|
+00a1449c.08|s073a_snake.mtar
+00a1449c.09|s073a_snake.mtsq
 00a6e289.0e|s073a_t_ground1.mdn
 00a7b7f8.14|
 00a7b7f9.14|

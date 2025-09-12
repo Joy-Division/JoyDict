@@ -164,6 +164,8 @@ s062a_hatch.mdl
 s062a_hatchslit.mdl
 s062a_masstree.mdl
 s062a_sky.mdl
+s062a_snake.mtar
+s062a_snake.mtsq
 s062a_storehouse.mdl
 s062a_tree_ne.mdl
 s062a_window_brk.cvd
@@ -182,6 +184,8 @@ sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdl
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdl
+sna_machinegun.mtar
+sna_machinegun.mtsq
 stname_s061a_alp_ovl.img
 stname_s061a_f_alp_ovl.img
 stname_s061a_g_alp_ovl.img

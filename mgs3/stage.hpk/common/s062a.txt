@@ -129,6 +129,8 @@ s062a_door_pieceB.mdn
 s062a_hatch.mdn
 s062a_hatchslit.mdn
 s062a_sky.mdn
+s062a_snake.mtar
+s062a_snake.mtsq
 s062a_storehouse.mdn
 s062a_window_brk.cvd
 s062a_window_brk_prt_0.mdn
@@ -145,6 +147,8 @@ sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdn
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdn
+sna_machinegun.mtar
+sna_machinegun.mtsq
 stname_s061a_alp_ovl.img
 stname_s061a_j_alp_ovl.img
 stname_s062a_alp_ovl.img

@@ -113,6 +113,8 @@ s121a_fueltank.mdn
 s121a_paddemo01.rpd
 s121a_realshadow_0.mdn
 s121a_s111a_dummy.mdn
+s121a_snake.mtar
+s121a_snake.mtsq
 s121a_window.mdn
 scop_ene_low.eft
 scop_ene_low.mdn

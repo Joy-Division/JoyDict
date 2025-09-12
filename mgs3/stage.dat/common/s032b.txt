@@ -116,6 +116,8 @@ s032b.bin
 s032b.geom
 s032b.nav
 s032b.zon
+s032b_snake.mtar
+s032b_snake.mtsq
 scenerio.gcx
 scr_suiteki1.cvd
 scr_suiteki1.mdl
@@ -133,6 +135,8 @@ sna_hair_weight_vr_dmo.mdl
 sna_hair_weight_vr_dmo.tri
 sna_swim.mtar
 sna_swim.mtsq
+sna_thepain.mtar
+sna_thepain.mtsq
 stname_s032a_alp_ovl.img
 stname_s032a_f_alp_ovl.img
 stname_s032a_g_alp_ovl.img

@@ -103,6 +103,8 @@ s032a_water_surface_obj1.txn
 s032b.geom
 s032b.nav
 s032b.zon
+s032b_snake.mtar
+s032b_snake.mtsq
 scr_suiteki1.cvd
 scr_suiteki1.mdn
 scr_suiteki1.txn
@@ -119,6 +121,8 @@ sna_hair_weight_vr_dmo.mdn
 sna_hair_weight_vr_dmo.txn
 sna_swim.mtar
 sna_swim.mtsq
+sna_thepain.mtar
+sna_thepain.mtsq
 stname_s032a_alp_ovl.img
 stname_s032a_j_alp_ovl.img
 tonp_amo_low.eft

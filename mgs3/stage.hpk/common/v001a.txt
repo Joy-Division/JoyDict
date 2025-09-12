@@ -62,6 +62,8 @@ s001a.nav
 s001a_enkei1.mdn
 s001a_enkei1_m.lt2
 s001a_m.lt2
+s001a_snake.mtar
+s001a_snake.mtsq
 s001a0.mdn
 Siberian_Ink_Cap.mdn
 sky_d_0.lt2

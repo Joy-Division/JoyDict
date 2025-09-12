@@ -144,6 +144,8 @@ s092a.mdl
 s092a.nav
 s092a_armory.mdl
 s092a_armory_door.mdl
+s092a_snake.mtar
+s092a_snake.mtsq
 s092c.bin
 scenerio.gcx
 scop_ene_low.eft

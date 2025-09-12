@@ -152,6 +152,8 @@ s051a_eld_tree1_eda_l_3m_65h.mdl
 s051a_eld_tree1_eda_r_3m_50h.mdl
 s051a_n.lt2
 s051a_small_tree.mdl
+s051a_snake.mtar
+s051a_snake.mtsq
 s051a_swamp.mdl
 s051a_tenboudai.mdl
 s051a_tree_a.mdl
@@ -181,6 +183,9 @@ sna_hair_weight_dmo.tri
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdl
 sna_hair_weight_vr_dmo.tri
+sna_ropetrap.mtar
+sna_ropetrap.mtsq
+sna_ropetrap.var
 sna_swim.mtar
 sna_swim.mtsq
 stname_s051a_alp_ovl.img

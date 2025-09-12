@@ -140,9 +140,9 @@
 00b66768.0d|s121a_door.mdl
 00b6aefe.0d|ibox_weapon_handgun_body.mdl
 00b79904.0d|s121a_s111a_dummy.mdl
-00bc349c.08|
-00bc349c.09|
-00bc349c.68|
+00bc349c.08|s121a_snake.mtar
+00bc349c.09|s121a_snake.mtsq
+00bc349c.68|s121a_snake.var
 00be8724.0d|ibox_amo_a_body.mdl
 00c1bd07.03|label_item_bat.tri
 00c1bd07.0d|label_item_bat.mdl

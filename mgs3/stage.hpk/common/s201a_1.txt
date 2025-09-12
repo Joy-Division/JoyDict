@@ -71,6 +71,8 @@ ring_m63_cm.mdn
 s201a_d.lt2
 s201a_env.mdn
 s201a_env_d.lt2
+s201a_event.mtar
+s201a_event.mtsq
 s201a_kakiwari1.mdn
 s201a_mass_tree3.mdn
 s201a_mass_tree4.mdn

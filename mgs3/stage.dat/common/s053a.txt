@@ -157,6 +157,8 @@ s053a_road_new.mdl
 s053a_shelf_book.mdl
 s053a_shelf_office.mdl
 s053a_slit_lightA_n.mdl
+s053a_snake.mtar
+s053a_snake.mtsq
 s053a_storehouse.mdl
 s053a_tableA.mdl
 s053a_tablelight.mdl

@@ -1,7 +1,7 @@
 000c5b40.0e|ring_m63_cm.mdn
 000c964b.14|gage_fear_0.txn
-000ebc7b.08|
-000ebc7b.09|
+000ebc7b.08|sna_ropetrap.mtar
+000ebc7b.09|sna_ropetrap.mtsq
 000fba8c.0e|grid_shd_item.mdn
 000fba8c.14|grid_shd_item.txn
 00162497.0e|litt_arrow_cm.mdn
@@ -132,8 +132,8 @@
 009d1246.0e|frg_wood1_cm.mdn
 009d9246.0e|frg_wood2_cm.mdn
 009e1246.0e|frg_wood3_cm.mdn
-009f349c.08|
-009f349c.09|
+009f349c.08|s051a_snake.mtar
+009f349c.09|s051a_snake.mtsq
 009ff604.14|
 00a037c1.0e|ibox_letter_body.mdn
 00a037c1.14|ibox_letter_body.txn

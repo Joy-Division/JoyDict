@@ -154,6 +154,9 @@ s073a_m_com_distantview1_1.mdl
 s073a_p_com_distantview1_3.mdl
 s073a_p_com_distantview1_4.mdl
 s073a_r_armory1.mdl
+s073a_snake.mtar
+s073a_snake.mtsq
+s073a_snake.var
 s073a_t_ground1.mdl
 s073a_u_obj1.mdl
 s073b.bin
@@ -169,6 +172,8 @@ sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdl
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdl
+sna_machinegun.mtar
+sna_machinegun.mtsq
 stname_s072a_alp_ovl.img
 stname_s072a_f_alp_ovl.img
 stname_s072a_g_alp_ovl.img

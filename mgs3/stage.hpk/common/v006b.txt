@@ -99,6 +99,8 @@ s006a_hatch.mdn
 s006a_hatch_slit.mdn
 s006a_locker_door.mdn
 s006a_room_parts1.mdn
+s006a_snake.mtar
+s006a_snake.mtsq
 s006a_window_frame.mdn
 s006a_window_frg1_cm.mdn
 s006a_window_frg2_cm.mdn

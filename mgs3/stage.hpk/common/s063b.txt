@@ -113,6 +113,8 @@ sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdn
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdn
+sna_ropetrap.mtar
+sna_ropetrap.mtsq
 stname_s061a_alp_ovl.img
 stname_s061a_j_alp_ovl.img
 stname_s063a_alp_ovl.img

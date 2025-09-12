@@ -143,6 +143,9 @@ s121a_pillar_b.mdl
 s121a_pillar_c.mdl
 s121a_realshadow_0.mdl
 s121a_s111a_dummy.mdl
+s121a_snake.mtar
+s121a_snake.mtsq
+s121a_snake.var
 s121a_window.mdl
 scenerio.gcx
 scop_ene_low.eft

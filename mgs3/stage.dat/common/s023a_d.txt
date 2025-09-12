@@ -102,6 +102,8 @@ s023a_decay_tree.mdl
 s023a_mass_tree3.mdl
 s023a_sky_grade.lt2
 s023a_sky_grade.mdl
+s023a_snake.mtar
+s023a_snake.mtsq
 s023a_tenboudai.mdl
 s023a_thin_tree1.mdl
 s023a_tree_ne.mdl

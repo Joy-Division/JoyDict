@@ -63,6 +63,8 @@ s113a_s131a.mdn
 s113a_sewer.cvd
 s113a_sewer.mdl
 s113a_sewer.mdn
+s113a_snake.mtar
+s113a_snake.mtsq
 s113a_under.mdn
 s131a_river02.mdn
 s131a_river03.mdn

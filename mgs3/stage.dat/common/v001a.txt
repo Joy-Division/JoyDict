@@ -84,6 +84,8 @@ s001a_mass_tree2.mdl
 s001a_mass_tree3.mdl
 s001a_parts1.mdl
 s001a_small_tree2.mdl
+s001a_snake.mtar
+s001a_snake.mtsq
 s001a0.mdl
 scenerio.gcx
 Siberian_Ink_Cap.mdl

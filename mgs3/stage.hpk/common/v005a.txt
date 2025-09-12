@@ -110,6 +110,8 @@ s005a_river.mdn
 s005a_riversplash.cvd
 s005a_riversplash.mdl
 s005a_riversplash.mdn
+s005a_snake.mtar
+s005a_snake.mtsq
 s005a_tsuribashi_rope_1m_sh.mdn
 s005a_tsuribashi_rope_2m_sh.mdn
 s005a_tsuribashi_rope_4m_sh.mdn

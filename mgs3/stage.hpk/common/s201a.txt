@@ -125,6 +125,8 @@ sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdn
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdn
+sna_theboss.mtar
+sna_theboss.mtsq
 stname_s201a_alp_ovl.img
 stname_s201a_j_alp_ovl.img
 underwater_explosion_cm.mdn

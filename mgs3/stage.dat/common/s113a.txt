@@ -73,6 +73,9 @@ s113a_pipe_reflect.tri
 s113a_s131a.mdl
 s113a_sewer.cvd
 s113a_sewer.mdl
+s113a_snake.mtar
+s113a_snake.mtsq
+s113a_snake.var
 s113a_under.mdl
 s131a_river02.mdl
 s131a_river03.mdl

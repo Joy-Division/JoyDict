@@ -39,6 +39,8 @@ s192a.geom
 s192a.mdn
 s192a_d.lt2
 s192a_load.rpd
+s192a_snake.mtar
+s192a_snake.mtsq
 s192a_realshadow_0.mdn
 s192a_realshadow_0.txn
 s192a_water_drop.cvd

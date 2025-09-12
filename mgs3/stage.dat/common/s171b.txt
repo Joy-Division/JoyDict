@@ -96,6 +96,10 @@ sna_hair_weight_dmo.tri
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdl
 sna_hair_weight_vr_dmo.tri
+sna_machinegun.mtar
+sna_machinegun.mtsq
+sna_sidecar.mtar
+sna_sidecar.mtsq
 stname_s171a_alp_ovl.img
 stname_s171a_f_alp_ovl.img
 stname_s171a_g_alp_ovl.img

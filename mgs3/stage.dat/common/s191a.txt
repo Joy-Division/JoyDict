@@ -105,6 +105,8 @@ s191a_bigtree.mdl
 s191a_d.lt2
 s191a_log_bridge.mdl
 s191a_smalltree.mdl
+s191a_snake.mtar
+s191a_snake.mtsq
 s191a_tree.mdl
 s191a_tree_ne.mdl
 s191a_unittree.mdl
@@ -130,6 +132,8 @@ sky_d_6_rain.lt2
 sky_d_7.lt2
 sky_d_7.mdl
 sna_bounding_def_dmo.mdl
+sna_evaescape.mtar
+sna_evaescape.mtsq
 sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdl
 sna_hair_weight_dmo.tri

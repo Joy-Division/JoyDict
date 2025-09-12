@@ -146,6 +146,9 @@ s093a_storehouse_door.mdl
 s094a.geom
 s094a.mdl
 s094a.nav
+s094a_snake.mtar
+s094a_snake.mtsq
+s094a_snake.var
 s094c.bin
 scenerio.gcx
 scop_ene_low.eft

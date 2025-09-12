@@ -164,6 +164,9 @@ s022a_fancewire_5.mdl
 s022a_fardecay_tree.mdl
 s022a_hind_sdw.mdl
 s022a_lampA.mdl
+s022a_snake.mtar
+s022a_snake.mtsq
+s022a_snake.var
 s022a_station.mdl
 s022a_storehouse.mdl
 s022a_thintree.mdl
@@ -177,6 +180,9 @@ scop_ene_low.eft
 scop_ene_low.mdl
 sky_d_1.lt2
 sky_d_1.mdl
+sna_barbedwire.mtar
+sna_barbedwire.mtsq
+sna_barbedwire.var
 sna_bounding_def_dmo.mdl
 sna_door.mtar
 sna_door.mtsq
@@ -184,6 +190,8 @@ sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdl
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdl
+sna_machinegun.mtar
+sna_machinegun.mtsq
 stname_s021a_alp_ovl.img
 stname_s021a_f_alp_ovl.img
 stname_s021a_g_alp_ovl.img

@@ -134,6 +134,9 @@ sky_n_2_moon.mdl
 sky_n_2_moon_glow.mdl
 sky_n_4.lt2
 sky_n_4.mdl
+sna_barbedwire.mtar
+sna_barbedwire.mtsq
+sna_barbedwire.var
 sna_bounding_def_dmo.mdl
 sna_door.mtar
 sna_door.mtsq

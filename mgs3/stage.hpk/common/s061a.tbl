@@ -1,8 +1,8 @@
 000c5b40.0e|ring_m63_cm.mdn
 000e27c3.0e|grid_shd_food.mdn
 000e27c3.14|grid_shd_food.txn
-000ebc7b.08|
-000ebc7b.09|
+000ebc7b.08|sna_ropetrap.mtar
+000ebc7b.09|sna_ropetrap.mtsq
 00141b54.08|enecqc.mtar
 00141b54.09|enecqc.mtsq
 00141d5e.08|enedam.mtar
@@ -138,8 +138,8 @@
 009d1246.0e|frg_wood1_cm.mdn
 009d9246.0e|frg_wood2_cm.mdn
 009e1246.0e|frg_wood3_cm.mdn
-00a0349c.08|
-00a0349c.09|
+00a0349c.08|s061a_snake.mtar
+00a0349c.09|s061a_snake.mtsq
 00a67d99.0e|feather_pca_def.mdn
 00a7b7f9.14|
 00a7b7fa.14|

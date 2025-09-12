@@ -131,6 +131,9 @@ s042a_door.mdl
 s042a_e.lt2
 s042a_e_sky.lt2
 s042a_n.lt2
+s042a_snake.mtar
+s042a_snake.mtsq
+s042a_snake.var
 s042a_tree01.mdl
 s042a_tree02.mdl
 s042a_tree03.mdl

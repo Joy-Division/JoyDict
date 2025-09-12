@@ -1,9 +1,9 @@
 000907e2.03|phase_ger_0.tri
 000c5b40.6c|ring_m63_cm.rcm
 000c964b.03|gage_fear_0.tri
-000ebc7b.08|
-000ebc7b.09|
-000ebc7b.68|
+000ebc7b.08|sna_ropetrap.mtar
+000ebc7b.09|sna_ropetrap.mtsq
+000ebc7b.68|sna_ropetrap.var
 000f68ea.0d|s051a_tree_ne.mdl
 0010c3bb.0d|s051a_eld_tree1_eda_l_3m_50h.mdl
 0010c85b.0d|s051a_eld_tree1_eda_l_3m_65h.mdl
@@ -150,8 +150,8 @@
 009d1246.6c|frg_wood1_cm.rcm
 009d9246.6c|frg_wood2_cm.rcm
 009e1246.6c|frg_wood3_cm.rcm
-009f349c.08|
-009f349c.09|
+009f349c.08|s051a_snake.mtar
+009f349c.09|s051a_snake.mtsq
 009ff604.03|
 00a037c1.03|ibox_letter_body.tri
 00a037c1.0d|ibox_letter_body.mdl

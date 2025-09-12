@@ -74,6 +74,8 @@ sna_hair_weight_dmo.txn
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdn
 sna_hair_weight_vr_dmo.txn
+sna_major.mtar
+sna_major.mtsq
 stname_s122a_alp_ovl.img
 stname_s122a_j_alp_ovl.img
 thu_bounding_def_dmo.mdn

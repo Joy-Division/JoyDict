@@ -1,5 +1,5 @@
-00056ff2.08|
-00056ff2.09|
+00056ff2.08|sna_machinegun.mtar
+00056ff2.09|sna_machinegun.mtsq
 00081ad0.0e|shag_head_brak_right.mdn
 000c5b40.0e|ring_m63_cm.mdn
 000dbb89.0e|s171a_cloud1.mdn
@@ -80,8 +80,8 @@
 009792ab.14|
 00982fcd.08|eva_sidecar.mtar
 00982fcd.09|eva_sidecar.mtsq
-00983004.08|
-00983004.09|
+00983004.08|sna_sidecar.mtar
+00983004.09|sna_sidecar.mtsq
 009a68ba.14|duel_pause_0.txn
 009d1246.0e|frg_wood1_cm.mdn
 009d9246.0e|frg_wood2_cm.mdn

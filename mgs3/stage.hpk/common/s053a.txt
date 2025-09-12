@@ -129,6 +129,8 @@ s053a_n.lt2
 s053a_outside.mdn
 s053a_road_new.mdn
 s053a_slit_lightA_n.mdn
+s053a_snake.mtar
+s053a_snake.mtsq
 s053a_storehouse.mdn
 s053a_toilet_door.mdn
 s053a_walllightA.mdn

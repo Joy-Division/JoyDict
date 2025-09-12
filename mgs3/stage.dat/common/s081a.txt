@@ -97,6 +97,9 @@ s081a.mdl
 s081a.nav
 s081a_door.mdl
 s081a_n.lt2
+s081a_snake.mtar
+s081a_snake.mtsq
+s081a_snake.var
 s081b.mdl
 s081b_door.mdl
 s081b_pipe.mdl

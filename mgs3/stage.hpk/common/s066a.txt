@@ -34,6 +34,8 @@ s066a.mdn
 s066a.nav
 s066a_d.lt2
 s066a_light01.mdn
+s066a_snake.mtar
+s066a_snake.mtsq
 sna_bounding_def_dmo.mdn
 sna_hair_weight_dmo.eft
 sna_hair_weight_dmo.mdn

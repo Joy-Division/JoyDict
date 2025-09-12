@@ -1544,6 +1544,8 @@ s001a_m.lt2
 s001a_n.lt2
 s001a_realshadow_0.mdn
 s001a_realshadow_0.txn
+s001a_snake.mtar
+s001a_snake.mtsq
 s001a0.mdn
 s001a0.txn
 s002a.geom
@@ -1588,6 +1590,8 @@ s005a_river.mdn
 s005a_riversplash.cvd
 s005a_riversplash.mdl
 s005a_riversplash.mdn
+s005a_snake.mtar
+s005a_snake.mtsq
 s005a_tsuribashi_mh.mdn
 s005a_tsuribashi_rope_1m_sh.mdn
 s005a_tsuribashi_rope_1m_sh.txn
@@ -1619,6 +1623,8 @@ s006a_realshadow_1.mdn
 s006a_realshadow_2.mdn
 s006a_realshadow_3.mdn
 s006a_room_parts1.mdn
+s006a_snake.mtar
+s006a_snake.mtsq
 s006a_wbox1.mdn
 s006a_window_frame.mdn
 s006a_window_frg1_cm.mdn
@@ -1634,6 +1640,8 @@ s012a.nav
 s012a_d.lt2
 s012a_enkei.mdn
 s012a_enkei.txn
+s012a_snake.mtar
+s012a_snake.mtsq
 s012a_water.mdn
 s012a0.mdn
 s021a.geom
@@ -1670,6 +1678,8 @@ s022a_fancewire_4.mdn
 s022a_fancewire_5.mdn
 s022a_hind_sdw.mdn
 s022a_lampA.mdn
+s022a_snake.mtar
+s022a_snake.mtsq
 s022a_station.mdn
 s022a_storehouse.mdn
 s022a_window.mdn
@@ -1687,6 +1697,8 @@ s023a_bigtree_demo.txn
 s023a_d.lt2
 s023a_sky_grade.lt2
 s023a_sky_grade.mdn
+s023a_snake.mtar
+s023a_snake.mtsq
 s031a.geom
 s031a.nav
 s031a_d.lt2
@@ -1748,6 +1760,8 @@ s032b.nav
 s032b.zon
 s032b_realshadow_0.mdn
 s032b_realshadow_0.txn
+s032b_snake.mtar
+s032b_snake.mtsq
 s033a.geom
 s033a.nav
 s033a_c_distantview1.mdn
@@ -1816,6 +1830,8 @@ s042a_door.mdn
 s042a_e.lt2
 s042a_e_sky.lt2
 s042a_n.lt2
+s042a_snake.mtar
+s042a_snake.mtsq
 s042a_under_water.mdn
 s043a.geom
 s043a.mdn
@@ -1864,6 +1880,8 @@ s051a_demo_obj2.txn
 s051a_n.lt2
 s051a_realshadow_0.mdn
 s051a_realshadow_0.txn
+s051a_snake.mtar
+s051a_snake.mtsq
 s051a_swamp.mdl
 s051a_swamp.mdn
 s051a_swamp.txn
@@ -1910,6 +1928,8 @@ s053a_n.lt2
 s053a_outside.mdn
 s053a_road_new.mdn
 s053a_slit_lightA_n.mdn
+s053a_snake.mtar
+s053a_snake.mtsq
 s053a_storehouse.mdn
 s053a_toilet_door.mdn
 s053a_walllightA.mdn
@@ -1980,6 +2000,8 @@ s056a_walllightB.mdn
 s061a.geom
 s061a.nav
 s061a_d.lt2
+s061a_snake.mtar
+s061a_snake.mtsq
 s061a0.mdn
 s062a.geom
 s062a.mdn
@@ -2011,6 +2033,8 @@ s062a_door_pieceB.mdn
 s062a_hatch.mdn
 s062a_hatchslit.mdn
 s062a_sky.mdn
+s062a_snake.mtar
+s062a_snake.mtsq
 s062a_storehouse.mdn
 s062a_window_brk.cvd
 s062a_window_brk_prt_0.mdn
@@ -2058,6 +2082,8 @@ s066a.mdn
 s066a.nav
 s066a_d.lt2
 s066a_light01.mdn
+s066a_snake.mtar
+s066a_snake.mtsq
 s071a.geom
 s071a.nav
 s071a_a_072a_crevasse1.mdn
@@ -2149,6 +2175,8 @@ s073a_m_com_distantview1_1.mdn
 s073a_p_com_distantview1_3.mdn
 s073a_p_com_distantview1_4.mdn
 s073a_r_armory1.mdn
+s073a_snake.mtar
+s073a_snake.mtsq
 s073a_t_ground1.mdn
 s073a_u_obj1.mdn
 s074a.geom
@@ -2184,6 +2212,8 @@ s081a_n.lt2
 s081a_rubble_01.mdn
 s081a_rubble_02.mdn
 s081a_rubble_03.mdn
+s081a_snake.mtar
+s081a_snake.mtsq
 s081b.mdn
 s081b_door.mdn
 s081b_pipe.mdn
@@ -2208,6 +2238,8 @@ s092a_0_realshadow_02.mdn
 s092a_armory.mdn
 s092a_armory_door.mdn
 s092a_gate_01.mdn
+s092a_snake.mtar
+s092a_snake.mtsq
 s093a.geom
 s093a.mdn
 s093a.nav
@@ -2228,6 +2260,8 @@ s093c.nav
 s094a.geom
 s094a.mdn
 s094a.nav
+s094a_snake.mtar
+s094a_snake.mtsq
 s101a.geom
 s101a.mdn
 s101a.nav
@@ -2348,6 +2382,8 @@ s113a_s131a.mdn
 s113a_sewer.cvd
 s113a_sewer.mdl
 s113a_sewer.mdn
+s113a_snake.mtar
+s113a_snake.mtsq
 s113a_under.mdn
 s121a.geom
 s121a.mdn
@@ -2364,6 +2400,8 @@ s121a_realshadow_0.mdn
 s121a_realshadow_1.mdn
 s121a_realshadow_4.mdn
 s121a_s111a_dummy.mdn
+s121a_snake.mtar
+s121a_snake.mtsq
 s121a_steel_flame.mdn
 s121a_window.mdn
 s121a0.geom
@@ -2433,6 +2471,8 @@ s152a_realshadow_02.mdn
 s152a_realshadow_02.txn
 s152a_river.mdl
 s152a_river.mdn
+s152a_snake.mtar
+s152a_snake.mtsq
 s152a_tree.mdn
 s152a_tree.txn
 s152a_waterdrop.cvd
@@ -2610,6 +2650,8 @@ s191a_demo_realshadow.mdn
 s191a_log_bridge.mdn
 s191a_realshadow_0.mdn
 s191a_realshadow_0.txn
+s191a_snake.mtar
+s191a_snake.mtsq
 s191a_water_drop.cvd
 s191a_water_drop.mdl
 s191a_water_drop.mdn
@@ -2627,6 +2669,8 @@ s192a_d.lt2
 s192a_load.rpd
 s192a_realshadow_0.mdn
 s192a_realshadow_0.txn
+s192a_snake.mtar
+s192a_snake.mtsq
 s192a_water_drop.cvd
 s192a_water_drop.mdl
 s192a_water_drop.mdn
@@ -2644,6 +2688,8 @@ s201a_dead_tree3.txn
 s201a_env.mdn
 s201a_env.txn
 s201a_env_d.lt2
+s201a_event.mtar
+s201a_event.mtsq
 s201a_kakiwari1.mdn
 s201a_kakiwari1.txn
 s201a_mass_tree1.mdn
@@ -2879,6 +2925,8 @@ smok_lever.mdn
 smok_pin.mdn
 sna_after_flirt_dmo.mdn
 sna_after_flirt_dmo.txn
+sna_barbedwire.mtar
+sna_barbedwire.mtsq
 sna_bounding_def_dmo.mdn
 sna_bounding_def_dmo.txn
 sna_cell_dmo.mdn
@@ -2902,6 +2950,8 @@ sna_def_flutter_dmo.van
 sna_def_vr_dmo.cvd
 sna_door.mtar
 sna_door.mtsq
+sna_evaescape.mtar
+sna_evaescape.mtsq
 sna_hair_dmo.eft
 sna_hair_dmo.mdn
 sna_hair_halo_dmo.eft
@@ -3024,13 +3074,21 @@ sna_ladder.mtar
 sna_ladder.mtsq
 sna_locker.mtar
 sna_locker.mtsq
+sna_machinegun.mtar
+sna_machinegun.mtsq
+sna_major.mtar
+sna_major.mtsq
 sna_naked_flirt_dmo.mdn
 sna_naked_tor_dmo.mdn
 sna_naked_tor_dmo.txn
 sna_naked_tor_dmo.van
 sna_naked_vr_dmo.mdn
+sna_ropetrap.mtar
+sna_ropetrap.mtsq
 sna_rpg_fire.mdn
 sna_rpg_fire.txn
+sna_sidecar.mtar
+sna_sidecar.mtsq
 sna_sim_bdn_cure_dmo.eft
 sna_sim_bdn_cure_dmo.mdn
 sna_suit_dmo.mdn
@@ -3038,6 +3096,12 @@ sna_suit_hair_dmo.eft
 sna_suit_hair_dmo.mdn
 sna_swim.mtar
 sna_swim.mtsq
+sna_theboss.mtar
+sna_theboss.mtsq
+sna_thepain.mtar
+sna_thepain.mtsq
+sna_thesorrow.mtar
+sna_thesorrow.mtsq
 sna_va_bdn_cure_dmo.eft
 sna_va_bdn_cure_dmo.mdn
 sna_va_bdn_cure_dmo.van

@@ -89,6 +89,9 @@ s152a_fall2.mdl
 s152a_fall2.tri
 s152a_river.mdl
 s152a_river.tri
+s152a_snake.mtar
+s152a_snake.mtsq
+s152a_snake.var
 s152a_tree.mdl
 s152a_waterdrop.cvd
 s152a_waterdrop.mdl

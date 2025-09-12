@@ -1,11 +1,11 @@
 00026562.0e|hind_brk_tail_dmo.mdn
 00026562.14|hind_brk_tail_dmo.txn
-00056ff2.08|
-00056ff2.09|
+00056ff2.08|sna_machinegun.mtar
+00056ff2.09|sna_machinegun.mtsq
 000c5b40.0e|ring_m63_cm.mdn
 000e27c3.0e|grid_shd_food.mdn
-000eedff.08|
-000eedff.09|
+000eedff.08|sna_barbedwire.mtar
+000eedff.09|sna_barbedwire.mtsq
 001085d2.0e|hind_brk_lg01.mdn
 001085d3.0e|hind_brk_lg02.mdn
 001085d4.0e|hind_brk_lg03.mdn
@@ -150,8 +150,8 @@
 009792ab.14|
 009b0988.0e|s022a_door_pieceA_cm.mdn
 009b8988.0e|s022a_door_pieceB_cm.mdn
-009c3c9c.08|
-009c3c9c.09|
+009c3c9c.08|s022a_snake.mtar
+009c3c9c.09|s022a_snake.mtsq
 009c4f36.0e|
 009d1246.0e|frg_wood1_cm.mdn
 009d9246.0e|frg_wood2_cm.mdn

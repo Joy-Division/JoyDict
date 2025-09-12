@@ -123,6 +123,9 @@ s006a_locker_door.mdl
 s006a_parts1.mdl
 s006a_room_parts1.mdl
 s006a_small_tree2.mdl
+s006a_snake.mtar
+s006a_snake.mtsq
+s006a_snake.var
 s006a_wbox1.mdl
 s006a_window_frame.mdl
 s006a_window_frg1_cm.rcm

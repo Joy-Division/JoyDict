@@ -111,6 +111,8 @@ s042a_door.mdn
 s042a_e.lt2
 s042a_e_sky.lt2
 s042a_n.lt2
+s042a_snake.mtar
+s042a_snake.mtsq
 s042a_under_water.mdn
 scop_ene_low.eft
 scop_ene_low.mdn

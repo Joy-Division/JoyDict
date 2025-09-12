@@ -52,6 +52,8 @@ s192a_d.lt2
 s192a_load.rpd
 s192a_realshadow_0.mdl
 s192a_realshadow_0.tri
+s192a_snake.mtar
+s192a_snake.mtsq
 s192a_tree_b.mdl
 s192a_unittree.mdl
 s192a_unittreeUP.mdl
