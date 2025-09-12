@@ -85,11 +85,11 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
+s162a0.geom
 s162a_0.bin
 s162a_p0.mdl
 s162a_p1.mdl
 s162a_p2.mdl
-s162a0.geom
 s162ap0_realshadow_01.mdl
 s163a_01.lt2
 saaa_dmo.eft

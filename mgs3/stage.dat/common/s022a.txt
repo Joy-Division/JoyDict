@@ -151,9 +151,9 @@ s022a_correspo.mdl
 s022a_d.lt2
 s022a_d_inside.lt2
 s022a_desk_set.mdl
+s022a_doorA.mdl
 s022a_door_pieceA_cm.rcm
 s022a_door_pieceB_cm.rcm
-s022a_doorA.mdl
 s022a_enkei_tree.mdl
 s022a_fancewire_0.mdl
 s022a_fancewire_1.mdl

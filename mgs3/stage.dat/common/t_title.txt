@@ -34,6 +34,8 @@ t_title.bin
 trial_title.la2
 trial_title_0.tri
 v004a.geom
+v004a0.mdl
+v004a0.tri
 v004a_bigtree1.mdl
 v004a_bigtree1.tri
 v004a_cader_tree1.mdl
@@ -55,5 +57,3 @@ v004a_parts1.mdl
 v004a_parts1.tri
 v004a_uro2.mdl
 v004a_uro2.tri
-v004a0.mdl
-v004a0.tri

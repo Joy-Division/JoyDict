@@ -77,6 +77,7 @@ rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s191a.mdl
 s191a.tri
+s191a0.geom
 s191a_0.bin
 s191a_bigtree.mdl
 s191a_bigtree.tri
@@ -99,14 +100,13 @@ s191a_unittreeUP.mdl
 s191a_unittreeUP.tri
 s191a_uro.mdl
 s191a_uro.tri
-s191a_water_drop.cvd
-s191a_water_drop.mdl
-s191a_water_drop.tri
 s191a_water1.mdl
 s191a_water1.tri
 s191a_water2.mdl
 s191a_water2.tri
-s191a0.geom
+s191a_water_drop.cvd
+s191a_water_drop.mdl
+s191a_water_drop.tri
 saaa_high.mdl
 saaa_high.tri
 scenerio.gcx

@@ -1,3 +1,6 @@
+Siberian_Ink_Cap.mdl
+Vine_Melon.mdl
+Yabloko_Moloko.mdl
 akkf_low.eft
 akkf_low.mdl
 akmr_amo_low.eft
@@ -139,7 +142,6 @@ s061a_mass_tree2.mdl
 scenerio.gcx
 scop_ene_low.eft
 scop_ene_low.mdl
-Siberian_Ink_Cap.mdl
 sky_d_3.lt2
 sky_d_3.mdl
 sky_d_3_rain.lt2
@@ -174,7 +176,5 @@ tsu_def.mdl
 tsu_def.mtar
 tsu_def.mtsq
 underwater_explosion_cm.rcm
-Vine_Melon.mdl
-Yabloko_Moloko.mdl
 yad_def.cvd
 yad_def.mdl

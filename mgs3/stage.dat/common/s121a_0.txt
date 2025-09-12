@@ -47,6 +47,7 @@ phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s121a.mdl
+s121a0.geom
 s121a_0.bin
 s121a_alarm.mdl
 s121a_carton_box.mdl
@@ -60,7 +61,6 @@ s121a_pillar_a.mdl
 s121a_pillar_b.mdl
 s121a_pillar_c.mdl
 s121a_window.mdl
-s121a0.geom
 s122a.mdl
 scenerio.gcx
 shag_stoj.mdl

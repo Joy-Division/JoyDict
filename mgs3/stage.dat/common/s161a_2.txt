@@ -57,6 +57,7 @@ rpg7_high.mdl
 rpg7_high.tri
 rpg7_rocket_high.mdl
 rpg7_rocket_high.tri
+s161a2.geom
 s161a_2.bin
 s161a_p2.mdl
 s161a_p2.tri
@@ -81,7 +82,6 @@ s161a_p2_outside.mdl
 s161a_p2_outside.tri
 s161a_realshadow_0.mdl
 s161a_realshadow_0.tri
-s161a2.geom
 saaa_dmo.mdl
 saaa_dmo.tri
 saaa_sto_dmo.mdl

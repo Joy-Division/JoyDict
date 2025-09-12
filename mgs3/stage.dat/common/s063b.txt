@@ -1,3 +1,6 @@
+Golova.mdl
+Russian_Oyster_Mushroom.mdl
+Siberian_Ink_Cap.mdl
 acquired_window.la2
 acquired_window_0.tri
 acquired_window_fre.la2
@@ -48,7 +51,6 @@ frg_soil3_cm.rcm
 frg_wood1_cm.rcm
 frg_wood2_cm.rcm
 frg_wood3_cm.rcm
-Golova.mdl
 grid_shd_amo_a.mdl
 grid_shd_food.mdl
 grid_shd_medicine.mdl
@@ -108,9 +110,9 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
-Russian_Oyster_Mushroom.mdl
 s063a.nav
 s063a.zon
+s063a0.mdl
 s063a_armory.mdl
 s063a_cader_tree1.mdl
 s063a_cader_tree2.mdl
@@ -128,14 +130,12 @@ s063a_mass_tree3.mdl
 s063a_mass_tree4.mdl
 s063a_parts1.mdl
 s063a_thin_tree1.mdl
-s063a0.mdl
 s063b.bin
 s063b.geom
 scenerio.gcx
 scop_ene_low.eft
 scop_ene_low.mdl
 shida02_cm.rcm
-Siberian_Ink_Cap.mdl
 sky_d_3.lt2
 sky_d_3.mdl
 sky_d_3_rain.lt2

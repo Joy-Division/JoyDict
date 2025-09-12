@@ -66,12 +66,12 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
+s091a0.geom
 s091a_0.bin
 s091a_container01.mdl
 s091a_p0.mdl
 s091a_p0_realshadow_01.mdl
 s091a_watchtower.mdl
-s091a0.geom
 scenerio.gcx
 sky_n_5.lt2
 sky_n_5.mdl

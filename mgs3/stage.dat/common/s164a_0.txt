@@ -51,6 +51,7 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
+s164a0.geom
 s164a_0.bin
 s164a_01.lt2
 s164a_01.mdl
@@ -61,7 +62,6 @@ s164a_03.mdl
 s164a_03.tri
 s164a_realshadow_01.mdl
 s164a_realshadow_01.tri
-s164a0.geom
 scenerio.gcx
 shag_cock_light.lt2
 shag_cockpit_dmo.mdl

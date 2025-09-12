@@ -1,3 +1,5 @@
+Siberian_Ink_Cap.mdl
+Yabloko_Moloko.mdl
 acquired_window.la2
 acquired_window_0.tri
 acquired_window_fre.la2
@@ -115,17 +117,16 @@ s063a_small_tree3.mdl
 s063a_thin_tree1.mdl
 s065a.nav
 s065a.zon
+s065a0.mdl
 s065a_d.lt2
 s065a_ivy_open.mdl
 s065a_parts1.mdl
-s065a0.mdl
 s065b.bin
 s065b.geom
 scenerio.gcx
 scop_ene_low.eft
 scop_ene_low.mdl
 shida02_cm.rcm
-Siberian_Ink_Cap.mdl
 sky_d_3.lt2
 sky_d_3.mdl
 sky_d_3_rain.lt2
@@ -171,4 +172,3 @@ tsu_def.mdl
 tsu_def.mtar
 tsu_def.mtsq
 underwater_explosion_cm.rcm
-Yabloko_Moloko.mdl

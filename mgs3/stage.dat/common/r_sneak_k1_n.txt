@@ -207,8 +207,6 @@ sna_item_bdn_long.eft
 sna_item_bdn_long.mdl
 sna_item_bdn_short.eft
 sna_item_bdn_short.mdl
-sok_bounding_coat_dmo.mdl
-sok_bounding_coat_dmo.tri
 sna_wp_claymore.mtar
 sna_wp_claymore.mtsq
 sna_wp_dragnov.mtar
@@ -234,6 +232,8 @@ sna_wp_rpg7.mtar
 sna_wp_rpg7.mtsq
 sna_wp_scorpion.mtar
 sna_wp_scorpion.mtsq
+sok_bounding_coat_dmo.mdl
+sok_bounding_coat_dmo.tri
 stun_body.eft
 stun_body.mdl
 stun_lever.mdl

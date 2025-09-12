@@ -1,3 +1,4 @@
+Vine_Melon.mdl
 akkf_low.eft
 akkf_low.mdl
 akmr_amo_low.eft
@@ -144,6 +145,7 @@ s005a_tsuribashi_rope_1m_sh.mdl
 s061a.bin
 s061a.geom
 s061a.nav
+s061a0.mdl
 s061a_bigtree1.mdl
 s061a_cader_tree1.mdl
 s061a_d.lt2
@@ -157,7 +159,6 @@ s061a_parts1.mdl
 s061a_snake.mtar
 s061a_snake.mtsq
 s061a_tenboudai.mdl
-s061a0.mdl
 scenerio.gcx
 scop_ene_low.eft
 scop_ene_low.mdl
@@ -217,7 +218,6 @@ tsu_def.mtar
 tsu_def.mtsq
 tsu_def.tri
 underwater_explosion_cm.rcm
-Vine_Melon.mdl
 vz61_amo_low.eft
 vz61_amo_low.mdl
 vz61_low.eft

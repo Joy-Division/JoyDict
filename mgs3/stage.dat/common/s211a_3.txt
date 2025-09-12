@@ -53,6 +53,10 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
+s201a0.mdl
+s201a0.tri
+s201a1.mdl
+s201a1.tri
 s201a_d.lt2
 s201a_dead_tree1.mdl
 s201a_dead_tree1.tri
@@ -70,12 +74,8 @@ s201a_mass_tree4.tri
 s201a_p0_water3.mdl
 s201a_thin_tree1.mdl
 s201a_thin_tree1.tri
-s201a0.mdl
-s201a0.tri
-s201a1.mdl
-s201a1.tri
-s211a_3.bin
 s211a3.geom
+s211a_3.bin
 s211b_cockpit.lt2
 saaa_dmo.eft
 saaa_dmo.mdl
@@ -106,6 +106,7 @@ sna_suit_hair_dmo.mdl
 underwater_explosion_cm.rcm
 vtol.eft
 vtol.mdl
+vva14_cock_handle_demo.mdl
 vva_cockpit.mdl
 vva_cockpit_realshadow.mdl
 vva_door_l.mdl
@@ -137,7 +138,6 @@ vva_mater_u.mdl
 vva_mater_v.mdl
 vva_nozzle.mdl
 vva_warning_lamp.mdl
-vva14_cock_handle_demo.mdl
 vvaw_break_enjin.mdl
 vvaw_demo.mdl
 vvaw_door_outside_l.mdl

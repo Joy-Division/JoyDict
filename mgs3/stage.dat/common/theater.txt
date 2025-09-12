@@ -3,14 +3,14 @@ cachetrans.tri
 demo_theater.la2
 demo_theater_0.tri
 demotheater.lt2
+demotheater1.mdl
+demotheater1.tri
 demotheater_back.mdl
 demotheater_back.tri
 demotheater_florgrid.mdl
 demotheater_florgrid.tri
 demotheater_realshadow.mdl
 demotheater_realshadow.tri
-demotheater1.mdl
-demotheater1.tri
 fly_def_cm.rcm
 frg_chaff_01_cm.rcm
 frg_chaff_02_cm.rcm

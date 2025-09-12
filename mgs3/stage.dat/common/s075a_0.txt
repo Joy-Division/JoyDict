@@ -107,6 +107,7 @@ rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s074a_door.mdl
 s075a.mdl
+s075a0.geom
 s075a_0.bin
 s075a_e.lt2
 s075a_e_sky.lt2
@@ -115,7 +116,6 @@ s075a_gg_p0.mdl
 s075a_gg_realshadow_01.mdl
 s075a_realshadow_02.mdl
 s075a_s162a.mdl
-s075a0.geom
 s091a_container01.mdl
 s091a_watchtower.mdl
 scenerio.gcx

@@ -1,3 +1,9 @@
+Golova.mdl
+Golova.tri
+Siberian_Ink_Cap.mdl
+Siberian_Ink_Cap.tri
+Yabloko_Moloko.mdl
+Yabloko_Moloko.tri
 ads_bounding_hair_dmo.mdl
 ads_bounding_hair_dmo.tri
 ads_bounding_rope_dmo.mdl
@@ -87,8 +93,6 @@ gave_slide_dmo.mdl
 gave_slide_dmo.tri
 gave_spring_dmo.mdl
 gave_spring_dmo.tri
-Golova.mdl
-Golova.tri
 ibox_cage_body.eft
 ibox_food_body.eft
 m16a_high.eft
@@ -111,6 +115,8 @@ rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s001a_small_tree2.mdl
 s004a.geom
+s004a0.mdl
+s004a0_mass3_new.mdl
 s004a_0.bin
 s004a_brk_0.mdl
 s004a_d.lt2
@@ -124,8 +130,6 @@ s004a_n_def.lt2
 s004a_parts1.mdl
 s004a_realshadow_0.mdl
 s004a_realshadow_0.tri
-s004a0.mdl
-s004a0_mass3_new.mdl
 saaa_dmo.eft
 saaa_high.eft
 scenerio.gcx
@@ -135,8 +139,6 @@ scr_suiteki1.tri
 scr_waterline01.cvd
 scr_waterline01.mdl
 scr_waterline01.tri
-Siberian_Ink_Cap.mdl
-Siberian_Ink_Cap.tri
 sky_d_1.lt2
 sky_d_1.mdl
 sky_d_1.tri
@@ -171,5 +173,3 @@ v004a_mass_tree1.mdl
 v004a_mass_tree3.mdl
 v004a_uro2.mdl
 vz61_high.eft
-Yabloko_Moloko.mdl
-Yabloko_Moloko.tri

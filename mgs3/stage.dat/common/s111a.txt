@@ -95,15 +95,15 @@ s111a.geom
 s111a.lt2
 s111a.mdl
 s111a.nav
+s111a_MR.mdl
 s111a_alarm.mdl
 s111a_d.lt2
-s111a_door_left_MR.mdl
 s111a_door_MR.mdl
+s111a_door_left_MR.mdl
 s111a_door_right_MR.mdl
 s111a_floor.mdl
 s111a_gg_d.lt2
 s111a_gg_n.lt2
-s111a_MR.mdl
 s111a_room_door_left.mdl
 s111a_room_door_right.mdl
 s111a_s091a.mdl

@@ -46,6 +46,8 @@ ratt.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s201a.nav
+s201a0.mdl
+s201a1.mdl
 s201a_d.lt2
 s201a_dead_tree1.mdl
 s201a_dead_tree2.mdl
@@ -61,8 +63,6 @@ s201a_thin_tree1.mdl
 s201a_water.mdl
 s201a_wig.mdl
 s201a_wig_glass.mdl
-s201a0.mdl
-s201a1.mdl
 scenerio.gcx
 sky_d_7.lt2
 sky_d_7.mdl

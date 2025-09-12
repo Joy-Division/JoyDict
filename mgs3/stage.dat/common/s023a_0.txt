@@ -69,9 +69,9 @@ s023a.mdl
 s023a_0.bin
 s023a_0_realshadow_01.mdl
 s023a_0_realshadow_01.tri
+s023a_bigtree1.mdl
 s023a_bigtree_demo.mdl
 s023a_bigtree_demo.tri
-s023a_bigtree1.mdl
 s023a_d.lt2
 s023a_decay_tree.mdl
 s023a_mass_tree3.mdl

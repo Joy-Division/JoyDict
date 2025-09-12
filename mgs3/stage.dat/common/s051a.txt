@@ -1,3 +1,6 @@
+Russian_False_Mango.mdl
+Siberian_Ink_Cap.mdl
+Yabloko_Moloko.mdl
 ama_def.mtar
 ama_def.mtsq
 amana_petal01_cm.rcm
@@ -64,7 +67,6 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
-Russian_False_Mango.mdl
 s005a_tsuribashi_rope_1m_sh.mdl
 s044a_light_1.mdl
 s051a.bin
@@ -72,11 +74,11 @@ s051a.geom
 s051a.mdl
 s051a.nav
 s051a_d.lt2
-s051a_eld_tree_fear.mdl
 s051a_eld_tree1.mdl
 s051a_eld_tree1_eda_l_3m_50h.mdl
 s051a_eld_tree1_eda_l_3m_65h.mdl
 s051a_eld_tree1_eda_r_3m_50h.mdl
+s051a_eld_tree_fear.mdl
 s051a_n.lt2
 s051a_small_tree.mdl
 s051a_snake.mtar
@@ -91,7 +93,6 @@ s051a_tree_n.mdl
 s051a_tree_ne.mdl
 s051a_twig_a.mdl
 scenerio.gcx
-Siberian_Ink_Cap.mdl
 sky_d_4.mdl
 sky_d_4a.lt2
 sky_n_2_moon.mdl
@@ -163,7 +164,6 @@ wor_suspend.cvd
 wor_suspend.mdl
 wor_suspend.mtar
 wor_suspend.mtsq
-Yabloko_Moloko.mdl
 yad_def.cvd
 yad_def.mdl
 yad_def.tri

@@ -77,8 +77,8 @@ s171a_mt.mdl
 s171a_r.mdl
 s171a_realshadow_0.mdl
 s171a_river.mdl
-s171b_0.bin
 s171b0.geom
+s171b_0.bin
 saaa_dmo.eft
 saaa_high.eft
 scenerio.gcx

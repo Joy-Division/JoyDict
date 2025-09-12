@@ -53,6 +53,7 @@ red_def.mtsq
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s063a.geom
+s063a0.mdl
 s063a_0.bin
 s063a_armory.mdl
 s063a_cader_tree1.mdl
@@ -72,7 +73,6 @@ s063a_mass_tree4.mdl
 s063a_parts1.mdl
 s063a_realshadow_0.mdl
 s063a_thin_tree1.mdl
-s063a0.mdl
 s064a_realshadow_0.mdl
 s065a_realshadow_0.mdl
 scenerio.gcx

@@ -1,3 +1,6 @@
+Russian_Oyster_Mushroom.mdl
+Siberian_Ink_Cap.mdl
+Yabloko_Moloko.mdl
 amana_petal01_cm.rcm
 amuru_kudzu.mdl
 but_def_blue.mdl
@@ -49,7 +52,6 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
-Russian_Oyster_Mushroom.mdl
 s002a.bin
 s002a.geom
 s002a.nav
@@ -63,7 +65,6 @@ s002a_n.lt2
 s002a_parts1.mdl
 s002a_touboku.mdl
 scenerio.gcx
-Siberian_Ink_Cap.mdl
 sky_n_2.lt2
 sky_n_2.mdl
 sky_n_2_moon.mdl
@@ -91,4 +92,3 @@ stname_s004a_s_alp_ovl.img
 underwater_explosion_cm.rcm
 vip_def.cvd
 vip_def.mdl
-Yabloko_Moloko.mdl

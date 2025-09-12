@@ -1,3 +1,5 @@
+Russian_False_Mango.mdl
+Russian_False_Mango.tri
 acquired_window.la2
 acquired_window_0.tri
 acquired_window_fre.la2
@@ -86,8 +88,6 @@ rat_def.mdl
 rat_def.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
-Russian_False_Mango.mdl
-Russian_False_Mango.tri
 s033a.bin
 s033a.geom
 s033a.nav
@@ -124,11 +124,11 @@ s033a_realshadow_0.mdl
 s033a_realshadow_0.tri
 s033a_tree1.mdl
 s033a_tree1.tri
+s033a_water01.mdl
+s033a_water01.tri
 s033a_water_drop1.cvd
 s033a_water_drop1.mdl
 s033a_water_drop1.tri
-s033a_water01.mdl
-s033a_water01.tri
 scenerio.gcx
 sky_d_2.mdl
 sky_d_2.tri

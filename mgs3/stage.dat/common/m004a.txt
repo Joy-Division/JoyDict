@@ -71,6 +71,7 @@ sna_hair_weight_vr_dmo.mdl
 sna_hair_weight_vr_dmo.tri
 underwater_explosion_cm.rcm
 v004a.nav
+v004a0.mdl
 v004a_bigtree1.mdl
 v004a_cader_tree1.mdl
 v004a_d.lt2
@@ -82,4 +83,3 @@ v004a_mass_tree1.mdl
 v004a_mass_tree3.mdl
 v004a_parts1.mdl
 v004a_uro2.mdl
-v004a0.mdl

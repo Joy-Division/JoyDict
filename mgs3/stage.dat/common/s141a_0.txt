@@ -34,13 +34,13 @@ phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s141a.mdl
+s141a0.geom
 s141a_0.bin
 s141a_n.lt2
 s141a_reflect.mdl
 s141a_sky.lt2
 s141a_sky.mdl
 s141a_under_water.mdl
-s141a0.geom
 saaa_dmo.mdl
 scenerio.gcx
 sna_bounding_def_dmo.mdl

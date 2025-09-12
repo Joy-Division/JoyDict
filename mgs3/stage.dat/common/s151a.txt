@@ -1,3 +1,4 @@
+Vine_Melon.mdl
 akkf_low.eft
 akkf_low.mdl
 amana_petal01_cm.rcm
@@ -165,4 +166,3 @@ tsu_def.mdl
 tsu_def.mtar
 tsu_def.mtsq
 underwater_explosion_cm.rcm
-Vine_Melon.mdl

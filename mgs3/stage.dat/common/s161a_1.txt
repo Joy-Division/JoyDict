@@ -96,6 +96,7 @@ phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s091a_container01.mdl
+s161a1.geom
 s161a_1.bin
 s161a_p1.mdl
 s161a_p1_car_sdw.mdl
@@ -107,7 +108,6 @@ s161a_p1_realshadow_01.mdl
 s161a_p1_realshadow_01.tri
 s161a_watchtower.mdl
 s161a_watchtower.tri
-s161a1.geom
 saaa_dmo.eft
 saaa_dmo.mdl
 saaa_dmo.tri

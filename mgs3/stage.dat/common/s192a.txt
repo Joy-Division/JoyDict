@@ -1,3 +1,5 @@
+Golova.mdl
+Siberian_Ink_Cap.mdl
 akkf_low.eft
 akkf_low.mdl
 akmr_amo_low.eft
@@ -67,7 +69,6 @@ frg_wood2_cm.rcm
 frg_wood3_cm.rcm
 gage_eva.la2
 gage_eva_0.tri
-Golova.mdl
 grid_shd_amo_a.mdl
 grid_shd_amo_a.tri
 grid_shd_food.mdl
@@ -164,10 +165,10 @@ s192a_snake.mtsq
 s192a_tree_b.mdl
 s192a_unittree.mdl
 s192a_unittreeUP.mdl
-s192a_water_drop.cvd
-s192a_water_drop.mdl
 s192a_water1.mdl
 s192a_water2.mdl
+s192a_water_drop.cvd
+s192a_water_drop.mdl
 saaa_low.eft
 saaa_low.mdl
 scenerio.gcx
@@ -177,7 +178,6 @@ sdl_def.cvd
 sdl_def.mdl
 sdl_def.mtar
 sdl_def.mtsq
-Siberian_Ink_Cap.mdl
 sky_d_6.mdl
 sky_d_6_rain.lt2
 sky_d_7.lt2

@@ -57,6 +57,7 @@ phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s001a.geom
+s001a0.mdl
 s001a_def_tree1.mdl
 s001a_eld_tree1.mdl
 s001a_eld_tree1_eda1.mdl
@@ -70,7 +71,6 @@ s001a_parts1.mdl
 s001a_realshadow_0.mdl
 s001a_realshadow_0.tri
 s001a_small_tree2.mdl
-s001a0.mdl
 scenerio.gcx
 sky_d_0.lt2
 sky_d_0.mdl

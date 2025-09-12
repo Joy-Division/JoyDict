@@ -50,6 +50,8 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
+s201a0.mdl
+s201a1.mdl
 s201a_d.lt2
 s201a_dead_tree1.mdl
 s201a_dead_tree2.mdl
@@ -61,10 +63,8 @@ s201a_mass_tree4.mdl
 s201a_p0_hiki.mdl
 s201a_p0_water3.mdl
 s201a_thin_tree1.mdl
-s201a0.mdl
-s201a1.mdl
-s211a_0.bin
 s211a0.geom
+s211a_0.bin
 s211b_cockpit.lt2
 scenerio.gcx
 sky_d_7.mdl
@@ -88,6 +88,7 @@ stname_s031a_i_alp_ovl.img
 stname_s031a_j_alp_ovl.img
 stname_s031a_s_alp_ovl.img
 underwater_explosion_cm.rcm
+vva14_cock_handle_demo.mdl
 vva_cockpit.mdl
 vva_door_l.mdl
 vva_handle_l.mdl
@@ -118,7 +119,6 @@ vva_mater_v.mdl
 vva_nozzle.mdl
 vva_nozzle.tri
 vva_warning_lamp.mdl
-vva14_cock_handle_demo.mdl
 vvaw_demo.mdl
 vvaw_door_outside_l.mdl
 vvaw_glass_dom.mdl

@@ -108,6 +108,7 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
+s006a0.mdl
 s006a_bed1.mdl
 s006a_cader_tree1.mdl
 s006a_cbox1.mdl
@@ -136,7 +137,6 @@ s006a_window_frame.mdl
 s006a_window_frg1_cm.rcm
 s006a_window_frg2_cm.rcm
 s006a_window_glass.cvd
-s006a0.mdl
 s006b.geom
 s006b.nav
 s006b.zon

@@ -63,6 +63,7 @@ phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s121a_fueltank.mdl
+s161a0.geom
 s161a_0.bin
 s161a_p0.mdl
 s161a_p0_brkwall.mdl
@@ -78,7 +79,6 @@ s161a_p0_s121a.mdl
 s161a_p0_wall.mdl
 s161a_p0_wall1.mdl
 s161a_p0_wall2.mdl
-s161a0.geom
 scenerio.gcx
 shag_cock_light.lt2
 shag_cockpit_dmo.mdl

@@ -59,6 +59,7 @@ ratt.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s001a.nav
+s001a0.mdl
 s001a_def_tree1.mdl
 s001a_eld_tree1.mdl
 s001a_eld_tree1_eda1.mdl
@@ -70,7 +71,6 @@ s001a_mass_tree2.mdl
 s001a_mass_tree3.mdl
 s001a_parts1.mdl
 s001a_small_tree2.mdl
-s001a0.mdl
 scenerio.gcx
 sky_d_0.lt2
 sky_d_0.mdl

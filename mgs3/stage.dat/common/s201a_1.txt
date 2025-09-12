@@ -76,6 +76,8 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
+s201a0.mdl
+s201a1.mdl
 s201a_1.bin
 s201a_d.lt2
 s201a_dead_tree1.mdl
@@ -95,8 +97,6 @@ s201a_realshadow_0.mdl
 s201a_realshadow_0.tri
 s201a_thin_tree1.mdl
 s201a_water.mdl
-s201a0.mdl
-s201a1.mdl
 s201b.geom
 saaa_dmo.eft
 saaa_high.eft

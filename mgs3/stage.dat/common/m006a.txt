@@ -63,6 +63,7 @@ ratt.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s006a.nav
+s006a0.mdl
 s006a_bed1.mdl
 s006a_cader_tree1.mdl
 s006a_cbox1.mdl
@@ -82,7 +83,6 @@ s006a_parts1.mdl
 s006a_room_parts1.mdl
 s006a_small_tree2.mdl
 s006a_wbox1.mdl
-s006a0.mdl
 scenerio.gcx
 sky_d_0.lt2
 sky_d_0.mdl

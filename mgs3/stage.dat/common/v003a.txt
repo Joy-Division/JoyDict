@@ -1,3 +1,7 @@
+Golova.mdl
+Golova.tri
+Siberian_Ink_Cap.mdl
+Siberian_Ink_Cap.tri
 ama_def.cvd
 ama_def.mdl
 ama_def.mtar
@@ -36,8 +40,6 @@ gav_def.cvd
 gav_def.mdl
 gav_def.mtar
 gav_def.mtsq
-Golova.mdl
-Golova.tri
 grid_shd_amo_a.mdl
 grid_shd_amo_a.tri
 grid_shd_medicine.mdl
@@ -89,6 +91,10 @@ rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s003a.geom
 s003a.nav
+s003a0.mdl
+s003a1.mdl
+s003a1_pond1.mdl
+s003a2.mdl
 s003a_d.lt2
 s003a_def_tree1.mdl
 s003a_def_tree2.mdl
@@ -101,13 +107,7 @@ s003a_small_tree2.mdl
 s003a_swamp.mdl
 s003a_thin_tree1.mdl
 s003a_thin_tree2.mdl
-s003a0.mdl
-s003a1.mdl
-s003a1_pond1.mdl
-s003a2.mdl
 scenerio.gcx
-Siberian_Ink_Cap.mdl
-Siberian_Ink_Cap.tri
 sky_d_0.lt2
 sky_d_0.mdl
 sna_bounding_def_dmo.mdl

@@ -67,8 +67,8 @@ s171a.bin
 s171a.geom
 s171a.mdl
 s171a_bridge.mdl
-s171a_bridge_parts.mdl
 s171a_bridge_Pendulum.mdl
+s171a_bridge_parts.mdl
 s171a_d.lt2
 s171a_f.mdl
 s171a_mt.mdl

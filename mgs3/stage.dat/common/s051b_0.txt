@@ -1,3 +1,9 @@
+Russian_False_Mango.mdl
+Russian_False_Mango.tri
+Siberian_Ink_Cap.mdl
+Siberian_Ink_Cap.tri
+Yabloko_Moloko.mdl
+Yabloko_Moloko.tri
 amana_petal01_cm.rcm
 bk_concL_cm.rcm
 bk_concM_cm.rcm
@@ -64,8 +70,6 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
-Russian_False_Mango.mdl
-Russian_False_Mango.tri
 s005a_tsuribashi_rope_1m_sh.mdl
 s005a_tsuribashi_rope_1m_sh.tri
 s051a.geom
@@ -77,8 +81,6 @@ s051a_demo_obj.mdl
 s051a_demo_obj.tri
 s051a_demo_obj2.mdl
 s051a_demo_obj2.tri
-s051a_eld_tree_fear.mdl
-s051a_eld_tree_fear.tri
 s051a_eld_tree1.mdl
 s051a_eld_tree1.tri
 s051a_eld_tree1_eda_l_3m_50h.mdl
@@ -87,6 +89,8 @@ s051a_eld_tree1_eda_l_3m_65h.mdl
 s051a_eld_tree1_eda_l_3m_65h.tri
 s051a_eld_tree1_eda_r_3m_50h.mdl
 s051a_eld_tree1_eda_r_3m_50h.tri
+s051a_eld_tree_fear.mdl
+s051a_eld_tree_fear.tri
 s051a_n.lt2
 s051a_realshadow_0.mdl
 s051a_realshadow_0.tri
@@ -112,8 +116,6 @@ s051a_twig_a.mdl
 s051a_twig_a.tri
 s051b_0.bin
 scenerio.gcx
-Siberian_Ink_Cap.mdl
-Siberian_Ink_Cap.tri
 sky_d_4.mdl
 sky_d_4.tri
 sky_d_4a.lt2
@@ -175,5 +177,3 @@ will_arrow_high.mdl
 will_arrow_high.tri
 will_high.mdl
 will_high.tri
-Yabloko_Moloko.mdl
-Yabloko_Moloko.tri

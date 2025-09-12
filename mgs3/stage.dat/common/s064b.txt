@@ -1,3 +1,4 @@
+Siberian_Ink_Cap.mdl
 akkf_low.eft
 akkf_low.mdl
 amana_petal01_cm.rcm
@@ -103,15 +104,15 @@ s063a_small_tree3.mdl
 s063a_thin_tree1.mdl
 s064a.nav
 s064a.zon
+s064a0.mdl
 s064a_d.lt2
 s064a_parts1.mdl
-s064a_river_splash.cvd
-s064a_river_splash.mdl
 s064a_river1_base.mdl
 s064a_river1_trans.mdl
 s064a_river2_base.mdl
 s064a_river3_base.mdl
-s064a0.mdl
+s064a_river_splash.cvd
+s064a_river_splash.mdl
 s064b.bin
 s064b.geom
 scenerio.gcx
@@ -122,7 +123,6 @@ scr_suiteki1.mdl
 scr_waterline01.cvd
 scr_waterline01.mdl
 shida02_cm.rcm
-Siberian_Ink_Cap.mdl
 sky_d_3.lt2
 sky_d_3.mdl
 sky_d_3_rain.lt2

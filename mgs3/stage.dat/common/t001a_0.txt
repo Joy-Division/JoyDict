@@ -21,6 +21,10 @@ n033a_box.mdl
 n033a_box.tri
 n033a_box_small.mdl
 n033a_box_small.tri
+n033a_car01.mdl
+n033a_car01.tri
+n033a_car02.mdl
+n033a_car02.tri
 n033a_car_jeep.mdl
 n033a_car_jeep.tri
 n033a_car_jeep_tire.mdl
@@ -29,10 +33,6 @@ n033a_car_koware.mdl
 n033a_car_koware.tri
 n033a_car_remain.mdl
 n033a_car_remain.tri
-n033a_car01.mdl
-n033a_car01.tri
-n033a_car02.mdl
-n033a_car02.tri
 n033a_chair.mdl
 n033a_chair.tri
 n033a_conk_pillar.mdl

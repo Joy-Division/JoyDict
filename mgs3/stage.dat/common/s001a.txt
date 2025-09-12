@@ -1,3 +1,6 @@
+Russian_False_Mango.mdl
+Russian_Oyster_Mushroom.mdl
+Siberian_Ink_Cap.mdl
 ama_def.cvd
 ama_def.mdl
 ama_def.mtar
@@ -74,11 +77,10 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
-Russian_False_Mango.mdl
-Russian_Oyster_Mushroom.mdl
 s001a.bin
 s001a.geom
 s001a.nav
+s001a0.mdl
 s001a_d.lt2
 s001a_def_tree1.mdl
 s001a_eld_tree1.mdl
@@ -94,9 +96,7 @@ s001a_parts1.mdl
 s001a_small_tree2.mdl
 s001a_snake.mtar
 s001a_snake.mtsq
-s001a0.mdl
 scenerio.gcx
-Siberian_Ink_Cap.mdl
 sky_d_1.lt2
 sky_d_1.mdl
 sky_n_2.lt2

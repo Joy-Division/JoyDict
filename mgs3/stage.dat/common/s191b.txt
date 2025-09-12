@@ -1,3 +1,6 @@
+Russian_False_Mango.mdl
+Russian_False_Mango.tri
+Siberian_Ink_Cap.mdl
 akkf_low.eft
 akkf_low.mdl
 akmr_amo_low.eft
@@ -148,8 +151,6 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
-Russian_False_Mango.mdl
-Russian_False_Mango.tri
 s191a.geom
 s191a.mdl
 s191a.nav
@@ -177,7 +178,6 @@ saaa_low.mdl
 scenerio.gcx
 scop_ene_low.eft
 scop_ene_low.mdl
-Siberian_Ink_Cap.mdl
 sky_d_6.mdl
 sky_d_6.tri
 sky_d_6_rain.lt2

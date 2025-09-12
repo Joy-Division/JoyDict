@@ -1,3 +1,9 @@
+Golova.mdl
+Golova.tri
+Siberian_Ink_Cap.mdl
+Siberian_Ink_Cap.tri
+Yabloko_Moloko.mdl
+Yabloko_Moloko.tri
 akmr_amo_high.mdl
 akmr_high.mdl
 amana_petal01_cm.rcm
@@ -33,8 +39,6 @@ frg_soil3_cm.rcm
 frg_wood1_cm.rcm
 frg_wood2_cm.rcm
 frg_wood3_cm.rcm
-Golova.mdl
-Golova.tri
 ibox_cage_body.eft
 ibox_cage_body.mdl
 ibox_cage_body.tri
@@ -55,8 +59,6 @@ s001a_small_tree2.mdl
 scenerio.gcx
 scop_high.mdl
 scop_high.tri
-Siberian_Ink_Cap.mdl
-Siberian_Ink_Cap.tri
 sky_d_0.lt2
 sky_d_0.mdl
 sna_bounding_def_dmo.mdl
@@ -82,6 +84,7 @@ sna_suit_hair_dmo.eft
 sna_suit_hair_dmo.mdl
 underwater_explosion_cm.rcm
 v004a.geom
+v004a0.mdl
 v004a_0.bin
 v004a_bigtree1.mdl
 v004a_cader_tree1.mdl
@@ -96,6 +99,3 @@ v004a_parts1.mdl
 v004a_realshadow_0.mdl
 v004a_realshadow_0.tri
 v004a_uro2.mdl
-v004a0.mdl
-Yabloko_Moloko.mdl
-Yabloko_Moloko.tri

@@ -57,10 +57,10 @@ s192a_snake.mtsq
 s192a_tree_b.mdl
 s192a_unittree.mdl
 s192a_unittreeUP.mdl
-s192a_water_drop.cvd
-s192a_water_drop.mdl
 s192a_water1.mdl
 s192a_water2.mdl
+s192a_water_drop.cvd
+s192a_water_drop.mdl
 scenerio.gcx
 sky_d_6.mdl
 sky_d_6_rain.lt2

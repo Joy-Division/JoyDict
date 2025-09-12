@@ -114,6 +114,8 @@ phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s006a.geom
+s006a0.mdl
+s006a0.tri
 s006a_bed1.mdl
 s006a_bed1.tri
 s006a_cader_tree1.mdl
@@ -158,8 +160,6 @@ s006a_window_frame.tri
 s006a_window_frg1_cm.rcm
 s006a_window_frg2_cm.rcm
 s006a_window_glass.cvd
-s006a0.mdl
-s006a0.tri
 s062a_window_brk_prt_0.rcm
 s062a_window_brk_prt_1.rcm
 saaa_dmo.eft

@@ -1,3 +1,6 @@
+Golova.mdl
+Siberian_Ink_Cap.mdl
+Yabloko_Moloko.mdl
 akkf_low.eft
 akkf_low.mdl
 akmr_amo_low.eft
@@ -50,7 +53,6 @@ frg_soil3_cm.rcm
 frg_wood1_cm.rcm
 frg_wood2_cm.rcm
 frg_wood3_cm.rcm
-Golova.mdl
 gps_def.cvd
 gps_def.mdl
 grid_shd_food.mdl
@@ -102,6 +104,8 @@ s001a_small_tree2.mdl
 s004a.bin
 s004a.geom
 s004a.nav
+s004a0.mdl
+s004a0_mass3_new.mdl
 s004a_brk_0.mdl
 s004a_d.lt2
 s004a_def_0.mdl
@@ -111,8 +115,6 @@ s004a_mass1_brk_tree.mdl
 s004a_n_brk.lt2
 s004a_n_def.lt2
 s004a_parts1.mdl
-s004a0.mdl
-s004a0_mass3_new.mdl
 scenerio.gcx
 scop_ene_low.eft
 scop_ene_low.mdl
@@ -120,7 +122,6 @@ sdl_def.cvd
 sdl_def.mdl
 sdl_def.mtar
 sdl_def.mtsq
-Siberian_Ink_Cap.mdl
 sky_d_1.lt2
 sky_d_1.mdl
 sky_n_2.lt2
@@ -176,4 +177,3 @@ vz61_amo_low.eft
 vz61_amo_low.mdl
 vz61_low.eft
 vz61_low.mdl
-Yabloko_Moloko.mdl

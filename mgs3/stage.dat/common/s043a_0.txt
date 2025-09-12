@@ -88,6 +88,7 @@ phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 s043a.mdl
+s043a0.geom
 s043a_0.bin
 s043a_door.mdl
 s043a_light_1.mdl
@@ -96,7 +97,6 @@ s043a_n.lt2
 s043a_realshadow_01.mdl
 s043a_s044a.mdl
 s043a_under.mdl
-s043a0.geom
 saaa_body_dmo.mdl
 saaa_cyl_dmo.mdl
 saaa_dmo.eft

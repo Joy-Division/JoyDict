@@ -48,6 +48,7 @@ phase_spa.la2
 phase_spa_0.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
+s163a0.geom
 s163a_0.bin
 s163a_01.mdl
 s163a_02.lt2
@@ -58,7 +59,6 @@ s163a_mark.mdl
 s163a_number.mdl
 s163a_realshadow_01.mdl
 s163a_tank.mdl
-s163a0.geom
 scenerio.gcx
 shag_cock_light.lt2
 shag_dmo.mdl

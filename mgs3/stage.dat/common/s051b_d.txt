@@ -1,3 +1,6 @@
+Russian_False_Mango.mdl
+Siberian_Ink_Cap.mdl
+Yabloko_Moloko.mdl
 acquired_window.la2
 acquired_window_0.tri
 acquired_window_fre.la2
@@ -138,18 +141,17 @@ red_def.mtsq
 red_def.tri
 rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
-Russian_False_Mango.mdl
 s005a_tsuribashi_rope_1m_sh.mdl
 s044a_light_1.mdl
 s051a.geom
 s051a.mdl
 s051a.nav
 s051a_d.lt2
-s051a_eld_tree_fear.mdl
 s051a_eld_tree1.mdl
 s051a_eld_tree1_eda_l_3m_50h.mdl
 s051a_eld_tree1_eda_l_3m_65h.mdl
 s051a_eld_tree1_eda_r_3m_50h.mdl
+s051a_eld_tree_fear.mdl
 s051a_n.lt2
 s051a_small_tree.mdl
 s051a_snake.mtar
@@ -169,7 +171,6 @@ sdl_def.mdl
 sdl_def.mtar
 sdl_def.mtsq
 sdl_def.tri
-Siberian_Ink_Cap.mdl
 sky_d_4.mdl
 sky_d_4a.lt2
 sky_n_2_moon.mdl
@@ -217,7 +218,6 @@ will_arrow.eft
 will_arrow.mdl
 williamtell.mtar
 williamtell.mtsq
-Yabloko_Moloko.mdl
 yad_def.cvd
 yad_def.mdl
 yad_def.tri
