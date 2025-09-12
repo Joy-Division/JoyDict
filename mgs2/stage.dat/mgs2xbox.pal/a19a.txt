@@ -50,14 +50,14 @@ gps_eye1.kmy
 gps_eye2.kmy
 gps_eye3.kmy
 gps_eye4.kmy
-gps_hand_def.cvy
-gps_hand_def.kmy
-gps_hand_def.xti
 gps_hand1.cvy
 gps_hand2.cvy
 gps_hand3.cvy
 gps_hand4.cvy
 gps_hand5.cvy
+gps_hand_def.cvy
+gps_hand_def.kmy
+gps_hand_def.xti
 gps_knife.kmy
 gps_sling.kmy
 gps_sling.xti
@@ -88,8 +88,8 @@ null.xti
 oil.xti
 other.xti
 pause_sub.xti
-psg_t_label.kmy
 psgT_amo_label.kmy
+psg_t_label.kmy
 rad.kmy
 rad_l.kmy
 rad_m.kmy
@@ -145,6 +145,8 @@ sps_emb.kmy
 transcache.xti
 usp_amo_label.kmy
 vr.xti
+vr2_goalpost.cvy
+vr2_goalpost.kmy
 vr_clear_alt_pal.o2d
 vr_dcm.o2d
 vr_mission_cleared.xti
@@ -152,8 +154,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.xti
-vr2_goalpost.cvy
-vr2_goalpost.kmy
 w19a.kmy
 w19a.lt2
 w19a.xti

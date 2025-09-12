@@ -1,6 +1,6 @@
 2D_tex.xti
-a_p_sensor_ibox.kmy
 a00c.hzx
+a_p_sensor_ibox.kmy
 aaa.xti
 aab.xti
 aks.kmy
@@ -35,9 +35,9 @@ gbs.sar
 gbs.var
 gbs_bp.cvy
 gbs_bp.kmy
-gbs_dead_for_subs.cvy
 gbs_dead2_for_subs.cvy
 gbs_dead3_for_subs.cvy
+gbs_dead_for_subs.cvy
 gbs_def.cvy
 gbs_def.kmy
 gbs_eye0.cvy
@@ -51,13 +51,13 @@ gbs_eye3.kmy
 gbs_eye4.cvy
 gbs_eye4.kmy
 gbs_gba_def_nm.xti
-gbs_hand_def.cvy
-gbs_hand_def.kmy
 gbs_hand1.cvy
 gbs_hand2.cvy
 gbs_hand3.cvy
 gbs_hand4.cvy
 gbs_hand5.cvy
+gbs_hand_def.cvy
+gbs_hand_def.kmy
 gbs_hlst.cvy
 gbs_hlst.kmy
 gbs_kanagu.cvy
@@ -165,6 +165,8 @@ usp_label.kmy
 usp_sp_label.kmy
 usp_spl.cvy
 vr.xti
+vr2_goalpost.cvy
+vr2_goalpost.kmy
 vr_clear_alt_pal.o2d
 vr_dcm.o2d
 vr_mission_cleared.xti
@@ -172,8 +174,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.xti
-vr2_goalpost.cvy
-vr2_goalpost.kmy
 w00.xti
 w00_f1.kmy
 w00_f2.kmy

@@ -59,6 +59,12 @@ sna_nm.tri
 tbl_katana.kms
 tbl_katana.tri
 tng_blood.kms
+tng_dead1_parts.kms
+tng_dead1_parts.tri
+tng_dead3_parts.kms
+tng_dead3_parts.tri
+tng_dead4_parts.kms
+tng_dead4_parts.tri
 tng_dead_1.kms
 tng_dead_1.tri
 tng_dead_2.kms
@@ -67,12 +73,6 @@ tng_dead_3.kms
 tng_dead_3.tri
 tng_dead_4.kms
 tng_dead_4.tri
-tng_dead1_parts.kms
-tng_dead1_parts.tri
-tng_dead3_parts.kms
-tng_dead3_parts.tri
-tng_dead4_parts.kms
-tng_dead4_parts.tri
 transcache.tri
 usp_sub.kms
 usp_sub.tri

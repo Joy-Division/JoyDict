@@ -81,8 +81,6 @@ w31c.hzx
 w31c.lt2
 w31c.rat
 w31c.xti
-w31c_poster.kmy
-w31c_water.xti
 w31c0.kmy
 w31c0_k0.kmy
 w31c0_k1.kmy
@@ -96,6 +94,8 @@ w31c1_k0.kmy
 w31c1_k1.kmy
 w31c1_locker_door.kmy
 w31c1r.kmy
+w31c_poster.kmy
+w31c_water.xti
 water.xti
 watermine.kmy
 wtd_hiyoko.kmy

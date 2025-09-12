@@ -81,8 +81,6 @@ w31c.hzx
 w31c.lt2
 w31c.rat
 w31c.tri
-w31c_poster.kms
-w31c_water.tri
 w31c0.kms
 w31c0_k0.kms
 w31c0_k1.kms
@@ -98,6 +96,8 @@ w31c1_k0.kms
 w31c1_k1.kms
 w31c1_locker_door.kms
 w31c1r.kms
+w31c_poster.kms
+w31c_water.tri
 water.tri
 watermine.kms
 wtd_hiyoko.kms

@@ -24,12 +24,12 @@ digital_camera_label.kmy
 digital_camera_sh.kmy
 dmd_label.kmy
 dogtag_ibox.kmy
-dogtag_ibox_sh.kmy
 dogtag_ibox2.kmy
 dogtag_ibox2_sh.kmy
+dogtag_ibox_sh.kmy
 dogtag_label.kmy
-dzp_label.kmy
 dzp2_label.kmy
+dzp_label.kmy
 etp_label.kmy
 gmk_label.kmy
 goggle_ibox.kmy

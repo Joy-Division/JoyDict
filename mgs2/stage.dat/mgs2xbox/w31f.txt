@@ -64,8 +64,8 @@ paper_a.cvy
 paper_a.kmy
 paper_b.cvy
 paper_b.kmy
-psg_amo_label.kmy
 psgT_amo_label.kmy
+psg_amo_label.kmy
 rai_ee.mar
 rai_ee.sar
 rai_swim.mar
@@ -97,9 +97,6 @@ w31c.hzx
 w31c.lt2
 w31c.rat
 w31c.xti
-w31c_itembox.xti
-w31c_poster.kmy
-w31c_water.xti
 w31c0.kmy
 w31c0_k0.kmy
 w31c0_k1.kmy
@@ -113,6 +110,9 @@ w31c1_k0.kmy
 w31c1_k1.kmy
 w31c1_locker_door.kmy
 w31c1r.kmy
+w31c_itembox.xti
+w31c_poster.kmy
+w31c_water.xti
 water.xti
 watermine.kmy
 wtd_hiyoko.kmy

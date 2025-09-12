@@ -7,10 +7,10 @@ aks.kms
 aks_amo_label.kms
 aks_sp.kms
 bam_label.kms
-box_ibox.kms
-box_ibox_sh.kms
 box2_ibox.kms
 box2_ibox_sh.kms
+box_ibox.kms
+box_ibox_sh.kms
 bsn_b_label.kms
 c4_kaitai_a1.kms
 c4_kaitai_a1_frost.kms
@@ -53,9 +53,9 @@ gbs.sar
 gbs.var
 gbs_bp.cv2
 gbs_bp.kms
-gbs_dead_for_subs.cv2
 gbs_dead2_for_subs.cv2
 gbs_dead3_for_subs.cv2
+gbs_dead_for_subs.cv2
 gbs_def.cv2
 gbs_def.kms
 gbs_eye0.cv2
@@ -69,13 +69,13 @@ gbs_eye3.kms
 gbs_eye4.cv2
 gbs_eye4.kms
 gbs_gba_def_nm.tri
-gbs_hand_def.cv2
-gbs_hand_def.kms
 gbs_hand1.cv2
 gbs_hand2.cv2
 gbs_hand3.cv2
 gbs_hand4.cv2
 gbs_hand5.cv2
+gbs_hand_def.cv2
+gbs_hand_def.kms
 gbs_hlst.cv2
 gbs_hlst.kms
 gbs_kanagu.cv2
@@ -131,10 +131,10 @@ nkt_amo_label.kms
 nkt_label.kms
 pause_sub.tri
 photo_odai.tri
+psgT_amo_label.kms
 psg_amo_label.kms
 psg_label.kms
 psg_t_label.kms
-psgT_amo_label.kms
 rad.kms
 rad_l.kms
 rad_m.kms
@@ -204,6 +204,8 @@ usp_amo_label.kms
 usp_label.kms
 usp_sp_label.kms
 vr.tri
+vr2_goalpost.cv2
+vr2_goalpost.kms
 vr_clear_alt_pal.o2d
 vr_dcm.o2d
 vr_mission_cleared.tri
@@ -211,8 +213,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.tri
-vr2_goalpost.cv2
-vr2_goalpost.kms
 w00.tri
 w00_f1.kms
 w00_f2.kms
@@ -274,8 +274,6 @@ w01asdr_body_l.kms
 w01asdr_body_r.kms
 w01asdr_handle.kms
 w01b.lt2
-w01b_w01c.kms
-w01b_w01f.kms
 w01b0.kms
 w01b0.tri
 w01b0r.kms
@@ -285,6 +283,8 @@ w01b1_locker_dr.kms
 w01b1r.kms
 w01b2.tri
 w01b2a.kms
+w01b_w01c.kms
+w01b_w01f.kms
 w01bk_center.kms
 w01bk_left.kms
 w01bk_right.kms

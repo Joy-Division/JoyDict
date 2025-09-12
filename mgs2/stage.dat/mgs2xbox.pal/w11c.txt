@@ -107,12 +107,10 @@ w11_elv_append.xti
 w11_elv_fader.kmy
 w11_shatter.mar
 w11_shatter.sar
-w11a_itembox.xti
 w11a2_shatter.kmy
+w11a_itembox.xti
 w11abc_other_obj.xti
 w11c.hzx
-w11c_ceil.mar
-w11c_ceil.sar
 w11c2.kmy
 w11c2.xti
 w11c2_box_backclip.kmy
@@ -203,6 +201,8 @@ w11c2k4.kmy
 w11c2r.kmy
 w11c2r_cable.kmy
 w11c2r_cable_brk.kmy
+w11c_ceil.mar
+w11c_ceil.sar
 zzz_chest_scar.xti
 zzz_tears.xti
 zzza.xti

@@ -16,6 +16,10 @@ usp_emb.tri
 w32a.hzx
 w32a.lt2
 w32a.tri
+w32a0.kms
+w32a1.kms
+w32a2.kms
+w32a3.kms
 w32a_15a.kms
 w32a_17a.kms
 w32a_18a.kms
@@ -40,7 +44,3 @@ w32a_sdw.kms
 w32a_sky_wall1.kms
 w32a_sky_wall2.kms
 w32a_sky_wall3.kms
-w32a0.kms
-w32a1.kms
-w32a2.kms
-w32a3.kms

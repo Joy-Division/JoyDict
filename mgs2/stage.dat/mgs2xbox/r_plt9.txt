@@ -9,8 +9,8 @@ cit_maley_ctg_sh.xti
 comdlresident.xti
 fms_emb.kmy
 fms_emb.xti
-foot_shadow_cm.kmy
 foot_shadow2_cm.kmy
+foot_shadow_cm.kmy
 for_coat_bounding.kmy
 for_coat_bounding.xti
 for_hair_def_mh.evx

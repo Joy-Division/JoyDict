@@ -1,7 +1,7 @@
 cache.var
-d_sky_wall1.kms
 d005p03.bin
 d00a3.hzx
+d_sky_wall1.kms
 demo_dummy.kms
 demo_dummy.tri
 hh60h.kms
@@ -19,9 +19,9 @@ kmo_obj_flying.kms
 kmo_obj_stop.kms
 m_sky_wall1.kms
 meca_hh60h.tri
+nyp_def1.kms
 nyp_def_epa.kms
 nyp_def_epa.tri
-nyp_def1.kms
 plant_sea_d.tri
 plant_sea_m.tri
 rai_def_mt.kms

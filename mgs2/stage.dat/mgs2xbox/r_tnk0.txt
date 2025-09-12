@@ -25,14 +25,14 @@ code_tex.xti
 codec.o2d
 comdlresident.xti
 dcm.o2d
+dcmTex.xti
 dcm_rai.kmy
 dcm_shat.o2d
-dcmTex.xti
 end_game.o2d
 end_game.xti
 fms_emb.kmy
-foot_shadow_cm.kmy
 foot_shadow2_cm.kmy
+foot_shadow_cm.kmy
 gbs_knif.kmy
 gbs_mag.kmy
 golequip.xti

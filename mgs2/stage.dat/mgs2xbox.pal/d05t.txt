@@ -29,6 +29,8 @@ demo_w00_sdr_l.kmy
 demo_w00_sdr_r.kmy
 gbs_def_mt.kmy
 gbs_def_mt.xti
+horo1.cvy
+horo1.kmy
 horo_bo.anm
 horo_bod.anm
 horo_box.anm
@@ -39,8 +41,6 @@ horo_lox.anm
 horo_ro.anm
 horo_rod.anm
 horo_rox.anm
-horo1.cvy
-horo1.kmy
 irs_box.kmy
 irs_box.xti
 kck_504.kmy

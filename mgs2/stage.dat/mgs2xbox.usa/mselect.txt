@@ -6,6 +6,11 @@ controls_2.xti
 default.xti
 fpv_controls.o2d
 missions.xti
+missions2.xti
+missionsRaiden.xti
+missionsRaiden_alt.xti
+missionsRaiden_bg.xti
+missionsRaiden_sel.xti
 missions_character_select.o2d
 missions_pliskin.o2d
 missions_raiden.o2d
@@ -14,11 +19,6 @@ missions_snake_def.o2d
 missions_snake_old.o2d
 missions_snake_txd.o2d
 missions_x_raiden.o2d
-missions2.xti
-missionsRaiden.xti
-missionsRaiden_alt.xti
-missionsRaiden_bg.xti
-missionsRaiden_sel.xti
 save_load.o2d
 save_load.xti
 scenerio.gcx

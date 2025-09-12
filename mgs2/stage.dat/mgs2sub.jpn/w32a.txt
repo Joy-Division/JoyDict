@@ -59,14 +59,14 @@ gps_eye1.kms
 gps_eye2.kms
 gps_eye3.kms
 gps_eye4.kms
-gps_hand_def.cv2
-gps_hand_def.kms
-gps_hand_def.tri
 gps_hand1.cv2
 gps_hand2.cv2
 gps_hand3.cv2
 gps_hand4.cv2
 gps_hand5.cv2
+gps_hand_def.cv2
+gps_hand_def.kms
+gps_hand_def.tri
 gps_knife.kms
 gps_sling.kms
 gps_sling.tri
@@ -96,8 +96,8 @@ null.tri
 oil.tri
 oilfence.kms
 other.tri
-psg_amo_label.kms
 psgT_amo_label.kms
+psg_amo_label.kms
 rad.kms
 rad_l.kms
 rad_m.kms
@@ -121,6 +121,10 @@ w32a.bin
 w32a.hzx
 w32a.lt2
 w32a.tri
+w32a0.kms
+w32a1.kms
+w32a2.kms
+w32a3.kms
 w32a_15a.kms
 w32a_17a.kms
 w32a_18a.kms
@@ -144,7 +148,3 @@ w32a_sdw.kms
 w32a_sky_wall1.kms
 w32a_sky_wall2.kms
 w32a_sky_wall3.kms
-w32a0.kms
-w32a1.kms
-w32a2.kms
-w32a3.kms

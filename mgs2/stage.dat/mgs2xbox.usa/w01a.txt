@@ -28,9 +28,9 @@ gbs.sar
 gbs.var
 gbs_bp.cvy
 gbs_bp.kmy
-gbs_dead_for_subs.cvy
 gbs_dead2_for_subs.cvy
 gbs_dead3_for_subs.cvy
+gbs_dead_for_subs.cvy
 gbs_def.cvy
 gbs_def.kmy
 gbs_eye0.cvy
@@ -44,13 +44,13 @@ gbs_eye3.kmy
 gbs_eye4.cvy
 gbs_eye4.kmy
 gbs_gba_def_nm.xti
-gbs_hand_def.cvy
-gbs_hand_def.kmy
 gbs_hand1.cvy
 gbs_hand2.cvy
 gbs_hand3.cvy
 gbs_hand4.cvy
 gbs_hand5.cvy
+gbs_hand_def.cvy
+gbs_hand_def.kmy
 gbs_hlst.cvy
 gbs_hlst.kmy
 gbs_kanagu.cvy
@@ -155,6 +155,8 @@ w01a_w01f_1.kmy
 w01a_w01f_2.kmy
 w01af.kmy
 w01alc.kmy
+w01alcDoorL.kmy
+w01alcDoorR.kmy
 w01alc_lig_L.kmy
 w01alc_lig_L_bro.kmy
 w01alc_lig_R.kmy
@@ -162,8 +164,6 @@ w01alc_lig_R_bro.kmy
 w01alc_tobira.kmy
 w01alc_tobira_nu.kmy
 w01alc_tobira_nu2.kmy
-w01alcDoorL.kmy
-w01alcDoorR.kmy
 w01alcr.kmy
 w01ar.kmy
 w01asdr_body_l.kmy

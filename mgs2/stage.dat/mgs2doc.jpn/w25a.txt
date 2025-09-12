@@ -27,6 +27,12 @@ w25a.bin
 w25a.hzx
 w25a.lt2
 w25a.tri
+w25a0.kms
+w25a0_obj00.kms
+w25a0_obj01.kms
+w25a1.kms
+w25a1_obj00.kms
+w25a1_obj01.kms
 w25a_18b.kms
 w25a_18b.tri
 w25a_brk00a.kms
@@ -46,12 +52,6 @@ w25a_g.kms
 w25a_gl.kms
 w25a_tank_brk0.kms
 w25a_tank_brk1.kms
-w25a0.kms
-w25a0_obj00.kms
-w25a0_obj01.kms
-w25a1.kms
-w25a1_obj00.kms
-w25a1_obj01.kms
 w25ab_14a.kms
 w25ab_14a.tri
 w25ab_17a.kms

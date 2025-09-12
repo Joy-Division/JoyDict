@@ -34,10 +34,6 @@ usp_emb.tri
 w12b.bin
 w12b.hzx
 w12b.lt2
-w12b_dr00.kms
-w12b_dr01.kms
-w12b_k1.kms
-w12b_k2.kms
 w12b0.kms
 w12b0.tri
 w12b0_12a0.kms
@@ -52,3 +48,7 @@ w12b0r1.kms
 w12b1.kms
 w12b1.tri
 w12b1_k1.kms
+w12b_dr00.kms
+w12b_dr01.kms
+w12b_k1.kms
+w12b_k2.kms

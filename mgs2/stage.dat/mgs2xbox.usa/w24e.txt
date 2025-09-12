@@ -36,14 +36,14 @@ gbs_eye2.kmy
 gbs_eye3.kmy
 gbs_eye4.kmy
 gbs_gba_def_nm.xti
-gbs_hand_def.cvy
-gbs_hand_def.kmy
 gbs_hand0.cvy
 gbs_hand1.cvy
 gbs_hand2.cvy
 gbs_hand3.cvy
 gbs_hand4.cvy
 gbs_hand5.cvy
+gbs_hand_def.cvy
+gbs_hand_def.kmy
 gbs_hlst.kmy
 gbs_kanagu.kmy
 gbs_shadow.kmy
@@ -158,9 +158,6 @@ w16a0_apple.xti
 w24c.hzx
 w24c.lt2
 w24c.xti
-w24c_game_over.xti
-w24c_stdr.kmy
-w24c_stdr.xti
 w24c0.kmy
 w24c0_c_dai.kmy
 w24c0_flag_mh.evx
@@ -174,6 +171,9 @@ w24c1_disp_off.kmy
 w24c1_disp_on.kmy
 w24c1_k.kmy
 w24c1_roof.kmy
+w24c_game_over.xti
+w24c_stdr.kmy
+w24c_stdr.xti
 w24e_org.xti
 w24e_orga.mar
 w24e_orga.sar

@@ -3,8 +3,8 @@ cit_femalee_def.kmy
 cit_maley_ctg_sh.kmy
 comdlresident.xti
 fms_emb.kmy
-foot_shadow_cm.kmy
 foot_shadow2_cm.kmy
+foot_shadow_cm.kmy
 for_coat_bounding.kmy
 for_hair_def_mh.evx
 for_last_addhand_mh_mt.evx

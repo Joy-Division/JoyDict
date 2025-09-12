@@ -17,6 +17,12 @@ usp_emb.kms
 usp_emb.tri
 w25a.lt2
 w25a.tri
+w25a0.kms
+w25a0_obj00.kms
+w25a0_obj01.kms
+w25a1.kms
+w25a1_obj00.kms
+w25a1_obj01.kms
 w25a_brk00a.kms
 w25a_brk00b.kms
 w25a_brk01a.kms
@@ -31,12 +37,6 @@ w25a_g.kms
 w25a_gl.kms
 w25a_tank_brk0.kms
 w25a_tank_brk1.kms
-w25a0.kms
-w25a0_obj00.kms
-w25a0_obj01.kms
-w25a1.kms
-w25a1_obj00.kms
-w25a1_obj01.kms
 w25ab_14a.kms
 w25ab_17a.kms
 w25ab_18a.kms
@@ -58,6 +58,9 @@ w25ab_other00.kms
 w25ab_other01.kms
 w25ab_other02.kms
 w25b.tri
+w25b0.kms
+w25b0_wall.kms
+w25b1.kms
 w25b_demo.tri
 w25b_fl00.kms
 w25b_fl01.kms
@@ -66,9 +69,6 @@ w25b_jk.kms
 w25b_rail.kms
 w25b_step00.kms
 w25b_trap_dammy1.kms
-w25b0.kms
-w25b0_wall.kms
-w25b1.kms
 w25demo_14a.kms
 w25demo_16a.kms
 w25demo_18a.kms

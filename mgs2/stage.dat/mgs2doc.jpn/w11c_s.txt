@@ -32,9 +32,6 @@ w11_shatter.sar
 w11a2_shatter.kms
 w11abc_other_obj.tri
 w11c.hzx
-w11c_ceil.mar
-w11c_ceil.sar
-w11c_s.bin
 w11c2.kms
 w11c2.tri
 w11c2_box_backclip.kms
@@ -121,3 +118,6 @@ w11c2k4.kms
 w11c2r.kms
 w11c2r_cable.kms
 w11c2r_cable_brk.kms
+w11c_ceil.mar
+w11c_ceil.sar
+w11c_s.bin

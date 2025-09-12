@@ -43,6 +43,7 @@ p90_amo.kmy
 pdray_backmsl.kmy
 rai_def_mh_mt.evx
 rai_def_mt.kmy
+rayTri.xti
 ray_backmsl_close.kmy
 ray_backmsl_open.kmy
 ray_canopy_mt.kmy
@@ -54,7 +55,6 @@ raycp_canopy1_t12a1d_mt.kmy
 raycp_canopy2_t12a1d_mt.kmy
 raycp_cover.kmy
 raycp_t12a1d.kmy
-rayTri.xti
 rev_coat_bounding.kmy
 rev_coat_bounding.xti
 rev_hair_fix.kmy
@@ -92,6 +92,11 @@ transcache.xti
 w51a.hzx
 w51a.lt2
 w51a.xti
+w51a0.kmy
+w51a0k.kmy
+w51a1.kmy
+w51a1k.kmy
+w51a2_scale10.kmy
 w51a_ray_shadow.kmy
 w51a_sea.xti
 w51a_sky_wall1.kmy
@@ -101,8 +106,3 @@ w51a_sky_wall3.kmy
 w51a_sky_wall3.xti
 w51a_sky_wall4.kmy
 w51a_sky_wall4.xti
-w51a0.kmy
-w51a0k.kmy
-w51a1.kmy
-w51a1k.kmy
-w51a2_scale10.kmy

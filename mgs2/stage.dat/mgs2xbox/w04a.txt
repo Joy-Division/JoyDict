@@ -119,8 +119,8 @@ w04_test_bou_pera.kmy
 w04a.hzx
 w04a.lt2
 w04a.xti
-w04a_us_def.kmy
-w04a_us_def_2.xti
 w04a1.kmy
 w04a1_k1.kmy
 w04a2.kmy
+w04a_us_def.kmy
+w04a_us_def_2.xti

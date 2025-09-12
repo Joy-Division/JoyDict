@@ -42,13 +42,13 @@ gbs_eye3.kms
 gbs_eye4.cv2
 gbs_eye4.kms
 gbs_gba_def_nm.tri
-gbs_hand_def.cv2
-gbs_hand_def.kms
 gbs_hand1.cv2
 gbs_hand2.cv2
 gbs_hand3.cv2
 gbs_hand4.cv2
 gbs_hand5.cv2
+gbs_hand_def.cv2
+gbs_hand_def.kms
 gbs_hlst.cv2
 gbs_hlst.kms
 gbs_kanagu.cv2
@@ -158,8 +158,6 @@ w03_lit1c.kms
 w03a.bin
 w03a.hzx
 w03a.lt2
-w03a_pipe.kms
-w03a_pipe.tri
 w03a0.kms
 w03a0.tri
 w03a0r.kms
@@ -169,6 +167,8 @@ w03a1r.kms
 w03a2.kms
 w03a2.tri
 w03a2r.kms
+w03a_pipe.kms
+w03a_pipe.tri
 w03b0.kms
 w03b0.tri
 w03b0r.kms

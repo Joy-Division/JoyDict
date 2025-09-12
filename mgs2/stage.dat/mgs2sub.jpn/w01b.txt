@@ -27,9 +27,9 @@ gbs.sar
 gbs.var
 gbs_bp.cv2
 gbs_bp.kms
-gbs_dead_for_subs.cv2
 gbs_dead2_for_subs.cv2
 gbs_dead3_for_subs.cv2
+gbs_dead_for_subs.cv2
 gbs_def.cv2
 gbs_def.kms
 gbs_eye0.cv2
@@ -43,13 +43,13 @@ gbs_eye3.kms
 gbs_eye4.cv2
 gbs_eye4.kms
 gbs_gba_def_nm.tri
-gbs_hand_def.cv2
-gbs_hand_def.kms
 gbs_hand1.cv2
 gbs_hand2.cv2
 gbs_hand3.cv2
 gbs_hand4.cv2
 gbs_hand5.cv2
+gbs_hand_def.cv2
+gbs_hand_def.kms
 gbs_hlst.cv2
 gbs_hlst.kms
 gbs_kanagu.cv2
@@ -205,8 +205,6 @@ w01asdr_handle.kms
 w01b.bin
 w01b.hzx
 w01b.lt2
-w01b_w01c.kms
-w01b_w01f.kms
 w01b0.kms
 w01b0.tri
 w01b0r.kms
@@ -216,6 +214,8 @@ w01b1_locker_dr.kms
 w01b1r.kms
 w01b2.tri
 w01b2a.kms
+w01b_w01c.kms
+w01b_w01f.kms
 w01bk_center.kms
 w01bk_left.kms
 w01bk_right.kms

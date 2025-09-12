@@ -5,6 +5,11 @@ controls_2.tri
 default.tri
 fpv_controls_kor_ps2.o2d
 missions.tri
+missions2.tri
+missionsRaiden.tri
+missionsRaiden_alt.tri
+missionsRaiden_bg.tri
+missionsRaiden_sel.tri
 missions_character_select.o2d
 missions_pliskin_ps2.o2d
 missions_raiden_ninja_ps2.o2d
@@ -13,11 +18,6 @@ missions_snake_def_ps2.o2d
 missions_snake_old_ps2.o2d
 missions_snake_txd_ps2.o2d
 missions_x_raiden_ps2.o2d
-missions2.tri
-missionsRaiden.tri
-missionsRaiden_alt.tri
-missionsRaiden_bg.tri
-missionsRaiden_sel.tri
 mselect.bin
 save_load.o2d
 save_load.tri

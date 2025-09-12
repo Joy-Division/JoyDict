@@ -24,12 +24,12 @@ digital_camera_label.kms
 digital_camera_sh.kms
 dmd_label.kms
 dogtag_ibox.kms
-dogtag_ibox_sh.kms
 dogtag_ibox2.kms
 dogtag_ibox2_sh.kms
+dogtag_ibox_sh.kms
 dogtag_label.kms
-dzp_label.kms
 dzp2_label.kms
+dzp_label.kms
 etp_label.kms
 gmk_label.kms
 goggle_ibox.kms

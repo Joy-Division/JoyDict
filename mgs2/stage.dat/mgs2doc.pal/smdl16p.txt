@@ -25,9 +25,6 @@ transcache.tri
 usp_emb.kms
 usp_emb.tri
 w24d.lt2
-w24d_dr01.kms
-w24d_dr01.tri
-w24d_etc.tri
 w24d0.kms
 w24d0.tri
 w24d0r.kms
@@ -45,8 +42,15 @@ w24d2_wall.kms
 w24d2_wall.tri
 w24d2r.kms
 w24d2r.tri
+w24d_dr01.kms
+w24d_dr01.tri
+w24d_etc.tri
 w32a.lt2
 w32a.tri
+w32a0.kms
+w32a1.kms
+w32a2.kms
+w32a3.kms
 w32a_15a.kms
 w32a_17a.kms
 w32a_18a.kms
@@ -66,10 +70,6 @@ w32a_other00.kms
 w32a_other01.kms
 w32a_other02.kms
 w32a_sdw.kms
-w32a0.kms
-w32a1.kms
-w32a2.kms
-w32a3.kms
 w32b.lt2
 w32demo_21a.kms
 w32demo_23a.kms

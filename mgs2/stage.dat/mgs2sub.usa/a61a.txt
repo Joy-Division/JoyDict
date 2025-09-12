@@ -1,7 +1,7 @@
 2D_tex.tri
+a61a.bin
 a_p_sensor_ibox.kms
 a_p_sensor_ibox_label.kms
-a61a.bin
 bam_label.kms
 box2_ibox.kms
 box2_ibox_sh.kms
@@ -26,12 +26,12 @@ digital_camera_label.kms
 digital_camera_sh.kms
 dmd_label.kms
 dogtag_ibox.kms
-dogtag_ibox_sh.kms
 dogtag_ibox2.kms
 dogtag_ibox2_sh.kms
+dogtag_ibox_sh.kms
 dogtag_label.kms
-dzp_label.kms
 dzp2_label.kms
+dzp_label.kms
 etp_label.kms
 gmk_label.kms
 goggle_ibox.kms
@@ -102,6 +102,8 @@ tgl_label.kms
 transcache.tri
 trp_label.kms
 vr.tri
+vr2_goalpost.cv2
+vr2_goalpost.kms
 vr_clear_alt.o2d
 vr_dcm.o2d
 vr_mission_cleared.tri
@@ -109,8 +111,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.tri
-vr2_goalpost.cv2
-vr2_goalpost.kms
 w00_sky.kms
 w00_sky.tri
 w61a.hzx

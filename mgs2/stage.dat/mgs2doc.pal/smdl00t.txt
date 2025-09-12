@@ -4,12 +4,12 @@ comdlcache.tri
 d00a.hzx
 d00a.lt2
 d00a.tri
-d00a_scale10.lt2
-d00a_tanker.kms
-d00a_wire_cm.kms
 d00a0.kms
 d00a1.kms
 d00a2.kms
+d00a_scale10.lt2
+d00a_tanker.kms
+d00a_wire_cm.kms
 demo_m4_grn_emb.kms
 demo_m4_grn_emb.tri
 fms_emb.kms

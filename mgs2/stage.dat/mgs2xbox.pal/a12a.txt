@@ -1,7 +1,7 @@
 2D_tex.xti
+a12a.hzx
 a_p_sensor_ibox.kmy
 a_p_sensor_ibox_label.kmy
-a12a.hzx
 abk.kmy
 abk.xti
 abk_amo.kmy
@@ -12,10 +12,10 @@ aks.kmy
 aks_amo_label.kmy
 aks_sp.kmy
 bam_label.kmy
-box_ibox.kmy
-box_ibox_sh.kmy
 box2_ibox.kmy
 box2_ibox_sh.kmy
+box_ibox.kmy
+box_ibox_sh.kmy
 bsn_a_label.kmy
 bsn_b_label.kmy
 c4_kaitai_a.xti
@@ -53,12 +53,12 @@ dmd_label.kmy
 dmp_label.kmy
 dogtag_gps.kmy
 dogtag_ibox.kmy
-dogtag_ibox_sh.kmy
 dogtag_ibox2.kmy
 dogtag_ibox2_sh.kmy
+dogtag_ibox_sh.kmy
 dogtag_label.kmy
-dzp_label.kmy
 dzp2_label.kmy
+dzp_label.kmy
 elv_1.kmy
 elv_1.xti
 etp_label.kmy
@@ -141,10 +141,10 @@ nkt_label.kmy
 oil.xti
 other.xti
 pause_sub.xti
+psgT_amo_label.kmy
 psg_amo_label.kmy
 psg_label.kmy
 psg_t_label.kmy
-psgT_amo_label.kmy
 rad.kmy
 rad_l.kmy
 rad_m.kmy
@@ -192,6 +192,8 @@ usp_amo_label.kmy
 usp_label.kmy
 usp_sp_label.kmy
 vr.xti
+vr2_goalpost.cvy
+vr2_goalpost.kmy
 vr_clear_alt_pal.o2d
 vr_dcm.o2d
 vr_mission_cleared.xti
@@ -199,8 +201,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.xti
-vr2_goalpost.cvy
-vr2_goalpost.kmy
 w12_12b0.kmy
 w12_12b1.kmy
 w12_ami00.kmy

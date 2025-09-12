@@ -12,6 +12,7 @@ gbs_def.xti
 null.kmy
 null.xti
 oil.xti
+rayTri.xti
 ray_canopy_mt.kmy
 ray_canopy_mt.xti
 ray_canopy_w04c1_mt.kmy
@@ -26,7 +27,6 @@ ray_w04c1.kmy
 ray_w04c1.xti
 raycp_cover.kmy
 raycp_cover.xti
-rayTri.xti
 rev_def_shadow.kmy
 rev_def_shadow.xti
 rev_hair_liq_mh.evx

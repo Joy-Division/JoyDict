@@ -54,15 +54,15 @@ clm_sub.kmy
 cls_sub.kmy
 comdlresident.xti
 dcm.o2d
+dcmTex.xti
 dcm_rai.kmy
 dcm_shat.o2d
-dcmTex.xti
 dmp_headphones.kmy
 dmp_sub.kmy
 ema_idrope_mh_mt.evx
 fms_emb.kmy
-foot_shadow_cm.kmy
 foot_shadow2_cm.kmy
+foot_shadow_cm.kmy
 game_over.xti
 gbs_knif.kmy
 gbs_mag.kmy

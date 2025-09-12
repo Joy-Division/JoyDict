@@ -144,9 +144,6 @@ w24b_dr02.kms
 w24b_dr02.tri
 w24c.lt2
 w24c.tri
-w24c_stdr.kms
-w24c_w24b.kms
-w24c_w24b.tri
 w24c0.kms
 w24c0_c_dai.kms
 w24c0_flag_mh.evm
@@ -160,5 +157,8 @@ w24c1_disp_off.kms
 w24c1_disp_on.kms
 w24c1_k.kms
 w24c1_roof.kms
+w24c_stdr.kms
+w24c_w24b.kms
+w24c_w24b.tri
 win_01.kms
 win_02.kms

@@ -59,6 +59,12 @@ sna_nm.xti
 tbl_katana.kmy
 tbl_katana.xti
 tng_blood.kmy
+tng_dead1_parts.kmy
+tng_dead1_parts.xti
+tng_dead3_parts.kmy
+tng_dead3_parts.xti
+tng_dead4_parts.kmy
+tng_dead4_parts.xti
 tng_dead_1.kmy
 tng_dead_1.xti
 tng_dead_2.kmy
@@ -67,12 +73,6 @@ tng_dead_3.kmy
 tng_dead_3.xti
 tng_dead_4.kmy
 tng_dead_4.xti
-tng_dead1_parts.kmy
-tng_dead1_parts.xti
-tng_dead3_parts.kmy
-tng_dead3_parts.xti
-tng_dead4_parts.kmy
-tng_dead4_parts.xti
 transcache.xti
 usp_sub.kmy
 usp_sub.xti

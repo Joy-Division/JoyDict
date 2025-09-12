@@ -42,13 +42,13 @@ gbs_eye3.kms
 gbs_eye4.cv2
 gbs_eye4.kms
 gbs_gba_def_nm.tri
-gbs_hand_def.cv2
-gbs_hand_def.kms
 gbs_hand1.cv2
 gbs_hand2.cv2
 gbs_hand3.cv2
 gbs_hand4.cv2
 gbs_hand5.cv2
+gbs_hand_def.cv2
+gbs_hand_def.kms
 gbs_hlst.cv2
 gbs_hlst.kms
 gbs_kanagu.cv2
@@ -153,6 +153,8 @@ w01a_w01f_1.kms
 w01a_w01f_2.kms
 w01af.kms
 w01alc.kms
+w01alcDoorL.kms
+w01alcDoorR.kms
 w01alc_lig_L.kms
 w01alc_lig_L_bro.kms
 w01alc_lig_R.kms
@@ -160,8 +162,6 @@ w01alc_lig_R_bro.kms
 w01alc_tobira.kms
 w01alc_tobira_nu.kms
 w01alc_tobira_nu2.kms
-w01alcDoorL.kms
-w01alcDoorR.kms
 w01alcr.kms
 w01ar.kms
 w01asdr_body_l.kms

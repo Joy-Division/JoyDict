@@ -39,12 +39,6 @@ usp_emb.tri
 w24a.bin
 w24a.hzx
 w24a.lt2
-w24a_21a.kms
-w24a_21b.kms
-w24a_dr00.kms
-w24a_dr00.tri
-w24a_dr01.kms
-w24a_dr01.tri
 w24a0.kms
 w24a0.tri
 w24a0_wall1.kms
@@ -59,3 +53,9 @@ w24a1_locker1_dr.kms
 w24a1_locker2_dr.kms
 w24a1_locker3_dr.kms
 w24a1r.kms
+w24a_21a.kms
+w24a_21b.kms
+w24a_dr00.kms
+w24a_dr00.tri
+w24a_dr01.kms
+w24a_dr01.tri

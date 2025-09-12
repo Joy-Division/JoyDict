@@ -120,8 +120,8 @@ w04a.bin
 w04a.hzx
 w04a.lt2
 w04a.tri
-w04a_us_def.kms
-w04a_us_def_2.tri
 w04a1.kms
 w04a1_k1.kms
 w04a2.kms
+w04a_us_def.kms
+w04a_us_def_2.tri

@@ -10,6 +10,10 @@ comdlcache.xti
 d00a.hzx
 d00a.lt2
 d00a.xti
+d00a0.kmy
+d00a1.kmy
+d00a2.kmy
+d00a3.kmy
 d00a_divewire.anm
 d00a_divewire.cvy
 d00a_divewire.kmy
@@ -21,10 +25,6 @@ d00a_divewire2.xti
 d00a_scale10.lt2
 d00a_tanker.kmy
 d00a_wire_cm.kmy
-d00a0.kmy
-d00a1.kmy
-d00a2.kmy
-d00a3.kmy
 demo_dummy.kmy
 demo_kacatka.xti
 demo_other_obj.xti

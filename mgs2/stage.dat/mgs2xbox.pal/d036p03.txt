@@ -23,9 +23,9 @@ dish5.kmy
 dishBroL_cm.kmy
 dishBroS_cm.kmy
 gbs_bp.kmy
-gbs_dead_for_subs.kmy
 gbs_dead2_for_subs.kmy
 gbs_dead3_for_subs.kmy
+gbs_dead_for_subs.kmy
 gbs_def.kmy
 gbs_def.xti
 gbs_def_mt.kmy
@@ -146,9 +146,6 @@ w24b_dr02.kmy
 w24b_dr02.xti
 w24c.lt2
 w24c.xti
-w24c_stdr.kmy
-w24c_w24b.kmy
-w24c_w24b.xti
 w24c0.kmy
 w24c0_c_dai.kmy
 w24c0_flag_mh.evx
@@ -162,5 +159,8 @@ w24c1_disp_off.kmy
 w24c1_disp_on.kmy
 w24c1_k.kmy
 w24c1_roof.kmy
+w24c_stdr.kmy
+w24c_w24b.kmy
+w24c_w24b.xti
 win_01.kmy
 win_02.kmy

@@ -82,10 +82,6 @@ w11_elv_fader.kms
 w11_shatter.mar
 w11_shatter.sar
 w11a.tri
-w11a_itembox.tri
-w11a_mt.tri
-w11a_sdr_body_l.kms
-w11a_sdr_handle.kms
 w11a0.kms
 w11a0_sbmr.kms
 w11a0_sbmr_ref_water.kms
@@ -96,11 +92,13 @@ w11a0r.kms
 w11a1.kms
 w11a1r.kms
 w11a2_shatter.kms
+w11a_itembox.tri
+w11a_mt.tri
+w11a_sdr_body_l.kms
+w11a_sdr_handle.kms
 w11abc_other_obj.tri
 w11b.bin
 w11b.hzx
-w11c_ceil.mar
-w11c_ceil.sar
 w11c2.kms
 w11c2.tri
 w11c2_box_backclip.kms
@@ -191,6 +189,8 @@ w11c2k4.kms
 w11c2r.kms
 w11c2r_cable.kms
 w11c2r_cable_brk.kms
+w11c_ceil.mar
+w11c_ceil.sar
 water.tri
 zzza.tri
 zzzb.tri

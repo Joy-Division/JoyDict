@@ -51,6 +51,7 @@ p90_amo.kms
 pdray_backmsl.kms
 rai_def_mh_mt.evm
 rai_def_mt.kms
+rayTri.tri
 ray_backmsl_close.kms
 ray_backmsl_open.kms
 ray_canopy_mt.kms
@@ -62,7 +63,6 @@ raycp_canopy1_t12a1d_mt.kms
 raycp_canopy2_t12a1d_mt.kms
 raycp_cover.kms
 raycp_t12a1d.kms
-rayTri.tri
 rev_coat_bounding.kms
 rev_coat_bounding.tri
 rev_def_shadow.kms
@@ -103,14 +103,14 @@ transcache.tri
 w51a.hzx
 w51a.lt2
 w51a.tri
+w51a0.kms
+w51a0k.kms
+w51a1.kms
+w51a1k.kms
+w51a2_scale10.kms
 w51a_ray_shadow.kms
 w51a_sea.tri
 w51a_sky_wall1.kms
 w51a_sky_wall2.kms
 w51a_sky_wall3.kms
 w51a_sky_wall4.kms
-w51a0.kms
-w51a0k.kms
-w51a1.kms
-w51a1k.kms
-w51a2_scale10.kms

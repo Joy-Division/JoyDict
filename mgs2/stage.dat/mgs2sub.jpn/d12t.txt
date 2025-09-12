@@ -145,10 +145,10 @@ w02a_chain.kms
 w04_dr.kms
 w04a_us_def.kms
 w04a_us_def_2.tri
-w04b_demo_screen_normal.kms
 w04b1_brk.kms
 w04b1_k1.kms
 w04b1_k2.kms
+w04b_demo_screen_normal.kms
 w04c.tri
 w04c1_drk.kms
 w04c1_lit.kms

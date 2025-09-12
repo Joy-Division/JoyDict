@@ -42,9 +42,9 @@ cls_sub.kms
 comdlresident.tri
 d_w18.kms
 dcm.o2d
+dcmTex.tri
 dcm_rai.kms
 dcm_shat.o2d
-dcmTex.tri
 de_w19.kms
 dg_w25.kms
 dmp_headphones.kms
@@ -53,8 +53,8 @@ e_w20.kms
 ef_w21.kms
 f_w22.kms
 fms_emb.kms
-foot_shadow_cm.kms
 foot_shadow2_cm.kms
+foot_shadow_cm.kms
 g_w25.kms
 game_over.tri
 gbs_knif.kms

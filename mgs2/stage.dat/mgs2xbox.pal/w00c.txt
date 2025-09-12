@@ -34,9 +34,9 @@ gbs.sar
 gbs.var
 gbs_bp.cvy
 gbs_bp.kmy
-gbs_dead_for_subs.cvy
 gbs_dead2_for_subs.cvy
 gbs_dead3_for_subs.cvy
+gbs_dead_for_subs.cvy
 gbs_def.cvy
 gbs_def.kmy
 gbs_eye0.cvy
@@ -50,13 +50,13 @@ gbs_eye3.kmy
 gbs_eye4.cvy
 gbs_eye4.kmy
 gbs_gba_def_nm.xti
-gbs_hand_def.cvy
-gbs_hand_def.kmy
 gbs_hand1.cvy
 gbs_hand2.cvy
 gbs_hand3.cvy
 gbs_hand4.cvy
 gbs_hand5.cvy
+gbs_hand_def.cvy
+gbs_hand_def.kmy
 gbs_hlst.cvy
 gbs_hlst.kmy
 gbs_kanagu.cvy

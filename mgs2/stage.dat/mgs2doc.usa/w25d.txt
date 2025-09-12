@@ -40,10 +40,10 @@ w25d.bin
 w25d.hzx
 w25d.lt2
 w25d.tri
+w25d0.kms
+w25d1.kms
 w25d_28a.kms
 w25d_28a.tri
 w25d_sky_wall1.kms
 w25d_sky_wall2.kms
 w25d_sky_wall3.kms
-w25d0.kms
-w25d1.kms

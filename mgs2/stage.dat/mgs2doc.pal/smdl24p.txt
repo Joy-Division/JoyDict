@@ -22,11 +22,11 @@ w61a_flag.kms
 w61a_flag.tri
 w61a_flag_fall2.kms
 w61a_flag_fall2.tri
+w62a0.kms
+w62a1.kms
+w62a2.kms
 w62a_demo_sdw_1.kms
 w62a_scale10_am700.lt2
 w62a_scale10_am730.lt2
 w62a_sky_wall1.kms
 w62a_smoke.kms
-w62a0.kms
-w62a1.kms
-w62a2.kms

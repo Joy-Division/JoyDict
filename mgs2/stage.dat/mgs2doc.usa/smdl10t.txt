@@ -37,7 +37,6 @@ w04a1.kms
 w04a1_k1.kms
 w04a2.kms
 w04b.tri
-w04b_demo_screen.kms
 w04b1.kms
 w04b1.tri
 w04b1_k1.kms
@@ -50,6 +49,7 @@ w04b2.kms
 w04b2.tri
 w04b3.kms
 w04b3.tri
+w04b_demo_screen.kms
 w04c.tri
 w04c1.kms
 w04c1_demo_k1.kms

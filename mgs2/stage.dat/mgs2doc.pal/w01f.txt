@@ -81,6 +81,11 @@ w01asdr_handle.kms
 w01f.bin
 w01f.hzx
 w01f.lt2
+w01f0.kms
+w01f1.kms
+w01f1obj.kms
+w01f2.kms
+w01f3.kms
 w01f_box.kms
 w01f_box.tri
 w01f_dr.kms
@@ -94,11 +99,6 @@ w01f_w01b.kms
 w01f_w02.kms
 w01f_w02_1.kms
 w01f_w02_2.kms
-w01f0.kms
-w01f1.kms
-w01f1obj.kms
-w01f2.kms
-w01f3.kms
 w01fr.kms
 w01fr2.kms
 w01fr3.kms

@@ -5,11 +5,11 @@ ak_label.kmy
 ak_sp_label.kmy
 aks_amo_label.kmy
 bam_label.kmy
-box_ibox.kmy
-box_ibox_sh.kmy
 box2_ibox.kmy
 box2_ibox_sh.kmy
 box3_spl.kmy
+box_ibox.kmy
+box_ibox_sh.kmy
 bsn_b_label.kmy
 cameraTex.xti
 cbx_label.kmy
@@ -38,6 +38,8 @@ handgun_amo_ibox_sh.kmy
 handgun_ibox.kmy
 handgun_ibox.xti
 handgun_ibox_sh.kmy
+horo1.cvy
+horo1.kmy
 horo_bo.anm
 horo_bod.anm
 horo_box.anm
@@ -48,8 +50,6 @@ horo_lox.anm
 horo_ro.anm
 horo_rod.anm
 horo_rox.anm
-horo1.cvy
-horo1.kmy
 irs_box.kmy
 irs_box.xti
 launcher_amo_ibox.kmy
@@ -95,10 +95,10 @@ org_sk_cover.kmy
 orga.mar
 orga.sar
 pause_sub.xti
+psgT_amo_label.kmy
 psg_amo_label.kmy
 psg_label.kmy
 psg_t_label.kmy
-psgT_amo_label.kmy
 ration_ibox.kmy
 ration_ibox_sh.kmy
 rgb_amo_label.kmy
@@ -129,6 +129,8 @@ usp_amo_label.kmy
 usp_label.kmy
 usp_sp_label.kmy
 vr.xti
+vr2_goalpost.cvy
+vr2_goalpost.kmy
 vr_clear_alt.o2d
 vr_clear_alt_pal.o2d
 vr_dcm.o2d
@@ -137,8 +139,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.xti
-vr2_goalpost.cvy
-vr2_goalpost.kmy
 w00.xti
 w00_f1.kmy
 w00_f2.kmy

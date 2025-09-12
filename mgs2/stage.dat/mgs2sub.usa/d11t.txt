@@ -79,10 +79,10 @@ w04_dr.kms
 w04_dr.tri
 w04a_us_def.kms
 w04a_us_def_2.tri
-w04c_demo.lt2
 w04c1.kms
 w04c1.tri
 w04c1_demo_k1.kms
 w04c1_demo_k1.tri
 w04c2.kms
 w04c2.tri
+w04c_demo.lt2

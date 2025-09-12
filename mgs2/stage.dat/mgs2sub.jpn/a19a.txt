@@ -51,14 +51,14 @@ gps_eye1.kms
 gps_eye2.kms
 gps_eye3.kms
 gps_eye4.kms
-gps_hand_def.cv2
-gps_hand_def.kms
-gps_hand_def.tri
 gps_hand1.cv2
 gps_hand2.cv2
 gps_hand3.cv2
 gps_hand4.cv2
 gps_hand5.cv2
+gps_hand_def.cv2
+gps_hand_def.kms
+gps_hand_def.tri
 gps_knife.kms
 gps_sling.kms
 gps_sling.tri
@@ -89,8 +89,8 @@ null.tri
 oil.tri
 other.tri
 pause_sub.tri
-psg_t_label.kms
 psgT_amo_label.kms
+psg_t_label.kms
 rad.kms
 rad_l.kms
 rad_m.kms
@@ -146,6 +146,8 @@ sps_emb.kms
 transcache.tri
 usp_amo_label.kms
 vr.tri
+vr2_goalpost.cv2
+vr2_goalpost.kms
 vr_clear_alt.o2d
 vr_dcm.o2d
 vr_mission_cleared.tri
@@ -153,8 +155,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.tri
-vr2_goalpost.cv2
-vr2_goalpost.kms
 w19a.kms
 w19a.lt2
 w19a.tri

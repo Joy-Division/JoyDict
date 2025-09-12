@@ -21,9 +21,9 @@ ema_id_rope3_mh_mt.evx
 ema_id_rope3_mh_mt.xti
 ema_idrope.kmy
 ema_idrope.xti
-ema_idrope_mh_mt.evx
 ema_idrope2_mh_mt.evx
 ema_idrope2_mh_mt.xti
+ema_idrope_mh_mt.evx
 ema_raindammy.cvy
 emacap.mar
 emacap.sar
@@ -77,8 +77,8 @@ w25cd_other02.kmy
 w25d.hzx
 w25d.lt2
 w25d.xti
+w25d0.kmy
+w25d1.kmy
 w25d_sky_wall1.kmy
 w25d_sky_wall2.kmy
 w25d_sky_wall3.kmy
-w25d0.kmy
-w25d1.kmy

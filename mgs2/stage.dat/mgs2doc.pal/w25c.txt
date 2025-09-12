@@ -16,14 +16,14 @@ usp_emb.tri
 w25c.bin
 w25c.hzx
 w25c.lt2
+w25c0.kms
+w25c1.kms
 w25c_dr00.kms
 w25c_dr00.tri
 w25c_floor_a.kms
 w25c_floor_b.kms
 w25c_floor_c.kms
 w25c_trap_dammy1.kms
-w25c0.kms
-w25c1.kms
 w25cd_17a.kms
 w25cd_18a.kms
 w25cd_19a.kms

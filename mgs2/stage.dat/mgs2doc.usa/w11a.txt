@@ -57,9 +57,6 @@ w11_shatter.sar
 w11a.bin
 w11a.hzx
 w11a.tri
-w11a_mt.tri
-w11a_sdr_body_l.kms
-w11a_sdr_handle.kms
 w11a0.kms
 w11a0_sbmr.kms
 w11a0_sbmr_ref_water.kms
@@ -79,6 +76,9 @@ w11a2k1.kms
 w11a2k2.kms
 w11a2k3.kms
 w11a2r.kms
+w11a_mt.tri
+w11a_sdr_body_l.kms
+w11a_sdr_handle.kms
 w11abc_other_obj.tri
 w11c2_ceillit.kms
 w11c2_ceillit_brk.kms

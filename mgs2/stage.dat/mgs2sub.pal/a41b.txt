@@ -60,6 +60,8 @@ vmp_naked_sh.tri
 vmp_parts_vkpa_mh.evm
 vmp_parts_vkpa_mh.tri
 vr.tri
+vr2_goalpost.cv2
+vr2_goalpost.kms
 vr_clear_alt_pal.o2d
 vr_dcm.o2d
 vr_mission_cleared.tri
@@ -67,8 +69,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.tri
-vr2_goalpost.cv2
-vr2_goalpost.kms
 w00_sky.kms
 w00_sky.tri
 w24e_rev.mar

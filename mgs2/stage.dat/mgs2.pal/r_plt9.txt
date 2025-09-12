@@ -9,8 +9,8 @@ cit_maley_ctg_sh.tri
 comdlresident.tri
 fms_emb.kms
 fms_emb.tri
-foot_shadow_cm.kms
 foot_shadow2_cm.kms
+foot_shadow_cm.kms
 for_coat_bounding.kms
 for_coat_bounding.tri
 for_hair_def_mh.evm

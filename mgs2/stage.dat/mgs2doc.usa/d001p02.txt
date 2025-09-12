@@ -10,8 +10,8 @@ c4_kaitai_b1_frost_cm_set.mdl
 c4_kaitai_b1_set.mdl
 cache.var
 comdlcache.tri
-d_sky_wall1.kms
 d001p02.bin
+d_sky_wall1.kms
 demo_dummy.kms
 demo_dummy.tri
 demo_w00_sdr_r.kms
@@ -57,9 +57,6 @@ w11.rat
 w11_elv_fader.kms
 w11a.hzx
 w11a.tri
-w11a_mt.tri
-w11a_sdr_body_l.kms
-w11a_sdr_handle.kms
 w11a0.kms
 w11a0_sbmr.kms
 w11a0_sbmr_ref_water.kms
@@ -79,6 +76,9 @@ w11a2k1.kms
 w11a2k2.kms
 w11a2k3.kms
 w11a2r.kms
+w11a_mt.tri
+w11a_sdr_body_l.kms
+w11a_sdr_handle.kms
 w11c2_ceillit.kms
 w11c2_ceillit_brk.kms
 w11c2_ceillit_hanger.kms

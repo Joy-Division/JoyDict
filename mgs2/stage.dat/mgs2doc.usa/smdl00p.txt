@@ -1,6 +1,6 @@
 cache.var
-d_sky_wall1.kms
 d00a3.hzx
+d_sky_wall1.kms
 demo_dummy.kms
 demo_dummy.tri
 demo_m4_grn_emb.kms
@@ -16,12 +16,12 @@ m_sky_wall1.kms
 meca_hh60h.tri
 null.kms
 null.tri
-nyp_def_epa.kms
-nyp_def_epa.tri
 nyp_def1.kms
 nyp_def2.kms
 nyp_def3.kms
 nyp_def4_mt.kms
+nyp_def_epa.kms
+nyp_def_epa.tri
 plant_sea_m.tri
 rai_def_mt.kms
 rai_def_mt.tri

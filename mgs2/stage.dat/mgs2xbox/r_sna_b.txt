@@ -30,13 +30,13 @@ cig.kmy
 cls_sub.kmy
 comdlresident.xti
 dcm.o2d
+dcmTex.xti
 dcm_rai.kmy
 dcm_shat.o2d
-dcmTex.xti
 default.xti
 fms_emb.kmy
-foot_shadow_cm.kmy
 foot_shadow2_cm.kmy
+foot_shadow_cm.kmy
 gbs_knif.kmy
 gbs_mag.kmy
 golequip.xti

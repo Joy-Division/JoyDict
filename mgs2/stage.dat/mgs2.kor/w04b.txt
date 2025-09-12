@@ -90,7 +90,6 @@ w04b.bin
 w04b.hzx
 w04b.lt2
 w04b.tri
-w04b_demo_screen.kms
 w04b1.kms
 w04b1.tri
 w04b1_k1.kms
@@ -103,3 +102,4 @@ w04b2.kms
 w04b2.tri
 w04b3.kms
 w04b3.tri
+w04b_demo_screen.kms

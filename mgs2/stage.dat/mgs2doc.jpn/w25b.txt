@@ -42,6 +42,9 @@ w25b.bin
 w25b.hzx
 w25b.lt2
 w25b.tri
+w25b0.kms
+w25b0_wall.kms
+w25b1.kms
 w25b_fl00.kms
 w25b_fl01.kms
 w25b_g.kms
@@ -49,6 +52,3 @@ w25b_jk.kms
 w25b_rail.kms
 w25b_step00.kms
 w25b_trap_dammy1.kms
-w25b0.kms
-w25b0_wall.kms
-w25b1.kms

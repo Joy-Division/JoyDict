@@ -31,12 +31,12 @@ demo_w00_sdr_r.kms
 gbs_def_mt.kms
 gbs_def_mt.tri
 gover.tri
+horo1.cv2
+horo1.kms
 horo_bod.anm
 horo_def.anm
 horo_lod.anm
 horo_rod.anm
-horo1.cv2
-horo1.kms
 irs_box.kms
 irs_box.tri
 kck_504.kms

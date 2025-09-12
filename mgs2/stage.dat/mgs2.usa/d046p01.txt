@@ -2,10 +2,10 @@
 cache.var
 cbx_a_frg1_cm.kms
 comdlcache.tri
-d_oil.tri
-d_sky_wall1.kms
 d00a3.hzx
 d046p01.bin
+d_oil.tri
+d_sky_wall1.kms
 demo_dummy.kms
 demo_dummy.tri
 demo_iro_rai.tri
@@ -46,6 +46,10 @@ vmp_parts_coat_mh.evm
 vmp_parts_coat_p046_mh.evm
 vmp_parts_vkpa_mh.evm
 w25a.lt2
+w25a0.kms
+w25a0_obj01.kms
+w25a1.kms
+w25a1_obj01.kms
 w25a_brk00b.kms
 w25a_brk00b.tri
 w25a_brk01b.kms
@@ -57,10 +61,6 @@ w25a_dr00.tri
 w25a_g.kms
 w25a_gl.kms
 w25a_models.tri
-w25a0.kms
-w25a0_obj01.kms
-w25a1.kms
-w25a1_obj01.kms
 w25ab_14a.kms
 w25ab_17a.kms
 w25ab_18a.kms
@@ -82,6 +82,9 @@ w25ab_other00.kms
 w25ab_other01.kms
 w25ab_other02.kms
 w25b.tri
+w25b0.kms
+w25b0_wall.kms
+w25b1.kms
 w25b_demo.tri
 w25b_fl00.kms
 w25b_fl01.kms
@@ -90,9 +93,6 @@ w25b_jk.kms
 w25b_rail.kms
 w25b_step00.kms
 w25b_trap_dammy1.kms
-w25b0.kms
-w25b0_wall.kms
-w25b1.kms
 w25demo_14a.kms
 w25demo_16a.kms
 w25demo_18a.kms

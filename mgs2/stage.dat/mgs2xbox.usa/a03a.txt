@@ -6,10 +6,10 @@ aks.kmy
 aks_amo_label.kmy
 aks_sp.kmy
 bam_label.kmy
-box_ibox.kmy
-box_ibox_sh.kmy
 box2_ibox.kmy
 box2_ibox_sh.kmy
+box_ibox.kmy
+box_ibox_sh.kmy
 bsn_b_label.kmy
 cameraTex.xti
 cbx_label.kmy
@@ -42,9 +42,9 @@ gbs.sar
 gbs.var
 gbs_bp.cvy
 gbs_bp.kmy
-gbs_dead_for_subs.cvy
 gbs_dead2_for_subs.cvy
 gbs_dead3_for_subs.cvy
+gbs_dead_for_subs.cvy
 gbs_def.cvy
 gbs_def.kmy
 gbs_eye0.cvy
@@ -58,13 +58,13 @@ gbs_eye3.kmy
 gbs_eye4.cvy
 gbs_eye4.kmy
 gbs_gba_def_nm.xti
-gbs_hand_def.cvy
-gbs_hand_def.kmy
 gbs_hand1.cvy
 gbs_hand2.cvy
 gbs_hand3.cvy
 gbs_hand4.cvy
 gbs_hand5.cvy
+gbs_hand_def.cvy
+gbs_hand_def.kmy
 gbs_hlst.cvy
 gbs_hlst.kmy
 gbs_kanagu.cvy
@@ -121,10 +121,10 @@ pause_sub.xti
 photo_odai.xti
 pipe_w03a.mar
 pipe_w03a.sar
+psgT_amo_label.kmy
 psg_amo_label.kmy
 psg_label.kmy
 psg_t_label.kmy
-psgT_amo_label.kmy
 rad.kmy
 rad_l.kmy
 rad_m.kmy
@@ -197,6 +197,8 @@ usp_amo_label.kmy
 usp_label.kmy
 usp_sp_label.kmy
 vr.xti
+vr2_goalpost.cvy
+vr2_goalpost.kmy
 vr_clear_alt.o2d
 vr_dcm.o2d
 vr_mission_cleared.xti
@@ -204,8 +206,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.xti
-vr2_goalpost.cvy
-vr2_goalpost.kmy
 w01asdr_body_r.kmy
 w01asdr_body_r.xti
 w01asdr_handle3.kmy
@@ -218,8 +218,6 @@ w03_lit1a.kmy
 w03_lit1b.kmy
 w03_lit1c.kmy
 w03a.lt2
-w03a_pipe.kmy
-w03a_pipe.xti
 w03a0.kmy
 w03a0.xti
 w03a0r.kmy
@@ -229,6 +227,8 @@ w03a1r.kmy
 w03a2.kmy
 w03a2.xti
 w03a2r.kmy
+w03a_pipe.kmy
+w03a_pipe.xti
 w03b0.kmy
 w03b0.xti
 w03b0r.kmy

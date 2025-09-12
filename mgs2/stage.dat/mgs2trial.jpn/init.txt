@@ -1,8 +1,8 @@
 brk_scr07_full.kms
 codec.tri
 comdlresident.tri
-foot_shadow_cm.kms
 foot_shadow2_cm.kms
+foot_shadow_cm.kms
 init.bin
 keepfont.row
 menu.tri

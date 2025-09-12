@@ -25,12 +25,12 @@ digital_camera_label.kmy
 digital_camera_sh.kmy
 dmd_label.kmy
 dogtag_ibox.kmy
-dogtag_ibox_sh.kmy
 dogtag_ibox2.kmy
 dogtag_ibox2_sh.kmy
+dogtag_ibox_sh.kmy
 dogtag_label.kmy
-dzp_label.kmy
 dzp2_label.kmy
+dzp_label.kmy
 etp_label.kmy
 gmk_label.kmy
 goggle_ibox.kmy
@@ -101,6 +101,8 @@ tgl_label.kmy
 transcache.xti
 trp_label.kmy
 vr.xti
+vr2_goalpost.cvy
+vr2_goalpost.kmy
 vr_clear_alt.o2d
 vr_clear_alt_pal.o2d
 vr_dcm.o2d
@@ -109,8 +111,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.xti
-vr2_goalpost.cvy
-vr2_goalpost.kmy
 w61a.hzx
 w61a.kmy
 w61a.lt2

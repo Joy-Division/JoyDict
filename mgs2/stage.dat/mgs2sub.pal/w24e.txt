@@ -36,14 +36,14 @@ gbs_eye2.kms
 gbs_eye3.kms
 gbs_eye4.kms
 gbs_gba_def_nm.tri
-gbs_hand_def.cv2
-gbs_hand_def.kms
 gbs_hand0.cv2
 gbs_hand1.cv2
 gbs_hand2.cv2
 gbs_hand3.cv2
 gbs_hand4.cv2
 gbs_hand5.cv2
+gbs_hand_def.cv2
+gbs_hand_def.kms
 gbs_hlst.kms
 gbs_kanagu.kms
 gbs_shadow.kms
@@ -158,9 +158,6 @@ w16a0_apple.tri
 w24c.hzx
 w24c.lt2
 w24c.tri
-w24c_game_over.tri
-w24c_stdr.kms
-w24c_stdr.tri
 w24c0.kms
 w24c0_c_dai.kms
 w24c0_flag_mh.evm
@@ -174,6 +171,9 @@ w24c1_disp_off.kms
 w24c1_disp_on.kms
 w24c1_k.kms
 w24c1_roof.kms
+w24c_game_over.tri
+w24c_stdr.kms
+w24c_stdr.tri
 w24e.bin
 w24e_org.tri
 w24e_orga.mar

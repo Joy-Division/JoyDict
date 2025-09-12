@@ -2,6 +2,8 @@
 aaa.tri
 aac.tri
 box3_spl.kms
+horo1.cv2
+horo1.kms
 horo_bo.anm
 horo_bod.anm
 horo_box.anm
@@ -12,8 +14,6 @@ horo_lox.anm
 horo_ro.anm
 horo_rod.anm
 horo_rox.anm
-horo1.cv2
-horo1.kms
 irs_box.kms
 irs_box.tri
 null.kms

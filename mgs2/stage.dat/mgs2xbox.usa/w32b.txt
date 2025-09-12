@@ -72,8 +72,8 @@ null.xti
 oil.xti
 oilfence.kmy
 other.xti
-psg_amo_label.kmy
 psgT_amo_label.kmy
+psg_amo_label.kmy
 rai_def_mh_mt.evx
 rai_def_mh_mt.xti
 rai_w32a.mar
@@ -105,6 +105,10 @@ vmp_parts_vkpfix.kmy
 w32a.hzx
 w32a.lt2
 w32a.xti
+w32a0.kmy
+w32a1.kmy
+w32a2.kmy
+w32a3.kmy
 w32a_15a.kmy
 w32a_17a.kmy
 w32a_18a.kmy
@@ -130,10 +134,6 @@ w32a_sky_wall2.kmy
 w32a_sky_wall3.kmy
 w32a_vamp.mar
 w32a_vamp.sar
-w32a0.kmy
-w32a1.kmy
-w32a2.kmy
-w32a3.kmy
 w32demo_21a.kmy
 w32demo_23a.kmy
 w32demo_31a.kmy

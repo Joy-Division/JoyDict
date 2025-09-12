@@ -5,10 +5,10 @@ ak_label.kms
 ak_sp_label.kms
 aks_amo_label.kms
 bam_label.kms
-box_ibox.kms
-box_ibox_sh.kms
 box2_ibox.kms
 box2_ibox_sh.kms
+box_ibox.kms
+box_ibox_sh.kms
 bsn_a_label.kms
 bsn_b_label.kms
 cartridge_amo_ibox.kms
@@ -47,12 +47,12 @@ digital_camera_sh.kms
 dmd_label.kms
 dmp_label.kms
 dogtag_ibox.kms
-dogtag_ibox_sh.kms
 dogtag_ibox2.kms
 dogtag_ibox2_sh.kms
+dogtag_ibox_sh.kms
 dogtag_label.kms
-dzp_label.kms
 dzp2_label.kms
+dzp_label.kms
 etp_label.kms
 fex_amo_label.kms
 fex_label.kms
@@ -111,10 +111,10 @@ null.kms
 null.tri
 obs_box3.kms
 obs_box3.tri
+psgT_amo_label.kms
 psg_amo_label.kms
 psg_label.kms
 psg_t_label.kms
-psgT_amo_label.kms
 rai_all_ibox.kms
 rai_all_ibox_sh.kms
 ration_ibox.kms
@@ -175,8 +175,6 @@ w03_lit1b.kms
 w03_lit1c.kms
 w03b.hzx
 w03b.lt2
-w03b_s.bin
-w03b_sdw00.kms
 w03b0.kms
 w03b0.tri
 w03b0r.kms
@@ -187,6 +185,8 @@ w03b2.tri
 w03b2r.kms
 w03b3.kms
 w03b3.tri
+w03b_s.bin
+w03b_sdw00.kms
 w03bsdr_body.kms
 w03bsdr_body.tri
 w03bsdr_handle.kms

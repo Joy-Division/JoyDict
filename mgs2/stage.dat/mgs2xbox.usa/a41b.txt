@@ -59,6 +59,8 @@ vmp_naked_sh.xti
 vmp_parts_vkpa_mh.evx
 vmp_parts_vkpa_mh.xti
 vr.xti
+vr2_goalpost.cvy
+vr2_goalpost.kmy
 vr_clear_alt.o2d
 vr_dcm.o2d
 vr_mission_cleared.xti
@@ -66,8 +68,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.xti
-vr2_goalpost.cvy
-vr2_goalpost.kmy
 w24e_rev.mar
 w24e_rev.sar
 w31c_vmp_base.mar

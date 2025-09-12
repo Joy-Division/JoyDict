@@ -35,9 +35,9 @@ gbs.sar
 gbs.var
 gbs_bp.cv2
 gbs_bp.kms
-gbs_dead_for_subs.cv2
 gbs_dead2_for_subs.cv2
 gbs_dead3_for_subs.cv2
+gbs_dead_for_subs.cv2
 gbs_def.cv2
 gbs_def.kms
 gbs_eye0.cv2
@@ -51,13 +51,13 @@ gbs_eye3.kms
 gbs_eye4.cv2
 gbs_eye4.kms
 gbs_gba_def_nm.tri
-gbs_hand_def.cv2
-gbs_hand_def.kms
 gbs_hand1.cv2
 gbs_hand2.cv2
 gbs_hand3.cv2
 gbs_hand4.cv2
 gbs_hand5.cv2
+gbs_hand_def.cv2
+gbs_hand_def.kms
 gbs_hlst.cv2
 gbs_hlst.kms
 gbs_kanagu.cv2

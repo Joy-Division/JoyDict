@@ -63,9 +63,9 @@ cls_sub.kmy
 comdlresident.xti
 d_w18.kmy
 dcm.o2d
+dcmTex.xti
 dcm_rai.kmy
 dcm_shat.o2d
-dcmTex.xti
 de_w19.kmy
 dg_w25.kmy
 dmp_headphones.kmy
@@ -74,8 +74,8 @@ e_w20.kmy
 ef_w21.kmy
 f_w22.kmy
 fms_emb.kmy
-foot_shadow_cm.kmy
 foot_shadow2_cm.kmy
+foot_shadow_cm.kmy
 g_w25.kmy
 game_over.xti
 gbs_knif.kmy

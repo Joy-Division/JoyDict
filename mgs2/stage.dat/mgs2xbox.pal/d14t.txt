@@ -71,11 +71,11 @@ w04_box3.kmy
 w04_dr.kmy
 w04_dr.xti
 w04a.xti
-w04a_us_def.kmy
-w04a_us_def_2.xti
 w04a1.kmy
 w04a1_k1.kmy
 w04a2.kmy
+w04a_us_def.kmy
+w04a_us_def_2.xti
 w04b.xti
 w04b1.kmy
 w04b1.xti

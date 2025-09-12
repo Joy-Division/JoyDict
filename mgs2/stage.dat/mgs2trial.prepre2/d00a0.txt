@@ -9,6 +9,10 @@ comdlcache.tri
 d00a.hzx
 d00a.lt2
 d00a.tri
+d00a0.bin
+d00a0.kms
+d00a1.kms
+d00a2.kms
 d00a_divewire.anm
 d00a_divewire.cv2
 d00a_divewire.kms
@@ -20,10 +24,6 @@ d00a_divewire2.tri
 d00a_scale10.lt2
 d00a_tanker.kms
 d00a_wire_cm.kms
-d00a0.bin
-d00a0.kms
-d00a1.kms
-d00a2.kms
 demo_dummy.kms
 demo_dummy.tri
 demo_rev_scope.kms

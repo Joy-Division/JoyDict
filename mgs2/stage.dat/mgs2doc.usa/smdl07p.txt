@@ -49,8 +49,8 @@ w20c.kms
 w20c.tri
 w20ck1.kms
 w24b.lt2
-w24b_dr02.kms
-w24b_etc.tri
 w24b0.kms
 w24b0_ms00.kms
+w24b_dr02.kms
+w24b_etc.tri
 zobject.tri

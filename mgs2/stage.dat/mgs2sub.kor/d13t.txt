@@ -13,6 +13,7 @@ gbs_def.tri
 null.kms
 null.tri
 oil.tri
+rayTri.tri
 ray_canopy_mt.kms
 ray_canopy_mt.tri
 ray_canopy_w04c1_mt.kms
@@ -27,7 +28,6 @@ ray_w04c1.kms
 ray_w04c1.tri
 raycp_cover.kms
 raycp_cover.tri
-rayTri.tri
 rev_def_shadow.kms
 rev_def_shadow.tri
 rev_hair_liq_mh.evm

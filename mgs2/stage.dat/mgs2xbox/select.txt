@@ -58,6 +58,9 @@ menu_controls_3_frn.xti
 menu_controls_3_grm.xti
 menu_controls_3_itl.xti
 menu_controls_3_spn.xti
+moses1.xti
+moses2.xti
+moses3.xti
 moses_a.o2d
 moses_a1.o2d
 moses_b.o2d
@@ -65,9 +68,8 @@ moses_b1.o2d
 moses_c.o2d
 moses_c1.o2d
 moses_close.o2d
-moses1.xti
-moses2.xti
-moses3.xti
+nodeAlbum.xti
+nodeDown.xti
 node_bg.xti
 node_enc.o2d
 node_frame.o2d
@@ -76,8 +78,6 @@ node_menu.xti
 node_name.o2d
 node_name.xti
 node_title_tex.xti
-nodeAlbum.xti
-nodeDown.xti
 ny_map.o2d
 ny_map_bg.o2d
 option_controls_eng.o2d

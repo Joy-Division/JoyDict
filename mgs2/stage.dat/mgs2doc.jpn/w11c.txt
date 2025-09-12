@@ -89,8 +89,6 @@ w11a2_shatter.kms
 w11abc_other_obj.tri
 w11c.bin
 w11c.hzx
-w11c_ceil.mar
-w11c_ceil.sar
 w11c2.kms
 w11c2.tri
 w11c2_box_backclip.kms
@@ -181,6 +179,8 @@ w11c2k4.kms
 w11c2r.kms
 w11c2r_cable.kms
 w11c2r_cable_brk.kms
+w11c_ceil.mar
+w11c_ceil.sar
 zzz_chest_scar.tri
 zzz_tears.tri
 zzza.tri

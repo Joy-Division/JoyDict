@@ -31,6 +31,10 @@ usp_emb.kms
 usp_emb.tri
 w31a.hzx
 w31a.lt2
+w31a0.kms
+w31a0.tri
+w31a1.kms
+w31a1.tri
 w31a_25c.kms
 w31a_25d.kms
 w31a_dr00.kms
@@ -41,8 +45,4 @@ w31a_other.tri
 w31a_pipe.kms
 w31a_s.bin
 w31a_wall01.kms
-w31a0.kms
-w31a0.tri
-w31a1.kms
-w31a1.tri
 w31ar.kms

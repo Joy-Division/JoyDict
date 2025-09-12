@@ -58,6 +58,8 @@ sna_a20b.var
 sougan.kmy
 transcache.xti
 vr.xti
+vr2_goalpost.cvy
+vr2_goalpost.kmy
 vr_clear_alt.o2d
 vr_clear_alt_pal.o2d
 vr_dcm.o2d
@@ -66,8 +68,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.xti
-vr2_goalpost.cvy
-vr2_goalpost.kmy
 w20b.kmy
 w20b.lt2
 w20b.xti

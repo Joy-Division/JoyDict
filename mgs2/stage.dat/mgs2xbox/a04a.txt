@@ -97,6 +97,8 @@ usp_amo_label.kmy
 usp_label.kmy
 usp_sp_label.kmy
 vr.xti
+vr2_goalpost.cvy
+vr2_goalpost.kmy
 vr_clear_alt.o2d
 vr_dcm.o2d
 vr_mission_cleared.xti
@@ -105,8 +107,6 @@ vr_pause.xti
 vr_system_five.o2d
 vr_window.o2d
 vr_window.xti
-vr2_goalpost.cvy
-vr2_goalpost.kmy
 w01d0tray.kmy
 w03.xti
 w03_lit0a.kmy
@@ -135,8 +135,8 @@ w04_test_bou_pera.kmy
 w04a.hzx
 w04a.lt2
 w04a.xti
-w04a_us_def.kmy
-w04a_us_def_2.xti
 w04a1.kmy
 w04a1_k1.kmy
 w04a2.kmy
+w04a_us_def.kmy
+w04a_us_def_2.xti

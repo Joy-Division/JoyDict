@@ -36,6 +36,9 @@ grd.o2d
 log.o2d
 log.tri
 logo.tri
+moses1.tri
+moses2.tri
+moses3.tri
 moses_a.o2d
 moses_a1.o2d
 moses_b.o2d
@@ -43,10 +46,9 @@ moses_b1.o2d
 moses_c.o2d
 moses_c1.o2d
 moses_close.o2d
-moses1.tri
-moses2.tri
-moses3.tri
 n_title.bin
+nodeAlbum.tri
+nodeDown.tri
 node_bg.tri
 node_enc.o2d
 node_frame.o2d
@@ -55,8 +57,6 @@ node_menu.tri
 node_name.o2d
 node_name.tri
 node_title_tex.tri
-nodeAlbum.tri
-nodeDown.tri
 ny_map.o2d
 ny_map_bg.o2d
 plant_map.o2d

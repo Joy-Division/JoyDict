@@ -42,8 +42,8 @@ paper_a.cv2
 paper_a.kms
 paper_b.cv2
 paper_b.kms
-psg_amo_label.kms
 psgT_amo_label.kms
+psg_amo_label.kms
 rai_w31c.mar
 rai_w31c.sar
 rai_w31c.var
@@ -88,11 +88,6 @@ w31c.hzx
 w31c.lt2
 w31c.rat
 w31c.tri
-w31c_itembox.tri
-w31c_poster.kms
-w31c_vmp_base.mar
-w31c_vmp_base.sar
-w31c_water.tri
 w31c0.kms
 w31c0_k0.kms
 w31c0_k1.kms
@@ -108,6 +103,11 @@ w31c1_k0.kms
 w31c1_k1.kms
 w31c1_locker_door.kms
 w31c1r.kms
+w31c_itembox.tri
+w31c_poster.kms
+w31c_vmp_base.mar
+w31c_vmp_base.sar
+w31c_water.tri
 water.tri
 watermine.kms
 wtd_hiyoko.kms

@@ -1,6 +1,6 @@
 cache.var
-d_sky_wall1.kmy
 d00a3.hzx
+d_sky_wall1.kmy
 demo_dummy.kmy
 demo_dummy.xti
 hh60h.kmy
@@ -18,9 +18,9 @@ kmo_obj_flying.kmy
 kmo_obj_stop.kmy
 m_sky_wall1.kmy
 meca_hh60h.xti
+nyp_def1.kmy
 nyp_def_epa.kmy
 nyp_def_epa.xti
-nyp_def1.kmy
 plant_sea_d.xti
 plant_sea_m.xti
 rai_def_mt.kmy

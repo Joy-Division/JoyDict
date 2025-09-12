@@ -76,10 +76,10 @@ w04_dr.kmy
 w04_dr.xti
 w04a_us_def.kmy
 w04a_us_def_2.xti
-w04c_demo.lt2
 w04c1.kmy
 w04c1.xti
 w04c1_demo_k1.kmy
 w04c1_demo_k1.xti
 w04c2.kmy
 w04c2.xti
+w04c_demo.lt2

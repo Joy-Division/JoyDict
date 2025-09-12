@@ -65,14 +65,14 @@ clm_sub.kmy
 cls_sub.kmy
 comdlresident.xti
 dcm.o2d
+dcmTex.xti
 dcm_rai.kmy
 dcm_shat.o2d
-dcmTex.xti
 dmp_headphones.kmy
 dmp_sub.kmy
 fms_emb.kmy
-foot_shadow_cm.kmy
 foot_shadow2_cm.kmy
+foot_shadow_cm.kmy
 gover.xti
 grn.kmy
 grn_lever_rai.kmy

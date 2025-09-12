@@ -70,8 +70,8 @@ null.tri
 oil.tri
 oilfence.kms
 other.tri
-psg_amo_label.kms
 psgT_amo_label.kms
+psg_amo_label.kms
 rai_def_mh_mt.evm
 rai_def_mh_mt.tri
 rai_w32a.mar
@@ -103,6 +103,10 @@ vmp_parts_vkpfix.kms
 w32a.hzx
 w32a.lt2
 w32a.tri
+w32a0.kms
+w32a1.kms
+w32a2.kms
+w32a3.kms
 w32a_15a.kms
 w32a_17a.kms
 w32a_18a.kms
@@ -128,10 +132,6 @@ w32a_sky_wall2.kms
 w32a_sky_wall3.kms
 w32a_vamp.mar
 w32a_vamp.sar
-w32a0.kms
-w32a1.kms
-w32a2.kms
-w32a3.kms
 w32b.bin
 w32demo_21a.kms
 w32demo_23a.kms

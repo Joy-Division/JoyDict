@@ -59,14 +59,14 @@ gps_eye1.kmy
 gps_eye2.kmy
 gps_eye3.kmy
 gps_eye4.kmy
-gps_hand_def.cvy
-gps_hand_def.kmy
-gps_hand_def.xti
 gps_hand1.cvy
 gps_hand2.cvy
 gps_hand3.cvy
 gps_hand4.cvy
 gps_hand5.cvy
+gps_hand_def.cvy
+gps_hand_def.kmy
+gps_hand_def.xti
 gps_knife.kmy
 gps_sling.kmy
 gps_sling.xti
@@ -96,8 +96,8 @@ null.xti
 oil.xti
 oilfence.kmy
 other.xti
-psg_amo_label.kmy
 psgT_amo_label.kmy
+psg_amo_label.kmy
 rad.kmy
 rad_l.kmy
 rad_m.kmy
@@ -118,6 +118,10 @@ transcache.xti
 w32a.hzx
 w32a.lt2
 w32a.xti
+w32a0.kmy
+w32a1.kmy
+w32a2.kmy
+w32a3.kmy
 w32a_15a.kmy
 w32a_17a.kmy
 w32a_18a.kmy
@@ -141,7 +145,3 @@ w32a_sdw.kmy
 w32a_sky_wall1.kmy
 w32a_sky_wall2.kmy
 w32a_sky_wall3.kmy
-w32a0.kmy
-w32a1.kmy
-w32a2.kmy
-w32a3.kmy

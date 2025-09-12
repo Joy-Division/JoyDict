@@ -34,15 +34,15 @@ clm_sub.kms
 cls_sub.kms
 comdlresident.tri
 dcm.o2d
+dcmTex.tri
 dcm_rai.kms
 dcm_shat.o2d
-dcmTex.tri
 dmp_headphones.kms
 dmp_sub.kms
 ema_idrope_mh_mt.evm
 fms_emb.kms
-foot_shadow_cm.kms
 foot_shadow2_cm.kms
+foot_shadow_cm.kms
 game_over.tri
 gbs_knif.kms
 gbs_mag.kms

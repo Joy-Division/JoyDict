@@ -6,10 +6,10 @@ aks.kmy
 aks_amo_label.kmy
 aks_sp.kmy
 bam_label.kmy
-box_ibox.kmy
-box_ibox_sh.kmy
 box2_ibox.kmy
 box2_ibox_sh.kmy
+box_ibox.kmy
+box_ibox_sh.kmy
 bsn_b_label.kmy
 c4_kaitai_a1.kmy
 c4_kaitai_a1_frost.kmy
@@ -52,9 +52,9 @@ gbs.sar
 gbs.var
 gbs_bp.cvy
 gbs_bp.kmy
-gbs_dead_for_subs.cvy
 gbs_dead2_for_subs.cvy
 gbs_dead3_for_subs.cvy
+gbs_dead_for_subs.cvy
 gbs_def.cvy
 gbs_def.kmy
 gbs_eye0.cvy
@@ -68,13 +68,13 @@ gbs_eye3.kmy
 gbs_eye4.cvy
 gbs_eye4.kmy
 gbs_gba_def_nm.xti
-gbs_hand_def.cvy
-gbs_hand_def.kmy
 gbs_hand1.cvy
 gbs_hand2.cvy
 gbs_hand3.cvy
 gbs_hand4.cvy
 gbs_hand5.cvy
+gbs_hand_def.cvy
+gbs_hand_def.kmy
 gbs_hlst.cvy
 gbs_hlst.kmy
 gbs_kanagu.cvy
@@ -130,10 +130,10 @@ nkt_amo_label.kmy
 nkt_label.kmy
 pause_sub.xti
 photo_odai.xti
+psgT_amo_label.kmy
 psg_amo_label.kmy
 psg_label.kmy
 psg_t_label.kmy
-psgT_amo_label.kmy
 rad.kmy
 rad_l.kmy
 rad_m.kmy
@@ -203,6 +203,8 @@ usp_amo_label.kmy
 usp_label.kmy
 usp_sp_label.kmy
 vr.xti
+vr2_goalpost.cvy
+vr2_goalpost.kmy
 vr_clear_alt.o2d
 vr_clear_alt_pal.o2d
 vr_dcm.o2d
@@ -211,8 +213,6 @@ vr_pause_map.o2d
 vr_system_five.o2d
 vr_window.o2d
 vr_window.xti
-vr2_goalpost.cvy
-vr2_goalpost.kmy
 w00.xti
 w00_f1.kmy
 w00_f2.kmy
@@ -273,8 +273,6 @@ w01asdr_body_l.kmy
 w01asdr_body_r.kmy
 w01asdr_handle.kmy
 w01b.lt2
-w01b_w01c.kmy
-w01b_w01f.kmy
 w01b0.kmy
 w01b0.xti
 w01b0r.kmy
@@ -284,6 +282,8 @@ w01b1_locker_dr.kmy
 w01b1r.kmy
 w01b2.xti
 w01b2a.kmy
+w01b_w01c.kmy
+w01b_w01f.kmy
 w01bk_center.kmy
 w01bk_left.kmy
 w01bk_right.kmy
