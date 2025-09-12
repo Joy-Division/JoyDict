@@ -1,7 +1,7 @@
 bar_codedark_mad.pcx
 color5dark_add.pcx
-fade2_gray_add.pcx
 fade2_gray2_add.pcx
+fade2_gray_add.pcx
 fade5_add.pcx
 heart.pcx
 int_bigboss_msk.pcx
@@ -16,16 +16,16 @@ int_ling2dark_mad.pcx
 int_ling4dark_mad.pcx
 int_ling5dark_mad.pcx
 int_ling6dark_mad.pcx
-int_namecode_mad.pcx
 int_namecode2_mad.pcx
+int_namecode_mad.pcx
 int_night_owl_msk.pcx
 int_orca_msk.pcx
 int_ostrich_msk.pcx
 int_panda_msk.pcx
 int_scorpion_msk.pcx
 int_spot_add.pcx
-int_srps_add.pcx
 int_srps2_add.pcx
+int_srps_add.pcx
 int_ss_msk.pcx
 int_tasmanian_msk.pcx
 int_text1_add.pcx

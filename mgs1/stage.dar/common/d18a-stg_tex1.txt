@@ -2,9 +2,9 @@ m07_psy_hide.pcx
 m17_flr1.pcx
 m17_flr2.pcx
 m17_flr3.pcx
-m17_fwal_ref1.pcx
 m17_fwal1.pcx
 m17_fwal2.pcx
+m17_fwal_ref1.pcx
 m17_fwalb1.pcx
 m17_rwalu1.pcx
 m17_rwalu2.pcx

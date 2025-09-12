@@ -1,3 +1,4 @@
+MG_SOLID.pcx
 abst_d_l.pcx
 abst_d_r.pcx
 abst_d_r1.pcx
@@ -21,4 +22,3 @@ cur_r.pcx
 cur_rd.pcx
 cur_ru.pcx
 cur_u.pcx
-MG_SOLID.pcx

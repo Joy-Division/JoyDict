@@ -6,9 +6,9 @@ m17_flr1.pcx
 m17_flr2.pcx
 m17_flr3.pcx
 m17_flr4.pcx
-m17_fwal_ref1.pcx
 m17_fwal1.pcx
 m17_fwal2.pcx
+m17_fwal_ref1.pcx
 m17_fwalb1.pcx
 m17_gate1.pcx
 m17_gate2.pcx
@@ -21,14 +21,14 @@ m17_wal10c.pcx
 m17_wal2.pcx
 m17_wal3.pcx
 m17_wal4.pcx
+m17s_brkflor2_1.pcx
 m17s_brkflor_1.pcx
 m17s_brkflor_1s.pcx
 m17s_brkflor_2.pcx
 m17s_brkflor_3.pcx
-m17s_brkflor2_1.pcx
+m17s_dramflor2_1.pcx
 m17s_dramflor_1.pcx
 m17s_dramflor_ns.pcx
-m17s_dramflor2_1.pcx
 m17s_drum.pcx
 m17s_njawall.pcx
 m17s_njawall_brk.pcx

@@ -31,9 +31,9 @@ m05_snw_tank2.pcx
 m05_snw_tank3.pcx
 m05_tank1.pcx
 m05_wall.pcx
+m05_wall2.pcx
 m05_wall_loc1.pcx
 m05_wall_sp1.pcx
 m05_wall_sp2.pcx
-m05_wall2.pcx
 tm1_kyata_b2.pcx
 tm1_under3.pcx

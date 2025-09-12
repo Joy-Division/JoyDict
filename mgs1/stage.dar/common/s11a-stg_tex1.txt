@@ -1,3 +1,5 @@
+m11_Rt_001.pcx
+m11_Rt_002.pcx
 m11_elv_24msk.pcx
 m11_f1_13.pcx
 m11_le_02.pcx
@@ -22,8 +24,6 @@ m11_le_25.pcx
 m11_le_26.pcx
 m11_le_27.pcx
 m11_le_B2.pcx
-m11_Rt_001.pcx
-m11_Rt_002.pcx
 m11_ste_04.pcx
 m11_w1_01.pcx
 m11_w1_019.pcx

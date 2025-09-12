@@ -1,3 +1,4 @@
+MG_SOLID.pcx
 cur_c.pcx
 cur_d.pcx
 cur_l.pcx
@@ -13,7 +14,6 @@ demo_ra.pcx
 demo_rb.pcx
 demo_roll_c.pcx
 demo_roll_d.pcx
-MG_SOLID.pcx
 op_back_l.pcx
 op_back_r.pcx
 op_brf.pcx

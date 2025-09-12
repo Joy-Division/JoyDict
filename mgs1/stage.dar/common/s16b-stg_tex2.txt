@@ -14,10 +14,10 @@ m16a_hcx_00msk.pcx
 m16a_pl_02msk.pcx
 m16a_pnl2_03.pcx
 m16a_pnl2_04.pcx
+m16a_sk3b_00.pcx
 m16a_sk_00msk.pcx
 m16a_sk_01.pcx
 m16a_sk_02.pcx
-m16a_sk3b_00.pcx
 m16a_upstp_00.pcx
 m16a_upstp_00a.pcx
 m16a_upstp_00b.pcx

@@ -63,13 +63,6 @@ m09_rf_00.pcx
 m09_rf_01.pcx
 m09_sw1.pcx
 m09_up_02.pcx
-m09_wl_00a.pcx
-m09_wl_00b.pcx
-m09_wl_00c.pcx
-m09_wl_00d.pcx
-m09_wl_01c.pcx
-m09_wl_u01.pcx
-m09_wl_u01b.pcx
 m09_wl2_00.pcx
 m09_wl2_01.pcx
 m09_wl2_02.pcx
@@ -84,6 +77,13 @@ m09_wl2_02h.pcx
 m09_wl2_02i.pcx
 m09_wl2_04.pcx
 m09_wl2_04a.pcx
+m09_wl_00a.pcx
+m09_wl_00b.pcx
+m09_wl_00c.pcx
+m09_wl_00d.pcx
+m09_wl_01c.pcx
+m09_wl_u01.pcx
+m09_wl_u01b.pcx
 magazin.pcx
 mer_hear1.pcx
 mer_hear2msk.pcx

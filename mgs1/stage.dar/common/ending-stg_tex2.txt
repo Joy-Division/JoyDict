@@ -1,3 +1,5 @@
+S28_cat1.pcx
+S28_cat2.pcx
 asiato.pcx
 end_gake1.pcx
 end_gake2.pcx
@@ -110,8 +112,6 @@ s28_body5.pcx
 s28_body7.pcx
 s28_body8.pcx
 s28_body9.pcx
-S28_cat1.pcx
-S28_cat2.pcx
 s28_frt1msk.pcx
 s28_frt3.pcx
 s28_frt4msk.pcx

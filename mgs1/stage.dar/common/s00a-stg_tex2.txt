@@ -130,6 +130,8 @@ patlit.pcx
 rbox_0.pcx
 rbox_1.pcx
 rif_bmsk.pcx
+rif_f1.pcx
+rif_f2.pcx
 rif_f_b.pcx
 rif_f_lf.pcx
 rif_f_ll.pcx
@@ -137,8 +139,6 @@ rif_f_lr.pcx
 rif_f_rf.pcx
 rif_f_rl.pcx
 rif_f_t.pcx
-rif_f1.pcx
-rif_f2.pcx
 rif_r.pcx
 rif_r_f2.pcx
 rif_r_s.pcx

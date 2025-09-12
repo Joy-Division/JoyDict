@@ -1,9 +1,11 @@
+L2add.pcx
+M07_book2.pcx
 c4mhlf.pcx
 camera_l.pcx
-desk_top.pcx
-desk_up_side.pcx
 desk1msk.pcx
 desk6s.pcx
+desk_top.pcx
+desk_up_side.pcx
 ent_yuka.pcx
 ereboxf.pcx
 ereyukamsk.pcx
@@ -25,8 +27,6 @@ haiden_low.pcx
 haiden_nomal_s.pcx
 haidenban-yoko.pcx
 hyoujimsk.pcx
-L2add.pcx
-M07_book2.pcx
 m08_cfloor.pcx
 m08_croom_ten.pcx
 m08_dorwall_r2s.pcx

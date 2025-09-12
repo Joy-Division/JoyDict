@@ -4,8 +4,8 @@ evtn_rf2.pcx
 hg1_e_f1.pcx
 hg1_e_f3.pcx
 hg1_e_f4.pcx
-hg1_g_s.pcx
 hg1_g1.pcx
+hg1_g_s.pcx
 hg1_kd_b2msk.pcx
 hg1_kd_s5msk.pcx
 hg1_newd_lb.pcx
@@ -14,8 +14,8 @@ hg1_secin_d2.pcx
 hg1_secin_flo3.pcx
 hg1_secin_flo4.pcx
 hg1_secin_p1.pcx
-hg1_st_b1.pcx
 hg1_st4msk.pcx
+hg1_st_b1.pcx
 hg1_wu122s.pcx
 m02_dct_bg.pcx
 m02_dct_s.pcx
@@ -38,9 +38,9 @@ m02_rm_hashira1.pcx
 m02_s_flo_cir2.pcx
 m02_sec_dorpane.pcx
 m02_sec_for05.pcx
+m02_stflo1msk.pcx
 m02_stflo_dorf.pcx
 m02_stflo_dorf2.pcx
-m02_stflo1msk.pcx
 m02_tnk_b1.pcx
 m02_tnk_botom1.pcx
 m02_tnk_s1.pcx

@@ -174,13 +174,13 @@ m4s_r4_fl_10.pcx
 m4s_r4_fl_11.pcx
 m4s_r4_fl_12.pcx
 m4s_r4_fl_13.pcx
-m4s_r4_pl_00.pcx
-m4s_r4_pl_00a.pcx
-m4s_r4_pl_01msk.pcx
 m4s_r4_pl2_00.pcx
 m4s_r4_pl2_00a.pcx
 m4s_r4_pl2_00b.pcx
 m4s_r4_pl2_00msk.pcx
+m4s_r4_pl_00.pcx
+m4s_r4_pl_00a.pcx
+m4s_r4_pl_01msk.pcx
 m4s_rf1_01msk.pcx
 m4s_rf2_00.pcx
 m4s_rf3_01.pcx
@@ -193,8 +193,6 @@ m4s_wl1_06.pcx
 m4s_wl2_00.pcx
 m4s_wl4_01.pcx
 mbox_1.pcx
-nin_katana1.pcx
-nin_katana2.pcx
 nin3_arm1.pcx
 nin3_arm2.pcx
 nin3_arm3.pcx
@@ -234,6 +232,8 @@ nin3_neck1.pcx
 nin3_neck2.pcx
 nin3_shoulder1.pcx
 nin3_shoulder2.pcx
+nin_katana1.pcx
+nin_katana2.pcx
 oce_arm1.pcx
 oce_arm2.pcx
 oce_arm3.pcx

@@ -60,6 +60,7 @@ gl_neck2.pcx
 gouraud.pcx
 ketchap.pcx
 ketchap_grey.pcx
+m8W_cor_bwall_1.pcx
 m8m_cle_airf.pcx
 m8m_cle_airs.pcx
 m8m_cle_airt.pcx
@@ -87,7 +88,6 @@ m8w_cle_conpane.pcx
 m8w_cor_bflo1.pcx
 m8w_cor_bflo2.pcx
 m8w_cor_bflo3.pcx
-m8W_cor_bwall_1.pcx
 m8w_cor_bwall_2.pcx
 m8w_cor_bwall_3.pcx
 m8w_cor_bwallholl.pcx
@@ -109,8 +109,6 @@ m8w_door_4.pcx
 m8w_door_side.pcx
 m8w_door_side2.pcx
 m8w_door_winhlf.pcx
-nin_katana1.pcx
-nin_katana2.pcx
 nin3_arm1.pcx
 nin3_arm2.pcx
 nin3_arm3.pcx
@@ -152,6 +150,8 @@ nin3_neck1.pcx
 nin3_neck2.pcx
 nin3_shoulder1.pcx
 nin3_shoulder2.pcx
+nin_katana1.pcx
+nin_katana2.pcx
 plasma.pcx
 socom_2.pcx
 socom_3.pcx

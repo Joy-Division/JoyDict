@@ -23,9 +23,9 @@ d3.pcx
 d4.pcx
 daiza.pcx
 daiza2.pcx
-disp_b.pcx
 disp2.pcx
 disp3.pcx
+disp_b.pcx
 door2.pcx
 doorhlf.pcx
 exit.pcx
@@ -119,10 +119,10 @@ psy_face7.pcx
 rai1msk.pcx
 rai2.pcx
 rai3msk.pcx
-reef_harb_bule1msk.pcx
-reef_harb_red1msk.pcx
 reef1msk.pcx
 reef3.pcx
+reef_harb_bule1msk.pcx
+reef_harb_red1msk.pcx
 restart.pcx
 rion2.pcx
 shadowsub.pcx
@@ -136,10 +136,10 @@ tankobu.pcx
 touki.pcx
 touki2.pcx
 try_again.pcx
-wall_kizu.pcx
 wall2.pcx
 wall4.pcx
+wall_kizu.pcx
 yaku.pcx
 yuka.pcx
-yuka_s.pcx
 yuka3.pcx
+yuka_s.pcx

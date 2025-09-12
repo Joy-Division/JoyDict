@@ -33,10 +33,10 @@ m16a_pass_00.pcx
 m16a_pass_03.pcx
 m16a_pass_05.pcx
 m16a_pl_01msk.pcx
-m16a_pnl_01.pcx
 m16a_pnl2_00.pcx
 m16a_pnl2_00a.pcx
 m16a_pnl2_01.pcx
+m16a_pnl_01.pcx
 m16a_rf_01.pcx
 m16a_sk2_00amsk.pcx
 m16a_step00msk.pcx

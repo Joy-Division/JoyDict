@@ -1,3 +1,4 @@
+M07_loc_sides.pcx
 ballhlf.pcx
 col_blk.pcx
 dbox_0.pcx
@@ -20,7 +21,6 @@ hind_wind01.pcx
 ketchap.pcx
 liq_face.pcx
 m00_pla_black.pcx
-M07_loc_sides.pcx
 m08_door.pcx
 m3l_isu_01.pcx
 m3l_isu_02.pcx
@@ -37,9 +37,6 @@ m8r_bok_08.pcx
 m8r_bok_09.pcx
 m8r_bok_10.pcx
 m8r_bok_11.pcx
-m8r_dsk_brk1.pcx
-m8r_dsk_brk2.pcx
-m8r_dsk_brk3.pcx
 m8r_dsk1_01.pcx
 m8r_dsk1_03.pcx
 m8r_dsk1_05.pcx
@@ -48,6 +45,9 @@ m8r_dsk1_10.pcx
 m8r_dsk1_11.pcx
 m8r_dsk1_14.pcx
 m8r_dsk2_07.pcx
+m8r_dsk_brk1.pcx
+m8r_dsk_brk2.pcx
+m8r_dsk_brk3.pcx
 m8r_flo_01.pcx
 m8r_ota_bk1.pcx
 m8r_ota_bk2.pcx

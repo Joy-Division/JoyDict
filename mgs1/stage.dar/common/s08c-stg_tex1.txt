@@ -62,6 +62,7 @@ gouraud.pcx
 ketchap.pcx
 ketchap_grey.pcx
 liq_face.pcx
+m8W_cor_bwall_1.pcx
 m8m_cle_airf.pcx
 m8m_cle_airs.pcx
 m8m_cle_airt.pcx
@@ -89,7 +90,6 @@ m8w_cle_conpane.pcx
 m8w_cor_bflo1.pcx
 m8w_cor_bflo2.pcx
 m8w_cor_bflo3.pcx
-m8W_cor_bwall_1.pcx
 m8w_cor_bwall_2.pcx
 m8w_cor_bwall_3.pcx
 m8w_cor_bwallholl.pcx

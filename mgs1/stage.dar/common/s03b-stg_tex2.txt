@@ -105,9 +105,9 @@ m3l_dnball.pcx
 m3l_dnball2.pcx
 m3l_dndall3.pcx
 m3l_dndall4.pcx
-m3l_door_slit.pcx
 m3l_door1.pcx
 m3l_door3.pcx
+m3l_door_slit.pcx
 m3l_dsk_boxs.pcx
 m3l_dsk_boxt.pcx
 m3l_dsk_hone.pcx

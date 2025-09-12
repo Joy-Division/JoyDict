@@ -1,3 +1,6 @@
+GO_CONTINUE.pcx
+GO_EXIT.pcx
+MG_SOLID.pcx
 b_mark.pcx
 blood_1.pcx
 blood_2.pcx
@@ -25,8 +28,6 @@ clay_5msk.pcx
 fa_fl10.pcx
 famas_l.pcx
 famasmsk.pcx
-GO_CONTINUE.pcx
-GO_EXIT.pcx
 gre_boll.pcx
 gre_kan.pcx
 hosi.pcx
@@ -34,7 +35,6 @@ kirari.pcx
 lense_flare1.pcx
 lsight.pcx
 magazin.pcx
-MG_SOLID.pcx
 nikita_0.pcx
 nikita_1.pcx
 nikita_2.pcx

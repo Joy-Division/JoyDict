@@ -149,6 +149,8 @@ pat_wal1.pcx
 pat_wal2msk.pcx
 patlit.pcx
 rif_bmsk.pcx
+rif_f1.pcx
+rif_f2.pcx
 rif_f_b.pcx
 rif_f_lf.pcx
 rif_f_ll.pcx
@@ -156,8 +158,6 @@ rif_f_lr.pcx
 rif_f_rf.pcx
 rif_f_rl.pcx
 rif_f_t.pcx
-rif_f1.pcx
-rif_f2.pcx
 rif_r.pcx
 rif_r_f2.pcx
 rif_r_s.pcx
@@ -215,13 +215,13 @@ sna_t_c2.pcx
 sna_t_c4.pcx
 sna_t_c5.pcx
 sna_t_c6.pcx
+sna_t_h1.pcx
+sna_t_h2.pcx
 sna_t_h_1.pcx
 sna_t_h_2.pcx
 sna_t_h_3.pcx
 sna_t_h_4.pcx
 sna_t_h_5.pcx
-sna_t_h1.pcx
-sna_t_h2.pcx
 sna_t_l1.pcx
 sna_t_l3.pcx
 sna_t_l4.pcx

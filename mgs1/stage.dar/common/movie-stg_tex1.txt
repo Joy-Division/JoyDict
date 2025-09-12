@@ -21,11 +21,11 @@ d3_mv_tgs_a.pcx
 d3_mv_tgs_b.pcx
 d3_mv_ya_l.pcx
 d3_mv_ya_r.pcx
+d3_sp_Pocke_head.pcx
 d3_sp_backl.pcx
 d3_sp_backr.pcx
 d3_sp_movie.pcx
 d3_sp_movie_head.pcx
-d3_sp_Pocke_head.pcx
 d3_title_bl.pcx
 d3_title_br.pcx
 d3_title_movie.pcx

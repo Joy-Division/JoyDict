@@ -1,3 +1,10 @@
+M10_TW_01.pcx
+M10_TW_UE.pcx
+M10fio_Set.pcx
+M10flo3_ta.pcx
+M10flo3_tb.pcx
+M10flo3_tc.pcx
+M10flo_DA1.pcx
 m10_11drside01.pcx
 m10_blood.pcx
 m10_blood2.pcx
@@ -14,8 +21,6 @@ m10_stpfl02.pcx
 m10_tow_00.pcx
 m10_tow_01.pcx
 m10_tow_02.pcx
-M10_TW_01.pcx
-M10_TW_UE.pcx
 m10_twl_00.pcx
 m10_twl_01.pcx
 m10_twl_04.pcx
@@ -31,10 +36,5 @@ m10_wllit_03.pcx
 m10_wllit_04.pcx
 m10_wlp_01.pcx
 m10_wlp_01up.pcx
-M10fio_Set.pcx
-M10flo_DA1.pcx
-M10flo3_ta.pcx
-M10flo3_tb.pcx
-M10flo3_tc.pcx
 mouse1.pcx
 socom_f.pcx

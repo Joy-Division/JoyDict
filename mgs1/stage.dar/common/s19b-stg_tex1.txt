@@ -14,12 +14,12 @@ m19_d2_wall3.pcx
 m19_d2_wall6.pcx
 m19_e2_cei1.pcx
 m19_e2_wall1.pcx
-m19_f_cei1.pcx
 m19_f2_flo1.pcx
 m19_f2_flo2.pcx
 m19_f2_flolit1.pcx
 m19_f2_flolit2.pcx
 m19_f2_wall1.pcx
 m19_f2_wall3.pcx
+m19_f_cei1.pcx
 m19a_drum_top.pcx
 m60_flash.pcx

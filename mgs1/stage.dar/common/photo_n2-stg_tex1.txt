@@ -9,8 +9,8 @@ dsk_sdbord.pcx
 dsk_top2.pcx
 dsk_topsd.pcx
 eyeball2.pcx
-fade2_gray_add.pcx
 fade2_gray2_add.pcx
+fade2_gray_add.pcx
 fade5_add.pcx
 int_bat_msk.pcx
 int_capybara_msk.pcx
@@ -38,12 +38,12 @@ int_ling5dark_mad.pcx
 int_ling6dark_mad.pcx
 int_monita1_add.pcx
 int_mouse_msk.pcx
-int_namecode_mad.pcx
 int_namecode2_mad.pcx
+int_namecode_mad.pcx
 int_shark_msk.pcx
 int_spot_add.pcx
-int_srps_add.pcx
 int_srps2_add.pcx
+int_srps_add.pcx
 int_ss_msk.pcx
 int_tarantula_msk.pcx
 int_text1_add.pcx

@@ -12,14 +12,14 @@ m12_ro_01.pcx
 m12_ro_03.pcx
 m12_ro_04.pcx
 m12_ro_05.pcx
+m12_snw2_00.pcx
+m12_snw2_01.pcx
 m12_snw_01.pcx
 m12_snw_02.pcx
 m12_snw_04.pcx
 m12_snw_06.pcx
 m12_snw_07.pcx
 m12_snw_sd.pcx
-m12_snw2_00.pcx
-m12_snw2_01.pcx
 m12_step_00.pcx
 m12_stpwl_01.pcx
 m12_stpwl_02.pcx

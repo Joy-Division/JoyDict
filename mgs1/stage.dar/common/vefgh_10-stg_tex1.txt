@@ -12,10 +12,10 @@ rion.pcx
 rion3.pcx
 tana.pcx
 ten.pcx
-ten_kage.pcx
 ten2.pcx
 ten3.pcx
 ten4.pcx
+ten_kage.pcx
 tv.pcx
 vr_photo.pcx
 watch.pcx

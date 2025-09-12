@@ -19,6 +19,6 @@ pre_met2.pcx
 pre_met2_l.pcx
 pre_met2_r.pcx
 pre_pre.pcx
-pre_up_r.pcx
 pre_up1_l.pcx
 pre_up2_l.pcx
+pre_up_r.pcx

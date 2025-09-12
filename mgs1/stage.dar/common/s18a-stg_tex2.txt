@@ -48,8 +48,8 @@ m17_wal8min.pcx
 m17_wligt1.pcx
 m17s_lightwal_2.pcx
 m17s_stp1.pcx
-m18_wligt_ns.pcx
 m18_wligt2.pcx
+m18_wligt_ns.pcx
 m19a_path_door.pcx
 mel_ropedsub.pcx
 mer_b_a1.pcx

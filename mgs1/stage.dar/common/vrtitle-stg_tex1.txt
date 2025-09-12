@@ -1,3 +1,4 @@
+MG_SOLID.pcx
 cur_c.pcx
 cur_d.pcx
 cur_l.pcx
@@ -8,6 +9,8 @@ cur_rd.pcx
 cur_ru.pcx
 cur_u.pcx
 d3_op_title.pcx
+d3_sp_Pocke_head.pcx
+d3_sp_Pocket.pcx
 d3_sp_album.pcx
 d3_sp_backl.pcx
 d3_sp_backr.pcx
@@ -15,8 +18,6 @@ d3_sp_download.pcx
 d3_sp_movie.pcx
 d3_sp_movie_head.pcx
 d3_sp_photo.pcx
-d3_sp_Pocke_head.pcx
-d3_sp_Pocket.pcx
 d3_sp_special_head.pcx
 d3_title_allrights.pcx
 d3_title_bl.pcx
@@ -29,7 +30,6 @@ d3_title_photo.pcx
 d3_title_special.pcx
 d3_title_vr.pcx
 d3_title_vrdisc.pcx
-MG_SOLID.pcx
 op_copy.pcx
 op_eye_close.pcx
 op_eye_half.pcx
@@ -45,9 +45,9 @@ op_snake_waku2.pcx
 op_special.pcx
 op_vr.pcx
 op_warning.pcx
+pal_sp_photo_ml.pcx
 pal_sp_photo_n1.pcx
 pal_sp_photo_n2.pcx
-pal_sp_photo_ml.pcx
 sp_album.pcx
 sp_exit.pcx
 sp_line.pcx

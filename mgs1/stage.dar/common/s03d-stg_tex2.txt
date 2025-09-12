@@ -1,5 +1,5 @@
-col_blkmsk.pcx
 COMING_SOON.pcx
+col_blkmsk.pcx
 dap_shadowsub.pcx
 dar_arm1.pcx
 dar_arm2.pcx
@@ -97,9 +97,9 @@ gl_chest1.pcx
 gl_chest2.pcx
 gl_chest3.pcx
 gl_face.pcx
-gl_face_m.pcx
 gl_face2.pcx
 gl_face3.pcx
+gl_face_m.pcx
 gl_han1.pcx
 gl_han2.pcx
 gl_han3.pcx
@@ -172,9 +172,9 @@ m3l_isu_03.pcx
 m3l_isu_04msk.pcx
 m3r_cei_1.pcx
 m3r_cei_kei1add.pcx
-m3r_d_hutamsk.pcx
 m3r_d1_in2s.pcx
 m3r_d1_in2s2.pcx
+m3r_d_hutamsk.pcx
 m3r_dct_b2.pcx
 m3r_dct_b3.pcx
 m3r_dct_exit.pcx
@@ -184,8 +184,8 @@ m3r_do_bemsmsk.pcx
 m3r_do_dmsk.pcx
 m3r_do_door2msk.pcx
 m3r_do_doormsk.pcx
-m3r_door_slit.pcx
 m3r_door1_side.pcx
+m3r_door_slit.pcx
 m3r_lad_fmsk.pcx
 m3r_lad_smsk.pcx
 m3r_path_door1.pcx

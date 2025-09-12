@@ -1,3 +1,5 @@
+M07_book4.pcx
+M07_keyboad.pcx
 black.pcx
 dammy_msk.pcx
 dbox_0.pcx
@@ -8,6 +10,9 @@ denki_pipe.pcx
 denkipipe_haji.pcx
 denkipipe_kado.pcx
 denkipipe_yoko.pcx
+desk3.pcx
+desk6.pcx
+desk6ss.pcx
 desk_lenz_back.pcx
 desk_lenz_front.pcx
 desk_lenz_side.pcx
@@ -15,9 +20,6 @@ desk_lenz_up.pcx
 desk_side.pcx
 desk_top_side.pcx
 desk_upside2.pcx
-desk3.pcx
-desk6.pcx
-desk6ss.pcx
 dr_lamp_off.pcx
 dr_lamp_on.pcx
 erebox_sides.pcx
@@ -83,12 +85,12 @@ gca_mtr04.pcx
 haiden_brk_t.pcx
 haiden_nomal_t.pcx
 haiden_u.pcx
+hard2.pcx
+hard2_top.pcx
 hard_1.pcx
 hard_2.pcx
 hard_3.pcx
 hard_side.pcx
-hard2.pcx
-hard2_top.pcx
 ibox_0.pcx
 ibox_1.pcx
 ibox_2.pcx
@@ -106,8 +108,6 @@ lightdesk_desktop.pcx
 lightdesk_s2.pcx
 lightdesk_side.pcx
 m06_evg1.pcx
-M07_book4.pcx
-M07_keyboad.pcx
 m08_black_flor1.pcx
 m08_black_flor2.pcx
 m08_black_flor3.pcx

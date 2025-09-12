@@ -13,8 +13,6 @@ camera_l.pcx
 dct_flr1.pcx
 dct_flr2.pcx
 fen_wir1msk.pcx
-gr_way1.pcx
-gr_way3.pcx
 gr1_bas2.pcx
 gr1_bas6.pcx
 gr1_cnc1nl.pcx
@@ -32,6 +30,8 @@ gr2_evt7msk.pcx
 gr2_gake1.pcx
 gr2_gake2.pcx
 gr2_snwgrd.pcx
+gr_way1.pcx
+gr_way3.pcx
 light01.pcx
 m00_pla_eleflo1.pcx
 m01_bg1.pcx

@@ -8,11 +8,11 @@ m16c_cow_00c.pcx
 m16c_cow_01.pcx
 m16c_cow_02e.pcx
 m16c_dr_02.pcx
+m16c_fl2_00msk.pcx
+m16c_fl2_07msk.pcx
 m16c_fl_00.pcx
 m16c_fl_01.pcx
 m16c_fl_06.pcx
-m16c_fl2_00msk.pcx
-m16c_fl2_07msk.pcx
 m16c_h_00a.pcx
 m16c_h_00amsk.pcx
 m16c_h_02.pcx

@@ -36,11 +36,11 @@ m12_ro_00.pcx
 m12_ro_02.pcx
 m12_saku_01msk.pcx
 m12_saku_02.pcx
+m12_snw2_02.pcx
 m12_snw_00.pcx
 m12_snw_02.pcx
 m12_snw_03.pcx
 m12_snw_05.pcx
-m12_snw2_02.pcx
 m12_step_01.pcx
 m12_stpwl_00.pcx
 m12_stpwl_02.pcx
@@ -70,11 +70,11 @@ m12m_box_f.pcx
 m12m_box_s.pcx
 m12m_box_t.pcx
 m12m_drum_t.pcx
-m12m_floor_shade.pcx
 m12m_floor1.pcx
 m12m_floor2.pcx
 m12m_floor3.pcx
 m12m_floor4.pcx
+m12m_floor_shade.pcx
 m12m_kibako2_f.pcx
 m12m_kibako2_s.pcx
 m12m_kibako2_t.pcx

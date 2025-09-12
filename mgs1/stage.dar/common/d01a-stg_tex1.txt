@@ -11,8 +11,6 @@ bl2_rof6.pcx
 bl2_snow.pcx
 bl2_wal5msk.pcx
 fen_wir1msk.pcx
-gr_way1.pcx
-gr_way3.pcx
 gr1_bas1.pcx
 gr1_bas2.pcx
 gr1_bas5.pcx
@@ -37,6 +35,8 @@ gr2_evt7msk.pcx
 gr2_gake1.pcx
 gr2_gake2.pcx
 gr2_snwgrd.pcx
+gr_way1.pcx
+gr_way3.pcx
 hid_pit.pcx
 hid_reflect1_hlf.pcx
 hid_window_f1_hlf_x.pcx

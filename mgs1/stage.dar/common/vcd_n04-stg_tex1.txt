@@ -54,6 +54,7 @@ save_replay.pcx
 search_new.pcx
 searchli.pcx
 try_again.pcx
+ufo2.pcx
 ufo_all.pcx
 ufo_downadd.pcx
 ufo_downhlf.pcx
@@ -61,7 +62,6 @@ ufo_light2add.pcx
 ufo_lightadd.pcx
 ufo_lighthlf.pcx
 ufo_win.pcx
-ufo2.pcx
 vr_cone_under00add.pcx
 vr_coneadd.pcx
 wbox_0.pcx
