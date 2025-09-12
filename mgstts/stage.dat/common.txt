@@ -1,4 +1,5 @@
 2D_tex.tri
+Scm_hol.kmx
 a.kmx
 a.tri
 apple_bro_l.kmx
@@ -320,11 +321,11 @@ boss_rush.tri
 boss_rush2.tri
 boss_telop.o2d
 boss_telop.tri
+box2_ibox.kmx
+box2_ibox_sh.kmx
 box_ibox.kmx
 box_ibox.tri
 box_ibox_sh.kmx
-box2_ibox.kmx
-box2_ibox_sh.kmx
 break.tri
 brk_scr07_full.kmx
 btl_01.kmx
@@ -394,9 +395,9 @@ corps.mar
 corps.sar
 d.kmx
 dcm.o2d
+dcmTex.tri
 dcm_rai.kmx
 dcm_shat.o2d
-dcmTex.tri
 default.tri
 demo_cigarette_case_iro.kmx
 demo_cigarette_case_iro.tri
@@ -601,6 +602,12 @@ o.kmx
 out_cold.cv2
 out_cold.kmx
 out_cold.tri
+out_cold2.cv2
+out_cold2.kmx
+out_cold2.tri
+out_cold2_sh.kmx
+out_cold2_sling.kmx
+out_cold2_sling.tri
 out_cold_blink_01.kmx
 out_cold_blink_01.tri
 out_cold_blink_02.kmx
@@ -610,12 +617,6 @@ out_cold_sh.kmx
 out_cold_sh.tri
 out_cold_sling.kmx
 out_cold_sling.tri
-out_cold2.cv2
-out_cold2.kmx
-out_cold2.tri
-out_cold2_sh.kmx
-out_cold2_sling.kmx
-out_cold2_sling.tri
 pal_key_b.kmx
 pal_key_r.kmx
 pal_key_y.kmx
@@ -664,7 +665,6 @@ scm_amo.kmx
 scm_amo_label.kmx
 scm_amo_label.tri
 scm_emb.kmx
-Scm_hol.kmx
 scm_label.kmx
 scm_label.tri
 scm_sp.kmx
