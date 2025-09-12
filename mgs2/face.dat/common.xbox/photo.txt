@@ -1,9 +1,9 @@
+densouTex.xti
 densou_log.o2d
 densou_log.xti
 densou_main.o2d
 densou_title.o2d
 densou_title.xti
-densouTex.xti
 papet.o2d
 papetTex1.xti
 papetTex2.xti

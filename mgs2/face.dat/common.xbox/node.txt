@@ -8,13 +8,13 @@ genzi.o2d
 grd.o2d
 log.o2d
 log.xti
+nodeDown.xti
 node_bg.xti
 node_frame.o2d
 node_menu.o2d
 node_menu.xti
 node_name.o2d
 node_name.xti
-nodeDown.xti
 ny_map.o2d
 ny_map_bg.o2d
 plant_map.o2d
