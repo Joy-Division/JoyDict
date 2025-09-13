@@ -33,6 +33,8 @@ maga.mdl
 maga.tri
 maga_page.mdl
 maga_page.tri
+p_saru.mtar
+p_saru.mtsq
 phase_fre.la2
 phase_fre_0.tri
 phase_ger.la2

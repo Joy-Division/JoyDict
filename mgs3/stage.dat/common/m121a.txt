@@ -25,6 +25,8 @@ m121a.geom
 maga.mdl
 maga_page.mdl
 mazt.mdl
+p_saru.mtar
+p_saru.mtsq
 phase_fre.la2
 phase_fre_0.tri
 phase_ger.la2

@@ -1795,6 +1795,8 @@ otn_def.mdl
 otn_def.mtar
 otn_def.mtsq
 otn_def.tri
+p_saru.mtar
+p_saru.mtsq
 pai_bridge_dmo.mdl
 pai_def.cvd
 pai_def.mdl
