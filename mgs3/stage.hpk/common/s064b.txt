@@ -7,6 +7,8 @@ amd_amo_low.mdn
 amdr_low.eft
 amdr_low.mdn
 cachetrans.txn
+crab_def.mtar
+crab_def.mtsq
 crb_def.cvd
 crb_def.mdn
 doracaena2_cm.mdn

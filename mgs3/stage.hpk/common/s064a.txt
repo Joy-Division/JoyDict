@@ -4,6 +4,8 @@ ama_def.mtsq
 amana_petal01_cm.mdn
 anaesthesia.la2
 cachetrans.txn
+crab_def.mtar
+crab_def.mtsq
 crb_def.cvd
 crb_def.mdn
 doracaena2_cm.mdn
@@ -82,6 +84,8 @@ rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s063a_enkei1.mdn
 s063a_enkei1_d.lt2
+s063a_snake.mtar
+s063a_snake.mtsq
 s064a.geom
 s064a.nav
 s064a.zon

@@ -129,6 +129,8 @@ s071a_k_com_e_cloud3.mdl
 s071a_m_072a_distantview1_1.mdl
 s071a_p_072a_ground1.mdl
 s071a_p_ground1.mdl
+s071a_snake.mtar
+s071a_snake.mtsq
 scenerio.gcx
 scop_ene_low.eft
 scop_ene_low.mdl

@@ -86,6 +86,8 @@ s075a_e.lt2
 s075a_e_sky.lt2
 s075a_gg.mdn
 s075a_s162a.mdn
+s075a_snake.mtar
+s075a_snake.mtsq
 scop_ene_low.eft
 scop_ene_low.mdn
 sky_e_3.mdn

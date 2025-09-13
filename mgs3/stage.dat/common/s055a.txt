@@ -171,6 +171,8 @@ s055a_pipeA.mdl
 s055a_slit_lightA.mdl
 s055a_slit_lightD.mdl
 s055a_slit_walllightA_n.mdl
+s055a_snake.mtar
+s055a_snake.mtsq
 s055a_toilet.mdl
 s055a_windowA.mdl
 scenerio.gcx

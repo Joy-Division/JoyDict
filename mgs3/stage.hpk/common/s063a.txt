@@ -95,6 +95,8 @@ s063a_enkei1.mdn
 s063a_enkei1_d.lt2
 s063a_for_duel.mdn
 s063a_for_duel.txn
+s063a_snake.mtar
+s063a_snake.mtsq
 shida02_cm.mdn
 sky_d_3.lt2
 sky_d_3.mdn

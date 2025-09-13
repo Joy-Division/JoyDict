@@ -128,6 +128,8 @@ s201a_kakiwari1.mdl
 s201a_mass_tree1.mdl
 s201a_mass_tree3.mdl
 s201a_mass_tree4.mdl
+s201a_snake.mtar
+s201a_snake.mtsq
 s201a_thin_tree1.mdl
 s201a_water.mdl
 s201a_wig.mdl

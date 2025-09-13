@@ -7,6 +7,8 @@ ama_def.mtsq
 aro_def.mdn
 bk_ironS_cm.mdn
 cachetrans.txn
+crab_def.mtar
+crab_def.mtsq
 crb_def.cvd
 crb_def.mdn
 ene_fph.cvd

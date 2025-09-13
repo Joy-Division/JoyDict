@@ -111,6 +111,8 @@ s201a_d.lt2
 s201a_env.mdn
 s201a_env_d.lt2
 s201a_kakiwari1.mdn
+s201a_snake.mtar
+s201a_snake.mtsq
 s201a_water.mdn
 s201a_wig.mdn
 s201a_wig_glass.mdn

@@ -111,6 +111,8 @@ s075a_e.lt2
 s075a_e_sky.lt2
 s075a_gg.mdl
 s075a_s162a.mdl
+s075a_snake.mtar
+s075a_snake.mtsq
 s091a_container01.mdl
 s091a_watchtower.mdl
 scenerio.gcx

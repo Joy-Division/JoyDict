@@ -68,6 +68,8 @@ s122a_light_fence.tri
 s122a_pipe.mdl
 s122a_pipe.tri
 s122a_rail.mdl
+s122a_snake.mtar
+s122a_snake.mtsq
 saaa_low.eft
 saaa_low.mdl
 scenerio.gcx

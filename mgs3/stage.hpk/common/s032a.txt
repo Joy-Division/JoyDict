@@ -6,6 +6,8 @@ bat_def.cvd
 bat_def.mdn
 bat_def.txn
 cachetrans.txn
+crab_def.mtar
+crab_def.mtsq
 crb_def.cvd
 crb_def.mdn
 crb_def.txn

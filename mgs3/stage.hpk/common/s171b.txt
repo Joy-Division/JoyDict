@@ -70,6 +70,8 @@ s171a_realshadow_2.txn
 s171a_river.mdl
 s171a_river.mdn
 s171b.geom
+s171b_snake.mtar
+s171b_snake.mtsq
 sceva.mtfa
 shag_head_brak_left.mdn
 shag_head_brak_right.mdn

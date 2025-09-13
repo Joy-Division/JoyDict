@@ -119,6 +119,8 @@ s071a_k_com_e_cloud3.mdn
 s071a_m_072a_distantview1_1.mdn
 s071a_p_072a_ground1.mdn
 s071a_p_ground1.mdn
+s071a_snake.mtar
+s071a_snake.mtsq
 scop_ene_low.eft
 scop_ene_low.mdn
 scp_def.cvd

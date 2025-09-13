@@ -8,6 +8,8 @@ amdr_low.eft
 amdr_low.mdl
 cache.var
 cachetrans.tri
+crab_def.mtar
+crab_def.mtsq
 crb_def.cvd
 crb_def.mdl
 doracaena2_cm.rcm

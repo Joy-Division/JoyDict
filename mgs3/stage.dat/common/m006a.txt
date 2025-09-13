@@ -46,6 +46,9 @@ locker.mtar
 locker.mtsq
 m006a.bin
 m006a.geom
+m006a_snake.mtar
+m006a_snake.mtsq
+m006a_snake.var
 maga.mdl
 maga.tri
 maga_page.mdl

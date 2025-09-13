@@ -83,6 +83,8 @@ rgd5_splinter_cm.mdn
 ring_m63_cm.mdn
 s063a_enkei1.mdn
 s063a_enkei1_d.lt2
+s063a_snake.mtar
+s063a_snake.mtsq
 s065a.geom
 s065a.nav
 s065a.zon

@@ -92,6 +92,8 @@ s111a_room_door_right.mdn
 s111a_s091a.mdn
 s111a_s091a_b.mdn
 s111a_s121a.mdn
+s111a_snake.mtar
+s111a_snake.mtsq
 s111a_wall_01.mdn
 scop_ene_low.eft
 scop_ene_low.mdn

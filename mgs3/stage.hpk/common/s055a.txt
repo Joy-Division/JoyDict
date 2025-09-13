@@ -155,6 +155,8 @@ s055a_n.lt2
 s055a_slit_lightA.mdn
 s055a_slit_lightD.mdn
 s055a_slit_walllightA_n.mdn
+s055a_snake.mtar
+s055a_snake.mtsq
 scop_ene_low.eft
 scop_ene_low.mdn
 shld_low.eft

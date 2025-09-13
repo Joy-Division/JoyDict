@@ -5,6 +5,8 @@ amana_petal01_cm.rcm
 anaesthesia.la2
 cache.var
 cachetrans.tri
+crab_def.mtar
+crab_def.mtsq
 crb_def.cvd
 crb_def.mdl
 doracaena2_cm.rcm
@@ -98,6 +100,8 @@ s063a_mass_tree1.mdl
 s063a_mass_tree3.mdl
 s063a_mass_tree4.mdl
 s063a_small_tree3.mdl
+s063a_snake.mtar
+s063a_snake.mtsq
 s063a_thin_tree1.mdl
 s064a.bin
 s064a.geom

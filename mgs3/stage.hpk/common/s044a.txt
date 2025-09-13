@@ -5,6 +5,8 @@ akmr_amo_low.mdn
 akmr_low.eft
 akmr_low.mdn
 cachetrans.txn
+crab_def.mtar
+crab_def.mtsq
 crb_def.cvd
 crb_def.mdn
 crb_def.txn

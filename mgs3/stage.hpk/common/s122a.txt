@@ -58,6 +58,8 @@ s122a_light_fence.txn
 s122a_pipe.mdn
 s122a_pipe.txn
 s122a_rail.mdn
+s122a_snake.mtar
+s122a_snake.mtsq
 saaa_low.eft
 saaa_low.mdn
 scr_suiteki1.cvd

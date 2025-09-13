@@ -397,6 +397,8 @@ cqck_game.eft
 cqck_game.mdn
 cqck_high.mdn
 cqck_high.txn
+crab_def.mtar
+crab_def.mtsq
 crb_def.cvd
 crb_def.mdn
 crb_def.txn
@@ -1844,6 +1846,8 @@ s033a_n_ground_cover_c2.mdn
 s033a_n_ground_cover_c2.txn
 s033a_realshadow_0.mdn
 s033a_realshadow_0.txn
+s033a_snake.mtar
+s033a_snake.mtsq
 s033a_water01.mdl
 s033a_water01.mdn
 s033a_water_drop1.cvd
@@ -2027,6 +2031,8 @@ s055a_n.lt2
 s055a_slit_lightA.mdn
 s055a_slit_lightD.mdn
 s055a_slit_walllightA_n.mdn
+s055a_snake.mtar
+s055a_snake.mtsq
 s056a.geom
 s056a.mdn
 s056a.nav
@@ -2047,6 +2053,8 @@ s056a_n.lt2
 s056a_slit_lightB.mdn
 s056a_slit_lightD.mdn
 s056a_slit_walllightA.mdn
+s056a_snake.mtar
+s056a_snake.mtsq
 s056a_walllightB.mdn
 s061a.geom
 s061a.nav
@@ -2103,6 +2111,8 @@ s063a_enkei1_d.lt2
 s063a_for_duel.mdn
 s063a_for_duel.txn
 s063a_realshadow_0.mdn
+s063a_snake.mtar
+s063a_snake.mtsq
 s063b.geom
 s064a.geom
 s064a.nav
@@ -2156,6 +2166,8 @@ s071a_k_com_e_cloud3.mdn
 s071a_m_072a_distantview1_1.mdn
 s071a_p_072a_ground1.mdn
 s071a_p_ground1.mdn
+s071a_snake.mtar
+s071a_snake.mtsq
 s072a.geom
 s072a.nav
 s072a.zon
@@ -2190,6 +2202,8 @@ s072a_m_071a_distantview1_1.mdn
 s072a_p_071a_ground1.mdn
 s072a_p_ground1.mdn
 s072a_r_storehouse1.mdn
+s072a_snake.mtar
+s072a_snake.mtsq
 s073a.geom
 s073a.nav
 s073a_a_com_crevasse1.mdn
@@ -2255,6 +2269,8 @@ s075a_gg_p0.mdn
 s075a_gg_realshadow_01.mdn
 s075a_realshadow_02.mdn
 s075a_s162a.mdn
+s075a_snake.mtar
+s075a_snake.mtsq
 s081a.geom
 s081a.mdn
 s081a.nav
@@ -2392,6 +2408,8 @@ s111a_s091a.mdn
 s111a_s091a_b.mdn
 s111a_s091a_p.mdn
 s111a_s121a.mdn
+s111a_snake.mtar
+s111a_snake.mtsq
 s111a_wall_01.mdn
 s112a.geom
 s112a.lt2
@@ -2465,6 +2483,8 @@ s122a_light_fence.txn
 s122a_pipe.mdn
 s122a_pipe.txn
 s122a_rail.mdn
+s122a_snake.mtar
+s122a_snake.mtsq
 s131a.geom
 s131a.mdn
 s131a_air_circulation_fan.mdn
@@ -2667,6 +2687,8 @@ s171a_river.mdl
 s171a_river.mdn
 s171b.geom
 s171b0.geom
+s171b_snake.mtar
+s171b_snake.mtsq
 s181a.geom
 s181a_d.lt2
 s181a_distantview1.mdn
@@ -2761,6 +2783,8 @@ s201a_p0_water3.mdn
 s201a_p0_water4.mdn
 s201a_realshadow_0.mdn
 s201a_realshadow_0.txn
+s201a_snake.mtar
+s201a_snake.mtsq
 s201a_thin_tree1.mdn
 s201a_thin_tree1.txn
 s201a_water.mdl

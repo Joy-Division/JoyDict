@@ -143,6 +143,8 @@ s056a_n.lt2
 s056a_slit_lightB.mdn
 s056a_slit_lightD.mdn
 s056a_slit_walllightA.mdn
+s056a_snake.mtar
+s056a_snake.mtsq
 s056a_walllightB.mdn
 scientist.mtar
 scientist.mtsq

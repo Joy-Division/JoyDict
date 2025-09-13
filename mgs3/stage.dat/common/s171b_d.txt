@@ -76,6 +76,8 @@ s171a_realshadow_2.tri
 s171a_river.mdl
 s171b.geom
 s171b_d.bin
+s171b_snake.mtar
+s171b_snake.mtsq
 scenerio.gcx
 sceva.mtfa
 shag_head_brak_left.mdl

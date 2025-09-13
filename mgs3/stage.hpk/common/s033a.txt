@@ -100,6 +100,8 @@ s033a_n_ground_cover_c2.mdn
 s033a_n_ground_cover_c2.txn
 s033a_realshadow_0.mdn
 s033a_realshadow_0.txn
+s033a_snake.mtar
+s033a_snake.mtsq
 s033a_water01.mdl
 s033a_water01.mdn
 s033a_water_drop1.cvd

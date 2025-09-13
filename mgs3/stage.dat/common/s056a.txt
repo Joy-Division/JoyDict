@@ -175,6 +175,8 @@ s056a_shelf_office.mdl
 s056a_slit_lightB.mdl
 s056a_slit_lightD.mdl
 s056a_slit_walllightA.mdl
+s056a_snake.mtar
+s056a_snake.mtsq
 s056a_walllightB.mdl
 s056a_windowA.mdl
 scenerio.gcx

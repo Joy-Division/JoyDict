@@ -12,6 +12,8 @@ but_def_blue.mdn
 but_def_kiiro.mdn
 but_def_kuro.mdn
 cachetrans.txn
+crab_def.mtar
+crab_def.mtsq
 crb_def.cvd
 crb_def.mdn
 e00_shida01_cm.mdn

@@ -173,6 +173,8 @@ s072a_m_071a_distantview1_1.mdl
 s072a_p_071a_ground1.mdl
 s072a_p_ground1.mdl
 s072a_r_storehouse1.mdl
+s072a_snake.mtar
+s072a_snake.mtsq
 s072b.bin
 scenerio.gcx
 scop_ene_low.eft

@@ -455,6 +455,8 @@ cqck_game.eft
 cqck_game.mdl
 cqck_high.mdl
 cqck_high.tri
+crab_def.mtar
+crab_def.mtsq
 crb_def.cvd
 crb_def.mdl
 crb_def.tri
@@ -1403,13 +1405,22 @@ m004a.bin
 m004a.geom
 m006a.bin
 m006a.geom
+m006a_snake.mtar
+m006a_snake.mtsq
+m006a_snake.var
 m022a.bin
 m022a.geom
+m022a_snake.mtar
+m022a_snake.mtsq
+m022a_snake.var
 m053a.bin
 m053a.geom
 m120_010_p010_002_pai__tr.mdl
 m121a.bin
 m121a.geom
+m121a_snake.mtar
+m121a_snake.mtsq
+m121a_snake.var
 m16a.eft
 m16a.mdl
 m16a.tri
@@ -2358,6 +2369,8 @@ s033a_n_ground_cover_c2.mdl
 s033a_n_ground_cover_c2.tri
 s033a_realshadow_0.mdl
 s033a_realshadow_0.tri
+s033a_snake.mtar
+s033a_snake.mtsq
 s033a_tree1.mdl
 s033a_tree1.tri
 s033a_water01.mdl
@@ -2631,6 +2644,8 @@ s055a_pipeA.mdl
 s055a_slit_lightA.mdl
 s055a_slit_lightD.mdl
 s055a_slit_walllightA_n.mdl
+s055a_snake.mtar
+s055a_snake.mtsq
 s055a_toilet.mdl
 s055a_windowA.mdl
 s056a.bin
@@ -2662,6 +2677,8 @@ s056a_shelf_office.mdl
 s056a_slit_lightB.mdl
 s056a_slit_lightD.mdl
 s056a_slit_walllightA.mdl
+s056a_snake.mtar
+s056a_snake.mtsq
 s056a_walllightB.mdl
 s056a_windowA.mdl
 s061a.bin
@@ -2756,6 +2773,8 @@ s063a_mass_tree3.mdl
 s063a_mass_tree4.mdl
 s063a_parts1.mdl
 s063a_realshadow_0.mdl
+s063a_snake.mtar
+s063a_snake.mtsq
 s063a_small_tree3.mdl
 s063a_thin_tree1.mdl
 s063b.bin
@@ -2826,6 +2845,8 @@ s071a_k_com_e_cloud3.mdl
 s071a_m_072a_distantview1_1.mdl
 s071a_p_072a_ground1.mdl
 s071a_p_ground1.mdl
+s071a_snake.mtar
+s071a_snake.mtsq
 s072a.bin
 s072a.geom
 s072a.nav
@@ -2861,6 +2882,8 @@ s072a_m_071a_distantview1_1.mdl
 s072a_p_071a_ground1.mdl
 s072a_p_ground1.mdl
 s072a_r_storehouse1.mdl
+s072a_snake.mtar
+s072a_snake.mtsq
 s072b.bin
 s073a.bin
 s073a.geom
@@ -2934,6 +2957,8 @@ s075a_gg_p0.mdl
 s075a_gg_realshadow_01.mdl
 s075a_realshadow_02.mdl
 s075a_s162a.mdl
+s075a_snake.mtar
+s075a_snake.mtsq
 s081a.bin
 s081a.geom
 s081a.mdl
@@ -3134,6 +3159,8 @@ s111a_s091a.mdl
 s111a_s091a_b.mdl
 s111a_s091a_p.mdl
 s111a_s121a.mdl
+s111a_snake.mtar
+s111a_snake.mtsq
 s111a_wall_01.mdl
 s112a.bin
 s112a.geom
@@ -3225,6 +3252,8 @@ s122a_light_fence.tri
 s122a_pipe.mdl
 s122a_pipe.tri
 s122a_rail.mdl
+s122a_snake.mtar
+s122a_snake.mtsq
 s131a.geom
 s131a.mdl
 s131a_0.bin
@@ -3454,6 +3483,8 @@ s171b.geom
 s171b0.geom
 s171b_0.bin
 s171b_d.bin
+s171b_snake.mtar
+s171b_snake.mtsq
 s181a.bin
 s181a.geom
 s181a_d.lt2
@@ -3600,6 +3631,8 @@ s201a_p0_water3.mdl
 s201a_p0_water3.tri
 s201a_realshadow_0.mdl
 s201a_realshadow_0.tri
+s201a_snake.mtar
+s201a_snake.mtsq
 s201a_thin_tree1.mdl
 s201a_thin_tree1.tri
 s201a_water.mdl

@@ -146,6 +146,8 @@ s072a_m_071a_distantview1_1.mdn
 s072a_p_071a_ground1.mdn
 s072a_p_ground1.mdn
 s072a_r_storehouse1.mdn
+s072a_snake.mtar
+s072a_snake.mtsq
 scop_ene_low.eft
 scop_ene_low.mdn
 scp_def.cvd

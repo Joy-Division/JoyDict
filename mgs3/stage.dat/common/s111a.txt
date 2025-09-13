@@ -109,6 +109,8 @@ s111a_room_door_right.mdl
 s111a_s091a.mdl
 s111a_s091a_b.mdl
 s111a_s121a.mdl
+s111a_snake.mtar
+s111a_snake.mtsq
 s111a_wall_01.mdl
 scenerio.gcx
 scop_ene_low.eft

@@ -31,6 +31,9 @@ ibox_food_body.eft
 ibox_food_body.mdl
 m022a.bin
 m022a.geom
+m022a_snake.mtar
+m022a_snake.mtsq
+m022a_snake.var
 maga.mdl
 maga.tri
 maga_page.mdl

@@ -22,6 +22,9 @@ light_blue.rcm
 light_red.rcm
 m121a.bin
 m121a.geom
+m121a_snake.mtar
+m121a_snake.mtsq
+m121a_snake.var
 maga.mdl
 maga_page.mdl
 mazt.mdl

@@ -13,6 +13,8 @@ but_def_kiiro.mdl
 but_def_kuro.mdl
 cache.var
 cachetrans.tri
+crab_def.mtar
+crab_def.mtsq
 crb_def.cvd
 crb_def.mdl
 e00_shida01_cm.rcm

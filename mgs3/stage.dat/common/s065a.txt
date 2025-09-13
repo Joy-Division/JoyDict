@@ -108,6 +108,8 @@ s063a_mass_tree1.mdl
 s063a_mass_tree3.mdl
 s063a_mass_tree4.mdl
 s063a_small_tree3.mdl
+s063a_snake.mtar
+s063a_snake.mtsq
 s063a_thin_tree1.mdl
 s065a.bin
 s065a.geom

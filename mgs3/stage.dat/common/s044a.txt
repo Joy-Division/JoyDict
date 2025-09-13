@@ -16,6 +16,8 @@ akmr_low.eft
 akmr_low.mdl
 cache.var
 cachetrans.tri
+crab_def.mtar
+crab_def.mtsq
 crb_def.cvd
 crb_def.mdl
 crb_def.tri
