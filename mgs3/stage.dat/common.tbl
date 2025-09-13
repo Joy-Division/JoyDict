@@ -879,7 +879,7 @@
 002a2d3a.01|s211a_3.bin
 002a2d69.06|s111a_d.lt2
 002a531c.6c|bull_zu23_cm.rcm
-002a964e.03|
+002a964e.03|duel_load_0.tri
 002aa697.5f|duel_pause.la2
 002aac22.03|grid_shd_weapon_a.tri
 002aac22.0d|grid_shd_weapon_a.mdl
@@ -3533,14 +3533,14 @@
 008f498f.0d|s063a_for_duel.mdl
 008f8136.08|
 008f8136.09|
-008f8aa2.5f|
+008f8aa2.5f|duel_load.la2
 008fa816.03|mi21_mater_b_dmo.tri
 008fa816.0d|mi21_mater_b_dmo.mdl
 008fb56b.03|door_meca.tri
 008fb56b.0d|door_meca.mdl
 008fd798.03|gave_high.tri
 008fd798.0d|gave_high.mdl
-008fe453.5f|
+008fe453.5f|duel_menu.la2
 008ffc77.0d|s053a_bookA.mdl
 008ffc78.0d|s053a_bookB.mdl
 0090729e.0d|trap_hookrope_3m_sh.mdl
@@ -3559,7 +3559,7 @@
 00913a6d.09|rpv_def.mtsq
 00913a6d.0d|rpv_def.mdl
 00913a6d.10|rpv_def.cvd
-00915a4f.03|
+00915a4f.03|duel_menu_0.tri
 0091762b.6e|a_gamed_by_cam.raw
 0091a6f7.03|v007a_river_edge1.tri
 0091a6f7.0d|v007a_river_edge1.mdl

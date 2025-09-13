@@ -569,6 +569,10 @@ drumcan_exp_01.tri
 dshk.eft
 dshk.mdl
 dshk_break.mdl
+duel_load.la2
+duel_load_0.tri
+duel_menu.la2
+duel_menu_0.tri
 duel_pause.la2
 duel_pause_0.tri
 e00_shida01_cm.rcm

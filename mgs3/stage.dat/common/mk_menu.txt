@@ -5,6 +5,10 @@ ciga_cigar.mdl
 ciga_cigar.tri
 ciga_light.mdl
 ciga_light.tri
+duel_load.la2
+duel_load_0.tri
+duel_menu.la2
+duel_menu_0.tri
 duel_pause.la2
 duel_pause_0.tri
 fly_def_cm.rcm
