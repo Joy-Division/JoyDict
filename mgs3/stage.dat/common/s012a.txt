@@ -108,6 +108,8 @@ s012a_eld_tree1_eda1.mdl
 s012a_eld_wire.mdl
 s012a_enkei.mdl
 s012a_enkei.tri
+s012a_gav.mtar
+s012a_gav.mtsq
 s012a_lake_tree1.mdl
 s012a_lake_tree10.mdl
 s012a_lake_tree11.mdl
