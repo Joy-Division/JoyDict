@@ -1,6 +1,5 @@
 cache.var
 cachetrans.tri
-disc2_GC_PV.la2
 fly_def_cm.rcm
 frg_chaff_01_cm.rcm
 frg_chaff_02_cm.rcm
@@ -56,6 +55,7 @@ sna_hair_weight_dmo.tri
 sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdl
 sna_hair_weight_vr_dmo.tri
+special_back.la2
 special_back_0.tri
 special_front.la2
 special_front_pal_0.tri

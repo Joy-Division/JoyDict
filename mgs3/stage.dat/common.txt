@@ -503,7 +503,6 @@ demotheater_realshadow.mdl
 demotheater_realshadow.tri
 directed_by_hideo_kojima.raw
 directed_by_hideo_kojima_cam.raw
-disc2_GC_PV.la2
 disc3menu.bin
 dmit_chiki_ramenA.mdl
 dmit_gr_cardkeyA.mdl
@@ -4154,6 +4153,7 @@ sound_effectsC.raw
 spd_def.cvd
 spd_def.mdl
 spd_def.tri
+special_back.la2
 special_back_0.tri
 special_front.la2
 special_front_pal_0.tri
