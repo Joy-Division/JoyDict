@@ -2777,9 +2777,9 @@ s063a_mass_tree3.mdl
 s063a_mass_tree4.mdl
 s063a_parts1.mdl
 s063a_realshadow_0.mdl
+s063a_small_tree3.mdl
 s063a_snake.mtar
 s063a_snake.mtsq
-s063a_small_tree3.mdl
 s063a_thin_tree1.mdl
 s063b.bin
 s063b.geom
