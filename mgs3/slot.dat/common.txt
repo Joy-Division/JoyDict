@@ -201,6 +201,7 @@ gave_sv.tri
 get_new_items.la2
 get_new_items_0.tri
 get_new_items_pal_0.tri
+gets.tri
 gmic.eft
 gmic.mdl
 gmic.tri
@@ -947,6 +948,9 @@ sv_food_sdl.mtar
 sv_food_sdl.mtsq
 sv_food_vip.mtar
 sv_food_vip.mtsq
+sv_model.mdl
+sv_motion.mtar
+sv_motion.mtsq
 sv_sna001take1.mtar
 sv_sna001take1.mtsq
 sv_sna001take2.mtar

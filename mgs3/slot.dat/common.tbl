@@ -88,7 +88,7 @@
 000bac79.69|cr_icon_suvknife_alp_ovl.img
 000c541d.03|
 000c82be.03|
-000cd351.0d|
+000cd351.0d|sv_model.mdl
 000ceb01.03|rd_eqi_revival.tri
 000cefa2.03|rd_eqi_rgd5.tri
 000d1404.03|rd_eqi_rpg7.tri
@@ -314,7 +314,7 @@
 00351325.03|gave.tri
 00351325.0d|gave.mdl
 00351325.11|gave.eft
-003522f3.03|
+003522f3.03|gets.tri
 00354183.03|gmic.tri
 00354183.0d|gmic.mdl
 00354183.11|gmic.eft
@@ -894,8 +894,8 @@
 00a243d3.03|rd_eqi_box03.tri
 00a243d4.03|rd_eqi_box04.tri
 00a24d07.03|gave_amo_sv.tri
-00a27aef.08|
-00a27aef.09|
+00a27aef.08|sv_motion.mtar
+00a27aef.09|sv_motion.mtsq
 00a2c14c.5f|
 00a33282.03|map_gg_b1f03_0.tri
 00a33283.03|map_gg_b1f03_1.tri
