@@ -46,6 +46,7 @@ rgd5_splinter_cm.rcm
 ring_m63_cm.rcm
 scenerio.gcx
 smc_menu.la2
+smc_menu_0.tri
 smc_menu_pal_0.tri
 sna_bounding_def_dmo.mdl
 sna_bounding_def_dmo.tri

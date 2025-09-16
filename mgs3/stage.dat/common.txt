@@ -3877,6 +3877,7 @@ sky_n_5.tri
 slig.mdl
 slig.tri
 smc_menu.la2
+smc_menu_0.tri
 smc_menu_pal_0.tri
 smok_body.eft
 smok_body.mdl
