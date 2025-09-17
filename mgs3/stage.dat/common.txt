@@ -1605,6 +1605,8 @@ monitor_demo.la2
 monitor_demo_0.tri
 moshinnagan.la2
 moshinnagan_0.tri
+mosinnagant.mtar
+mosinnagant.mtsq
 motion_director.raw
 motion_director_cam.raw
 msa_def.cvd

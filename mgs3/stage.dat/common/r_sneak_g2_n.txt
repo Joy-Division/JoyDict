@@ -175,6 +175,8 @@ mk22_amo.mdl
 mon5.eft
 mon5.mdl
 moshinnagan_0.tri
+mosinnagant.mtar
+mosinnagant.mtsq
 msnn.eft
 msnn.mdl
 msnn.tri

@@ -370,6 +370,8 @@ mlk_def.mdl
 mlk_def.tri
 mon5.tri
 moshinnagan_0.tri
+mosinnagant.mtar
+mosinnagant.mtsq
 msa_cap.mtar
 msa_cap.mtsq
 msa_def.mdl
