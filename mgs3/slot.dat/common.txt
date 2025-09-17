@@ -218,6 +218,8 @@ itha.eft
 itha.mdl
 itha.tri
 itha_sv.tri
+ithaca.mtar
+ithaca.mtsq
 ivn_ghost.cvd
 ivn_ghost.mdl
 ivn_ghost.tri

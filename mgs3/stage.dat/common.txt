@@ -1212,6 +1212,8 @@ itha_high.mdl
 itha_low.eft
 itha_low.mdl
 itha_low.tri
+ithaca.mtar
+ithaca.mtsq
 ivan_corps_face.mtfa
 ivn_def.cvd
 ivn_def.mdl

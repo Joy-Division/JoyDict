@@ -126,6 +126,8 @@ itha.mdl
 itha.tri
 itha_amo.eft
 itha_amo.mdl
+ithaca.mtar
+ithaca.mtsq
 keepfont.raw
 kerotan.mdl
 kerotan.tri
