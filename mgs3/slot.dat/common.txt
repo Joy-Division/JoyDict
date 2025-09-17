@@ -1070,6 +1070,7 @@ svv_front_0.tri
 svv_front_pal_0.tri
 tai_def.mdl
 tai_def.tri
+tai_def_sv.tri
 thu_bounding_def_dmo.mdl
 thu_coat_bridge_dmo.mdl
 thu_coat_dmo.mdl
