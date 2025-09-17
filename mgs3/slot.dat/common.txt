@@ -90,6 +90,8 @@ crb_def.tri
 davy_barrel_dmo.eft
 dmit_chiki_ramenA.tri
 dmit_waterfall_key.mdl
+dragnov.mtar
+dragnov.mtsq
 dragunov.la2
 dragunov_0.tri
 egun.eft

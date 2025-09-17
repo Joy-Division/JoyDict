@@ -22,6 +22,8 @@ ciga_light.tri
 cqck_game.eft
 cqck_game.mdl
 dbgbox_raiton_shd.mdl
+dragnov.mtar
+dragnov.mtsq
 dragunov.la2
 dragunov_0.tri
 ene_item_holst_def.eft

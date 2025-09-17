@@ -527,6 +527,8 @@ door_meca.mdl
 door_meca.tri
 doracaena1_cm.rcm
 doracaena2_cm.rcm
+dragnov.mtar
+dragnov.mtsq
 dragunov.la2
 dragunov_0.tri
 dron.mdl

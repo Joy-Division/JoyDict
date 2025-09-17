@@ -20,6 +20,8 @@ chaf_pin.mdl
 cqck_game.eft
 cqck_game.mdl
 dbgbox_raiton_shd.mdl
+dragnov.mtar
+dragnov.mtsq
 dragunov.la2
 dragunov_0.tri
 gave.eft
