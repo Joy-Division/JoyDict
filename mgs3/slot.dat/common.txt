@@ -1029,6 +1029,7 @@ tsu_def.mtsq
 tsu_def.tri
 twn_def.mdl
 twn_def.tri
+twn_def_sv.tri
 ural_dmo.eft
 ural_dmo.mdl
 ural_eve_dmo.eft
