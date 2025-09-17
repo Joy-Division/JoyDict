@@ -228,6 +228,7 @@ ivn_ghost.tri
 kiss_dmo.mdl
 kng_def.mdl
 kng_def.tri
+kng_def_sv.tri
 litt_arrow_xr_cm.rcm
 lps_def.mdl
 lps_def.mtar
