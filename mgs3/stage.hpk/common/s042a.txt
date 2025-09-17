@@ -137,6 +137,8 @@ sna_swim.mtar
 sna_swim.mtsq
 spd_def.cvd
 spd_def.mdn
+spider_a.mtar
+spider_a.mtsq
 stname_s041a_alp_ovl.img
 stname_s041a_j_alp_ovl.img
 stname_s042a_alp_ovl.img

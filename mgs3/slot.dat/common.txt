@@ -913,6 +913,8 @@ special_back_0.tri
 special_front.la2
 special_front_0.tri
 special_front_pal_0.tri
+spider_a.mtar
+spider_a.mtsq
 spyr_radio_break_dmo.mdl
 spyr_radio_open_dmo.mdl
 start_warning.la2

@@ -204,6 +204,8 @@ sna_locker.mtsq
 sna_locker.var
 spd_def.cvd
 spd_def.mdl
+spider_a.mtar
+spider_a.mtsq
 stname_s052b_alp_ovl.img
 stname_s052b_f_alp_ovl.img
 stname_s052b_g_alp_ovl.img

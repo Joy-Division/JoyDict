@@ -53,6 +53,8 @@ sna_hair_weight_vr_dmo.eft
 sna_hair_weight_vr_dmo.mdn
 spd_def.cvd
 spd_def.mdn
+spider_a.mtar
+spider_a.mtsq
 stname_s073a_alp_ovl.img
 stname_s073a_j_alp_ovl.img
 stname_s074a_alp_ovl.img

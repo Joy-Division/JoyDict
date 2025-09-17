@@ -3230,6 +3230,8 @@ sound_effectsC.raw
 spd_def.cvd
 spd_def.mdn
 spd_def.txn
+spider_a.mtar
+spider_a.mtsq
 spyr_radio_base_realshadow_dmo.mdn
 spyr_radio_cover_realshadow_dmo.mdn
 spyr_radio_dmo.mdn

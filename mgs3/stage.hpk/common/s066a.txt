@@ -45,6 +45,8 @@ sna_ladder.mtar
 sna_ladder.mtsq
 spd_def.cvd
 spd_def.mdn
+spider_a.mtar
+spider_a.mtsq
 stname_s065a_alp_ovl.img
 stname_s065a_j_alp_ovl.img
 stname_s066a_alp_ovl.img

@@ -4166,6 +4166,8 @@ special_back.la2
 special_back_0.tri
 special_front.la2
 special_front_pal_0.tri
+spider_a.mtar
+spider_a.mtsq
 spyr_radio_base_realshadow_dmo.mdl
 spyr_radio_cover_realshadow_dmo.mdl
 spyr_radio_dmo.mdl
