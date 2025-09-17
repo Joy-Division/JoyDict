@@ -202,6 +202,8 @@ rpg7.tri
 rpg7_0.tri
 rpg7_rocket.eft
 rpg7_rocket.mdl
+saa.mtar
+saa.mtsq
 saaa.eft
 saaa.mdl
 saaa.tri

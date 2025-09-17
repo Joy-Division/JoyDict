@@ -753,6 +753,8 @@ s171a_demo_gate.mdl
 s171a_demo_rubble.mdl
 s171a_realshadow_1.mdl
 s171a_realshadow_2.mdl
+saa.mtar
+saa.mtsq
 saaa.eft
 saaa.mdl
 saaa.tri

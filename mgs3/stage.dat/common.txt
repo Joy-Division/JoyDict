@@ -3720,6 +3720,8 @@ s223a_sky_d.lt2
 s223a_stoneC.mdl
 s223a_stoneC.tri
 s223a_treeB.mdl
+saa.mtar
+saa.mtsq
 saaa.eft
 saaa.mdl
 saaa.tri
