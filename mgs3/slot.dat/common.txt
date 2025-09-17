@@ -230,6 +230,7 @@ kng_def.mdl
 kng_def.tri
 kng_def_sv.tri
 litt_arrow_xr_cm.rcm
+lod_def.mdl
 lps_def.mdl
 lps_def.mtar
 lps_def.mtsq
@@ -427,6 +428,7 @@ memcard_0.tri
 memcard_pal_0.tri
 micr_film_a_dmo.mdl
 micr_film_glass_dmo.mdl
+mid_def.mdl
 mk22.eft
 mk22.mdl
 mk22.tri
