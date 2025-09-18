@@ -510,6 +510,7 @@ pca_def.mtar
 pca_def.mtsq
 pca_def.tri
 photo.ico
+pic_pro_0.tri
 pipo_gun.tri
 radio.la2
 radio.mtar
