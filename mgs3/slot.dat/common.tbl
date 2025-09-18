@@ -12,7 +12,7 @@
 0001c90a.0d|vva_wing_f.mdl
 0001d881.08|saa.mtar
 0001d881.09|saa.mtsq
-00020fd0.03|
+00020fd0.03|layer_choco.tri
 00023291.08|sna_wp_akm.mtar
 00023291.09|sna_wp_akm.mtsq
 00025bb7.08|sna_wp_m63.mtar
@@ -34,13 +34,13 @@
 0003a157.69|sna_face_def.img
 000423dc.5e|
 0004439a.0d|c3bm_dmo.mdl
-0004d8c7.03|
+0004d8c7.03|layer_snake.tri
 0004d911.03|rd_eqi_band.tri
 00050d5c.03|dmit_chiki_ramenA.tri
 00051138.03|rd_eqi_book.tri
 00051911.03|rd_eqi_xm16e1.tri
 0005cb73.03|options_sub_0.tri
-00060496.03|
+00060496.03|layer_split.tri
 00065760.5f|
 00065d4c.03|rd_mec_dshk.tri
 0006a058.03|rd_eqi_eshk.tri
@@ -86,8 +86,8 @@
 000b957b.03|rd_ch_sig_02.tri
 000b957c.03|rd_ch_sig_03.tri
 000bac79.69|cr_icon_suvknife_alp_ovl.img
-000c541d.03|
-000c82be.03|
+000c541d.03|layer_kyle.tri
+000c82be.03|layer_leaf.tri
 000cd351.0d|sv_model.mdl
 000ceb01.03|rd_eqi_revival.tri
 000cefa2.03|rd_eqi_rgd5.tri
@@ -97,7 +97,7 @@
 000d26f6.03|map_s061a_2.tri
 000d26f6.03|map_s161a_0.tri
 000d26f7.03|map_s161a_1.tri
-000d2d0b.03|
+000d2d0b.03|layer_moss.tri
 000d482b.03|rd_ch_boss_fight.tri
 000d6cdb.08|sna_wp_handkerchief.mtar
 000d6cdb.09|sna_wp_handkerchief.mtsq
@@ -126,10 +126,10 @@
 000f26f4.03|map_s065a_0.tri
 000f26f5.03|map_s065a_1.tri
 000f26f6.03|map_s065a_2.tri
-000f73c6.03|
+000f73c6.03|layer_rain.tri
 000fa6f4.03|map_s066a_0.tri
 000fa6f5.03|map_s066a_1.tri
-0010288f.03|
+0010288f.03|layer_snow.tri
 00104da1.69|cr_icon_serum_alp_ovl.img
 0010694c.03|svv3_warning_0.tri
 00106c96.0d|ural_eve_dmo.mdl
@@ -143,7 +143,7 @@
 00115e54.03|rd_mec_zu23.tri
 00119199.0d|vva_float.mdl
 00119879.5f|svv_front.la2
-00127014.03|
+00127014.03|layer_tiger.tri
 00129719.03|ivn_ghost.tri
 00129719.0d|ivn_ghost.mdl
 00129719.10|ivn_ghost.cvd
@@ -400,7 +400,7 @@
 003e8aff.08|sor_ene_gst_fur.mtar
 003e8aff.09|sor_ene_gst_fur.mtsq
 003e965a.03|rd_eqi_frymask.tri
-003ea414.03|
+003ea414.03|layer_water.tri
 003ea6f4.03|map_s094a_0.tri
 003ea6f5.03|map_s094a_1.tri
 003eb076.08|sor_ene_gst_pai.mtar
@@ -972,7 +972,7 @@
 00b32823.0d|bull_top_saa_dmo.mdl
 00b3768c.03|rd_eqi_crcdl.tri
 00b3830c.0d|mth_bomb_dmo.mdl
-00b3a53e.03|
+00b3a53e.03|layer_hornet.tri
 00b42a8b.6e|camouf_data.raw
 00b4e4b4.03|special_back_0.tri
 00b531b9.0d|sna_def_dmo.mdl
@@ -1029,9 +1029,9 @@
 00beb3a8.03|rd_eqi_thrmg.tri
 00bed3b0.0d|spyr_radio_break_dmo.mdl
 00bed80f.0d|s112a_board_01.mdl
-00befd52.03|
+00befd52.03|layer_spider.tri
 00bf14b2.03|rd_eqi_granade.tri
-00bf35d4.03|
+00bf35d4.03|layer_spirit.tri
 00c0f873.03|rd_ani_benisuzume.tri
 00c0fece.03|rd_ani_komori.tri
 00c133f0.03|xry_bee.tri
@@ -1106,7 +1106,7 @@
 00d3b26c.11|sna_hair_dmo.eft
 00d3b28d.5f|black_fade.la2
 00d3cc56.0d|shago_atomic_bomb_dmo.mdl
-00d3d88f.03|
+00d3d88f.03|layer_plain.tri
 00d47615.0d|c3_paste_dmo.mdl
 00d55c13.0d|shago_para_a.mdl
 00d55c13.11|shago_para_a.eft
