@@ -1104,6 +1104,7 @@ svv_back.la2
 svv_back_0.tri
 svv_front.la2
 svv_front_0.tri
+svv_front_1.tri
 svv_front_pal_0.tri
 tai_def.mdl
 tai_def.tri
