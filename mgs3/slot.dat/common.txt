@@ -866,6 +866,7 @@ saaa_high.eft
 saaa_high.mdl
 saaa_sto_dmo.mdl
 saaa_sv.tri
+saru_memcard_0.tri
 saru_memcard_pal_0.tri
 scp_def.mdl
 scp_def.mtar
