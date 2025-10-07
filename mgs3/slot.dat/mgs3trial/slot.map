@@ -1,0 +1,160 @@
+000:radio-normal
+001:charaview-normal
+002:sv_model-kng
+003:sv_model-twn
+004:sv_model-tai
+005:sv_model-sng
+006:sv_model-mlk
+007:sv_model-gps
+008:sv_model-ent
+009:sv_model-vip
+010:sv_model-gav
+011:sv_model-otn
+012:sv_model-ama
+013:sv_model-yad
+014:sv_model-rat
+015:sv_model-lps
+016:sv_model-msa
+017:sv_model-mak
+018:sv_model-bee
+019:sv_model-par
+020:sv_model-rpv
+021:sv_model-red
+022:sv_model-pca
+023:sv_model-sdl
+024:sv_model-lod
+025:sv_model-mid
+026:sv_model-aro
+027:sv_model-crb
+028:sv_model-mushroom_a
+029:sv_model-mushroom_b
+030:sv_model-mushroom_c
+031:sv_model-mushroom_d
+032:sv_model-mushroom_e
+033:sv_model-mushroom_f
+034:sv_model-mushroom_g
+035:sv_model-fruit_a
+036:sv_model-fruit_b
+037:sv_model-fruit_c
+038:sv_model-vegetable_a
+039:facepaint-???                       // todo: identify
+040:facepaint-???                       // todo: identify
+041:facepaint-???                       // todo: identify
+042:facepaint-???                       // todo: identify
+043:facepaint-???                       // todo: identify
+044:facepaint-???                       // todo: identify
+045:facepaint-???                       // todo: identify
+046:facepaint-???                       // todo: identify
+047:facepaint-???                       // todo: identify
+048:facepaint-???                       // todo: identify
+049:facepaint-???                       // todo: identify
+050:facepaint-???                       // todo: identify
+051:facepaint-???                       // todo: identify
+052:facepaint-???                       // todo: identify
+053:facepaint-???                       // todo: identify
+054:camoufla-???                        // todo: identify
+055:camoufla-???                        // todo: identify
+056:camoufla-???                        // todo: identify
+057:camoufla-???                        // todo: identify
+058:camoufla-???                        // todo: identify
+059:camoufla-???                        // todo: identify
+060:camoufla-???                        // todo: identify
+061:camoufla-???                        // todo: identify
+062:camoufla-???                        // todo: identify
+063:camoufla-???                        // todo: identify
+064:camoufla-???                        // todo: identify
+065:camoufla-???                        // todo: identify
+066:camoufla-???                        // todo: identify
+067:camoufla-???                        // todo: identify
+068:camoufla-???                        // todo: identify
+069:camoufla-???                        // todo: identify
+070:camoufla-???                        // todo: identify
+071:camoufla-???                        // todo: identify
+072:camoufla-???                        // todo: identify
+073:camoufla-???                        // todo: identify
+074:camoufla-???                        // todo: identify
+075:camoufla-???                        // todo: identify
+076:camoufla-???                        // todo: identify
+077:camoufla-???                        // todo: identify
+078:camoufla-???                        // todo: identify
+079:camoufla-???                        // todo: identify
+080:camoufla-???                        // todo: identify
+081:camoufla-???                        // todo: identify
+082:camoufla-???                        // todo: identify
+083:camoufla-???                        // todo: identify
+084:camoufla-???                        // todo: identify
+085:camoufla-???                        // todo: identify
+086:camoufla-???                        // todo: identify
+087:camoufla-???                        // todo: identify
+088:camoufla-???                        // todo: identify
+089:camoufla-???                        // todo: identify
+090:weapons-knife
+091:weapons-fork
+092:weapons-cigar
+093:weapons-handkerchief
+094:weapons-coltgave
+095:weapons-easygun
+096:weapons-saa
+097:weapons-patriot
+098:weapons-scorpion
+099:weapons-akm
+100:weapons-stoner
+101:weapons-ithaca
+102:weapons-dragnov
+103:weapons-mosin
+104:weapons-torch
+105:weapons-grenade
+106:weapons-fir_grd
+107:weapons-stn_grd
+108:weapons-chf_grd
+109:weapons-smk_grd
+110:weapons-magazine
+111:weapons-tnt
+112:weapons-claymore
+113:weapons-book
+114:weapons-rat_capture
+115:weapons-microphone
+116:weapons-throw
+117:animals-hebi_a
+118:animals-hebi_b
+119:animals-hebi_c
+120:animals-hebi_d
+121:animals-hebi_e
+122:animals-hebi_f
+123:animals-hebi_g
+124:animals-hebi_h
+125:animals-rat
+126:animals-spider
+127:animals-crab
+128:animals-an_scorpion
+129:animals-frog_b
+130:animals-frog_c
+131:animals-rabbit
+132:animals-bird_a
+133:animals-bird_c
+134:animals-bird_d
+135:animals-bird_e
+136:                                    // ???
+137:sorrow_data-model_ene_fph
+138:sorrow_data-model_ene_wor
+139:sorrow_data-model_ene_flame
+140:sorrow_data-model_ene_rider
+141:sorrow_data-model_ene_pai
+142:sorrow_data-model_ene_fea
+143:sorrow_data-model_ene_end
+144:sorrow_data-model_ene_fur
+145:flash_back-pic0
+146:flash_back-pic1
+147:flash_back-pic2
+148:weapons-c3
+149:flash_back-pic3
+150:                                    // map_s004a
+151:flash_back-pic4
+152:                                    // map_s005a
+153:flash_back-pic5
+154:flash_back-pic6
+155:weapons-rpg7
+156:flash_back-pic7
+157:flash_back-pic8
+158:weapons-m16a1
+159:weapons-mk22
