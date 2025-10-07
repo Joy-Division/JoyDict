@@ -503,6 +503,7 @@ oce_def_burn_dmo.mdl
 oce_def_dmo.mdl
 options.la2
 options_0.tri
+options_pal_0.tri
 options_sub_0.tri
 otn_def.mdl
 otn_def.mtar
