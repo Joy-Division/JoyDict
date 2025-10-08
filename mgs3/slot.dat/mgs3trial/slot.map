@@ -148,9 +148,9 @@
 147:flash_back-pic2
 148:weapons-c3
 149:flash_back-pic3
-150:                                    // map_s004a
+150:sv_map-map_s004a                    // map_s004a
 151:flash_back-pic4
-152:                                    // map_s005a
+152:sv_map-map_s005a                    // map_s005a
 153:flash_back-pic5
 154:flash_back-pic6
 155:weapons-rpg7

@@ -495,7 +495,7 @@
 494:sv_motion-sna001take1
 495:sv_motion-sna001take2
 496:sv_motion-eve001
-497:map_sv_gen-c9f17727                 // map_s001a
+497:sv_map-map_s001a                    // map_sv_gen-c9f17727
 498:flash_back-pic1
 499:picture_processing-pic_pro_001
 500:radio_photo-rd_ani_kumo_2
@@ -510,7 +510,7 @@
 509:radio_photo-rd_misc_hipozaru02
 510:sv_motion-sna002
 511:sv_motion-eve002
-512:map_sv_gen-ebf37215                 // map_s002a
+512:sv_map-map_s002a                    // map_sv_gen-ebf37215
 513:flash_back-pic2
 514:picture_processing-pic_pro_002
 515:radio_photo-rd_ch_eve_03
@@ -525,7 +525,7 @@
 524:radio_photo-rd_misc_hipozaru03
 525:sv_motion-sna003
 526:sv_motion-eve003
-527:map_sv_gen-1440ed6e                 // map_s003a
+527:sv_map-map_s003a                    // map_sv_gen-1440ed6e
 528:sv_model-c3
 529:weapons-c3
 530:flash_back-pic3
@@ -535,21 +535,21 @@
 534:radio_photo-rd_misc_gojira04
 535:sv_motion-sna004
 536:sv_motion-eve004
-537:map_sv_gen-1e66c973                 // map_s004a
+537:sv_map-map_s004a                    // map_sv_gen-1e66c973
 538:flash_back-pic4
 539:picture_processing-pic_pro_004
 540:radio_photo-rd_eqi_rgd5
 541:radio_photo-rd_misc_gojira05
 542:sv_motion-sna005
 543:sv_motion-eve005
-544:map_sv_gen-f141711d                 // map_s005a
+544:sv_map-map_s005a                    // map_sv_gen-f141711d
 545:flash_back-pic5
 546:picture_processing-pic_pro_005
 547:sv_motion-sna006
 548:sv_motion-eve006
-549:map_sv_gen-3f6853f1                 // map_s006a1f
-550:map_sv_gen-114d09ad                 // map_s006a2f
-551:map_sv_gen-f7587880                 // map_s006ab1f
+549:sv_map-map_s006a1f                  // map_sv_gen-3f6853f1
+550:sv_map-map_s006a2f                  // map_sv_gen-114d09ad
+551:sv_map-map_s006ab1f                 // map_sv_gen-f7587880
 552:flash_back-pic6
 553:picture_processing-pic_pro_006
 554:radio_photo-rd_eqi_rpg7
