@@ -4165,6 +4165,7 @@ spd_def.tri
 special_back.la2
 special_back_0.tri
 special_front.la2
+special_front_kor_0.tri
 special_front_pal_0.tri
 spider_a.mtar
 spider_a.mtsq
