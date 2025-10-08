@@ -346,6 +346,7 @@ map_s053a1f_0.tri
 map_s053a1f_1.tri
 map_s053a2f_0.tri
 map_s053a2f_1.tri
+map_s0556a_0.tri
 map_s061a_0.tri
 map_s061a_1.tri
 map_s061a_2.tri
