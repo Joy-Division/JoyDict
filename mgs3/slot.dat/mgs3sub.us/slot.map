@@ -465,29 +465,29 @@
 523:flash_back-pic0
 524:radio_photo-rd_eqi_box01
 527:radio_photo-rd_mec_furuton01
-528:map_sv_gen-aa61ce4f
+528:sv_map-map_gg_b1f03			// map_sv_gen-aa61ce4f
 529:flash_back-pic1
-530:map_sv_gen-406dd48e
+530:sv_map-map_gg1f03			// map_sv_gen-406dd48e
 531:picture_processing-pic_pro_001
-532:map_sv_gen-44080553
+532:sv_map-map_gg1f02			// map_sv_gen-44080553
 533:radio_photo-rd_ch_med_01
 535:radio_photo-rd_ch_zro_01
 536:radio_photo-rd_eqi_key01
 537:radio_photo-rd_misc_hipozaru01
-538:map_sv_gen-c9f17727
+538:sv_map-map_s001a			// map_sv_gen-c9f17727
 539:radio_photo-rd_misc_gojira01
-540:map_sv_gen-65461887
+540:sv_map-map_gg1f01			// map_sv_gen-65461887
 541:radio_photo-rd_ch_sig_01
-542:map_sv_gen-31a6d457
+542:sv_map-map_gg1f00			// map_sv_gen-31a6d457
 543:radio_photo-rd_ch_eve_01
 544:map_sv_gen-069a62e5
-545:map_sv_gen-65bac6ae
+545:sv_map-map_gg2f02			// map_sv_gen-65bac6ae
 546:flash_back-pic2
-547:map_sv_gen-ebf37215
+547:sv_map-map_s002a			// map_sv_gen-ebf37215
 549:radio_photo-rd_mec_furuton02
 550:radio_photo-rd_ch_zro_02
 551:radio_photo-rd_ch_med_02
-552:map_sv_gen-47acbe29
+552:sv_map-map_gg2f03			// map_sv_gen-47acbe29
 553:radio_photo-rd_eqi_box02
 554:radio_photo-rd_ch_sig_02
 555:radio_photo-rd_ani_kumo_2
@@ -497,8 +497,8 @@
 559:radio_photo-rd_misc_gojira02
 561:map_sv_gen-58626d1d
 562:radio_photo-rd_eqi_key02
-563:map_sv_gen-a41cf966
-564:map_sv_gen-2c45fb8f
+563:sv_map-map_gg2f04			// map_sv_gen-a41cf966
+564:sv_map-map_gg2f00			// map_sv_gen-2c45fb8f
 565:radio_photo-rd_eqi_box03
 566:radio_photo-rd_ch_med_03
 567:radio_photo-rd_ch_eve_03
@@ -507,7 +507,7 @@
 570:sv_model-c3
 571:radio_photo-rd_ch_zro_03
 572:weapons-c3
-573:map_sv_gen-cf39026a
+573:sv_map-map_gg3f03			// map_sv_gen-cf39026a
 574:radio_photo-rd_misc_gojira03
 576:radio_photo-rd_misc_hipozaru03
 577:radio_photo-rd_mec_furuton03
@@ -516,10 +516,10 @@
 581:picture_processing-pic_pro_003
 582:flash_back-pic3
 583:map_sv_gen-c1355fde
-584:map_sv_gen-1440ed6e
+584:sv_map-map_s003a			// map_sv_gen-1440ed6e
 585:radio_photo-rd_eqi_c3
 586:map_sv_gen-dca01fba
-587:map_sv_gen-1e66c973
+587:sv_map-map_s004a			// map_sv_gen-1e66c973
 589:radio_photo-rd_eqi_box04
 590:radio_photo-rd_misc_gojira04
 592:picture_processing-pic_pro_004
@@ -528,15 +528,15 @@
 596:picture_processing-pic_pro_005
 597:radio_photo-rd_misc_gojira05
 598:radio_photo-rd_eqi_rgd5
-599:map_sv_gen-f141711d
+599:sv_map-map_s005a			// map_sv_gen-f141711d
 601:flash_back-pic5
 602:flash_back-pic6
-604:map_sv_gen-114d09ad
+604:sv_map-map_s006a2f			// map_sv_gen-114d09ad
 605:picture_processing-pic_pro_006
-606:map_sv_gen-f7587880
-607:map_sv_gen-3f6853f1
+606:sv_map-map_s006ab1f			// map_sv_gen-f7587880
+607:sv_map-map_s006a1f			// map_sv_gen-3f6853f1
 609:flash_back-pic7
-611:map_sv_gen-b97d19a1
+611:sv_map-map_s007a			// map_sv_gen-b97d19a1
 613:radio_photo-rd_eqi_rpg7
 614:sv_model-rpg7
 615:weapons-rpg7
@@ -546,14 +546,14 @@
 622:picture_processing-pic_pro_009
 625:picture_processing-pic_pro_010
 627:picture_processing-pic_pro_011
-628:map_sv_gen-b51e6e3c
+628:sv_map-map_s011a			// map_sv_gen-b51e6e3c
 629:radio_photo-rd_mec_yf12a
-630:map_sv_gen-5edca7e3
+630:sv_map-map_s012a			// map_sv_gen-5edca7e3
 631:picture_processing-pic_pro_012
-632:map_sv_gen-a50b693a
+632:sv_map-map_s013a			// map_sv_gen-a50b693a
 633:picture_processing-pic_pro_013
 634:picture_processing-pic_pro_014
-635:map_sv_gen-2b2226f3
+635:sv_map-map_s014a			// map_sv_gen-2b2226f3
 636:radio_photo-rd_mec_vva14
 637:picture_processing-pic_pro_015
 638:sv_model-m16a1
@@ -565,11 +565,11 @@
 644:picture_processing-pic_pro_018
 645:picture_processing-pic_pro_019
 646:picture_processing-pic_pro_020
-647:map_sv_gen-4d6f73e1
+647:sv_map-map_s021a			// map_sv_gen-4d6f73e1
 648:radio_photo-rd_mec_d21
 649:radio_photo-rd_mec_mig21
 650:picture_processing-pic_pro_021
-651:map_sv_gen-d43cc5c3
+651:sv_map-map_s022a			// map_sv_gen-d43cc5c3
 652:weapons-mk22
 653:picture_processing-pic_pro_022
 654:radio_photo-rd_eqi_mk22
@@ -577,68 +577,68 @@
 656:sv_model-mk22
 657:radio_photo-rd_mec_zu23
 658:picture_processing-pic_pro_023
-659:map_sv_gen-b401efdb
+659:sv_map-map_s023a			// map_sv_gen-b401efdb
 660:radio_photo-rd_mec_m29
-661:map_sv_gen-e4471cc7
-662:map_sv_gen-1ecf0522
-663:map_sv_gen-4de7fd0a
-664:map_sv_gen-0d858997
+661:sv_map-map_s031a			// map_sv_gen-e4471cc7
+662:sv_map-map_s032b			// map_sv_gen-1ecf0522
+663:sv_map-map_s032a			// map_sv_gen-4de7fd0a
+664:sv_map-map_s033a			// map_sv_gen-0d858997
 665:radio_photo-rd_eqi_m37
-666:map_sv_gen-29cc2cda
-667:map_sv_gen-cc4e01d9
-668:map_sv_gen-2e6ae433
-669:map_sv_gen-85fbc086
-670:map_sv_gen-330f2bd4
-671:map_sv_gen-872ab685
+666:sv_map-map_s041a			// map_sv_gen-29cc2cda
+667:sv_map-map_s042a			// map_sv_gen-cc4e01d9
+668:sv_map-map_s043a			// map_sv_gen-2e6ae433
+669:sv_map-map_s044a2f			// map_sv_gen-85fbc086
+670:sv_map-map_s044a3f			// map_sv_gen-330f2bd4
+671:sv_map-map_s044a1f			// map_sv_gen-872ab685
 672:radio_photo-rd_eqi_45colt
-673:map_sv_gen-bb1a96b8
-674:map_sv_gen-cd92d2ce
-675:map_sv_gen-b976d4a1
-676:map_sv_gen-55820fba
-677:map_sv_gen-dd27b454
-678:map_sv_gen-c5e14247
-679:map_sv_gen-3daa2a17
+673:sv_map-map_s045a			// map_sv_gen-bb1a96b8
+674:sv_map-map_s051a			// map_sv_gen-cd92d2ce
+675:sv_map-map_s051b			// map_sv_gen-b976d4a1
+676:sv_map-map_s052a2f			// map_sv_gen-55820fba
+677:sv_map-map_s052a			// map_sv_gen-dd27b454
+678:sv_map-map_s053a1f			// map_sv_gen-c5e14247
+679:sv_map-map_s053a2f			// map_sv_gen-3daa2a17
 680:map_sv_gen-1c5e9356
-681:map_sv_gen-bc85faf2
-682:map_sv_gen-bfe54728
-683:map_sv_gen-b3e033dd
+681:sv_map-map_s061a			// map_sv_gen-bc85faf2
+682:sv_map-map_s062a2f			// map_sv_gen-bfe54728
+683:sv_map-map_s062a1f			// map_sv_gen-b3e033dd
 684:radio_photo-rd_mec_m62
-685:map_sv_gen-517147c5
+685:sv_map-map_s062ab1f			// map_sv_gen-517147c5
 686:radio_photo-rd_eqi_m63
-687:map_sv_gen-69e8ae1a
-688:map_sv_gen-be3e8be7
+687:sv_map-map_s063a			// map_sv_gen-69e8ae1a
+688:sv_map-map_s064a			// map_sv_gen-be3e8be7
 689:radio_photo-rd_eqi_adm65
-690:map_sv_gen-e995ad40
-691:map_sv_gen-9a30236e
-692:map_sv_gen-8a9b139f
-693:map_sv_gen-8a868206
-694:map_sv_gen-4f85d0dc
-695:map_sv_gen-53cb9036
-696:map_sv_gen-cb7c3ee2
-697:map_sv_gen-2a39d462
-698:map_sv_gen-65760644
-699:map_sv_gen-540ad23b
-700:map_sv_gen-dca04802
-701:map_sv_gen-6d560dfe
-702:map_sv_gen-df76ddff
-703:map_sv_gen-77f7d5e9
-704:map_sv_gen-73eaa95d
-705:map_sv_gen-d2fa5f89
-706:map_sv_gen-76a9926b
-707:map_sv_gen-3c12bdc8
+690:sv_map-map_s065a			// map_sv_gen-e995ad40
+691:sv_map-map_s066a			// map_sv_gen-9a30236e
+692:sv_map-map_s071a			// map_sv_gen-8a9b139f
+693:sv_map-map_s072a			// map_sv_gen-8a868206
+694:sv_map-map_s073a			// map_sv_gen-4f85d0dc
+695:sv_map-map_s074a			// map_sv_gen-53cb9036
+696:sv_map-map_s075a			// map_sv_gen-cb7c3ee2
+697:sv_map-map_s081a			// map_sv_gen-2a39d462
+698:sv_map-map_s091a			// map_sv_gen-65760644
+699:sv_map-map_s092a			// map_sv_gen-540ad23b
+700:sv_map-map_s093a			// map_sv_gen-dca04802
+701:sv_map-map_s094a			// map_sv_gen-6d560dfe
+702:sv_map-map_s101a			// map_sv_gen-df76ddff
+703:sv_map-map_s111a			// map_sv_gen-77f7d5e9
+704:sv_map-map_s112a			// map_sv_gen-73eaa95d
+705:sv_map-map_s113a			// map_sv_gen-d2fa5f89
+706:sv_map-map_s121a			// map_sv_gen-76a9926b
+707:sv_map-map_s122a			// map_sv_gen-3c12bdc8
 708:radio_photo-rd_mec_mc130e
-709:map_sv_gen-33f27da4
-710:map_sv_gen-1959c0d5
-711:map_sv_gen-4afe46b9
-712:map_sv_gen-5c4e0cd5
-713:map_sv_gen-19e319a0
-714:map_sv_gen-cae5d932
-715:map_sv_gen-188e2def
-716:map_sv_gen-1a77f668
-717:map_sv_gen-cb93f49f
-718:map_sv_gen-7a4d0bdb
-719:map_sv_gen-b372dd52
-720:map_sv_gen-f016a25e
+709:sv_map-map_s141a			// map_sv_gen-33f27da4
+710:sv_map-map_s151a			// map_sv_gen-1959c0d5
+711:sv_map-map_s152a			// map_sv_gen-4afe46b9
+712:sv_map-map_s161a			// map_sv_gen-5c4e0cd5
+713:sv_map-map_s162a			// map_sv_gen-19e319a0
+714:sv_map-map_s163a			// map_sv_gen-cae5d932
+715:sv_map-map_s171a			// map_sv_gen-188e2def
+716:sv_map-map_s181a			// map_sv_gen-1a77f668
+717:sv_map-map_s191a			// map_sv_gen-cb93f49f
+718:sv_map-map_s192a			// map_sv_gen-7a4d0bdb
+719:sv_map-map_s201a			// map_sv_gen-b372dd52
+720:sv_map-map_s211a			// map_sv_gen-f016a25e
 721:demo_m310_m500-m310_020_p020
 722:demo_m310_m500-m500_010_p010
 723:demo_m390-m390_010_p010
@@ -649,7 +649,7 @@
 728:demo_m440_m450-m440_010_p0
 729:demo_m520_m540-m540_010_p010
 730:demo_m520_m540-m520_010_p010
-731:map_sv_gen-d18864ee
+731:sv_map-map_s0556a			// map_sv_gen-d18864ee
 732:demo_m560_m570-m570_010_p010
 733:demo_m560_m570-m560_010_p010
 734:radio_photo-rd_eqi_m1911a1_2_05
