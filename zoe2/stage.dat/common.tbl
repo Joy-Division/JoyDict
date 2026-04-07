@@ -62,7 +62,7 @@
 077af3d1.hzt|af01_ship_deck2.hzt
 07f6d79f.eft|fr04.eft
 07fe116d.mdz|af01_bk_body09.mdz
-07ff50b6.tex|
+07ff50b6.tex|ba02_d_hangar.tex
 080a6fdb.tex|
 081b21be.hzt|zak_pce_l.hzt
 0852a0d3.tex|
@@ -194,7 +194,7 @@
 17b93a02.scx|ca02.scx
 18153ba1.o2d|vs_menu_pal.o2d
 18291def.mdz|dci_naked.mdz
-182bebdd.mdz|
+182bebdd.mdz|bws_def.mdz
 187781f5.tex|sp02.tex
 18e88828.tex|buildd_hahen.tex
 18f6031c.mtz|g17p02absfake001.mtz
@@ -874,7 +874,7 @@
 65997cd9.tex|tr01_tr2_b.tex
 659b3b15.tex|ftm_cst_mark07_cm.tex
 65c1767c.scx|res01.scx
-65dad6d8.mdz|
+65dad6d8.mdz|ba02_d_hangar.mdz
 65f2b7a9.scx|init.scx
 65fc5e8e.hz2|fr01c.hz2
 6613b682.scx|cad1.scx
@@ -2013,7 +2013,7 @@ f20ba1cf.eft|
 f2264cab.tex|
 f22a712b.mdz|af01_bk_Rbooster02.mdz
 f28b49c6.scx|sp01.scx
-f2b4ed59.tex|
+f2b4ed59.tex|bws_def.tex
 f2b9ccc7.lit|mf01a1.lit
 f2d9af63.mdz|cls_brk.mdz
 f2ff6b0f.tex|

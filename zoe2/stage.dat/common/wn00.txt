@@ -2,6 +2,8 @@ af01_lineflow01.mfl
 af01_lineflow03.mfl
 af01_lineflow05.mfl
 af01_lineflow07.mfl
+bws_def.mdz
+bws_def.tex
 cel_def.mdz
 cel_def.tex
 cel_eff3.cvz

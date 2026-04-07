@@ -75,6 +75,8 @@ bat_ship_over.mdz
 bat_ship_over.tex
 bat_ship_under.mdz
 bat_ship_under.tex
+bws_def.mdz
+bws_def.tex
 bws_gun.hzt
 bws_gun.mdz
 bws_gun.tex

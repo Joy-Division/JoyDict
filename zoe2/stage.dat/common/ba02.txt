@@ -8,6 +8,8 @@ ba02.mdz
 ba02.scx
 ba02.tex
 ba02.trz
+ba02_d_hangar.mdz
+ba02_d_hangar.tex
 ba02pole.mtl
 ba02pole.mts
 ba_grab_pole1.mdz
