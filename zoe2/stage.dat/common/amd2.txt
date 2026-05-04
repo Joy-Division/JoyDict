@@ -33,8 +33,10 @@ inseki_s01_cm.mdz
 jeh_naked.cvz
 jeh_naked.mdz
 jeh_naked.tex
+jeh_naked_blue.flw
 jeh_naked_brk1.mdz
 jeh_naked_brk2.mdz
+jeh_naked_red.flw
 jeh_naked_scar.mdz
 local.fnt
 meteor1_cm.mdz

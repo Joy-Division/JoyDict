@@ -22,6 +22,9 @@ inseki_s01_cm.mdz
 jeh_brk.cvz
 jeh_brk.mdz
 jeh_brk.tex
+jeh_brk_blue.flw
+jeh_brk_red.flw
+jeh_brk_yellow.flw
 local.fnt
 map_nodata.o2d
 normal_comb.tex

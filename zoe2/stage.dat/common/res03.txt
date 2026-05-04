@@ -19,6 +19,9 @@ jeh_naked.mdz
 jeh_naked.mtl
 jeh_naked.mts
 jeh_naked.tex
+jeh_naked_blue.flw
+jeh_naked_red.flw
+jeh_naked_yellow.flw
 jeh_shld.mdz
 jeh_shld.tex
 keepfont.row

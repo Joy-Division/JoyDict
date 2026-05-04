@@ -1,5 +1,6 @@
 ed01.bin
 ed01.scx
+jeh_naked_blue.flw
 local.fnt
 njef_brk_end.mdz
 njef_def_end.mdz

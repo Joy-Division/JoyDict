@@ -9,7 +9,10 @@ grouplock.o2d
 hms_def_cm.mdz
 ibox_life.mdz
 jeh.tex
+jeh_brk_blue.flw
 jeh_brk_game.mdz
+jeh_brk_red.flw
+jeh_brk_yellow.flw
 jeh_def.mtl
 jeh_def.mts
 jeh_gauge.o2d

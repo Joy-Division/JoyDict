@@ -14,7 +14,7 @@
 2274942c.mts|jeh_def.mts
 2773ebdd.o2d|cockpit_panel_scanline.o2d
 29569231.o2d|map_scale.o2d
-2dfa3e9f.flw|
+2dfa3e9f.flw|jeh_brk_blue.flw
 3302f8fc.flw|vcn_def.flw
 3551cc6e.mdz|vcn_ccon_fl.mdz
 37afd199.o2d|
@@ -53,7 +53,7 @@
 a57f8750.mdz|vcn_stg_fl.mdz
 a609e6bb.o2d|saihyo_pause.o2d
 a91ee7dc.mdz|jeh_shld.mdz
-b198ade7.flw|
+b198ade7.flw|jeh_brk_yellow.flw
 b1a08041.flw|vcn_amp.flw
 b1a39c93.o2d|
 b4285cd2.mdz|vcn_gr_on.mdz
@@ -61,7 +61,7 @@ baebd788.o2d|com_frame_s.o2d
 bcb72959.mdz|f_mine.mdz
 bdad336d.o2d|main_options.o2d
 be0ff13a.o2d|menu_in_game_e.o2d
-c5720197.flw|
+c5720197.flw|jeh_brk_red.flw
 c5d2b2ce.flw|msd_red.flw
 c75c22fb.mdz|ibox_life.mdz
 ca63a4d4.mdz|vcn_skl.mdz

@@ -3,8 +3,11 @@ f_mine.tex
 hms_def_cm.mdz
 jeh_brk.bin
 jeh_brk.scx
+jeh_brk_blue.flw
 jeh_brk_game.mdz
 jeh_brk_game.tex
+jeh_brk_red.flw
+jeh_brk_yellow.flw
 jeh_def.mtl
 jeh_def.mts
 jeh_shld.mdz

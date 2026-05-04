@@ -13,8 +13,11 @@ ibox_life.tex
 jeh.tex
 jeh_brk.mdz
 jeh_brk.tex
+jeh_brk_blue.flw
 jeh_brk_game.mdz
 jeh_brk_game.tex
+jeh_brk_red.flw
+jeh_brk_yellow.flw
 jeh_def.mtl
 jeh_def.mts
 jeh_gauge.o2d

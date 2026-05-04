@@ -920,9 +920,12 @@ jeh_brk.cvz
 jeh_brk.mdz
 jeh_brk.scx
 jeh_brk.tex
+jeh_brk_blue.flw
 jeh_brk_game.mdz
 jeh_brk_game.tex
 jeh_brk_head.mdz
+jeh_brk_red.flw
+jeh_brk_yellow.flw
 jeh_def.cvz
 jeh_def.mdz
 jeh_def.mtl
@@ -936,9 +939,12 @@ jeh_naked.mtl
 jeh_naked.mts
 jeh_naked.scx
 jeh_naked.tex
+jeh_naked_blue.flw
 jeh_naked_brk1.mdz
 jeh_naked_brk2.mdz
+jeh_naked_red.flw
 jeh_naked_scar.mdz
+jeh_naked_yellow.flw
 jeh_red.flw
 jeh_shld.mdz
 jeh_shld.tex

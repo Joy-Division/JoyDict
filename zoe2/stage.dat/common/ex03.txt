@@ -18,6 +18,9 @@ jeh_naked.mdz
 jeh_naked.mtl
 jeh_naked.mts
 jeh_naked.tex
+jeh_naked_blue.flw
+jeh_naked_red.flw
+jeh_naked_yellow.flw
 local.fnt
 map_nodata.o2d
 normal_comb.tex
