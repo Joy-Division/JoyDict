@@ -9,3 +9,4 @@ save_load.tri
 scenerio.gcx
 scrn.o2d
 trmenu0.bin
+vrticon.ric

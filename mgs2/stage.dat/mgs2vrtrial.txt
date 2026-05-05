@@ -647,6 +647,7 @@ vr_window.tri
 vram0.raw
 vrgbss2_mt.tri
 vrgbss_mt.tri
+vrticon.ric
 vs03a.hzx
 vs03a.kms
 vs03a.rol
