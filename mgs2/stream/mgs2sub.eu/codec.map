@@ -1,463 +1,463 @@
-0x00000000 // test1
-0x00000080 // Infrared_non-engine_room_RTO_CALL
-0x00002870 // Otakondeforuto_RTO
-0x0003b250 // Watertight_doors_open_deck_RTO_dr501
-0x00074030 // Watertight_doors_open_deck_RTO_dr502
-0x000ace10 // Watertight_doors_open_deck_RTO_dr503
-0x000e5bf0 // Watertight_doors_open_deck_RTO_CALL_dr501
-0x000e64d0 // Watertight_doors_open_deck_RTO_CALL_dr502
-0x000e6db0 // Watertight_doors_open_deck_RTO_CALL_dr503
-0x000e7690 // RTO_deck_watertight_doors
-0x00120970 // Lifeboat_near_RTO
-0x0015a480 // Nearby_RTO_step
-0x00192ec0 // Near_North_RTO_step
-0x001cb920 // Body_discarded_near_where_RTO
-0x00204fe0 // RTO_subjective_attack_enemies_on_the_second_floor_deck
-0x0023e000 // Elude_close_RTO
-0x00276ae0 // Elude_close_RTO_2
-0x002af5c0 // Close_to_elude_the_abyss_RTO
-0x002e84a0 // RTO_2F_close_attention_elude_enemy
-0x00321a10 // CALL_suspension_RTO
-0x00322210 // Locker_RTO_lk000
-0x0035cd70 // Locker_RTO_lk001
-0x003978d0 // Locker_RTO_lk002
-0x003d2430 // Locker_RTO_lk003
-0x0040cf90 // Locker_RTO_lk004
-0x00447af0 // Locker_RTO_lk005
-0x00482650 // Locker_open_RTO_lk006
-0x004bb4b0 // Locker_open_RTO_lk007
-0x004f4310 // Rokkarumudeforuto_RTO_w01a
-0x0052d3d0 // Steam_pipe_near_RTO
-0x005665c0 // Footprints_RTO
-0x0059ff00 // Starboard_watertight_door_open_near_RTO_w01a
-0x005d9350 // RTO_forward
-0x005d9d10 // Tore_Desuka_of're_RTO
-0x00613160 // Close_to_the_engine_room_stairs_RTO
-0x00613a50 // RTO_trial_to_the_engine_room_near_the_stairs
-0x00614330 // Refresh_Room_RTO
-0x0064d6c0 // TV_talk_RTO
-0x00688230 // Gaze_TV_RTO
-0x006c30a0 // Doors_open_RTO_refresh
-0x006c37f0 // Dimple_corridors_upstairs_RTO
-0x006fcf20 // Dimple_corridors_upstairs_locker_RTO
-0x00738770 // RTO_shadow_area
-0x007711b0 // Doors_open_RTO_2F
-0x00771900 // Starboard_door_open_RTO_2F_levels
-0x007aa540 // Olga_prewar_RTO_2F_tight_doors_close
-0x007aae40 // Olga_war_RTO_2F_tight_doors_close
-0x007ab640 // Watertight_doors_opened_near_Port_RTO_2F
-0x007e4c30 // RTO_w01c_cameras
-0x0081e670 // RTO_cameras
-0x0081fba0 // CALL_RTO_cameras
-0x00820bd0 // The_third_floor_lockers_RTO
-0x0085b730 // Restaurant_RTO
-0x00894d20 // Dining_body_RTO
-0x008ce6b0 // RTO_w01d_cameras
-0x00908d00 // Warehouse_RTO
-0x00941ff0 // Clearing_RTO_w01d_CALL
-0x00942f40 // Clearing_RTO_w01a_CALL
-0x00943e90 // Demon_RTO_stairs
-0x0097cf20 // Demon_RTO_w01d_stairs_CALL
-0x0097dab0 // RTO_wheelhouse
-0x009b7000 // Wheelhouse_door_open_RTO
-0x009f07c0 // CALL_RTO_wheelhouse_door_open
-0x009f0f10 // Olga_races_RTO
-0x009f5f30 // Olga_game_tips_RTO_CALL1
-0x009f7570 // Olga_RTO_inescapable_battle
-0x009fcfe0 // Olga_RTO_war_no-go
-0x00a02460 // CALL_RTO_bloody_state
-0x00a03bf0 // Upon_acquisition_RTO_USP_CALL
-0x00a05040 // Olga_wanted_dead_or_shot_RTO
-0x00a059d0 // On_the_mast_RTO
-0x00a3e9a0 // Infrared_engine_room_RTO
-0x00a7e360 // Infrared_Non_RTO_engine_room
-0x00abacf0 // CALL_infrared_RTO_engine_room
-0x00ac26f0 // Otakondeforuto_RTO_w02a
-0x00afc420 // Aya_Rei_Amata_area_RTO_w02a_chatter
-0x00b35b00 // Locker_RTO_w02a_lk001
-0x00b70660 // Locker_RTO_w02a_lk002
-0x00bab1c0 // Locker_RTO_w02a_lk003
-0x00be5d20 // Locker_open_RTO_w02a_lk004
-0x00c1eb80 // Locker_RTO_w02a_lk011
-0x00c596e0 // Locker_RTO_w02a_lk012
-0x00c94240 // Locker_open_RTO_w02a_lk013
-0x00ccd0a0 // Olga_RTO_have_scattered_areas
-0x00d066d0 // RTO_top_mast
-0x00d3f690 // Watertight_doors_open_RTO_w03a_dr000
-0x00d782e0 // Watertight_doors_open_RTO_w03a_dr100
-0x00db0f30 // Watertight_doors_open_RTO_w03a_dr200
-0x00de9b80 // Watertight_doors_open_RTO_w03a_dr300
-0x00e227b0 // Watertight_doors_open_RTO_w03a_dr301
-0x00e5b3e0 // Watertight_doors_open_RTO_w03a_dr302
-0x00e94010 // Watertight_doors_open_RTO_w03b_dr000
-0x00eccc70 // Watertight_doors_open_RTO_w03b_dr001
-0x00f058d0 // Watertight_doors_open_RTO_w03b_dr100
-0x00f3e530 // RTO_hold_events
-0x00f4b540 // RTO_hold_door_lock
-0x00f50f70 // Sound_floor_RTO
-0x00f56df0 // RTO_ladder
-0x00f5cc50 // RTO_floor_ladder_ring
-0x00f63230 // Hatch_RTO_hold_ground
-0x00f68e20 // Projector_RTO
-0x00f706e0 // RTO_hold_ground
-0x00f763a0 // Facsimile_machine_RTO
-0x00f858f0 // Soldiers_hold_RTO_TV
-0x00f93740 // Under_Paul_RTO
-0x00fa04e0 // On_the_pole_RTO
-0x00fad6c0 // Opening_RTO_00b1R_radio_demo
-0x00fb0760 // Free_trial_after_the_appearance_of_radio_RTO_03b1R_Kamov
-0x00fb1470 // RTO_04a0R_radio_wheelhouse_demo
-0x00fb2b70 // After_the_victory_over_Olga_RTO_06b1R_radio_demo
-0x00fb3a90 // After_the_appearance_of_retail_RTO_03b1R_Kamov_radio_demo
-0x00fb5870 // RTO_06b1R_1_after_the_victory_over_Olga_radio_demo
-0x00fb9ba0 // Radio_free_hold_RTO_09b1R_1
-0x00fbac60 // RTO_10b1R_2_radios_hold_demo
-0x00fc0150 // RTO_vc050101
-0x00fc23b0 // RTO_vc050204
-0x00fc36e0 // RTO_vc050301
-0x00fc43f0 // RTO_vc050401
-0x00fc5ae0 // RTO_vc050302
-0x00fc78c0 // RTO_vc080101
-0x00fc87e0 // RTO_vc080201
-0x00fcb680 // RTO_vc080301
-0x00fcc730 // RTO_vc080401
-0x00fcd780 // RTO_vc080402
-0x00fce040 // Default_RTS_SAVE
-0x00fe1f10 // Start_image_determination
-0x00ff32b0 // PHONE_fire
-0x00ff34d0 // PHONE_sea_lice
-0x00ff36f0 // PHONE_mine
-0x00ff38f0 // Remote_control_shortcuts_PHONE
-0x00ff3e40 // Damiu_cheeks_RPD_P
-0x00ff4360 // Dummy_Cameras_RPD_P_face_Tankaotakon
-0x00ff46d0 // Dummy_Cameras_RPD_P_face_Tankasuneku
-0x00ff4a40 // Dummy_Cameras_RPD_P_face_Leyden
-0x00ff4db0 // Dummy_Cameras_RPD_P_face_diving_Leiden
-0x00ff5250 // Leiden_Dummy_Cameras_RPD_P_naked_face
-0x00ff5690 // Leiden_Dummy_Cameras_RPD_P_face_without_a_mask_soldier_Goruruko
-0x00ff5a10 // Dummy_Cameras_RPD_P_face_masked_men_in_Leiden_Goruruko
-0x00ff5d70 // Dummy_Cameras_RPD_P_face_Oosa
-0x00ff6cf0 // Oosa_Dummy_Cameras_RPD_P_look_right
-0x00ff7180 // Oosa_Dummy_Cameras_RPD_P_left_face
-0x00ff7610 // Oosa_Dummy_RPD_P_face_behind_the_camera
-0x00ff7aa0 // Oosa_Dummy_Cameras_RPD_P_front_face
-0x00ff7f30 // Oosa_Dummy_Cameras_RPD_P_face_Aori
-0x00ff83c0 // Oosa_Dummy_Cameras_RPD_P_look-up
-0x00ff8850 // Oosa_Dummy_Cameras_Bug_RPD_P_look_right
-0x00ff8cf0 // Oosa_Dummy_Cameras_Bug_RPD_P_face_left
-0x00ff9190 // Oosa_Dummy_Cameras_Bug_RPD_P_look_back
-0x00ff9620 // Oosa_Dummy_Cameras_Bug_RPD_P_front_face
-0x00ff9ac0 // Dummy_Cameras_RPD_P_face_Oosa_Aori_bug
-0x00ff9f60 // Dummy_Cameras_RPD_P_face_Oosa_Up_Bug
-0x00ffa400 // Dummy_Cameras_RPD_P_Rose_Face
-0x00ffa760 // Dummy_Cameras_RPD_P_face_Purisukin
-0x00ffaac0 // Dummy_Cameras_RPD_P_Snake_Face
-0x00ffae40 // Dummy_Cameras_RPD_P_Snake_face_shave
-0x00ffb190 // Dummy_Cameras_RPD_P_face_Peter
-0x00ffb510 // Dummy_Cameras_RPD_P_face_Otakon
-0x00ffb8a0 // Dummy_Cameras_RPD_P_ninja_face
-0x00ffbcf0 // Olga_Dummy_Cameras_RPD_P_face
-0x00ffc080 // Ames_Dummy_Cameras_RPD_P_face
-0x00ffc3d0 // President_Dummy_Cameras_RPD_P_face
-0x00ffc8c0 // Emma_Dummy_Cameras_RPD_P_face
-0x00ffcc90 // Dummy_cameras_face_the_player_RPD_P_Emma
-0x00ffd150 // Opening_Infiltration_wireless_demo_RPD_P001_02_R01_1_2
-0x01001090 // Opening_Infiltration_RPD_P001_04_R02_2_4_wireless_demo
-0x01001dd0 // Wireless_connection_free_RPD_P002_02_R01_A_1_2_bottom_leg_hatch
-0x01003520 // Radio_free_lift_rise_RPD_P003_02_R02_1_Snake_2
-0x01006f70 // First_radio_demonstration_connected_two_nodes_RPD_P004_02_R01_1
-0x0100f0c0 // RPD_P005_03_R01_1_3_wireless_demo_Leiden_rise_elevators
-0x010104c0 // Radio_free_lift_rise_RPD_P005_05_R02_2_5_Leiden
-0x01010f80 // Wireless_Mesh_Demonstration_RPD_P006_01_R01_A_1_Leg_1
-0x010127c0 // A_wireless_node_before_the_demonstration_RPD_P007_01_R01_A_leg_1_1
-0x010138a0 // Bridge_to_a_radio_demo_RPD_P008_01_R01_AB_1_1
-0x01016ec0 // Cypher_encounters_a_wireless_demo_RPD_P009_01_R01_1_1
-0x0101a030 // Vamp_Radio_4_demo_RPD_P010_04_R01_encounter_1_1
-0x0101b2b0 // Wireless_Bridges_RPD_P011_01_R01_BC_CALL1_1_demo
-0x0101eb90 // Encounter_2_Demo_Fortune_Wireless_RPD_P012_02_R01_1
-0x010238c0 // Radio_free_radio_RPD_P013_01_R01_1_1_Leiden_crisis
-0x01026b20 // Wireless_demo_encounter_RPD_P014_05_R01_1_Peter_5
-0x01029320 // One_of_the_first_wireless_demonstration_RPD_P015_01_R1_1_1_demolition_bomb
-0x0102ccd0 // Dismantling_a_radio_demo_RPD_P016_01_R1_1_half_demolition_bomb
-0x01030510 // Rose_RPD_P017_01_R01_1_1_radio_demonstration_bomb_being_dismantled
-0x01032d10 // Rose_RPD_P018_01_R01_1_2_wireless_demo_bomb_being_dismantled
-0x010354b0 // Rose_RPD_P019_01_R01_1_3_wireless_demo_bomb_being_dismantled
-0x010395c0 // Mines_a_radio_demo_RPD_P020_01_R01_1
-0x0103b0b0 // Mines_a_radio_demo_RPD_P020_01_R01_1_2
-0x0103c8e0 // Olga_appeared_in_two_radio_RPD_P021_02_R01_1_demo_demolition_bomb
-0x0103e1d0 // RPD_P022_01_R01_1_second_from_the_last_one_wireless_demo_demolition_bomb
-0x01048030 // One_last_one_RPD_P023_01_R01_1_radio_demo_demolition_bomb
-0x0104be00 // Wireless_sensor_demo_demolition_bomb_RPD_P024_01_R01_B_1_Get_1
-0x0104f010 // Under_a_wireless_demo_RPD_P025_01_R01_1_bomb_lift_demolition
-0x01051660 // Demolition_bomb_down_the_elevator_RPD_P025_01_R01_1
-0x01053410 // Ending_a_radio_demo_demolition_bombs_RPD_P026_01_R01_1
-0x010551c0 // Demonstration_Hall_elevator_RPD_P027_01_R01_1_radio_after_breaking_a_bomb
-0x010585c0 // Fortune_demo_wireless_radio_during_the_war_RPD_P030_01_R01_1
-0x0105a9b0 // Dismantling_a_radio_demo_ends_RPD_P035_01_R01_1_Fat_Bomb
-0x0105c6c0 // Fat_Man_bomb_dismantling_a_radio_demo_ends_RPD_P035_01_R01_1_2
-0x01060280 // Radio_3_demo_ninja_appeared_RPD_P036_03_R01_1
-0x01063180 // Wireless_demo_ninja_appeared_RPD_P036_08_R02_2_8
-0x01064660 // 10_radio_appearance_RPD_P036_10_R03_3_demo_ninja
-0x01065b80 // 13_radio_demo_ninja_appeared_RPD_P036_13_R04_4
-0x01067dd0 // Snake_body_of_a_radio_demo_RPD_P037_01_R01_1
-0x0106a560 // Ames_found_the_wireless_demonstration_RPD_P040_02_R02_1_2
-0x0106f3a0 // Ames_found_the_wireless_demonstration_RPD_P040_06_R02_6_2_1
-0x01072fd0 // Ames_found_the_wireless_demonstration_RPD_P040_06_R02_6_2_2
-0x010742c0 // Ames_demonstrations_after_the_death_of_two_radio_RPD_P041_02_R01_1
-0x01077690 // Wireless_Bridges_demonstration_RPD_P042_01_R01_1_2_1_1_Shell_Shell
-0x01079880 // A_clear_demonstration_RPD_P044_01_R01_1_wireless_infrared_sensor
-0x0107c7d0 // A_clear_demonstration_RPD_P044_01_R01_wireless_infrared_sensor_1_2
-0x0107ffd0 // Harrier_Demo_RPD_P046_02_R01_1_1_victory_over_two_radio
-0x01085e60 // Harrier_Demo_RPD_P046_02_R01_victory_over_two_radio_1_2
-0x0108a610 // Olga_in_bed_before_5_RPD_P047_05_R01_1_radio_shock_demo
-0x0108d250 // RPD_P049_02_R01_1_2_presidential_radio_demo
-0x01091ad0 // 5_presidential_radio_RPD_P049_02_R01_2_Demo
-0x01094820 // Demo_presidential_radio_RPD_P049_08_R03_3_8
-0x01098e30 // 10_RPD_P049_10_R04_4_presidential_radio_demo
-0x0109d960 // 12_RPD_P049_12_R05_5_presidential_radio_demo
-0x010a1b10 // Satoshi_Hitoshi_RPD_P050_01_R01_1_Part_1_radio_tanker_demo
-0x010a56b0 // Satoshi_Hitoshi_RPD_P050_04_R02_2_Demo_Part_4_radio_tanker
-0x010a6b90 // Satoshi_Hitoshi_RPD_P050_06_R03_3_Demo_Part_6_radio_tanker
-0x010a8dd0 // Otakon_RPD_P051_01_R01_1_1_Emma_and_radio_demo
-0x010b0fc0 // Emma_and_a_radio_demo_RPD_P051_01_R01_Otakon_1_2
-0x010b2bc0 // Radio_1_radio_demonstration_Rose_RPD_P052_01_R01_1
-0x010b7cb0 // Breathing_a_radio_demo_RPD_P053_01_R01_1
-0x010bc920 // Exit_2_demo_game_radio_RPD_P057_02_R01_1_Vamp
-0x010bdc60 // Exit_2_demo_game_radio_RPD_P057_02_R01_1_2_Vamp
-0x010c02a0 // Emma_radio_rescue_demonstration_RPD_P058_02_R01_1_2
-0x010c20f0 // Emma_rescue_four_Demo_RPD_P058_04_R02_2_radio
-0x010c3f40 // Emma_radio_rescue_demonstration_RPD_P058_07_R03_3_7
-0x010c5660 // Emma_break_free_radio_RPD_P059_03_R01_1_3
-0x010c7c10 // Otakon_RPD_P061_01_R01_1_Emma_and_a_radio_demo
-0x010cb7c0 // Emma_and_AI3_1_RPD_P062_03_R01_radio_demo
-0x010d3e20 // Emma_and_radio_RPD_P062_05_R02_AI5_2_Demo
-0x010d6b00 // Radio_1_radio_demonstration_Emaraidenrozu_RPD_P064_01_R01_1
-0x010d9290 // Emma_L_1_2_RPD_P065_02_R01_leg_radio_demo
-0x010db240 // Emma_RPD_P065_06_R02_L_2_feet_6_radio_demo
-0x010df180 // Emma_shot_a_radio_demo_RPD_P067_01_R01_1
-0x010e0380 // Exit_2_demo_sniper_RPD_P069_02_R01_1_radio_Vamp
-0x010e1a60 // RPD_P069_04_R02_2_sniper_demo_ends_four_radio_Vamp
-0x010e2ff0 // 10_Start_demo_radio_RPD_P070_10_R01_AG_1
-0x010e4350 // 18_Start_demo_radio_RPD_P070_18_R02_AG_2
-0x010e74e0 // 20_radio_RPD_P070_20_R03_AG_3_Launch_Demo
-0x010ea2f0 // 23_radio_RPD_P070_23_R04_AG_4_demo_launch
-0x010f1960 // RPD_P071_01_R01_1_torture_room_escape_a_radio_demo
-0x010f4400 // A_radio_demo_confusion_Oosa_RPD_P072_01_R01_1
-0x010f64c0 // Radio_free_passage_RPD_P073_01_R01_A1_1
-0x010fc160 // Radio_free_passage_RPD_P073_03_R02_A3_2
-0x010fe7e0 // RPD_P074_02_R01_after_passage_A_1_2_sword_demo_radio
-0x01101010 // Otakon_successful_demonstration_RPD_P075_01_R01_1_radio_1
-0x011030c0 // AI1_1_Oosa_RPD_P076_01_R01_radio_demo
-0x011062d0 // Rose_kidnap_a_radio_demo_RPD_P077_01_R01_1
-0x011089a0 // Rose_kidnap_a_radio_demo_RPD_P077_01_R01_shave_1
-0x0110b070 // Radio_free_floating_RPD_P080_19_R01_AG_1_19
-0x01119470 // 21_emerging_wireless_RPD_P080_21_R02_AG_2_Demo
-0x011268d0 // 23_emerging_wireless_RPD_P080_23_R03_AG_3_Demo
-0x01127c60 // 25_emerging_wireless_RPD_P080_25_R04_AG_4_demo
-0x0112da70 // CALL_mad_RPC
-0x01133d60 // Default_RPC_Oosa
-0x011b65c0 // Fortune_default_RPC_Oosa_races
-0x011bb860 // Fat_wartime_relief_RPC_CALL
-0x011bce50 // During_the_war_and_after_the_default_RPC_Oosa_Fat
-0x0120ecc0 // The_default_while_a_sniper_Emma_RPC_Oosa
-0x01214700 // Default_RPC_Oosa_races_Vamp
-0x01216520 // Harrier_default_RPC_Oosa_races
-0x0121aa60 // The_default_while_a_sniper_RPC_w25a_Oosa
-0x012677f0 // Default_RPC_w11b_Oosa
-0x012b13d0 // After_the_madness_default_RPC_Oosa
-0x012c03d0 // Naked_Oosa_default_RPC_Leiden
-0x012d1e80 // Leiden_diving_default_RPC_Oosa
-0x012f20a0 // Leiden_diving_cage_door_open_RPC_w11
-0x01340250 // Tooru_Hiroshi_cage_door_open_RPC_w11b
-0x0138e400 // Hofukupointo_RPC_diving_Leiden
-0x013dc700 // Tooru_Hiroshi_Hofukupointo_RPC
-0x0145f410 // Duct_RPC_diving_Leiden
-0x014ad590 // Duct_RPC_Tooru_Hiroshi
-0x01530120 // Leiden_RPC_diving_underwater
-0x01582e80 // RPC_w11b_Water
-0x015d5be0 // Underwater_diving_ladder_RPC_Leiden
-0x01628ce0 // Water_RPC_w11b
-0x0167ba40 // Water_RPC_w11b_ladder
-0x016ceb40 // Tooru_Hiroshi_water_RPC
-0x01756330 // Elude_diving_RPC_w11b
-0x017a4300 // Tooru_Hiroshi_elude_RPC_w11b
-0x017f22d0 // Tooru_Hiroshi_elude_RPC
-0x018773e0 // A_step_upstream_diving_RPC_Leiden
-0x018c52a0 // Tooru_Hiroshi_step_upstream_RPC
-0x0194a2a0 // Leiden_dock_diving_submersible_submarine_RPC
-0x01999200 // Jim_diving_suit_RPC_Leiden
-0x019e7ee0 // Leiden_dive_locker_RPC_w11_lk001
-0x01a37670 // Tooru_Hiroshi_RPC_w11_lk001_Locker
-0x01abdf20 // Leiden_dive_locker_RPC_w11_lk002
-0x01b0d6b0 // Tooru_Hiroshi_RPC_w11_lk002_Locker
-0x01b93f60 // Leiden_dive_locker_RPC_w11_lk003
-0x01be36f0 // Tooru_Hiroshi_RPC_w11_lk003_Locker
-0x01c69fa0 // Submersible_watertight_doors_RPC_Leyden
-0x01cb8a00 // Node_RPC_w11_diving_Leiden
-0x01d09010 // Leiden_RPC_w11_lift_dive
-0x01d29c50 // Warning_RPC_w11a_Okkishita_enemy_submarines_CALL_Leiden
-0x01d2af20 // CALL_foot_wire_mesh_roof_RPC_A_Hofuku
-0x01d2c520 // Wire_mesh_roof_leg_RPC_A_Hofuku
-0x01dafc50 // RPC_elude_the_abyss
-0x01e32ba0 // OY_a_heliport_RPC_w20b_Mabuchi
-0x01eb5cc0 // 2_Oi_Mabuchi_RPC_w20b_Heliport
-0x01f38de0 // RPC_elude_hell_ring_floor
-0x01fbc0c0 // Sound_floor_elude_RPC
-0x0203ee40 // RPC_just_elude
-0x020c3f50 // Sound_floor_RPC
-0x02146b40 // Common_pitfalls_RPC_1
-0x021c97b0 // Common_pitfalls_RPC_2
-0x0224c420 // RPC_pitfalls_elude_hell_1
-0x022cf770 // 2_RPC_elude_hell_pit
-0x02352ac0 // Elude_RPC_mine_pit
-0x023da180 // RPC_w11_elude_lift
-0x0245d4f0 // Doors_closed_for_the_roof_leg_RPC_w12a_A_key
-0x024e00d0 // RPC_Tooru_Hiroshi_sea_lice
-0x02567110 // RPC_diving_sea_lice
-0x025b7070 // No_sea_louse_insect_Emma_RPC
-0x0263b6f0 // Common_locker_RPC_1
-0x026bf8b0 // Common_locker_RPC_2
-0x02743a70 // Common_diving_locker_RPC_w11_1
-0x02793230 // Common_diving_locker_RPC_w11_2
-0x027e29f0 // Common_RPC_w11_locker_Tooru_Hiroshi_1
-0x028321b0 // Common_RPC_w11_locker_Tooru_Hiroshi_2
-0x02881970 // Common_board_substations_RPC_1
-0x02904690 // Common_board_substations_RPC_2
-0x029873b0 // Common_open_locker_RPC_1
-0x02a0a070 // Common_open_locker_RPC_2
-0x02a8cd30 // Common_RPC_node
-0x02b116f0 // Purisukin_RPC_sleep
-0x02b94590 // Captain_Corpse_RPC
-0x02c17260 // RPC_card_door
-0x02c9a4d0 // Cardboard_area_RPC
-0x02d1d260 // Ten'iwaco_RPC
-0x02d9fe20 // RPC_w18a_door_to_the_Shell_2
-0x02e22f00 // RPC_D_leg_hatch
-0x02ea5df0 // Leg_Hatch_RPC_D_CALL
-0x02ea6ee0 // E_Oosa_RPC_1F_default_leg
-0x02f2a070 // Harrier_RPC_w20b
-0x02fad1f0 // CALL_Kamome_RPC_'s_murder
-0x02fae7e0 // Lift_the_internal_RPC
-0x030324f0 // Lift_the_switch_before_RPC_w24a
-0x030b7460 // Before_RPC_w24b_retina_sensor
-0x0313b140 // Cho_the_first_time_I_wanted_RPC_w24b_retinal_sensors_themselves_and_the_Leyden_peek_CALL
-0x0313c4e0 // Before_the_elevator_RPC_w24a_CALL
-0x0313e250 // Emma_seat_near_RPC_w24d
-0x031c23a0 // RPC_w24d_seats_around_geek
-0x032451f0 // Before_the_door_RPC_w24d_AG
-0x032c8350 // CALL_Mike_hostages_in_the_event_description_RPC_w24c
-0x032cb040 // Event_Description_RPC_w24c_hostages_without_a_microphone_CALL
-0x032cd7e0 // Fire_near_RPC
-0x03350610 // Frankly_who_flew_over_the_bridge_to_RPC_DG
-0x033d3310 // If_you_cross_the_bridge_to_RPC_DG_Erudozubari
-0x03456a10 // RPC_LG_Ladder_Bridges
-0x034d9710 // Leg_circumference_RPC_L_window
-0x0355c810 // RPC_L_outer_leg_stick
-0x035df4f0 // RPC_L_outer_leg_squatting
-0x03662090 // Bridges_RPC_KL_K_inlet_leg
-0x036e5230 // 2_floor_central_building_shell_shock_RPC_1F
-0x037684a0 // Dark_Shell_2_1F_RPC_central_building
-0x037eb180 // Duct_before_the_two_central_building_shell_RPC_1F
-0x0386ec40 // First_drowned_water_RPC_w31b_CALL
-0x03870580 // First_drowned_RPC_w11ab_CALL_water_diving
-0x03871950 // First_drowned_water_Tooru_Hiroshi_RPC_w11ab_CALL
-0x03872d20 // First_drowned_in_water_RPC_w31b_CALL
-0x03874f30 // First_drowned_underwater_diving_RPC_w11a_CALL
-0x03876bd0 // First_drowned_in_water_Tooru_Hiroshi_RPC_w11a_CALL
-0x03878870 // Oosa_default_RPC_swim
-0x039000b0 // Water_near_the_mine_RPC
-0x03987d00 // Water_tight_doors_not_open_RPC
-0x03a0f840 // Water_tight_doors_open_RPC
-0x03a974b0 // Emma_Emma_room_before_rescue_RPC
-0x03ade6e0 // Water_RPC_card_door
-0x03b66230 // Emma_Peep_RPC
-0x03bee090 // Emma_Peep_RPC_w31c_CALL
-0x03befb40 // Emma_and_first_Izumi_RPC_w31c_CALL
-0x03bf1180 // Ladder_RPC_w32a_CALL
-0x03bf20c0 // RPC_E_leg_ladder
-0x03c74fe0 // RPC_torture_chamber_door_open
-0x03c86ea0 // Node_near_RPC_w41a
-0x03c98ee0 // Submarine_Dock_advice_of_avoiding_dangerous_mode_RPC_w11a_CALL
-0x03c9a3e0 // Submarine_Dock_reminder_RPC_w11a_CALL
-0x03c9b4a0 // CALL_disable_enemy_weapons_RPC_w11a
-0x03c9e150 // CALL_bloody_RPC_w11a
-0x03c9faf0 // Submarine_Dock_RPC_w11a_VR
-0x03cee3b0 // Clearing_RPC_w11a_CALL
-0x03cf08a0 // Clearing_RPC_w12b_CALL
-0x03cf2d90 // Zero_verge_RPC_LIFE_CALL
-0x03cf4030 // CALL_diving_simulation_when_getting_RPC
-0x03cf6480 // Upon_acquisition_regulation_Tooru_Hiroshi_RPC_CALL
-0x03cf88d0 // CALL_RPC_w12b_defeated_enemy
-0x03cfa710 // CALL_RPC_w24c_hit_hostage
-0x03cfbd20 // Bridges_RPC_Oosa_default
-0x03d80080 // Bridges_Kamome_Oosa_RPC_default
-0x03e05360 // Bridges_RPC_default_Oosa_Cypher
-0x03e8a6d0 // Contact_RPC_BC_damaged_bridge_bridge
-0x03f10200 // Bridges_RPC_Oosa_Kamome_Gansaifa_default
-0x03f959c0 // RPC_w21a_mine_area
-0x0401ca00 // Doors_open_RPC_w28a
-0x0409f8b0 // Return_RPC_Fortune_Game
-0x040a4fd0 // RPC_men's_toilet_bowl
-0x041299b0 // RPC_women's_toilet_bowl
-0x041ae670 // Near_RPC_Kowaremono
-0x04231bd0 // Default_RPC_w18a
-0x042b4b20 // Girls_pants_look_RPC_w24c_area
-0x04338250 // CALL_RPC_w25a_suicide_dive
-0x04339130 // Fun_RPC_w22a_infrared_sensor
-0x043bd920 // Tooru_Hiroshi_RPC_LV2CALL_grip_chin
-0x043bea20 // RPC_LV2CALL_grip_chin_dive
-0x043bfb20 // Tooru_Hiroshi_RPC_LV3CALL_grip_chin
-0x043c0e40 // RPC_LV3CALL_grip_chin_dive
-0x043c2160 // Tooru_Hiroshi_CALL_rise_RPC_grip_chin
-0x043c3510 // Dive_on_in_grip_chin_RPC_CALL
-0x043c48c0 // CALL_RPC_w61a_patriotic_sermon
-0x043c8080 // CALL_RPC_available_radar_during_World_War_II_Harrier
-0x043c9100 // Fortune_wartime_relief_RPC_CALL
-0x043ca9a0 // The_RPC_w25d_Shinaota
-0x0444d650 // Entrance_leg_RPC_w25d_K
-0x044d0340 // RPC_close_surveillance
-0x04553a30 // RPC_shit
-0x045d6b50 // Emma_blood_RPC_w20a
-0x04659be0 // Nikita_body_when_getting_RPC_CALL
-0x0465ad00 // Infrared_RPC_w22a_CALL
-0x0465c280 // CALL_Mike_at_acquisition_RPC
-0x0465d380 // RPC_w24b_bad_enemy_dying_retinal_sensors_CALL
-0x0465e270 // Sensor_Tips_Retinal_RPC_w24b_CALL
-0x0465f330 // Rolling_leap_RPC_w25c_CALL
-0x046601f0 // Rolling_RPC_w25c_jumping_area
-0x046e5e00 // I'm_in_the_elevator_RPC_w11a_enemy_CALL
-0x046e6be0 // I'm_in_the_elevator_RPC_enemy_CALL
-0x046e79c0 // Emma_default_RPE
-0x046fb310 // Otakondeforuto_RPO
-0x0470fd00 // South_opened_the_door_RPO_w44a
-0x04724ab0 // Tengu_RPO_w44a_passage_door_door
-0x04739a20 // CALL_RPO_w61a_relief_against_solidus
-0x0473acf0 // Peter_default_RPP
-0x04758ea0 // A_Bomb_Hofuku_leg_tips_RPP_CALL
-0x04759e40 // Ten'iwaco_RPP
-0x04778930 // Music_RPP_w14a_bomb_near_substations
-0x04796fc0 // RPP_w16b_bomb_near_the_ladies_room
-0x047b5790 // Default_RPR_Rose
-0x0480c260 // Naked_Rose_Leyden_default_RPR
-0x04862d90 // Rose_Leyden_default_RPR_diving
-0x048b9860 // Purisukin_RPS_night
-0x048bb7f0 // Peter_default_Purisukin_RPS
-0x04936ce0 // Purisukin_RPS_Otakondeforuto
-0x049b21d0 // Harrier_races_Purisukin_RPS_Otakon
-0x049baef0 // Otakondeforuto_Purisukin_RPS_soldier_has_mask_Goruruko
-0x04a363e0 // Sunekudeforuto_RPS
-0x04ab18d0 // RPS_E_leg_ladder
-0x04b2ce20 // Peter_RPS_w21a_area_with_land_mines
-0x04ba83a0 // Otakon_RPS_w21a_area_with_land_mines
-0x04c23920 // Water_near_the_mine_RPS
-0x04ca0020 // If_Kon_Nori_RPS_w20a_Beru
-0x04d1bab0 // RPS_women's_toilet
-0x04d977d0 // Peter_RPS_body
-0x04e13110 // Pool_near_RPS_w31c
-0x04e8e660 // Bridges_RPS_default_Cypher
-0x04eeb830 // After_a_sniper_opened_the_door_RPS_Vamp
-0x04f66e00 // Emma_blood_RPS_w20a
-0x04fe2780 // Open_the_door_after_shooting_Vamp_RPS_CALL
-0x04fe3900 // CALL_RPS_w25a_PSG1_addict
-0x04fe52a0 // CALL_body_when_getting_RPS_PSG1
-0x04fe6230 // CALL_body_when_getting_RPS_AK
+0x00000000 test1
+0x00000080 RTO_赤外線ＣＡＬＬ機関室以外
+0x00002870 RTO_オタコンデフォルト
+0x0003b250 RTO_甲板開かない水密扉dr501
+0x00074030 RTO_甲板開かない水密扉dr502
+0x000ace10 RTO_甲板開かない水密扉dr503
+0x000e5bf0 RTO_甲板開かない水密扉ＣＡＬＬ_dr501
+0x000e64d0 RTO_甲板開かない水密扉ＣＡＬＬ_dr502
+0x000e6db0 RTO_甲板開かない水密扉ＣＡＬＬ_dr503
+0x000e7690 RTO_甲板水密扉
+0x00120970 RTO_救命艇近く
+0x0015a480 RTO_段差近く
+0x00192ec0 RTO_段差近く北
+0x001cb920 RTO_死体捨てられる場所近く
+0x00204fe0 RTO_甲板二階の敵は主観攻撃
+0x0023e000 RTO_エルード近く
+0x00276ae0 RTO_エルード近く２
+0x002af5c0 RTO_奈落エルード近く
+0x002e84a0 RTO_２Ｆ敵兵注意エルード近く
+0x00321a10 RTO_懸垂ＣＡＬＬ
+0x00322210 RTO_ロッカーlk000
+0x0035cd70 RTO_ロッカーlk001
+0x003978d0 RTO_ロッカーlk002
+0x003d2430 RTO_ロッカーlk003
+0x0040cf90 RTO_ロッカーlk004
+0x00447af0 RTO_ロッカーlk005
+0x00482650 RTO_開かないロッカーlk006
+0x004bb4b0 RTO_開かないロッカーlk007
+0x004f4310 RTO_w01aロッカールームデフォルト
+0x0052d3d0 RTO_蒸気パイプ近く
+0x005665c0 RTO_足跡
+0x0059ff00 RTO_w01a右舷開かない水密扉近く
+0x005d9350 RTO_前かがみ
+0x005d9d10 RTO_とれちゃうのデスカー
+0x00613160 RTO_エンジンルームへの階段近く
+0x00613a50 RTO_エンジンルームへの階段近く体験版
+0x00614330 RTO_リフレッシュルーム
+0x0064d6c0 RTO_テレビ会話
+0x00688230 RTO_テレビ凝視
+0x006c30a0 RTO_リフレッシュ開かない扉
+0x006c37f0 RTO_二階通路くぼみ
+0x006fcf20 RTO_二階通路くぼみロッカー
+0x00738770 RTO_影エリア
+0x007711b0 RTO_２Ｆ開かない扉
+0x00771900 RTO_２Ｆ右舷レベルによって開かない扉
+0x007aa540 RTO_２Ｆ水密扉近くオルガ戦前
+0x007aae40 RTO_２Ｆ水密扉近くオルガ戦後
+0x007ab640 RTO_２Ｆ左舷開かない水密扉近く
+0x007e4c30 RTO_w01c_監視カメラ
+0x0081e670 RTO_監視カメラ
+0x0081fba0 RTO_監視カメラＣＡＬＬ
+0x00820bd0 RTO_三階ロッカー
+0x0085b730 RTO_食堂
+0x00894d20 RTO_食堂死体
+0x008ce6b0 RTO_w01d_監視カメラ
+0x00908d00 RTO_倉庫
+0x00941ff0 RTO_w01dクリアリングＣＡＬＬ
+0x00942f40 RTO_w01aクリアリングＣＡＬＬ
+0x00943e90 RTO_階段魔人
+0x0097cf20 RTO_w01d階段魔人ＣＡＬＬ
+0x0097dab0 RTO_操舵室
+0x009b7000 RTO_操舵室開かない扉
+0x009f07c0 RTO_操舵室開かない扉ＣＡＬＬ
+0x009f0f10 RTO_オルガ戦中
+0x009f5f30 RTO_オルガ戦ヒントＣＡＬＬ１
+0x009f7570 RTO_オルガ戦逃げられない
+0x009fcfe0 RTO_オルガ戦立入禁止
+0x00a02460 RTO_流血状態ＣＡＬＬ
+0x00a03bf0 RTO_ＵＳＰ取得時ＣＡＬＬ
+0x00a05040 RTO_オルガ死体撃ちやがった
+0x00a059d0 RTO_マストの上
+0x00a3e9a0 RTO_赤外線機関室
+0x00a7e360 RTO_赤外線機関室以外
+0x00abacf0 RTO_赤外線ＣＡＬＬ機関室
+0x00ac26f0 RTO_w02a_オタコンデフォルト
+0x00afc420 RTO_w02a_天田麗文ビビリ地帯
+0x00b35b00 RTO_w02a_ロッカーlk001
+0x00b70660 RTO_w02a_ロッカーlk002
+0x00bab1c0 RTO_w02a_ロッカーlk003
+0x00be5d20 RTO_w02a_開かないロッカーlk004
+0x00c1eb80 RTO_w02a_ロッカーlk011
+0x00c596e0 RTO_w02a_ロッカーlk012
+0x00c94240 RTO_w02a_開かないロッカーlk013
+0x00ccd0a0 RTO_オルガいぢり地帯
+0x00d066d0 RTO_マスト最上部
+0x00d3f690 RTO_w03a_開かない水密扉dr000
+0x00d782e0 RTO_w03a_開かない水密扉dr100
+0x00db0f30 RTO_w03a_開かない水密扉dr200
+0x00de9b80 RTO_w03a_開かない水密扉dr300
+0x00e227b0 RTO_w03a_開かない水密扉dr301
+0x00e5b3e0 RTO_w03a_開かない水密扉dr302
+0x00e94010 RTO_w03b_開かない水密扉dr000
+0x00eccc70 RTO_w03b_開かない水密扉dr001
+0x00f058d0 RTO_w03b_開かない水密扉dr100
+0x00f3e530 RTO_船倉イベント
+0x00f4b540 RTO_船倉ロックドア
+0x00f50f70 RTO_鳴り床
+0x00f56df0 RTO_はしご
+0x00f5cc50 RTO_はしご鳴り床
+0x00f63230 RTO_船倉地下ハッチ
+0x00f68e20 RTO_プロジェクタ
+0x00f706e0 RTO_船倉地下
+0x00f763a0 RTO_電送機
+0x00f858f0 RTO_船倉ＴＶ兵
+0x00f93740 RTO_ポール下
+0x00fa04e0 RTO_ポール上
+0x00fad6c0 RTO_00b1Rオープニング無線機デモ
+0x00fb0760 RTO_03b1Rカモフ登場後無線機デモ体験版
+0x00fb1470 RTO_04a0R操舵室無線機デモ
+0x00fb2b70 RTO_06b1Rオルガ戦勝利後無線機デモ
+0x00fb3a90 RTO_03b1Rカモフ登場後無線機デモ製品版
+0x00fb5870 RTO_06b1Rオルガ戦勝利後無線機デモ１
+0x00fb9ba0 RTO_09b1R船倉無線機デモ１
+0x00fbac60 RTO_10b1R船倉無線機デモ２
+0x00fc0150 RTO_vc050101
+0x00fc23b0 RTO_vc050204
+0x00fc36e0 RTO_vc050301
+0x00fc43f0 RTO_vc050401
+0x00fc5ae0 RTO_vc050302
+0x00fc78c0 RTO_vc080101
+0x00fc87e0 RTO_vc080201
+0x00fcb680 RTO_vc080301
+0x00fcc730 RTO_vc080401
+0x00fcd780 RTO_vc080402
+0x00fce040 RTS_ＳＡＶＥデフォルト
+0x00fe1f10 画像判定スタート
+0x00ff32b0 PHONE_消火
+0x00ff34d0 PHONE_フナムシ
+0x00ff36f0 PHONE_地雷
+0x00ff38f0 PHONE_リモコン近道
+0x00ff3e40 RPD_P_ダミーうほほ
+0x00ff4360 RPD_P_ダミー＿顔カメラ＿タンカーオタコン
+0x00ff46d0 RPD_P_ダミー＿顔カメラ＿タンカースネーク
+0x00ff4a40 RPD_P_ダミー＿顔カメラ＿ライデン
+0x00ff4db0 RPD_P_ダミー＿顔カメラ＿潜水ライデン
+0x00ff5250 RPD_P_ダミー＿顔カメラ＿裸ライデン
+0x00ff5690 RPD_P_ダミー＿顔カメラ＿ゴルルコ兵マスクなしライデン
+0x00ff5a10 RPD_P_ダミー＿顔カメラ＿ゴルルコ兵マスクありライデン
+0x00ff5d70 RPD_P_ダミー＿顔カメラ＿大佐
+0x00ff6cf0 RPD_P_ダミー＿顔カメラ＿大佐＿右
+0x00ff7180 RPD_P_ダミー＿顔カメラ＿大佐＿左
+0x00ff7610 RPD_P_ダミー＿顔カメラ＿大佐＿後ろ
+0x00ff7aa0 RPD_P_ダミー＿顔カメラ＿大佐＿正面
+0x00ff7f30 RPD_P_ダミー＿顔カメラ＿大佐＿アオリ
+0x00ff83c0 RPD_P_ダミー＿顔カメラ＿大佐＿アップ
+0x00ff8850 RPD_P_ダミー＿顔カメラ＿バグ大佐＿右
+0x00ff8cf0 RPD_P_ダミー＿顔カメラ＿バグ大佐＿左
+0x00ff9190 RPD_P_ダミー＿顔カメラ＿バグ大佐＿後ろ
+0x00ff9620 RPD_P_ダミー＿顔カメラ＿バグ大佐＿正面
+0x00ff9ac0 RPD_P_ダミー＿顔カメラ＿バグ大佐＿アオリ
+0x00ff9f60 RPD_P_ダミー＿顔カメラ＿バグ大佐＿アップ
+0x00ffa400 RPD_P_ダミー＿顔カメラ＿ローズ
+0x00ffa760 RPD_P_ダミー＿顔カメラ＿プリスキン
+0x00ffaac0 RPD_P_ダミー＿顔カメラ＿スネーク
+0x00ffae40 RPD_P_ダミー＿顔カメラ＿ひげそりスネーク
+0x00ffb190 RPD_P_ダミー＿顔カメラ＿ピーター
+0x00ffb510 RPD_P_ダミー＿顔カメラ＿オタコン
+0x00ffb8a0 RPD_P_ダミー＿顔カメラ＿忍者
+0x00ffbcf0 RPD_P_ダミー＿顔カメラ＿オルガ
+0x00ffc080 RPD_P_ダミー＿顔カメラ＿エイムズ
+0x00ffc3d0 RPD_P_ダミー＿顔カメラ＿大統領
+0x00ffc8c0 RPD_P_ダミー＿顔カメラ＿エマ
+0x00ffcc90 RPD_P_ダミー＿顔カメラ＿エマプレイヤー側
+0x00ffd150 RPD_P001_02_R01_オープニング潜入２無線デモ１
+0x01001090 RPD_P001_04_R02_オープニング潜入４無線デモ２
+0x01001dd0 RPD_P002_02_R01_Ａ脚底部連結ハッチ２無線デモ１
+0x01003520 RPD_P003_02_R02_スネーク昇降機上昇２無線デモ１
+0x01006f70 RPD_P004_02_R01_ノード初接続２無線デモ１
+0x0100f0c0 RPD_P005_03_R01ライデン昇降機上昇３無線デモ１
+0x010104c0 RPD_P005_05_R02_ライデン昇降機上昇５無線デモ２
+0x01010f80 RPD_P006_01_R01_Ａ脚金網１無線デモ１
+0x010127c0 RPD_P007_01_R01_Ａ脚ノード前１無線デモ１＿１
+0x010138a0 RPD_P008_01_R01_ＡＢ連絡橋１無線デモ１＿１
+0x01016ec0 RPD_P009_01_R01_サイファー遭遇１無線デモ１＿１
+0x0101a030 RPD_P010_04_R01_ヴァンプ遭遇４無線デモ１＿１
+0x0101b2b0 RPD_P011_01_R01_ＢＣ連絡橋ＣＡＬＬ１無線デモ１
+0x0101eb90 RPD_P012_02_R01_フォーチュン遭遇２無線デモ１
+0x010238c0 RPD_P013_01_R01_ライデン危機無線１無線デモ１
+0x01026b20 RPD_P014_05_R01_ピーター遭遇５無線デモ１
+0x01029320 RPD_P015_01_R1_爆弾解体最初の一つ１無線デモ１
+0x0102ccd0 RPD_P016_01_R1_爆弾解体半分解体１無線デモ１
+0x01030510 RPD_P017_01_R01_爆弾解体中ローズその１無線デモ１
+0x01032d10 RPD_P018_01_R01_爆弾解体中ローズその２無線デモ１
+0x010354b0 RPD_P019_01_R01_爆弾解体中ローズその３無線デモ１
+0x010395c0 RPD_P020_01_R01_地雷原１無線デモ１
+0x0103b0b0 RPD_P020_01_R01_地雷原１無線デモ１＿２
+0x0103c8e0 RPD_P021_02_R01_爆弾解体オルガ登場２無線デモ１
+0x0103e1d0 RPD_P022_01_R01_爆弾解体最後から二つ目１無線デモ１
+0x01048030 RPD_P023_01_R01_爆弾解体最後の一つ１無線デモ１
+0x0104be00 RPD_P024_01_R01_爆弾解体センサーＢ入手１無線デモ１
+0x0104f010 RPD_P025_01_R01_爆弾解体昇降機下１無線デモ１
+0x01051660 RPD_P025_01_R01_爆弾解体昇降機下１
+0x01053410 RPD_P026_01_R01_爆弾解体終了１無線デモ１
+0x010551c0 RPD_P027_01_R01_爆弾解体後昇降機ホール１無線デモ１
+0x010585c0 RPD_P030_01_R01_フォーチュン戦中無線無線デモ１
+0x0105a9b0 RPD_P035_01_R01_ファットマン爆弾解体終了１無線デモ１
+0x0105c6c0 RPD_P035_01_R01_ファットマン爆弾解体終了１無線デモ１＿２
+0x01060280 RPD_P036_03_R01_忍者登場３無線デモ１
+0x01063180 RPD_P036_08_R02_忍者登場８無線デモ２
+0x01064660 RPD_P036_10_R03_忍者登場１０無線デモ３
+0x01065b80 RPD_P036_13_R04_忍者登場１３無線デモ４
+0x01067dd0 RPD_P037_01_R01_スネークの遺体１無線デモ１
+0x0106a560 RPD_P040_02_R02_エイムズ発見２無線デモ１
+0x0106f3a0 RPD_P040_06_R02_エイムズ発見６無線デモ２＿１
+0x01072fd0 RPD_P040_06_R02_エイムズ発見６無線デモ２＿２
+0x010742c0 RPD_P041_02_R01_エイムズ死亡後２無線デモ１
+0x01077690 RPD_P042_01_R01_シェル１シェル２連絡橋１無線デモ１
+0x01079880 RPD_P044_01_R01_赤外線センサークリア１無線デモ１
+0x0107c7d0 RPD_P044_01_R01_赤外線センサークリア１無線デモ１＿２
+0x0107ffd0 RPD_P046_02_R01_ハリアー戦勝利２無線デモ１＿１
+0x01085e60 RPD_P046_02_R01_ハリアー戦勝利２無線デモ１＿２
+0x0108a610 RPD_P047_05_R01_電撃床前オルガ５無線デモ１
+0x0108d250 RPD_P049_02_R01_大統領２無線機デモ１
+0x01091ad0 RPD_P049_02_R01_大統領５無線機デモ２
+0x01094820 RPD_P049_08_R03_大統領８無線機デモ３
+0x01098e30 RPD_P049_10_R04_大統領１０無線機デモ４
+0x0109d960 RPD_P049_12_R05_大統領１２無線機デモ５
+0x010a1b10 RPD_P050_01_R01_タンカー編整理１無線機デモ１
+0x010a56b0 RPD_P050_04_R02_タンカー編整理４無線機デモ２
+0x010a6b90 RPD_P050_06_R03_タンカー編整理６無線機デモ３
+0x010a8dd0 RPD_P051_01_R01_エマとオタコン１無線機デモ１
+0x010b0fc0 RPD_P051_01_R01_エマとオタコン１無線機デモ１＿２
+0x010b2bc0 RPD_P052_01_R01_ローズ無線１無線機デモ１
+0x010b7cb0 RPD_P053_01_R01_息継ぎ１無線機デモ１
+0x010bc920 RPD_P057_02_R01_ヴァンプ戦終了２無線機デモ１
+0x010bdc60 RPD_P057_02_R01_ヴァンプ戦終了２無線機デモ１＿２
+0x010c02a0 RPD_P058_02_R01_エマ救出２無線機デモ１
+0x010c20f0 RPD_P058_04_R02_エマ救出４無線機デモ２
+0x010c3f40 RPD_P058_07_R03_エマ救出７無線機デモ３
+0x010c5660 RPD_P059_03_R01_エマ休憩３無線機デモ１
+0x010c7c10 RPD_P061_01_R01_エマとオタコン１無線機デモ１
+0x010cb7c0 RPD_P062_03_R01_エマとＡＩ３無線機デモ１
+0x010d3e20 RPD_P062_05_R02_エマとＡＩ５無線機デモ２
+0x010d6b00 RPD_P064_01_R01_エマライデンローズ無線１無線機デモ１
+0x010d9290 RPD_P065_02_R01_エマＬ脚２無線機デモ１
+0x010db240 RPD_P065_06_R02_Ｌ脚エマ６無線機デモ２
+0x010df180 RPD_P067_01_R01_エマ狙撃１無線機デモ１
+0x010e0380 RPD_P069_02_R01_ヴァンプ狙撃終了２無線機デモ１
+0x010e1a60 RPD_P069_04_R02_ヴァンプ狙撃終了４無線機デモ２
+0x010e2ff0 RPD_P070_10_R01_ＡＧ起動１０無線機デモ１
+0x010e4350 RPD_P070_18_R02_ＡＧ起動１８無線機デモ２
+0x010e74e0 RPD_P070_20_R03_ＡＧ起動２０無線機デモ３
+0x010ea2f0 RPD_P070_23_R04_ＡＧ起動２３無線機デモ４
+0x010f1960 RPD_P071_01_R01_拷問部屋脱出１無線機デモ１
+0x010f4400 RPD_P072_01_R01_大佐混乱１無線機デモ１
+0x010f64c0 RPD_P073_01_R01_通路Ａ１無線機デモ１
+0x010fc160 RPD_P073_03_R02_通路Ａ３無線機デモ２
+0x010fe7e0 RPD_P074_02_R01_通路Ａ刀後２無線機デモ１
+0x01101010 RPD_P075_01_R01_オタコン無事１無線機デモ１
+0x011030c0 RPD_P076_01_R01_大佐ＡＩ１無線機デモ１
+0x011062d0 RPD_P077_01_R01_ローズ拉致１無線機デモ１
+0x011089a0 RPD_P077_01_R01_ローズ拉致１無線機デモ１＿ひげそり
+0x0110b070 RPD_P080_19_R01_ＡＧ浮上１９無線機デモ１
+0x01119470 RPD_P080_21_R02_ＡＧ浮上２１無線機デモ２
+0x011268d0 RPD_P080_23_R03_ＡＧ浮上２３無線機デモ３
+0x01127c60 RPD_P080_25_R04_ＡＧ浮上２５無線機デモ４
+0x0112da70 RPC_発狂ＣＡＬＬ
+0x01133d60 RPC_大佐デフォルト
+0x011b65c0 RPC_大佐デフォルト＿フォーチュン戦中
+0x011bb860 RPC_ファットマン戦中救済ＣＡＬＬ
+0x011bce50 RPC_大佐デフォルト＿ファットマン戦中と後
+0x0120ecc0 RPC_大佐デフォルト＿エマ狙撃中
+0x01214700 RPC_大佐デフォルト＿ヴァンプ戦中
+0x01216520 RPC_大佐デフォルト＿ハリアー戦中
+0x0121aa60 RPC_w25a_大佐デフォルト＿狙撃中
+0x012677f0 RPC_w11b_大佐デフォルト
+0x012b13d0 RPC_大佐デフォルト＿発狂後
+0x012c03d0 RPC_大佐デフォルト＿裸ライデン
+0x012d1e80 RPC_大佐デフォルト＿潜水ライデン
+0x012f20a0 RPC_w11＿開かない金網扉＿潜水ライデン
+0x01340250 RPC_w11b＿開かない金網扉＿普通
+0x0138e400 RPC_ホフクポイント＿潜水ライデン
+0x013dc700 RPC_ホフクポイント＿普通
+0x0145f410 RPC_ダクト＿潜水ライデン
+0x014ad590 RPC_ダクト＿普通
+0x01530120 RPC_水中＿潜水ライデン
+0x01582e80 RPC_w11b_水中
+0x015d5be0 RPC_水中＿潜水ライデン＿はしご
+0x01628ce0 RPC_水中＿w11b
+0x0167ba40 RPC_水中＿w11b＿はしご
+0x016ceb40 RPC_水中＿普通
+0x01756330 RPC_w11b_エルード＿潜水
+0x017a4300 RPC_w11b_エルード＿普通
+0x017f22d0 RPC_エルード＿普通
+0x018773e0 RPC_段差上り＿潜水ライデン
+0x018c52a0 RPC_段差上り＿普通
+0x0194a2a0 RPC_海底ドック潜水艇＿潜水ライデン
+0x01999200 RPC_ジムスーツ＿潜水ライデン
+0x019e7ee0 RPC_w11_ロッカーlk001＿潜水ライデン
+0x01a37670 RPC_w11_ロッカーlk001＿普通
+0x01abdf20 RPC_w11_ロッカーlk002＿潜水ライデン
+0x01b0d6b0 RPC_w11_ロッカーlk002＿普通
+0x01b93f60 RPC_w11_ロッカーlk003＿潜水ライデン
+0x01be36f0 RPC_w11_ロッカーlk003＿普通
+0x01c69fa0 RPC_水密扉＿潜水ライデン
+0x01cb8a00 RPC_w11＿ノード＿潜水ライデン
+0x01d09010 RPC_w11＿昇降機＿潜水ライデン
+0x01d29c50 RPC_w11a_敵兵おっきした警告ＣＡＬＬ＿潜水ライデン
+0x01d2af20 RPC_Ａ脚屋上ホフク金網ＣＡＬＬ
+0x01d2c520 RPC_Ａ脚屋上ホフク金網
+0x01dafc50 RPC_奈落エルード
+0x01e32ba0 RPC_w20b_ヘリポート＿オイ渕１
+0x01eb5cc0 RPC_w20b_ヘリポート＿オイ渕２
+0x01f38de0 RPC_鳴り床奈落エルード
+0x01fbc0c0 RPC_鳴り床エルード
+0x0203ee40 RPC_ただのエルード
+0x020c3f50 RPC_鳴り床
+0x02146b40 RPC_落し穴共通１
+0x021c97b0 RPC_落し穴共通２
+0x0224c420 RPC_落し穴＿奈落エルード１
+0x022cf770 RPC_落し穴＿奈落エルード２
+0x02352ac0 RPC_地雷＿奈落エルード
+0x023da180 RPC_w11_昇降機エルード
+0x0245d4f0 RPC_w12a_Ａ脚屋上鍵扉閉鎖状態
+0x024e00d0 RPC_フナムシ＿普通
+0x02567110 RPC_フナムシ＿潜水
+0x025b7070 RPC_フナムシ＿エマ虫いや
+0x0263b6f0 RPC_ロッカー共通１
+0x026bf8b0 RPC_ロッカー共通２
+0x02743a70 RPC_w11_ロッカー共通１＿潜水
+0x02793230 RPC_w11_ロッカー共通２＿潜水
+0x027e29f0 RPC_w11_ロッカー共通１＿普通
+0x028321b0 RPC_w11_ロッカー共通２＿普通
+0x02881970 RPC_変電盤共通１
+0x02904690 RPC_変電盤共通２
+0x029873b0 RPC_開かないロッカー共通１
+0x02a0a070 RPC_開かないロッカー共通２
+0x02a8cd30 RPC_ノード共通
+0x02b116f0 RPC_眠りプリスキン
+0x02b94590 RPC_海軍大佐死体
+0x02c17260 RPC_カードドア
+0x02c9a4d0 RPC_ダンボール地帯
+0x02d1d260 RPC_天岩戸
+0x02d9fe20 RPC_w18a_シェル２への扉
+0x02e22f00 RPC_Ｄ脚＿ハッチ
+0x02ea5df0 RPC_Ｄ脚＿ハッチＣＡＬＬ
+0x02ea6ee0 RPC_大佐＿Ｅ脚１Ｆ＿デフォルト
+0x02f2a070 RPC_w20b_ハリアー
+0x02fad1f0 RPC_かもめさん殺戮ＣＡＬＬ
+0x02fae7e0 RPC_エレベータ内部
+0x030324f0 RPC_w24a_エレベータスイッチ前
+0x030b7460 RPC_w24b_網膜センサー前
+0x0313b140 RPC_w24b_網膜センサー＿ライデンが自分で覗きやがったぶりんちょＣＡＬＬ
+0x0313c4e0 RPC_w24a_エレベータ前ＣＡＬＬ
+0x0313e250 RPC_w24d_エマ席付近
+0x031c23a0 RPC_w24d_オタク席付近
+0x032451f0 RPC_w24d_ＡＧ扉前
+0x032c8350 RPC_w24c_人質イベント説明＿マイクありＣＡＬＬ
+0x032cb040 RPC_w24c_人質イベント説明＿マイクなしＣＡＬＬ
+0x032cd7e0 RPC_炎近く
+0x03350610 RPC_ＤＧ連絡橋＿渡り方飛びズバリ
+0x033d3310 RPC_ＤＧ連絡橋＿渡り方エルードズバリ
+0x03456a10 RPC_ＬＧ連絡橋＿ハシゴ
+0x034d9710 RPC_Ｌ脚外周＿窓
+0x0355c810 RPC_Ｌ脚外周＿張り付き
+0x035df4f0 RPC_Ｌ脚外周＿しゃがみ
+0x03662090 RPC_ＫＬ連絡橋＿Ｋ脚入口
+0x036e5230 RPC_シェル２中央棟１Ｆ＿電撃床
+0x037684a0 RPC_シェル２中央棟１Ｆ＿暗い
+0x037eb180 RPC_シェル２中央棟１Ｆ＿ダクト前
+0x0386ec40 RPC_w31b_初入水＿水上ＣＡＬＬ
+0x03870580 RPC_w11ab_初入水＿水上ＣＡＬＬ＿潜水
+0x03871950 RPC_w11ab_初入水＿水上ＣＡＬＬ＿普通
+0x03872d20 RPC_w31b_初入水＿水中ＣＡＬＬ
+0x03874f30 RPC_w11a_初入水＿水中ＣＡＬＬ＿潜水
+0x03876bd0 RPC_w11a_初入水＿水中ＣＡＬＬ＿普通
+0x03878870 RPC_大佐デフォルト＿泳ぎ
+0x039000b0 RPC_水中機雷近く
+0x03987d00 RPC_水中開かない水密扉
+0x03a0f840 RPC_水中開く水密扉
+0x03a974b0 RPC_エマ救出前＿エマ部屋
+0x03ade6e0 RPC_水中＿カード扉
+0x03b66230 RPC_エマのぞき
+0x03bee090 RPC_w31c_エマのぞきＣＡＬＬ
+0x03befb40 RPC_w31c_エマと初出水ＣＡＬＬ
+0x03bf1180 RPC_w32a_ハシゴＣＡＬＬ
+0x03bf20c0 RPC_Ｅ脚ハシゴ
+0x03c74fe0 RPC_拷問部屋＿開かない扉
+0x03c86ea0 RPC_w41a_ノード近く
+0x03c98ee0 RPC_w11a_海底ドック危険モード回避のススメＣＡＬＬ
+0x03c9a3e0 RPC_w11a_海底ドック催促ＣＡＬＬ
+0x03c9b4a0 RPC_w11a_敵兵武器使用不可ＣＡＬＬ
+0x03c9e150 RPC_w11a_流血ＣＡＬＬ
+0x03c9faf0 RPC_w11a＿海底ドックＶＲ
+0x03cee3b0 RPC_w11a_クリアリングＣＡＬＬ
+0x03cf08a0 RPC_w12b_クリアリングＣＡＬＬ
+0x03cf2d90 RPC_ＬＩＦＥゼロ寸前ＣＡＬＬ
+0x03cf4030 RPC_レーション取得時ＣＡＬＬ＿潜水
+0x03cf6480 RPC_レーション取得時ＣＡＬＬ＿普通
+0x03cf88d0 RPC_w12b_敵兵倒したＣＡＬＬ
+0x03cfa710 RPC_w24c_人質殴ったＣＡＬＬ
+0x03cfbd20 RPC_連絡橋＿大佐デフォルト
+0x03d80080 RPC_連絡橋かもめ＿大佐デフォルト
+0x03e05360 RPC_サイファー連絡橋＿大佐デフォルト
+0x03e8a6d0 RPC_ＢＣ連絡橋壊れた橋
+0x03f10200 RPC_ガンサイファーかもめ連絡橋＿大佐デフォルト
+0x03f959c0 RPC_w21a_地雷地帯
+0x0401ca00 RPC_w28a_開かないドア
+0x0409f8b0 RPC_フォーチュン戦＿戻れない
+0x040a4fd0 RPC_男子便所便器
+0x041299b0 RPC_女子便所便器
+0x041ae670 RPC_コワレモノ近辺
+0x04231bd0 RPC_w18a_デフォルト
+0x042b4b20 RPC_w24c_ギャルパンツ見え地帯
+0x04338250 RPC_w25a_自殺ダイブＣＡＬＬ
+0x04339130 RPC_w22a_おもしろ赤外線センサー
+0x043bd920 RPC_懸垂握力ＬＶ２ＣＡＬＬ＿普通
+0x043bea20 RPC_懸垂握力ＬＶ２ＣＡＬＬ＿潜水
+0x043bfb20 RPC_懸垂握力ＬＶ３ＣＡＬＬ＿普通
+0x043c0e40 RPC_懸垂握力ＬＶ３ＣＡＬＬ＿潜水
+0x043c2160 RPC_懸垂握力上がらないＣＡＬＬ＿普通
+0x043c3510 RPC_懸垂握力上がらないＣＡＬＬ＿潜水
+0x043c48c0 RPC_w61a_愛国説教ＣＡＬＬ
+0x043c8080 RPC_ハリアー戦中レーダー使用可能ＣＡＬＬ
+0x043c9100 RPC_フォーチュン戦中救済ＣＡＬＬ
+0x043ca9a0 RPC_w25d_はしなおた
+0x0444d650 RPC_w25d_Ｋ脚入口
+0x044d0340 RPC_監視カメラ近く
+0x04553a30 RPC_うんこ
+0x045d6b50 RPC_w20a_エマ血痕
+0x04659be0 RPC_ニキータ本体取得時ＣＡＬＬ
+0x0465ad00 RPC_w22a_赤外線ＣＡＬＬ
+0x0465c280 RPC_マイク取得時ＣＡＬＬ
+0x0465d380 RPC_w24b_網膜センサー＿死んでる敵兵ダメＣＡＬＬ
+0x0465e270 RPC_w24b_網膜センサーヒントＣＡＬＬ
+0x0465f330 RPC_w25c_ローリング飛び越えＣＡＬＬ
+0x046601f0 RPC_w25c_ローリング飛び越え地帯
+0x046e5e00 RPC_w11a_敵兵がエレベータ内にいますよＣＡＬＬ
+0x046e6be0 RPC_敵兵がエレベータ内にいますよＣＡＬＬ
+0x046e79c0 RPE_エマデフォルト
+0x046fb310 RPO_オタコンデフォルト
+0x0470fd00 RPO_w44a_南開かない扉
+0x04724ab0 RPO_w44a_天狗通路ドア扉
+0x04739a20 RPO_w61a_ソリダス戦救済ＣＡＬＬ
+0x0473acf0 RPP_ピーターデフォルト
+0x04758ea0 RPP_爆弾ヒント＿Ａ脚ホフクＣＡＬＬ
+0x04759e40 RPP_天岩戸
+0x04778930 RPP_w14a_変電盤爆弾近く
+0x04796fc0 RPP_w16b_女子トイレ爆弾近く
+0x047b5790 RPR_ローズデフォルト
+0x0480c260 RPR_ローズデフォルト＿裸ライデン
+0x04862d90 RPR_ローズデフォルト＿潜水ライデン
+0x048b9860 RPS_おやすみプリスキン
+0x048bb7f0 RPS_プリスキン＿ピーターデフォルト
+0x04936ce0 RPS_プリスキン＿オタコンデフォルト
+0x049b21d0 RPS_プリスキン＿オタコン＿ハリアー戦中
+0x049baef0 RPS_プリスキン＿オタコンデフォルト＿ゴルルコ兵マスクあり
+0x04a363e0 RPS_スネークデフォルト
+0x04ab18d0 RPS_Ｅ脚ハシゴ
+0x04b2ce20 RPS_w21a_地雷地帯＿ピーター付き
+0x04ba83a0 RPS_w21a_地雷地帯＿オタコン付き
+0x04c23920 RPS_水中機雷近く
+0x04ca0020 RPS_w20a_べるこんのりば
+0x04d1bab0 RPS_女子便所
+0x04d977d0 RPS_ピーター死体
+0x04e13110 RPS_w31c_プール近く
+0x04e8e660 RPS_サイファー連絡橋＿デフォルト
+0x04eeb830 RPS_ヴァンプ狙撃以降開かない扉
+0x04f66e00 RPS_w20a_エマ血痕
+0x04fe2780 RPS_ヴァンプ狙撃以降開かない扉ＣＡＬＬ
+0x04fe3900 RPS_w25a_ＰＳＧ１ハマリＣＡＬＬ
+0x04fe52a0 RPS_ＰＳＧ１本体取得時ＣＡＬＬ
+0x04fe6230 RPS_ＡＫ本体取得時ＣＡＬＬ
