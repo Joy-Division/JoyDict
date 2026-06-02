@@ -24,6 +24,7 @@ fastlope03.anm
 fastlope03.cv2
 fastlope03.kms
 fastlope03.tri
+font.row
 gbs_bp.kms
 gbs_bp.tri
 gbs_def_mt.kms

@@ -104,7 +104,7 @@
 0033ab3f.c|gbs_hand_def.cv2
 0033ab3f.k|gbs_hand_def.kms
 00349b50.t|comdlcache.tri
-0034ca34.r|
+0034ca34.r|font.row
 003516d3.t|gbss.tri
 003549c9.k|goki.kms
 003591cf.k|hako.kms
@@ -133,7 +133,7 @@
 005175e0.k|
 00517621.k|m92_spl.kms
 005176b7.k|m92_sub.kms
-0051771f.k|
+0051771f.k|mkr_sub.kms
 00517843.k|cfr_trp.kms
 00517897.k|sgr_sub.kms
 00521c53.k|rad_l.kms
@@ -247,8 +247,8 @@
 00a11db0.k|w01d0Nabe.kms
 00a2cb54.t|weapon_nm.tri
 00a3d6ff.k|w01d0Solt.kms
-00a789c6.k|
-00a789c6.t|
+00a789c6.k|cbx_a_sub.kms
+00a789c6.t|cbx_a_sub.tri
 00a96518.t|gover.tri
 00a96ce5.k|w01d_flour.kms
 00a9c69f.k|w01d0_kit.kms

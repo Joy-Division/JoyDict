@@ -57,6 +57,7 @@ ef_w21.kms
 equip.o2d
 f_w22.kms
 fms_emb.kms
+font.row
 foot_shadow2_cm.kms
 foot_shadow_cm.kms
 g_w25.kms

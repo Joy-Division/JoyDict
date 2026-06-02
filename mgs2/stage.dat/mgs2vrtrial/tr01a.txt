@@ -235,6 +235,7 @@ vr2_goalpost.cv2
 vr2_goalpost.kms
 vr2_tenkyu.kms
 vr2_tenkyu.tri
+vr_clear_trial.o2d
 vr_dcm.o2d
 vr_evening.lt2
 vr_mission_cleared.tri
@@ -242,7 +243,9 @@ vr_morning.lt2
 vr_night.lt2
 vr_pause.o2d
 vr_pause.tri
+vr_system.o2d
 vr_window.tri
+vr_window_trial.o2d
 vrgbss2_mt.tri
 vrgbss_mt.tri
 vs03a.hzx

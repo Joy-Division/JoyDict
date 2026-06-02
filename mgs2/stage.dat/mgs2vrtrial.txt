@@ -635,6 +635,7 @@ vr2_tgt_triangle_rgb.kms
 vr2_tgt_triangle_rgb.rol
 vr2_tgt_triangle_tab.kms
 vr2_tgt_triangle_tab.tri
+vr_clear_trial.o2d
 vr_dcm.o2d
 vr_evening.lt2
 vr_geme_over.o2d
@@ -643,7 +644,12 @@ vr_morning.lt2
 vr_night.lt2
 vr_pause.o2d
 vr_pause.tri
+vr_system.o2d
+vr_training.o2d
+vr_training.tri
+vr_training_menu.o2d
 vr_window.tri
+vr_window_trial.o2d
 vram0.raw
 vrgbss2_mt.tri
 vrgbss_mt.tri

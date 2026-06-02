@@ -28,6 +28,7 @@ demo_usp.tri
 demo_w00_sdr.tri
 demo_w00_sdr_l.kms
 demo_w00_sdr_r.kms
+font.row
 gbs_def_mt.kms
 gbs_def_mt.tri
 gover.tri

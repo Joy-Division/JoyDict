@@ -148,7 +148,7 @@
 0033ab3f.k|gbs_hand_def.kms
 0033bf7f.k|tnc_died_obj.kms
 00349b50.t|comdlcache.tri
-0034ca34.r|
+0034ca34.r|font.row
 003516d3.t|gbss.tri
 00376d7d.k|grenade_ibox.kms
 003c4685.b|w01e.bin
@@ -169,7 +169,7 @@
 005175e0.k|
 00517621.k|m92_spl.kms
 005176b7.k|m92_sub.kms
-0051771f.k|
+0051771f.k|mkr_sub.kms
 00517843.k|cfr_trp.kms
 00517897.k|sgr_sub.kms
 00521c53.k|rad_l.kms
@@ -245,8 +245,8 @@
 00a175f6.c|org_sgl.cv2
 00a175f6.k|org_sgl.kms
 00a2cb54.t|weapon_nm.tri
-00a789c6.k|
-00a789c6.t|
+00a789c6.k|cbx_a_sub.kms
+00a789c6.t|cbx_a_sub.tri
 00a96518.t|gover.tri
 00ab0f76.k|org_gbhlst.kms
 00ac51eb.k|org_sk_cover.kms

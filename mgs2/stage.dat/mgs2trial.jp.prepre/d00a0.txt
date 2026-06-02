@@ -29,6 +29,7 @@ demo_dummy.tri
 demo_rev_scope.kms
 demo_rev_scope.tri
 effects.tri
+font.row
 gover.tri
 kck_504.kms
 kck_504.tri

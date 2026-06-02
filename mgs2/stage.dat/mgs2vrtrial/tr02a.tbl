@@ -14,7 +14,7 @@
 0001da73.k|sps.kms
 0007b199.k|handgun_ibox_sh.kms
 000b1f9b.k|vs08a_tonbo.kms
-000c7462.o|
+000c7462.o|vr_window_trial.o2d
 000f6a67.m|rai_vs08a.mar
 000f6a67.s|rai_vs08a.sar
 000f6a67.v|rai_vs08a.var
@@ -99,7 +99,7 @@
 003e0539.k|stg_amo_label.kms
 003e24dd.k|usp_amo_label.kms
 0042470c.t|vr_window.tri
-004505bb.o|
+004505bb.o|vr_system.o2d
 00496b5a.k|dogtag_label.kms
 004da20c.k|handgun_ibox.kms
 00511dc0.o|vr_dcm.o2d
@@ -108,7 +108,7 @@
 00534eaa.k|gps_knife.kms
 005362e4.k|launcher_ibox.kms
 0055062b.k|usp_sp_label.kms
-005626ec.o|
+005626ec.o|vr_clear_trial.o2d
 00573911.k|bam_label.kms
 00573de0.t|transcache.tri
 005843d1.k|cbx_label.kms

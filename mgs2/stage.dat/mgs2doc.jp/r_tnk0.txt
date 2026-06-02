@@ -29,6 +29,7 @@ dcmTex.tri
 dcm_rai.kms
 dcm_shat.o2d
 fms_emb.kms
+font.row
 foot_shadow2_cm.kms
 foot_shadow_cm.kms
 gbs_knif.kms

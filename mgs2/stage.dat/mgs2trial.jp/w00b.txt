@@ -29,6 +29,8 @@ cbx_a_futa4_mt.tri
 cbx_a_mt.cv2
 cbx_a_mt.kms
 cbx_a_mt.tri
+cbx_a_sub.kms
+cbx_a_sub.tri
 cbx_label.kms
 cfr.kms
 cfr.tri
@@ -50,6 +52,7 @@ fms_emb.kms
 fms_label.kms
 fms_spl.kms
 fms_sub.kms
+font.row
 gover.tri
 grenade_ibox.kms
 grenade_ibox_sh.kms
@@ -86,6 +89,7 @@ m92_sub.kms
 medicine_ibox.kms
 medicine_ibox_sh.kms
 mkr.kms
+mkr_sub.kms
 obs_box1.kms
 obs_box2.kms
 obs_box3.kms

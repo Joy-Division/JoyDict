@@ -42,6 +42,7 @@ dcm_shat.o2d
 dmp_headphones.kms
 dmp_sub.kms
 fms_emb.kms
+font.row
 foot_shadow2_cm.kms
 foot_shadow_cm.kms
 game_over.o2d

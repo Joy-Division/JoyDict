@@ -800,6 +800,7 @@ fms_amo_label.kms
 fms_emb.kms
 fms_emb.tri
 fms_label.kms
+font.row
 foot_shadow2_cm.kms
 foot_shadow_cm.kms
 for_blood_face_mh.evm

@@ -61,7 +61,7 @@
 000ae79f.k|ws01a_tonbo.kms
 000af79b.k|vs03a_tonbo.kms
 000b1f9b.k|vs08a_tonbo.kms
-000c7462.o|
+000c7462.o|vr_window_trial.o2d
 000f6987.m|rai_vs01a.mar
 000f6987.s|rai_vs01a.sar
 000f6a67.m|rai_vs08a.mar
@@ -255,7 +255,7 @@
 00416258.k|a_w12.kms
 00417037.k|m4a_rai.kms
 0042470c.t|vr_window.tri
-004505bb.o|
+004505bb.o|vr_system.o2d
 0045f14e.t|glasses_kms.tri
 00461df8.m|raiden.mar
 00461df8.s|raiden.sar
@@ -301,7 +301,7 @@
 0055ab65.c|sna_def_sh.cv2
 0055ab65.k|sna_def_sh.kms
 0055e4d1.k|map_tanker_03_other.kms
-005626ec.o|
+005626ec.o|vr_clear_trial.o2d
 00567f12.k|rai_shadow.kms
 00567f12.t|rai_shadow.tri
 00568b39.k|foot_shadow_cm.kms
@@ -398,8 +398,8 @@
 006ac9d1.k|usp_label.kms
 006b1aa9.k|cartridge_amo_ibox_sh.kms
 006b249f.t|gbss_mt.tri
-006b7156.o|
-006b7156.t|
+006b7156.o|vr_training.o2d
+006b7156.t|vr_training.tri
 006d68d1.k|xgl_label.kms
 006d6951.k|org_radio_forhand.kms
 006ee2b2.m|gbsstage.mar
@@ -678,7 +678,7 @@
 00fc6a9f.m|rai_arm_mh.mar
 00fc6a9f.s|rai_arm_mh.sar
 00fe8e09.e|mrl_def_hair_mh.evm
-00ff04e7.o|
+00ff04e7.o|vr_training_menu.o2d
 00ff1d1d.k|vr2_frg1_cm.kms
 00ff62aa.e|rah_gbs_mh.evm
 00ff6ab6.k|rai_gbs_mt.kms

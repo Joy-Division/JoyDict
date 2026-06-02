@@ -29,6 +29,7 @@ demo_box.tri
 demo_w00_sdr.tri
 demo_w00_sdr_l.kms
 demo_w00_sdr_r.kms
+font.row
 gbc_def.kms
 gbc_def.tri
 gbc_mic.kms

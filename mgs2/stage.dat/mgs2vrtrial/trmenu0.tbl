@@ -3,7 +3,7 @@
 003b1aae.o|scrn.o2d
 00693e58.o|color.o2d
 00693e58.t|color.tri
-006b7156.t|
+006b7156.t|vr_training.tri
 007638b9.r|vrticon.ric
 00927bc4.t|default.tri
 0099b405.o|node_menu.o2d
@@ -12,4 +12,4 @@
 009deed4.o|save_load.o2d
 009deed4.t|save_load.tri
 00f8cb51.t|adjust_tex.tri
-00ff04e7.o|
+00ff04e7.o|vr_training_menu.o2d

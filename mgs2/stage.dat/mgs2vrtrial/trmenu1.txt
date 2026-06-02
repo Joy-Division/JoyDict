@@ -4,4 +4,6 @@ save_load.o2d
 save_load.tri
 scenerio.gcx
 trmenu1.bin
+vr_training.o2d
+vr_training.tri
 vrticon.ric

@@ -305,7 +305,7 @@
 00349b50.t|comdlcache.tri
 00349f33.k|demo_org_skcover.kms
 00349f33.t|demo_org_skcover.tri
-0034ca34.r|
+0034ca34.r|font.row
 003516d3.t|gbss.tri
 003549c9.k|goki.kms
 003591cf.k|hako.kms
@@ -435,7 +435,7 @@
 00517621.k|m92_spl.kms
 005176b7.k|m92_sub.kms
 005176b7.t|m92_sub.tri
-0051771f.k|
+0051771f.k|mkr_sub.kms
 00517843.k|cfr_trp.kms
 00517897.k|sgr_sub.kms
 00521c53.k|rad_l.kms
@@ -755,8 +755,8 @@
 00a59ef8.k|w01c_wall.kms
 00a68520.k|tnc_def_blood.kms
 00a68520.t|tnc_def_blood.tri
-00a789c6.k|
-00a789c6.t|
+00a789c6.k|cbx_a_sub.kms
+00a789c6.t|cbx_a_sub.tri
 00a891dd.a|sna_coat_poncho_mt.anm
 00a891dd.c|sna_coat_poncho_mt.cv2
 00a891dd.k|sna_coat_poncho_mt.kms

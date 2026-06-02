@@ -1,3 +1,4 @@
+font.row
 keepfont.row
 menu.tri
 menuicon.tri

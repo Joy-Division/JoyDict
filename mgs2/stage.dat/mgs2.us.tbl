@@ -255,7 +255,7 @@
 00122442.k|w11c2_gatelit_brk.kms
 00123d82.k|Solt_BroS_cm.kms
 0012a60d.e|rev_def_addhand_mh_mt.evm
-0012aaba.k|
+0012aaba.k|tmap_w00b_okujyou.kms
 0012ff3a.k|rifle_amo_ibox.kms
 0012ff3a.t|rifle_amo_ibox.tri
 00130222.k|rilfe_amo_ibox.kms
@@ -501,7 +501,7 @@
 0025e52a.t|nyp_armd.tri
 0025ed3f.k|jam_blood_sh.kms
 0025ed3f.t|jam_blood_sh.tri
-0026042a.k|
+0026042a.k|tmap_w04a_sensou1.kms
 00261401.f|fat_boss.far
 0026309e.k|irs_box2.kms
 002632e9.k|hri_brk1.kms
@@ -553,7 +553,7 @@
 0026e23e.t|bodyarmor_mt.tri
 0026f2c6.e|rev_coat.evm
 0026f2c6.t|rev_coat.tri
-0027042b.k|
+0027042b.k|tmap_w04b_sensou2.kms
 002714ba.t|vmp_coat.tri
 00273017.k|nyp_def1.kms
 00273018.k|nyp_def2.kms
@@ -587,7 +587,7 @@
 0027f9e5.f|jam_face.far
 0028021e.k|sna_mugen_bdn1.kms
 0028021f.k|sna_mugen_bdn2.kms
-0028042c.k|
+0028042c.k|tmap_w04c_sensou3.kms
 00283e92.k|mst_hl_cm.kms
 00283fdb.t|sp_menu.tri
 00284dd8.k|rai_hair_shadow_mt.kms
@@ -1165,7 +1165,7 @@
 0039953a.k|w20b_i.kms
 0039953c.k|w20b_k.kms
 00399a82.k|w20ck1.kms
-0039a3f5.k|
+0039a3f5.k|tmap_w03a_nagarouka.kms
 0039abc8.e|vmp_facewound1_mh.evm
 003a0998.t|w21_bg.tri
 003a09e3.t|w21_dr.tri
@@ -2570,7 +2570,7 @@
 007ff123.k|hri_amraam.kms
 007ff123.t|hri_amraam.tri
 007ff2d9.k|w62a_smoke.kms
-008002ca.k|
+008002ca.k|tmap_w02a_engineroom.kms
 0080526c.k|btl_02brk.kms
 008068c6.k|w15_12a.kms
 008068e6.k|w15_13a.kms
@@ -2670,7 +2670,7 @@
 00851f3a.m|w24e_sol.mar
 00851f3a.s|w24e_sol.sar
 00851f3a.t|w24e_sol.tri
-00852248.k|
+00852248.k|tmap_w00a_kanpan.kms
 0085942c.k|gls_03brk.kms
 0086747a.k|us_mid_5_s.kms
 00868d76.e|vmp_hair_coat_mh_mt.evm
@@ -3083,7 +3083,7 @@
 0099df9a.b|d080p07.bin
 0099df9b.b|d080p08.bin
 0099e470.t|sels_dead.tri
-009a13eb.k|
+009a13eb.k|tmap_base.kms
 009a23d5.o|node_name.o2d
 009a23d5.t|node_name.tri
 009a4d42.k|demo_w04b_bar.kms
@@ -3815,20 +3815,20 @@
 00d52102.k|w21a_trap_dammy1.kms
 00d52662.e|ptr_dead_mh_mt.evm
 00d52662.t|ptr_dead_mh_mt.tri
-00d55469.k|
-00d5d489.k|
+00d55469.k|tmap_w01a_1f.kms
+00d5d489.k|tmap_w01b_2f.kms
 00d619a2.k|ros_bounding.kms
 00d64b3b.k|hri_clst_warhead_cm.kms
-00d654a9.k|
+00d654a9.k|tmap_w01c_3f.kms
 00d679d1.k|w12b0_locker1_dr.kms
 00d6d3da.k|p_btl06_brk.kms
-00d6d4c9.k|
+00d6d4c9.k|tmap_w01d_4f.kms
 00d71cfb.s|corps_locker.sar
 00d737b4.k|hakoSub_1.kms
 00d737b5.k|hakoSub_2.kms
 00d748de.k|demo_org_plant_hlst.kms
 00d748de.t|demo_org_plant_hlst.tri
-00d754e9.k|
+00d754e9.k|tmap_w01e_5f.kms
 00d79f9c.t|vmp_knif_mt.tri
 00d7aaaf.c|gpa_def_mt.cv2
 00d7aaaf.k|gpa_def_mt.kms

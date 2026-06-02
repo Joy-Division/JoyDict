@@ -155,6 +155,7 @@ vr2_tgt_straw_rgb.kms
 vr2_tgt_straw_rgb.rol
 vr2_tgt_straw_tab.kms
 vr2_tgt_straw_tab.tri
+vr_clear_trial.o2d
 vr_dcm.o2d
 vr_evening.lt2
 vr_mission_cleared.tri
@@ -162,7 +163,9 @@ vr_morning.lt2
 vr_night.lt2
 vr_pause.o2d
 vr_pause.tri
+vr_system.o2d
 vr_window.tri
+vr_window_trial.o2d
 vs_sky_wall.kms
 ws72a.hzx
 ws72a.kms
