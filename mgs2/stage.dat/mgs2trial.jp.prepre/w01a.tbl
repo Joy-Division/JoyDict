@@ -119,8 +119,8 @@
 003d31e9.k|fms_amo_label.kms
 003d86e5.k|m92_amo_label.kms
 003e24dd.k|usp_amo_label.kms
-003e54ec.k|
-003e5500.k|
+003e54ec.k|corpse_a.kms
+003e5500.k|corpse_u.kms
 00422715.k|w01a_dr.kms
 00425af5.k|w01alcr.kms
 004d732c.m|wtdoor_break.mar
@@ -240,5 +240,5 @@
 00f459bf.m|sna_locker.mar
 00f459bf.s|sna_locker.sar
 00f459bf.v|sna_locker.var
-00fb0736.t|
+00fb0736.t|sling_test.tri
 00fb3ede.t|load_model.tri

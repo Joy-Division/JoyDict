@@ -59,6 +59,7 @@ cabbageBroS.kms
 car_ban.kms
 car_odessey.kms
 car_skyline.kms
+car_traffic_effect.tri
 car_wagon.kms
 cartridge_amo_ibox.kms
 cartridge_amo_ibox_sh.kms
@@ -105,6 +106,8 @@ cms_label.kms
 codec.tri
 comdlcache.tri
 comdlresident.tri
+corpse_a.kms
+corpse_u.kms
 corpse_w00a.mar
 corpse_w00a.sar
 crg_def_mh_mt.evm
@@ -182,6 +185,7 @@ dishBroS_cm.kms
 dmd_label.kms
 dmp_label.kms
 dressingset.kms
+drop_sea.vib
 dzp_label.kms
 effects.tri
 eki_R.kms
@@ -349,6 +353,9 @@ irs_box.tri
 irs_box2.kms
 item_box.tri
 itembox.tri
+kacatka.mar
+kacatka.sar
+kacatka.tri
 kck_503.kms
 kck_503.tri
 kck_504.kms
@@ -515,6 +522,8 @@ shock2.kms
 shock2.tri
 shv_label.kms
 sling.kms
+sling_test.tri
+sna_arm.sar
 sna_arm_mh.mar
 sna_arm_mh.sar
 sna_bdn1.kms
@@ -594,6 +603,7 @@ t04a1D.lt2
 t04a1D_w01e.lt2
 tgl_label.kms
 title.bin
+title_trial.lt2
 tnc_def_blood.kms
 tnc_def_blood.tri
 tnc_died_obj.kms

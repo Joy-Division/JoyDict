@@ -13,6 +13,8 @@ d00a_wire_cm.cv2
 d00a_wire_cm.kms
 font.row
 gover.tri
+kacatka.mar
+kacatka.sar
 kck_503.kms
 kck_503.tri
 kck_mrot.kms
@@ -20,6 +22,7 @@ kck_trot.kms
 logo.tri
 scenerio.gcx
 title.bin
+title_trial.lt2
 transcache.tri
 w00.tri
 w00_f1.kms

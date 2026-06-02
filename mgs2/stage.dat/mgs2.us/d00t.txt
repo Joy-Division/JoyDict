@@ -4,6 +4,7 @@ cache.var
 car_ban.kms
 car_odessey.kms
 car_skyline.kms
+car_traffic_effect.tri
 car_wagon.kms
 ciga.kms
 comdlcache.tri

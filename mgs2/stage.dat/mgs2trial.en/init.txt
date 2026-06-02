@@ -10,6 +10,7 @@ menuicon.tri
 rai_arm.kms
 rai_arm.mar
 scenerio.gcx
+sna_arm.sar
 sna_arm_mh.mar
 sna_arm_mh.sar
 sna_bdn1.kms

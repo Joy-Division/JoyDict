@@ -132,6 +132,7 @@ cap_wrist.kms
 car_ban.kms
 car_odessey.kms
 car_skyline.kms
+car_traffic_effect.tri
 car_wagon.kms
 cartridge_amo_ibox.kms
 cartridge_amo_ibox_sh.kms

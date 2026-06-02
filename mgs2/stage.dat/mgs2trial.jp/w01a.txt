@@ -41,6 +41,8 @@ cgr_pin.kms
 cgr_sub.kms
 cig.kms
 comdlcache.tri
+corpse_a.kms
+corpse_u.kms
 dzp_label.kms
 etp_label.kms
 floor.tri
@@ -184,6 +186,7 @@ shl_frg1.kms
 shl_lit1.kms
 shl_lit2.kms
 sling.kms
+sling_test.tri
 sna_hatch.mar
 sna_hatch.sar
 sna_hatch.var

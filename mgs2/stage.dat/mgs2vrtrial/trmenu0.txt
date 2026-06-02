@@ -2,6 +2,7 @@ adjust_tex.tri
 color.o2d
 color.tri
 default.tri
+frame.o2d
 node_menu.o2d
 node_menu.tri
 save_load.o2d

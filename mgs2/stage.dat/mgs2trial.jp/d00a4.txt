@@ -44,6 +44,7 @@ gbs_nvg2.tri
 gbs_sling.kms
 gbs_sling.tri
 gover.tri
+kacatka.tri
 kck_503.kms
 kck_504.kms
 kck_mrot.kms

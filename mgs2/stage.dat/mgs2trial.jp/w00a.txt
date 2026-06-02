@@ -42,6 +42,7 @@ cig.kms
 comdlcache.tri
 corpse_w00a.mar
 corpse_w00a.sar
+drop_sea.vib
 dzp_label.kms
 etp_label.kms
 fms.kms

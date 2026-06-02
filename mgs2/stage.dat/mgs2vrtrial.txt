@@ -132,6 +132,7 @@ fms_emb.kms
 fms_label.kms
 foot_shadow2_cm.kms
 foot_shadow_cm.kms
+frame.o2d
 g_w25.kms
 game_over.tri
 gba_def_mt.cv2

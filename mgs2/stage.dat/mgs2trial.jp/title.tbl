@@ -1,6 +1,6 @@
 00016007.k|w00_sdr_handle.kms
 0001e230.t|w00.tri
-00122c6f.l|
+00122c6f.l|title_trial.lt2
 00180720.g|scenerio.gcx
 001989e2.k|w00_f1.kms
 001989e3.k|w00_f2.kms
@@ -73,8 +73,8 @@
 0058cc57.k|d00a1.kms
 0058cc58.c|d00a2.cv2
 0058cc58.k|d00a2.kms
-00627949.m|
-00627949.s|
+00627949.m|kacatka.mar
+00627949.s|kacatka.sar
 00715d80.t|2D_tex.tri
 00765dec.b|title.bin
 00786f1b.t|
