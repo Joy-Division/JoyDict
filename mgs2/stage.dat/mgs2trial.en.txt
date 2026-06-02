@@ -98,6 +98,8 @@ cgr_sub.kms
 cig.kms
 ciga.kms
 clear_code.tri
+clear_test1.kms
+clear_test2.kms
 clm_label.kms
 cls_amo_label.kms
 cls_label.kms
@@ -152,6 +154,7 @@ d00a_divewire2.kms
 d00a_divewire2.tri
 d00a_scale10.lt2
 d00a_tanker.kms
+d00a_title_trial.tri
 d00a_wire_cm.cv2
 d00a_wire_cm.kms
 dcm.kms
@@ -599,8 +602,11 @@ stg_label.kms
 sv_camera.tri
 svc.kms
 svc_brk1.kms
+t00a2D_sna_stealth_off.vib
 t04a1D.lt2
 t04a1D_w01e.lt2
+t05a1D_sna_rise.vib
+t06a1D_sna_touch.vib
 tgl_label.kms
 title.bin
 title_trial.lt2

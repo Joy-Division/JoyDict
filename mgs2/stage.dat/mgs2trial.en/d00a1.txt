@@ -82,6 +82,9 @@ ssk.kms
 ssk.tri
 ssk_inv_mt.kms
 ssk_inv_mt.tri
+t00a2D_sna_stealth_off.vib
+t05a1D_sna_rise.vib
+t06a1D_sna_touch.vib
 tnr_coat_mlch.evm
 tnr_coat_mlch.tri
 tnr_coat_sgl.cv2

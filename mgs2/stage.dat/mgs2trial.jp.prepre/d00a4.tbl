@@ -89,7 +89,7 @@
 003c4685.l|w01e.lt2
 003c4685.t|w01e.tri
 003d1325.t|wave.tri
-00421716.v|
+00421716.v|t06a1D_sna_touch.vib
 0043a2b7.t|demo_w00_sdr.tri
 0044dd97.k|w00a_ch1.kms
 00452cb7.k|w00a_wa1.kms
@@ -128,7 +128,7 @@
 006529c9.v|
 006cc7c6.v|
 006d1681.v|
-0070e877.v|
+0070e877.v|t05a1D_sna_rise.vib
 00715d80.t|2D_tex.tri
 008718f3.k|demo_rev_scope.kms
 008718f3.t|demo_rev_scope.tri
@@ -151,7 +151,7 @@
 00b7dddc.k|w00a_winch.kms
 00c63909.v|
 00c6e890.k|tnc_died_obj_mirror.kms
-00c7209e.v|
+00c7209e.v|t00a2D_sna_stealth_off.vib
 00ca3aaf.k|gbs_def_mt.kms
 00ca3aaf.t|gbs_def_mt.tri
 00caa957.k|w00_radar.kms

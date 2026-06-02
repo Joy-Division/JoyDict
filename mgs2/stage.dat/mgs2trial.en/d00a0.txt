@@ -55,6 +55,9 @@ sna_dive_sh_mt.kms
 sna_merge.tri
 sna_skl3.cv2
 staff.tri
+t00a2D_sna_stealth_off.vib
+t05a1D_sna_rise.vib
+t06a1D_sna_touch.vib
 transcache.tri
 w00.tri
 w00_f1.kms

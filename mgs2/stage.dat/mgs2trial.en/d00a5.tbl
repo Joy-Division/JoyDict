@@ -93,7 +93,7 @@
 003c4662.l|w00b.lt2
 003d1325.t|wave.tri
 003ea621.e|sna_def_addhand_mh_mt.evm
-00421716.v|
+00421716.v|t06a1D_sna_touch.vib
 0043a2b7.t|demo_w00_sdr.tri
 0044dd97.k|w00a_ch1.kms
 005176b7.k|m92_sub.kms
@@ -120,7 +120,7 @@
 006b912d.t|staff.tri
 006cc7c6.v|
 006d1681.v|
-0070e877.v|
+0070e877.v|t05a1D_sna_rise.vib
 00715d80.t|2D_tex.tri
 0076ffca.t|org_merge.tri
 007ade4a.t|sna_merge.tri
@@ -152,7 +152,7 @@
 00b95617.k|horo1.kms
 00c4c814.k|org_radio.kms
 00c63909.v|
-00c7209e.v|
+00c7209e.v|t00a2D_sna_stealth_off.vib
 00c98b95.c|cyp_sh.cv2
 00c98b95.k|cyp_sh.kms
 00c98b95.t|cyp_sh.tri

@@ -40,6 +40,8 @@ cgr_lever.kms
 cgr_pin.kms
 cgr_sub.kms
 cig.kms
+clear_test1.kms
+clear_test2.kms
 comdlcache.tri
 corpse_a.kms
 corpse_u.kms

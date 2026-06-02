@@ -385,7 +385,7 @@
 0041304f.s|sna_arm.sar
 00413aa8.c|sna_def.cv2
 00413aa8.k|sna_def.kms
-00421716.v|
+00421716.v|t06a1D_sna_touch.vib
 00422715.k|w01a_dr.kms
 00425af5.k|w01alcr.kms
 00439b29.c|
@@ -495,8 +495,8 @@
 005b5bd1.k|fex_label.kms
 005b7701.t|org_def_mw_mt.tri
 005b9a91.k|fms_label.kms
-005c8190.k|
-005c8191.k|
+005c8190.k|clear_test1.kms
+005c8191.k|clear_test2.kms
 005c9891.k|gmk_label.kms
 005cbf11.k|gre_label.kms
 005cc95b.k|car_skyline.kms
@@ -586,7 +586,7 @@
 006d68d1.k|xgl_label.kms
 006d6951.k|org_radio_forhand.kms
 00706bd2.k|goggle_ibox.kms
-0070e877.v|
+0070e877.v|t05a1D_sna_rise.vib
 00715d80.t|2D_tex.tri
 0073b479.k|launcher_ibox_sh.kms
 0073b954.k|rev_hair_fix.kms
@@ -609,7 +609,7 @@
 00778301.k|btl_06.kms
 00778302.k|btl_07.kms
 0077d6d0.k|tv_decal.kms
-00786f1b.t|
+00786f1b.t|d00a_title_trial.tri
 0078b5cb.c|cbx_a_futa1_mt.cv2
 0078b5cb.k|cbx_a_futa1_mt.kms
 0078b5cb.t|cbx_a_futa1_mt.tri
@@ -830,7 +830,7 @@
 00c4c814.k|org_radio.kms
 00c63909.v|
 00c6e890.k|tnc_died_obj_mirror.kms
-00c7209e.v|
+00c7209e.v|t00a2D_sna_stealth_off.vib
 00c7d6d2.k|w01d0Sauce_Bro.kms
 00c8db46.t|w01d_effect.tri
 00c98b95.c|cyp_sh.cv2

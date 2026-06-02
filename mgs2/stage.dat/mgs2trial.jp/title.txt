@@ -9,6 +9,7 @@ d00a1.cv2
 d00a1.kms
 d00a2.cv2
 d00a2.kms
+d00a_title_trial.tri
 d00a_wire_cm.cv2
 d00a_wire_cm.kms
 font.row

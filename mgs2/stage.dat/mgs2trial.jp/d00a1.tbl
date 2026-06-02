@@ -114,7 +114,7 @@
 003c4661.l|w00a.lt2
 003c4661.t|w00a.tri
 003d1325.t|wave.tri
-00421716.v|
+00421716.v|t06a1D_sna_touch.vib
 0043a2b7.t|demo_w00_sdr.tri
 0044dd97.k|w00a_ch1.kms
 00452cb7.k|w00a_wa1.kms
@@ -147,7 +147,7 @@
 006529c9.v|
 006cc7c6.v|
 006d1681.v|
-0070e877.v|
+0070e877.v|t05a1D_sna_rise.vib
 00715d80.t|2D_tex.tri
 007646ca.e|tnr_coat_mlch.evm
 007646ca.t|tnr_coat_mlch.tri
@@ -170,7 +170,7 @@
 00b8efd7.k|crg_waist_parts01.kms
 00b8efd7.t|crg_waist_parts01.tri
 00c63909.v|
-00c7209e.v|
+00c7209e.v|t00a2D_sna_stealth_off.vib
 00ca3aaf.k|gbs_def_mt.kms
 00ca3aaf.t|gbs_def_mt.tri
 00caa957.k|w00_radar.kms
