@@ -10,6 +10,7 @@ box2_ibox_sh.kms
 box_ibox.kms
 box_ibox_sh.kms
 breath.o2d
+breath_tex.tri
 bsn_a_label.kms
 bsn_b_label.kms
 cache.var

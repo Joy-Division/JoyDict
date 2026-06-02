@@ -1,5 +1,6 @@
 2D_tex.tri
 breath.o2d
+breath_tex.tri
 cache.var
 demo_denji_varia.kms
 demo_denji_varia.tri
