@@ -1,4 +1,5 @@
 cachetrans.txn
+font.txn
 get_new_items.la2
 get_new_items_0.txn
 memcard.la2

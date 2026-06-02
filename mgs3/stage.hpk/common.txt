@@ -733,6 +733,7 @@ fly_def_cm.mdn
 fly_paper.mdn
 fly_paper.txn
 fly_paper.van
+font.txn
 fp_enemy.mtar
 fp_enemy.mtsq
 frg_chaff_01_cm.mdn

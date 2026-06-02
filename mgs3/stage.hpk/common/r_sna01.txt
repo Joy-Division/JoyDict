@@ -42,6 +42,7 @@ cqck_game.eft
 cqck_game.mdn
 dbgbox_cago_shd.mdn
 dbgbox_raiton_shd.mdn
+font.txn
 gave_amo.eft
 gave_amo.mdn
 gave_amo.txn
